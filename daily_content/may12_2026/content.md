@@ -204,7 +204,7 @@ A fit man in his mid-30s standing at a kitchen counter in the early morning, car
 ---
 
 ## FIGMA SCRIPTER
-```javascript
+```javascript```javascript
 // ============================================================
 //  POWER COFFEE  -  [FILL: post title] CAROUSEL
 //  Figma Scripter Plugin Script
@@ -232,7 +232,7 @@ const GAP = 60;
 const SLIDES = [
 {
   id: 1,
-  type: "hook",
+  slideType: "hook",
   overline: "INGREDIENT SCIENCE",
   headline: "Survived a\nnuclear blast.\nNow it's in\nyour coffee.",
   subtext: "The oldest living tree species on Earth didn't make it 250 million years by accident.",
@@ -242,7 +242,7 @@ const SLIDES = [
 },
 {
   id: 2,
-  type: "teach",
+  slideType: "teach",
   overline: "GINKGO BILOBA",
   headline: "250 million\nyears old.\nResearched.\nUnderrated.",
   subtext: "One of the most studied plants in cognitive science  -  and almost nobody knows it's in their supplement stack.",
@@ -252,7 +252,7 @@ const SLIDES = [
 },
 {
   id: 3,
-  type: "teach",
+  slideType: "teach",
   overline: "HOW IT WORKS",
   headline: "More blood flow.\nMore oxygen.\nSharper thinking\nunder pressure.",
   subtext: "Ginkgo dilates blood vessels and increases cerebral blood flow. It doesn't stimulate you. It nourishes you.",
@@ -262,7 +262,7 @@ const SLIDES = [
 },
 {
   id: 4,
-  type: "teach",
+  slideType: "teach",
   overline: "THE RESEARCH",
   headline: "120mg daily.\nAttention. Memory.\nProcessing speed.\nPeer-reviewed.",
   subtext: "Standardized ginkgo extract is associated with improved attention span, working memory, and information processing speed. Not bro-science.",
@@ -273,7 +273,7 @@ const SLIDES = [
 },
 {
   id: 5,
-  type: "teach",
+  slideType: "teach",
   overline: "WHY CAFFEINE FAILS",
   headline: "Caffeine hits\na switch.\nGinkgo supports\nthe system.",
   subtext: "One without the other is a half-built engine. Ginkgo belongs in a focus formula the way creatine belongs in a strength stack.",
@@ -283,7 +283,7 @@ const SLIDES = [
 },
 {
   id: 6,
-  type: "cta",
+  slideType: "cta",
   isCTA: true,
   overline: "THE FORMULA",
   headline: "11 INGREDIENTS.\nONE SCOOP.\nTHE POWER\nCOFFEE.",
@@ -292,22 +292,26 @@ const SLIDES = [
   bg: "BROWN",
   textColor: "WHITE",
 },
+
 ];
 
-// ── HELPERS ──────────────────────────────────────────────────
-function addRect(parent, x, y, w, h, color, opacity = 1) {
-  const r = figma.createRectangle();
+// -- HELPERS --------------------------------------------------
+function addRect(parent, x, y, w, h, color, opacity) {
+  if (opacity === undefined) { opacity = 1; }
+  var r = figma.createRectangle();
   r.x = x; r.y = y; r.resize(w, h);
-  r.fills = [{ type: "SOLID", color: col(color), opacity }];
+  r.fills = [{ type: "SOLID", color: col(color), opacity: opacity }];
   parent.appendChild(r);
   return r;
 }
 
-async function addText(parent, content, x, y, w, size, weight, color, align = "LEFT", lineH = 1.05) {
+async function addText(parent, txt, x, y, w, size, weight, color, align, lineH) {
+  if (align === undefined) { align = "LEFT"; }
+  if (lineH === undefined) { lineH = 1.05; }
   await figma.loadFontAsync({ family: "Inter", style: weight });
-  const t = figma.createText();
+  var t = figma.createText();
   t.fontName = { family: "Inter", style: weight };
-  t.characters = content;
+  t.characters = txt;
   t.fontSize = size;
   t.textAlignHorizontal = align;
   t.fills = [{ type: "SOLID", color: col(color) }];
@@ -319,15 +323,15 @@ async function addText(parent, content, x, y, w, size, weight, color, align = "L
 }
 
 async function buildSlide(data, offsetX) {
-  const frame = figma.createFrame();
-  frame.name = `Slide ${data.id}  -  ${data.type}`;
+  var frame = figma.createFrame();
+  frame.name = "Slide " + data.id + " - " + data.slideType;
   frame.resize(W, H);
   frame.x = offsetX; frame.y = 0;
   frame.fills = [{ type: "SOLID", color: col(data.bg) }];
   frame.clipsContent = true;
 
-  for (let i = 0; i < 12; i++) {
-    const line = figma.createLine();
+  for (var i = 0; i < 12; i++) {
+    var line = figma.createLine();
     line.x = -100 + i * 110; line.y = 0;
     line.resize(H * 1.5, 0);
     line.rotation = -55;
@@ -336,7 +340,7 @@ async function buildSlide(data, offsetX) {
     frame.appendChild(line);
   }
 
-  await addText(frame, `0${data.id}`, 64, 60, 120, 13, "Bold", "WHITE");
+  await addText(frame, "0" + data.id, 64, 60, 120, 13, "Bold", "WHITE");
   addRect(frame, 64, 85, 20, 2, data.accent);
 
   if (data.overline) {
@@ -345,23 +349,24 @@ async function buildSlide(data, offsetX) {
 
   if (data.pivotBar) { addRect(frame, 64, 148, 6, 260, data.accent); }
 
-  const hX = data.pivotBar ? 90 : 64;
-  await addText(frame, data.headline, hX, 148, W - hX - 40, 128,
-    "Black Italic", data.isCTA ? "WHITE" : data.textColor, "LEFT", 0.92);
+  var hX; if (data.pivotBar) { hX = 90; } else { hX = 64; }
+  var hlColor; if (data.isCTA) { hlColor = "WHITE"; } else { hlColor = data.textColor; }
+  await addText(frame, data.headline, hX, 148, W - hX - 40, 128, "Black Italic", hlColor, "LEFT", 0.92);
 
-  const divY = data.isCTA ? 740 : 730;
+  var divY; if (data.isCTA) { divY = 740; } else { divY = 730; }
   addRect(frame, 64, divY, W - 128, 2, data.accent, 0.6);
 
   if (data.pills) {
-    let pillX = 64;
-    for (const pill of data.pills) {
+    var pillX = 64;
+    for (var j = 0; j < data.pills.length; j++) {
+      var pill = data.pills[j];
       await figma.loadFontAsync({ family: "Inter", style: "Bold" });
-      const pf = figma.createFrame();
+      var pf = figma.createFrame();
       pf.resize(160, 36); pf.x = pillX; pf.y = divY + 20;
       pf.fills = [{ type: "SOLID", color: col("BROWN"), opacity: 0.25 }];
       pf.cornerRadius = 0;
       frame.appendChild(pf);
-      const pt = figma.createText();
+      var pt = figma.createText();
       pt.fontName = { family: "Inter", style: "Bold" };
       pt.characters = pill; pt.fontSize = 10;
       pt.textAlignHorizontal = "CENTER";
@@ -374,7 +379,7 @@ async function buildSlide(data, offsetX) {
   }
 
   if (data.subtext) {
-    const subY = data.pills ? divY + 70 : divY + 24;
+    var subY; if (data.pills) { subY = divY + 70; } else { subY = divY + 24; }
     await addText(frame, data.subtext, 64, subY, W - 128, 22, "Regular",
       { r: 0.85, g: 0.80, b: 0.72 }, "LEFT", 1.6);
   }
@@ -397,13 +402,13 @@ async function buildSlide(data, offsetX) {
 }
 
 async function main() {
-  const frames = [];
-  for (let i = 0; i < SLIDES.length; i++) {
-    const frame = await buildSlide(SLIDES[i], i * (W + GAP));
+  var frames = [];
+  for (var i = 0; i < SLIDES.length; i++) {
+    var frame = await buildSlide(SLIDES[i], i * (W + GAP));
     frames.push(frame);
   }
   figma.viewport.scrollAndZoomIntoView(frames);
-  figma.notify("✅ Power Coffee  -  [POST TITLE] created!", { timeout: 4000 });
+  figma.notify("Power Coffee - slides created!", { timeout: 4000 });
 }
 
 main();
