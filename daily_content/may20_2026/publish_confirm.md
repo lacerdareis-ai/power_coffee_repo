@@ -1,14 +1,14 @@
-# Publish Confirmation — 2026-05-20 08:40
+# Publish Confirmation — 2026-05-20 09:05
 
 
-- ❌ **X**: skipped not in --platform list
-- ❌ **THREADS**: skipped not in --platform list
-- ❌ **TELEGRAM**: skipped not in --platform list
-- ❌ **WHATSAPP**: skipped not in --platform list
-- ⚠️ **INSTAGRAM**: manual Post Reel manually — download from: https://files.catbox.moe/80gbmf.mp4
-- ❌ **LINKEDIN**: skipped not in --platform list
-- ❌ **SHOPIFY**: skipped not in --platform list
-- ❌ **EMAIL**: skipped not in --platform list
+- ❌ **X**: failed 
+- ❌ **THREADS**: skipped missing credentials
+- ✅ **TELEGRAM**: ok 18
+- ✅ **WHATSAPP**: ok 
+- ✅ **INSTAGRAM**: ok 18036142016804124
+- ✅ **LINKEDIN**: ok urn:li:share:7462851262099738624
+- ❌ **SHOPIFY**: skipped not Tuesday or Thursday
+- ❌ **EMAIL**: skipped not Monday
 
 ## Content Summary
 
