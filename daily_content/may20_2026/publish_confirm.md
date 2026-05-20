@@ -1,12 +1,12 @@
-# Publish Confirmation — 2026-05-20 09:05
+# Publish Confirmation — 2026-05-20 09:31
+(DRY RUN)
 
-
-- ❌ **X**: failed 
+- ✅ **X**: dry_run 
 - ❌ **THREADS**: skipped missing credentials
-- ✅ **TELEGRAM**: ok 18
-- ✅ **WHATSAPP**: ok 
-- ✅ **INSTAGRAM**: ok 18036142016804124
-- ✅ **LINKEDIN**: ok urn:li:share:7462851262099738624
+- ❌ **TELEGRAM**: skipped not in --platform list
+- ❌ **WHATSAPP**: skipped not in --platform list
+- ❌ **INSTAGRAM**: skipped not in --platform list
+- ❌ **LINKEDIN**: skipped not in --platform list
 - ❌ **SHOPIFY**: skipped not Tuesday or Thursday
 - ❌ **EMAIL**: skipped not Monday
 
