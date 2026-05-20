@@ -15,35 +15,45 @@
 ### Reel Script
 
 **HOOK (0–3s):**
-"Two coffees in. It's 9am. Why are you still foggy?"
+"Two cups in. Still foggy."
 
 **BODY (3–38s):**
-Caffeine wakes you up. It doesn't make you sharp.
+That's not a caffeine problem. That's a formula problem.
 
-Those are two different things — and nobody talks about the gap between them.
+Regular coffee spikes your system and burns out. What makes energy actually hold is what most coffee doesn't have.
 
-Caffeine blocks adenosine, the compound that signals fatigue. That's all it does. It borrows from later in the day and makes you pay interest around 10am.
+Taurine to smooth out the cortisol response. Matcha to level the energy curve over four to six hours instead of forty-five minutes. Pea protein to keep blood sugar stable so your focus doesn't drop when your glucose does.
 
-What actually creates focus is a different stack.
+One scoop added to your morning ritual. Nothing changes except the result.
 
-L-theanine to smooth the curve. Taurine to calm overactive neurons. Pea protein to hold your blood sugar steady. Matcha for a 4-to-6-hour energy arc instead of a 45-minute spike.
-
-Your regular coffee has zero of these.
-
-Power Coffee has all four — plus seven more — in one scoop. Same mug. Same morning ritual.
-
-Just a formula built to carry you through the whole morning.
+Most people feel it by Day 3.
 
 **CTA (38–45s):**
-"Link in bio. One bag. You'll know by day three."
+"Try it for a week. Then tell me I'm wrong. Link in bio."
 
-**On-screen text:** "2 coffees. Still foggy?" → "Caffeine wakes you. It doesn't focus you." → "What's missing from your cup" → "4 ingredients your coffee doesn't have" → "11 ingredients. 1 scoop." → "Link in bio"
+**On-screen text:** "Two cups in. Still foggy." → "Not a caffeine problem." → "A formula problem." → "Day 3. That's when you feel it." → "Link in bio"
+
+### Caption
+
+Two cups in. Head still heavy. You know that specific morning — not tired enough to stop, just foggy enough that simple things feel harder than they should.
+
+That's not a caffeine problem. That's a formula problem.
+
+Regular coffee gives you a spike then takes it back. What makes energy actually hold is what most coffee doesn't have: taurine to smooth out the cortisol curve, matcha to release energy over four to six hours instead of forty-five minutes, pea protein to keep blood sugar level so your focus doesn't drop with it.
+
+One scoop added to your morning ritual. Nothing changes except the result.
+
+Most people feel it by Day 3. Try it for a week and tell me I'm wrong.
+
+thepowercoffee.com — link in bio.
+
+**Hashtags:** #powercoffee #thefirstwin #functionalcoffee #cleanenergy #nocrash #morningritual #deepwork #coffeescience
 
 ---
 
 ## X.COM
 ### Post
-Two coffees in. Still foggy. That's not a willpower problem. That's a formula problem.
+Taurine isn't a stimulant. It's what makes energy feel smooth instead of scattered. Most energy products ignore it. We built Power Coffee around it.
 
 ### Thread
 Post 1: Your morning coffee isn't failing you. It was never designed to do what you're asking it to do.
@@ -61,25 +71,29 @@ Post 5: Power Coffee. 11 ingredients. ~175mg caffeine. 5g protein. No crash. If 
 ## LINKEDIN
 ### Post
 
-I used to think I just needed more coffee.
+I spent months calling it "sustained energy."
 
-More cups. Better beans. Stronger brew.
+Then I talked to people who actually bought it.
 
-I had all three. I still hit a wall by 10am.
+They didn't say sustained. They said smooth. They said level. They said "by 2pm I crash — this felt different."
 
-The problem wasn't volume. It was chemistry.
+One buyer wrote "exactly what I needed." Not a five-star review with superlatives. Just that: exactly what I needed.
 
-Caffeine blocks the signal that makes you feel tired. That's genuinely useful. But it doesn't generate focus — it removes one obstacle to it, temporarily, and borrows against the back half of your morning.
+That line stayed with me. Because it's the most honest thing someone can say about a morning product. Not that it was revolutionary. That it finally did what they'd been asking their coffee to do.
 
-What creates sustained performance is a different stack: L-theanine to smooth the spike, taurine to keep your neurons from overactivating, protein to hold blood sugar steady, matcha for a longer energy arc.
+Two years testing batches in my kitchen in Boston. Eleven ingredients. One question driving every decision: why does the energy feel unstable?
 
-None of those are in a standard cup of coffee.
+The answer was always the same. Caffeine alone isn't a formula. It's a trigger with nothing behind it.
 
-I spent two years building a formula that puts all of them in one scoop — not as a replacement for the ritual, but as the upgrade it was always missing.
+L-theanine smooths the curve. Taurine keeps your neurons from overactivating. Matcha stretches energy over four to six hours instead of forty-five minutes. Protein holds blood sugar steady so the focus doesn't drop when the glucose does.
 
-Most people blame their focus. It might be their ingredients.
+None of this is new science. It just wasn't in the same cup.
 
-When's the last time you actually audited what's in your morning routine — beyond the caffeine?
+If your mornings feel scattered after the second coffee — it might not be a discipline problem. It might be a formula gap.
+
+thepowercoffee.com
+
+Leo, Founder — The Power Coffee
 
 ---
 
@@ -172,13 +186,16 @@ If you've been blaming yourself for the 10am wall, this week blame the formula i
 
 ## HIGGSFIELD (Video Reel)
 ### Model
-Kling 3.0
+cinematic_studio_3_0
 
 ### Aspect Ratio
-9:16 (Reels)
+9:16
+
+### Resolution
+1080p
 
 ### Duration
-15 seconds
+15
 
 ### Prompt
 A man in his mid-30s sits at a minimalist home office desk in early morning light. He holds an empty ceramic mug loosely in one hand, eyes drifting slightly off the laptop screen — the look of someone already caffeinated but not quite sharp. A second empty mug sits beside him. Slow, subtle push-in toward his face over 8 seconds. Warm natural side light through a large window. Muted cream, espresso brown, and warm wood tones. At 9 seconds, he reaches just off frame and returns holding a steaming mug — his posture shifts almost imperceptibly: shoulders settle back, jaw unclenches, gaze refocuses on the screen. Hold on his face in soft focus for the final 3 seconds. No text, no graphics in frame. Cinematic grain, handheld-steady movement, authentic and unproduced. Color temperature warm, not oversaturated.

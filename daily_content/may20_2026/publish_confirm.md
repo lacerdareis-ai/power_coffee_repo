@@ -1,11 +1,11 @@
-# Publish Confirmation — 2026-05-20 07:00
+# Publish Confirmation — 2026-05-20 08:40
 
 
 - ❌ **X**: skipped not in --platform list
 - ❌ **THREADS**: skipped not in --platform list
 - ❌ **TELEGRAM**: skipped not in --platform list
 - ❌ **WHATSAPP**: skipped not in --platform list
-- ⚠️ **INSTAGRAM**: manual video processing timed out
+- ⚠️ **INSTAGRAM**: manual Post Reel manually — download from: https://files.catbox.moe/80gbmf.mp4
 - ❌ **LINKEDIN**: skipped not in --platform list
 - ❌ **SHOPIFY**: skipped not in --platform list
 - ❌ **EMAIL**: skipped not in --platform list
