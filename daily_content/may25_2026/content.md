@@ -1,5 +1,5 @@
 # Power Coffee — Content for May 25, 2026
-**Pillar:** P1 — Problem Hook | **Day:** Monday | **Image set:** A3
+**Pillar:** P1 — Problem Hook | **Day:** Monday | **Image set:** B1
 
 ---
 ## APPROVAL
@@ -15,52 +15,54 @@
 ### Reel Script
 
 **HOOK (0–3s):**
-"You're not slow. Your formula is."
+"Your second coffee means the first one failed."
 
 **BODY (3–38s):**
-Most coffees do one thing: spike your cortisol and leave. Within 45 minutes, that clarity window is closing. By 10am you're already reaching for another cup — not because you lack discipline, but because the formula has nothing left to give. The issue isn't your tolerance. It's what's missing. Matcha extends the energy arc over four to six hours. Taurine keeps the cortisol response clean. Five grams of pea protein stabilizes blood sugar so the energy holds. Eleven ingredients working together — not just waking you up, but keeping you there.
+Most people treat the second cup as a habit. It's a symptom. Regular coffee does one thing — block adenosine — then leaves. No extended release. No blood sugar support. No cortisol buffer. By noon the formula has nothing left. Matcha adds L-theanine for a smooth four to six hour arc. Taurine keeps the cortisol response clean. Five grams of pea protein holds blood sugar stable. That's the difference between a ritual that lasts and one that simply wakes you up.
 
 **CTA (38–45s):**
-"One scoop. Find out what you've been missing. Link in bio."
+"One scoop changes the whole arc. thepowercoffee.com."
 
-**On-screen text:** "[WHY YOUR COFFEE STOPS WORKING]" → "[CAFFEINE SPIKES. THEN DROPS.]" → "[MATCHA + TAURINE + PROTEIN]" → "[11 INGREDIENTS. ONE SCOOP.]" → "[THEPOWERCOFFEE.COM]"
+**On-screen text:** "[THE SECOND CUP IS THE SYMPTOM]" → "[CAFFEINE ALONE HAS ONE JOB]" → "[L-THEANINE + TAURINE + PROTEIN]" → "[11 INGREDIENTS. THE ARC HOLDS.]" → "[THEPOWERCOFFEE.COM]"
 
 ---
 
 ## X.COM
 ### Post
-Your morning coffee does one thing well: wake you up. After that, you're on your own. Matcha, taurine, and protein don't just extend the energy — they change what the energy feels like.
+Your second coffee is a confession. It means the first formula ran out. That's not a habit — that's a design flaw. Matcha, taurine, and protein fix the arc.
 
 ### Thread
-Post 1: Your morning coffee does one thing: wake you up. The clarity, the focus, the hold — that's not caffeine. That's what caffeine is missing.
+Post 1: Your second coffee is a confession. The formula ran out. That's not a habit — that's a design flaw in everything you've been drinking.
 
-Post 2: Matcha releases L-theanine alongside its caffeine. The combination doesn't spike — it builds. Focus over 4–6 hours, not a 45-minute window.
+Post 2: Regular coffee has one mechanism: caffeine blocks adenosine receptors. It works for 45–60 minutes. Then cortisol drops, blood sugar follows, and focus goes with them. The formula has nothing left. The second cup doesn't fix this — it just delays the same collapse.
 
-Post 3: Taurine isn't a stimulant. It's a neuromodulator — it keeps the cortisol response from getting loud. Energy without edge. That's the mechanism most formulas skip.
+Post 3: L-theanine from matcha binds the same receptors caffeine activates, but with a 4–6 hour release arc instead of a spike. Pair it with 2g of taurine as a cortisol buffer, and the energy mechanism doesn't exit the building before lunch.
 
-Post 4: I built Power Coffee because I was tired of a formula that left me before noon. Two years of testing. Five versions. Eleven ingredients that actually work together.
+Post 4: I built Power Coffee because I kept needing that second cup. Two years of testing taught me the unlock wasn't more caffeine — it was 5g of pea protein per serving stabilizing blood sugar. Simple biology. Completely missing from every coffee I could find.
 
-Post 5: One scoop into your existing brew. No new routine required. The formula is the change. thepowercoffee.com
+Post 5: Eleven ingredients. One scoop. The second cup stops being necessary. thepowercoffee.com
 
 ---
 
 ## LINKEDIN
 ### Post
-I used to think the afternoon slump was a willpower issue.
+I used to drink three coffees before noon.
 
-Then I started looking at what was actually in my coffee.
+Not because I loved coffee. Because the first two stopped working.
 
-Standard drip coffee does one thing efficiently: spike adenosine blockade, trigger a cortisol response, then leave. By 10:30am the window is closing. By 2pm you're staring at a screen wondering where the morning went.
+When I started building The Power Coffee, I kept asking one question: why does the energy stop?
 
-The issue isn't motivation. It's formula.
+The answer wasn't tolerance. It was architecture.
 
-When I started building The Power Coffee, the question wasn't "how do we add more caffeine?" It was: what does sustained energy actually require at a mechanistic level?
+Regular coffee does one thing — blocks adenosine receptors. It does that job well, for about 45 minutes. After that, there's nothing in the formula to hold the arc. No extended release. No blood sugar support. No cortisol buffer.
 
-The answer was eleven ingredients — not to compete with your coffee, but to fill in what it's missing. Matcha for the extended release arc. Taurine as a clean neuromodulator. Pea protein to stabilize blood sugar. Ginkgo biloba for cerebral blood flow.
+So you reach for another cup. Then another.
 
-Two years later, I drink one scoop every morning. The afternoons changed first.
+The fix wasn't more caffeine. It was eleven ingredients working together — matcha for the extended arc, taurine as a clean cortisol buffer, pea protein to stabilize blood sugar, ginkgo biloba for sustained blood flow.
 
-Are you still blaming yourself for the 2pm wall?
+I haven't needed a second cup in over a year.
+
+What's the one change that actually fixed your afternoon?
 
 Leo, Founder — The Power Coffee
 
@@ -68,31 +70,31 @@ Leo, Founder — The Power Coffee
 
 ## TELEGRAM
 ### Message
-Most coffees do one job: wake you up. Power Coffee does the rest — 11 ingredients designed to hold the energy arc through your whole morning, no crash, no edge. One scoop into whatever you're already drinking. Try it: thepowercoffee.com
+If you're on your second coffee before 10am, that's not a habit — it's a formula problem. Power Coffee gives you 11 ingredients designed to hold the energy arc through your whole morning. One scoop, no second cup needed. thepowercoffee.com
 
 ---
 
 ## EMAIL
 ### Subject Line
-Why your coffee stops working by 10am
+Why you always need a second cup
 
 ### Preview Text
-It's not the caffeine. It's what's missing from the formula.
+It's not tolerance. It's a design flaw in your coffee.
 
 ### Body
 Hey —
 
-If you've noticed that your second cup barely touches the fog some mornings, it's not tolerance.
+If you're reaching for a second cup before noon, here's what's actually happening — that's not a caffeine tolerance issue.
 
-It's architecture.
+It's a formula problem.
 
-Standard coffee does one thing: spike your energy and leave. There's nothing in it to hold the arc. No blood sugar support. No cortisol buffer. No extended release mechanism.
+Regular coffee does one job: blocks adenosine receptors and spikes your alertness. That window is about 45 minutes. Then cortisol drops, blood sugar follows, and the focus goes with it. The formula has nothing left to offer. So you reach for another cup, and the cycle repeats.
 
-That's the gap I set out to close.
+That's the gap I built Power Coffee to close.
 
-Power Coffee has eleven ingredients — not eleven trends. Matcha for extended release. Taurine as a clean neuromodulator. Five grams of pea protein to stabilize blood sugar. Ginkgo biloba to support cerebral blood flow. Cinnamon. Ginger. Piperine. Each one is there for a specific reason, at a specific dose.
+Eleven ingredients — each one there for a reason, at a specific dose. Matcha for a four to six hour release arc. Taurine to buffer the cortisol response. Five grams of pea protein to keep blood sugar stable through the morning. Ginkgo biloba for sustained cerebral blood flow.
 
-One scoop into what you're already drinking. No new routine. The formula does the work.
+One scoop into whatever you're already drinking. The second cup goes away on its own.
 
 thepowercoffee.com
 
@@ -114,7 +116,7 @@ cinematic_studio_3_0
 15
 
 ### Prompt
-Cinematic scene. A man in his early 40s standing at a kitchen counter at 5:30am, spooning dark powder from a matte black bag into a ceramic mug. Soft pre-dawn blue light through the window behind him, warm amber lamp glow from above. Athletic wear — he is up early for a reason. The mood is still and purposeful. Slow push-in begins on his hands, then rises to his face as he lifts the mug. Mid-clip: shoulders settle, jaw releases slightly — the quiet confidence of a ritual that works. Warm espresso brown and cream palette. Shallow depth of field. Real, unhurried, photorealistic. No text in frame.
+Cinematic scene. A man in his late 30s sits at a clean home office desk, two empty mugs pushed to the side, eyes slightly glazed — the mid-morning fog is visible in his expression and posture. Then: same man, same desk, now one mug filled from a matte black bag beside his keyboard. He leans forward. Posture shifts. Jaw releases. Eyes come into focus. Slow push-in from the empty mugs to his face. Warm amber and espresso brown tones. Natural window light from the left. Shallow depth of field. Real, unhurried, photorealistic. No text in frame.
 
 ---
 
