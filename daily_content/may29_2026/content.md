@@ -5,7 +5,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 > Auto-approved. To reject: change [x] to [ ] before 4am.
 

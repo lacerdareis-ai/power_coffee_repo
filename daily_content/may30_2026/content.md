@@ -5,7 +5,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 > Auto-approved. To reject: change [x] to [ ] before 4am.
 
@@ -156,11 +156,11 @@ Real buyer, Day 3: "I was really focused."
 
 That is the honest timeline. Not instant. Not magic. Day 3 is when it shifts.
 
-Try it this weekend and start Monday with a different formula.
+Try it this weekend and start Monday with a different formula. The 15-morning pack is $17.90 — if you have been on the fence, this is the week to test it.
 
 thepowercoffee.com — also on Amazon: a.co/d/09Gmr1Sq
 
-— Leo
+— Leo, Founder — The Power Coffee
 
 ---
 
