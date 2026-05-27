@@ -1,5 +1,5 @@
 # Power Coffee — Content for May 28, 2026
-**Pillar:** P5 — Social Proof | **Day:** Thursday | **Image set:** D1
+**Pillar:** P3 — Founder Proof | **Day:** Thursday | **Format:** Reel
 
 ---
 ## APPROVAL
@@ -12,44 +12,39 @@
 ---
 
 ## INSTAGRAM
-### Carousel Copy
+### Reel Script
 
-**Slide 1:**
-THE PART WE COULDN'T DESIGN.
+**HOOK (0–3s):**
+"I'm building this company with AI. And I'm not hiding it."
 
-**Slide 2:**
-THEY CAME FOR THE ENERGY.
-The caffeine kicks in. That part works. But the first thing customers keep writing back about isn't the energy.
+**BODY (3–40s):**
+Most CPG founders treat AI like a shortcut they're embarrassed to mention. I built my formula with it. I run my content engine with it. I use it to analyze what's working and where the gaps are. I'm an Ironman athlete, a father of two, a Brazilian immigrant — and a one-person brand going up against companies with twenty-person marketing teams. The only way that math works is if I'm running an AI-first operation. The formula took two years and five versions. AI compressed months of ingredient research into weeks. I still tested every version on myself. But I knew what I was looking for faster because the science was already mapped. Now the product is on Amazon. The content is publishing. And I wake up at four forty-five every morning and drink the thing I built. That's the AI-first company. Not a tech startup. A real product, run leaner than anyone expects, because the tools exist to do it that way.
 
-**Slide 3:**
-"I DIDN'T NEED TO RESET AT NOON."
-The midday pull. The brain fog after lunch. The reflex reach toward the kitchen. That's what customers say disappears first.
+**CTA (40–45s):**
+"thepowercoffee.com. The formula is the proof."
 
-**Slide 4:**
-TAURINE. MATCHA. GINKGO BILOBA.
-The cognitive support layer most coffee formulas skip entirely. 2.07g taurine calms neural noise. 1.04g matcha extends the arc over 4–6 hours. 207mg ginkgo biloba supports cerebral blood flow. All working in the same direction.
+**On-screen text:** "[I'M BUILDING THIS WITH AI.]" → "[FORMULA. CONTENT. ANALYTICS.]" → "[ONE FOUNDER. ELEVEN INGREDIENTS.]" → "[AI-FIRST CPG.]" → "[THEPOWERCOFFEE.COM]"
 
-**Slide 5:**
-WHEN MORNINGS HOLD, DAYS DO.
-It's not the taste they mention. Not even the energy. It's the focus that holds when the caffeine would normally start fading.
-
-**Slide 6:**
-TRY 15 MORNINGS. THEN TELL US WHAT CHANGED.
-Try it → thepowercoffee.com
-Also on Amazon → a.co/d/09Gmr1Sq
-Follow → @powercoffee.ofc | Save this.
+---
 
 ### Caption
-Most people who try Power Coffee order it because they want the energy to hold longer. They've heard about taurine, or matcha, or functional coffee in general, and they want to know if it actually works.
 
-What comes back in the messages is something different. Not "I had more energy." More like: "I looked up and realized I hadn't lost my train of thought once — and it was already 1pm."
+I don't hide that I use AI to build this company.
 
-The formula has a cognitive support layer most coffee blends don't carry. Taurine calms the neural noise that caffeine can amplify. Matcha extends the arc over four to six hours instead of forty-five minutes. Ginkgo biloba supports the blood flow that keeps the thinking clear.
+Most CPG founders would. There's still an assumption in this industry that "authentic" means manual — that a real brand is built by instinct and hustle, not tools.
 
-You don't feel it working. You notice what you finished. Try it at thepowercoffee.com or link in bio.
+I'm running this differently.
+
+The formula was built using AI to map ingredient mechanisms from peer-reviewed research before I ever touched a scoop. Five versions over two years. I still tested every one on myself — Ironman training blocks, full workdays, a house that wakes up at 6am. But I knew what I was looking for because the science was already mapped.
+
+The content system runs on AI. The analytics feed back into the content. The whole operation is leaner than any brand at this stage has a right to be.
+
+I'm one person. A father of two, an Ironman athlete, a Brazilian immigrant who moved to the US and decided to build something worth drinking. The AI-first approach isn't a shortcut — it's the only version of this business that actually works at the scale I'm operating.
+
+thepowercoffee.com. The formula is the proof.
 
 ### Hashtags
-#powercoffee #thefirstwin #functionalcoffee #cleanenergy #nocrash #morningritual #biohacking #deepwork #cognitiveclarity #performancecoffee #cleanlabel #morningfuel
+#powercoffee #thefirstwin #aifirst #founderproof #functionalcoffee #cpgfounder #buildingwithai #ironman #morningritual #cleanenergy #startupfounder #solofounder
 
 ---
 
@@ -155,24 +150,35 @@ A man in his early 40s at a clean home office desk, mid-deep work, right hand wr
 
 ---
 
-## HIGGSFIELD (Carousel Cover)
+## HIGGSFIELD (Video Reel)
 ### Model
-FLUX.2 Pro (image)
+cinematic_studio_3_0
 
 ### Aspect Ratio
-1:1 (feed carousel)
+9:16
+
+### Resolution
+1080p
+
+### Duration
+15
 
 ### Prompt
-Three people at a cafe table in warm morning light, one person showing the others a matte black coffee bag, another person holding a small ceramic cup and looking at it with genuine curiosity. Natural, candid energy — not posed. Warm wood and brick textures in the background. Shot from slightly above at an angle. Negative space in upper third of frame. Warm espresso brown, cream, and gold tones. No text, labels, or overlays in image. Photorealistic.
+Cinematic scene. A man in his mid-to-late 30s at a minimal home office desk before dawn — athletic build, wearing a dark hoodie. He's looking at a laptop screen with calm, focused intent, one hand on the keyboard, the other wrapped around a ceramic mug. A matte black coffee bag sits on the desk beside him. Warm desk lamp light, blue-grey pre-dawn visible through a window behind him. On the laptop screen, a soft glow — not legible, just ambient light. Slow push-in from wide to medium close on his face — expression unhurried, deliberate. The sense of someone building something, alone, before the rest of the world wakes up. Earth tones: espresso brown, warm cream, muted gold. No text in frame. Photorealistic.
 
 ---
 
 ## FIGMA SCRIPTER
 ```javascript
-// Power Coffee - CAROUSEL - Figma Scripter
-// Paste into: Plugins > Scripter > Run
-// Design: Editorial Clean - CREAM bg, BROWN top bar, 92px Black headline, slide counter
+// Power Coffee - REEL - Figma Scripter
+// Reel format — generate video in Higgsfield. No carousel slides needed.
+const SLIDES = [];
+```
 
+> **Instructions:** Generate Reel video in Higgsfield using the prompt above. Export as `reel.mp4` and save in today's folder. No Figma slides required for this format.
+
+<!--
+// ── ARCHIVED CAROUSEL SCRIPT (replaced by Reel) ──
 const COLORS = {
   BLACK:   { r: 0.07, g: 0.06, b: 0.05 },
   BROWN:   { r: 0.48, g: 0.24, b: 0.12 },
@@ -383,4 +389,5 @@ async function main() {
 main();
 ```
 
-> **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `carousel_1.jpg, carousel_2.jpg...` in today's folder.
+-->
+
