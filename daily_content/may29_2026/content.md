@@ -1,7 +1,5 @@
 # Power Coffee — Content for May 29, 2026
-**Pillar:** P5 — Social Proof | **Day:** Thursday | **Format:** Carousel + X Thread
-
-> **Sales role:** Trust builder before Friday CTA. Real buyer language removes the last objection. Uses Day 3 proof timeline — confirmed most powerful buyer quote in PULSE data.
+**Pillar:** P6 — Direct CTA | **Day:** Friday | **Image set:** A1
 
 ---
 ## APPROVAL
@@ -11,160 +9,161 @@
 
 ---
 
-## INSTAGRAM
-### Carousel Slides
-
-**Slide 1 — Hook**
-"I WAS REALLY FOCUSED ON DAY 3."
-
-That's not our claim. That's a buyer.
-
-**Slide 2**
-Most people expect to be disappointed.
-
-They've tried supplements before. They've been burned by hype. They start Power Coffee waiting for the catch.
-
-Day 1: skeptical.
-Day 2: still skeptical.
-Day 3: something shifts.
-
-**Slide 3**
-"The coffee was rich, smooth, and perfectly flavored — exactly what I needed."
-— Lauriete M., verified buyer
-
-**Slide 4**
-"I love my morning coffee, but by 2pm I crash. This felt smoother."
-— Luis D.
-
-"I added it to my oat milk and it worked."
-— Luis D.
-
-"The ritual makes it easy."
-— Luis D.
-
-**Slide 5**
-"I cancelled my pre-workout."
-
-That DM came in two weeks ago. We keep thinking about it.
-
-Not because it's a great marketing line. Because it's what happens when the formula is actually doing its job — people stop needing everything else they were stacking.
-
-**Slide 6**
-Day 3 is the proof moment.
-
-Week 3 is when it becomes a ritual.
-
-Day 430 is where we are now — the founder still drinks it every morning, before the training block, before the house wakes up.
-
-Try it for 15 mornings. Then tell us.
-
-thepowercoffee.com | Also on Amazon → a.co/d/09Gmr1Sq
-
 ---
 
+## INSTAGRAM
+### Carousel Copy
+
+**Slide 1:**
+FIFTEEN MORNINGS. $17.90. NO CRASH.
+
+**Slide 2:**
+THE PROBLEM
+
+Most mornings fail by 10am.
+
+Not because of discipline. Because of chemistry.
+
+Caffeine peaks in 30 to 45 minutes, then drops. What follows is a cortisol response you spend the rest of the morning managing. The second cup doesn't fix it — it restarts the same cycle.
+
+**Slide 3:**
+THE FORMULA
+
+Eleven ingredients in one scoop.
+
+Matcha extends the energy arc 4 to 6 hours via L-theanine. Pea protein stabilizes blood sugar through the 10am window. Ginkgo biloba supports cerebral blood flow when caffeine starts to fade. Piperine maximizes absorption of every other ingredient in the formula.
+
+Each one chosen at a specific dose. Nothing as a label play.
+
+**Slide 4:**
+THE MATH
+
+$1.19 per morning.
+
+Compare that to the $5.75 latte that runs out by 9:45am. Power Coffee is $17.90 for fifteen mornings. Clean-label, sugar-free, lactose-free. One scoop into whatever you are already drinking.
+
+**Slide 5:**
+NO OVERHAUL REQUIRED
+
+You do not need a new routine.
+
+Add one scoop to your existing coffee. Mix it with hot water. Cold water. Oat milk. It works in all three. No new habit to build. No stack to manage. Just a better formula layered into the morning you already have.
+
+**Slide 6:**
+TRY IT THIS WEEKEND.
+
+Try it → thepowercoffee.com
+Also on Amazon → a.co/d/09Gmr1Sq
+@powercoffee.ofc | Save this.
+
 ### Caption
+Fifteen mornings is the honest ask. Not one sip, not one morning — fifteen. That is how long it takes for the formula to stop being something you are testing and start being the ritual that holds.
 
-Most reviews are written at the peak of the hype — the day the package arrives, before the product has had any time to prove itself.
+Power Coffee is eleven clean ingredients designed for a single purpose: a morning that runs from the first scoop through your last meeting without a reset. Matcha for the extended arc. Pea protein to keep blood sugar flat. Ginkgo biloba for focus that holds when caffeine fades. Piperine so every other ingredient actually gets absorbed.
 
-The reviews that matter to us come on Day 3.
+$17.90 for fifteen mornings. $1.19 per serving. One scoop into whatever you are already drinking.
 
-That is when the skepticism runs out and something actually shifts. Not a dramatic transformation. A smoother morning. Focus that holds past the first cup. No reaching for a second one by 10am.
-
-"I was really focused on Day 3." That is a buyer quote. We have not touched it. That is exactly how it came in.
-
-15 mornings. $17.90 for a full pack. One scoop into whatever you are already drinking — your Starbucks order, your espresso, your drip. No new ritual required.
-
-Try it. thepowercoffee.com — also on Amazon if that is easier.
+The first win of your day starts before you leave the kitchen. Try it at thepowercoffee.com or grab it on Amazon.
 
 ### Hashtags
-#powercoffee #thefirstwin #functionalcoffee #cleanenergy #nocrash #socialproof #morningritual #coffeeupgrade #realresults #day3 #morningroutine #cleancoffee
+#powercoffee #thefirstwin #functionalcoffee #cleanenergy #nocrash #morningritual #biohacking #deepwork #coffeeupgrade #morningroutine #performancecoffee #cleanformula
 
 ---
 
 ## X.COM
 ### Post
-"I was really focused on Day 3."
-
-That is a buyer quote. Unedited.
-
-Day 1: skeptical.
-Day 2: still skeptical.
-Day 3: something shifts.
-
-That is the honest timeline. We are not going to pretend it works in 45 minutes.
+Your morning coffee spikes in 30 minutes and crashes by 10am. Eleven ingredients, one scoop, $1.19 per morning. That is what a formula built for the whole morning actually costs. thepowercoffee.com
 
 ### Thread
-Post 1: "I was really focused on Day 3." Buyer quote. Unedited. That is the honest Power Coffee timeline — not 45 minutes, not instant, not magic. Here is what actually happens:
+Post 1: Most functional coffees ask you to replace your morning ritual. Power Coffee upgrades it. One scoop into whatever you already drink. Here is why that distinction matters:
 
-Post 2: Day 1-2: Your body expects to be disappointed. You have been burned by supplements before. You drink it. You wait. Nothing dramatic. You keep going.
+Post 2: Caffeine peaks in 30 to 45 minutes and starts declining. By 10am your body is managing a cortisol drop. That is not discipline — that is chemistry. A better formula changes the chemistry.
 
-Post 3: Day 3: The cortisol response is cleaner. Blood sugar is more stable. The 10am fog does not come the same way. You notice it because you were not expecting to notice anything.
+Post 3: Eleven ingredients in every 15g scoop. Matcha extends the energy arc 4 to 6 hours via L-theanine. Pea protein keeps blood sugar stable. Ginkgo biloba supports cerebral blood flow when caffeine starts to fade. Piperine ensures efficient absorption of everything else in the stack.
 
-Post 4: Week 3: It is no longer a supplement you are testing. It is the morning ritual. You stop thinking about it because it is just part of how you start the day.
+Post 4: I built this formula over two years and five versions. I still drink it every morning — before the 5am training block, before the house wakes up. Day 580-something. Not for content. Because it is the formula I need.
 
-Post 5: Day 430: The founder still drinks it every morning. Before the 5am training block. Before the house wakes up. Same formula, every day. That is the only claim that actually matters. thepowercoffee.com
+Post 5: $17.90. 15 mornings. One scoop. No new routine. Try it at thepowercoffee.com — also on Amazon.
 
 ---
 
 ## LINKEDIN
 ### Post
-We got a DM two weeks ago that I keep going back to.
+Every CPG founder makes the same claim: our product is different.
 
-"I cancelled my pre-workout."
+Here is what makes Power Coffee actually different — it does not ask you to change your routine.
 
-No context. No explanation. Just that.
+Most functional coffee brands ask you to give up coffee entirely and replace it with something that tastes like a compromise. We built a formula you add to whatever you are already drinking. A scoop into your drip, your espresso, your oat milk latte. No overhaul. No new habit to form.
 
-It tells me the formula is doing something right — people are not adding Power Coffee to their stack. They are replacing things. The morning is getting simpler, not more complicated.
+The formula is eleven clean ingredients. Matcha for the extended energy arc. Ginkgo biloba for focus under load. Pea protein so blood sugar stays flat through the 10am window. Piperine to ensure every other ingredient actually gets absorbed at full capacity.
 
-That is what a product that actually works does. It removes the need for everything you were patching on top of a broken routine.
+$17.90 for fifteen mornings. $1.19 per serving. The math is simple because the formula is honest.
 
-We are still a small brand. 942 followers. A founder who posts before the house wakes up. But these DMs are arriving. And they are from people who were skeptical — which means the product is earning the trust, not the marketing.
+We launched in fall 2024. The formula is on version 5.2. I still drink it every morning before the training block. That is not a marketing line — that is the one proof point I can actually stand behind completely.
 
-If you have been curious about what a functional coffee actually does differently, try it for 15 mornings. That is the honest ask.
+What is the last product that changed your morning without asking you to rebuild it?
 
-What metric do you use to decide if a product actually worked?
-
-Leo, Founder — The Power Coffee | thepowercoffee.com
+Leo, Founder — The Power Coffee
 
 ---
 
 ## TELEGRAM
 ### Message
-Real buyer, Day 3: "I was really focused." That is the honest Power Coffee timeline — not instant, not magic. Day 3 is the proof moment. Week 3 is when it becomes the ritual. Try it for 15 mornings at thepowercoffee.com or grab it on Amazon: a.co/d/09Gmr1Sq
+Friday: fifteen mornings, one formula, $17.90. Power Coffee is eleven clean ingredients designed for a morning that holds — no crash, no second cup by 10am, no new routine required. Try it this weekend at thepowercoffee.com or grab it on Amazon: a.co/d/09Gmr1Sq
+
+---
+
+## EMAIL
+### Subject Line
+Fifteen mornings. $17.90. Try it.
+
+### Preview Text
+No new routine. One scoop into your existing coffee.
+
+### Body
+Most people decide whether a product works after one sip.
+
+That is not enough time.
+
+The honest test for Power Coffee is fifteen mornings — one full pack. That is when the ingredients move from something you are testing to the ritual you do not think about anymore. Day 3, the morning runs smoother. Day 7, you notice you have not reached for a second cup by 10am. Day 15, you are already thinking about the next order.
+
+Eleven ingredients in one 15g scoop: matcha for the extended energy arc, pea protein to stabilize blood sugar, ginkgo biloba for focus that holds through the afternoon, piperine for efficient absorption of every other ingredient in the formula.
+
+$17.90. Clean-label, sugar-free, lactose-free. One scoop into whatever you are already drinking. No new routine required.
+
+Try it at thepowercoffee.com — or find it on Amazon.
+
+— Leo
 
 ---
 
 ## SHOPIFY BLOG
 ### Title
-The Day 3 Effect: What Real Power Coffee Buyers Notice First (And Why Week 3 Is the Real Test)
+The 15-Morning Test: What to Expect From Power Coffee in Your First Two Weeks
 
 ### Body
-<h2>Why Day 1 Doesn't Tell You Anything</h2>
+<h2>Why One Morning Is Not the Test</h2>
 
-<p>Most people start a new supplement with either high expectations or none at all. If you have been burned by functional wellness products before — and most coffee drinkers have — you start Power Coffee waiting for the catch. Day 1 feels like any other morning. Day 2, the same. You are still skeptical, and that is the right position to be in.</p>
+<p>Most supplement decisions are made in the first few minutes. The package arrives, you try it once, and within an hour you have made up your mind. That is not how Power Coffee works — and it is not how the formula was designed to be evaluated.</p>
 
-<h2>Why Day 3 Is Different</h2>
+<p>The honest test is fifteen mornings. One full pack. That is the arc the formula was built to deliver.</p>
 
-<p>By Day 3, something shifts. Not dramatically. Not in a way that sounds like a marketing claim. But the cortisol response from your morning coffee is cleaner. Blood sugar is more stable through the morning because pea protein and cinnamon are doing their job. The 10am fog does not arrive on schedule. You notice it because you were not expecting to notice anything.</p>
+<h2>What the Formula Is Actually Doing</h2>
 
-<p>"I was really focused on Day 3." That is a direct quote from a buyer. Unedited. That is the honest Power Coffee timeline.</p>
+<p>Every 15g scoop contains eleven clean-label ingredients, each at a specific dose. Matcha provides L-theanine alongside caffeine — the combination extends the energy arc to 4 to 6 hours rather than the 30 to 45-minute spike of caffeine alone. Pea protein (5.19g per serving) supports stable blood sugar through the 10am window, the point where most morning energy falls off. Ginkgo biloba (207mg) may support cerebral blood flow, which means focus that holds when the caffeine layer starts to fade. Piperine — derived from black pepper at 87mg — supports bioavailability, helping the body absorb every other ingredient more efficiently.</p>
 
-<h2>Why Week 3 Is the Real Inflection Point</h2>
+<p>This is not a supplement stack. It is one scoop into whatever you are already drinking.</p>
 
-<p>Day 3 is the proof moment. Week 3 is when Power Coffee stops being a product you are testing and becomes the ritual you do not think about. The ingredients are working cumulatively — ginkgo biloba supporting cerebral blood flow, matcha extending the energy arc, taurine keeping the cortisol response clean across consecutive days of use.</p>
+<h2>What Fifteen Mornings Actually Looks Like</h2>
 
-<p>Our own data confirms this: buyers who reach Week 3 re-order. The product is finding its rhythm in their routine, not just their morning.</p>
+<p>Day 3 is when most people notice the first real shift — a cleaner cortisol response, blood sugar that holds flat, focus that does not require a second cup to maintain. Day 7, the formula stops being something you are testing and starts being the morning routine. Day 15, most customers are already thinking about the next order.</p>
 
-<h2>What to Expect in 15 Mornings</h2>
+<p>Power Coffee is $17.90 for fifteen mornings — $1.19 per serving. Clean-label, sugar-free, lactose-free. No new routine required. One scoop into your drip, your espresso, your oat milk, or hot water.</p>
 
-<p>Power Coffee is $17.90 for a 15-morning supply — $1.19 per serving. One scoop into whatever you are already drinking. No new routine. No overhaul. Just a cleaner formula layered into the habit you already have.</p>
-
-<p>Try it for 15 mornings. The honest ask is that simple.</p>
-
-<p><a href="https://www.thepowercoffee.com">thepowercoffee.com</a> — also available on Amazon.</p>
+<p>The first pack is the test. Try it at <a href="https://www.thepowercoffee.com">thepowercoffee.com</a> — also available on Amazon.</p>
 
 ### Image Prompt
-Warm kitchen counter, morning light. A ceramic mug of dark coffee centered in frame, a matte black Power Coffee bag slightly blurred behind it. A small handwritten note beside the mug reads "Day 3" — soft focus, barely legible. Warm amber tones, cream and espresso palette. Negative space in upper third for text overlay. Photorealistic. No logos or text in image. 4:5 portrait.
+A man in his mid-30s standing at a kitchen counter at dawn, spooning powder from a matte black coffee bag into a ceramic mug. Soft morning window light. Plain t-shirt, hair slightly messy from sleep. A phone and notebook on the counter beside him. Warm cream and espresso brown tones. Shallow depth of field. Negative space in upper third for text overlay. No text in image. Photorealistic. 4:5 portrait.
 
 ---
 
@@ -173,10 +172,10 @@ Warm kitchen counter, morning light. A ceramic mug of dark coffee centered in fr
 FLUX.2 Pro (image)
 
 ### Aspect Ratio
-1:1
+1:1 (feed carousel)
 
 ### Prompt
-Close-up of two hands wrapped around a ceramic mug, slightly angled, steam rising. Person's face not visible — the hands and mug are the subject. Warm kitchen morning light from the side. A matte black coffee bag softly out of focus in the background. Cream and espresso brown palette throughout. Shallow depth of field. Negative space in upper 30% of frame. No text, no labels, no graphics in frame. Photorealistic, editorial lifestyle feel.
+Close-up of a hand lifting a ceramic mug from a kitchen counter at dawn, slight motion in the rising movement. A matte black coffee bag softly out of focus behind it. Warm morning light from a nearby window, illuminating cream and espresso tones throughout the frame. Steam barely visible at the rim of the mug. Negative space in the upper 30% of frame. Shallow depth of field. No text, no labels, no graphics in frame. Photorealistic, editorial lifestyle feel.
 
 ---
 
@@ -204,45 +203,45 @@ const TOTAL = 6;
 const SLIDES = [{
   id: 1,
   slideType: "hook",
-  overline: "REAL BUYER. UNEDITED.",
-  headline: "\"I WAS REALLY\nFOCUSED ON\nDAY 3.\"",
-  subtext: "That's not our claim. That's a buyer.",
+  overline: "THE OFFER",
+  headline: "FIFTEEN\nMORNINGS.\n$17.90.\nNO CRASH.",
+  subtext: "That's the test. That's The Power Coffee.",
   accent: "BROWN",
   bg: "BLACK",
   textColor: "CREAM",
 }, {
   id: 2,
   slideType: "teach",
-  overline: "THE HONEST TIMELINE",
-  headline: "DAY 1: SKEPTICAL.\nDAY 2: STILL\nSKEPTICAL.\nDAY 3: SHIFTS.",
-  subtext: "Most people expect to be disappointed. They've been burned by hype before. They start Power Coffee waiting for the catch.",
+  overline: "THE PROBLEM",
+  headline: "YOUR COFFEE\nFAILS BY\n10AM.",
+  subtext: "Not discipline. Chemistry. Caffeine peaks in 30–45 minutes and leaves a cortisol drop you spend the next hour managing.",
   accent: "BROWN_L",
   bg: "BLACK",
   textColor: "CREAM",
 }, {
   id: 3,
   slideType: "teach",
-  overline: "VERIFIED BUYER",
-  headline: "\"RICH, SMOOTH,\nPERFECTLY\nFLAVORED.\nEXACTLY WHAT\nI NEEDED.\"",
-  subtext: "— Lauriete M., verified buyer",
+  overline: "THE FORMULA",
+  headline: "ELEVEN\nINGREDIENTS.\nONE SCOOP.",
+  subtext: "Matcha for a 4–6 hour arc. Pea protein for blood sugar stability. Ginkgo for focus. Piperine for absorption. Each one at a specific dose.",
   accent: "BROWN_L",
   bg: "BLACK",
   textColor: "CREAM",
 }, {
   id: 4,
   slideType: "teach",
-  overline: "MORE BUYERS",
-  headline: "\"BY 2PM I CRASH.\nTHIS FELT\nSMOOTHER.\"",
-  subtext: "\"I added it to my oat milk and it worked.\" \"The ritual makes it easy.\" — Luis D.",
+  overline: "THE MATH",
+  headline: "$1.19\nPER MORNING.",
+  subtext: "Compare that to the $5.75 latte that runs out by 9:45am. $17.90 for 15 mornings. Clean-label, sugar-free, lactose-free.",
   accent: "BROWN_L",
   bg: "BLACK",
   textColor: "CREAM",
 }, {
   id: 5,
   slideType: "teach",
-  overline: "THE DM",
-  headline: "\"I CANCELLED\nMY\nPRE-WORKOUT.\"",
-  subtext: "Not a marketing line. A DM we received. When the formula works, people stop needing everything they were stacking.",
+  overline: "NO OVERHAUL",
+  headline: "ONE SCOOP\nINTO WHAT\nYOU ALREADY\nDRINK.",
+  subtext: "Your drip. Your espresso. Your oat milk. No new routine. Just a better formula in the morning you already have.",
   accent: "BROWN_L",
   bg: "BLACK",
   textColor: "CREAM",
@@ -251,7 +250,7 @@ const SLIDES = [{
   slideType: "cta",
   isCTA: true,
   overline: "THE FIRST WIN OF YOUR DAY",
-  headline: "TRY IT FOR\n15 MORNINGS.\nTHEN TELL US.",
+  headline: "TRY IT\nTHIS\nWEEKEND.",
   subtext: "thepowercoffee.com\nAlso on Amazon → a.co/d/09Gmr1Sq\n\nFollow → @powercoffee.ofc | Save this.",
   accent: "CREAM",
   bg: "BROWN",
