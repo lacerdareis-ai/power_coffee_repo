@@ -1,4 +1,4 @@
-o-# Winning Patterns Log — Power Coffee
+# Winning Patterns Log — Power Coffee
 
 > Update this document every Friday. Over time, this becomes the most valuable document in your vault — it's the institutional knowledge of what works for YOUR audience.
 
