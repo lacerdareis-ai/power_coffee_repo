@@ -15,54 +15,64 @@
 ### Reel Script
 
 **HOOK (0–3s):**
-"Sharp at 8. Useless by noon."
+"The crash doesn't start at 2pm. It starts with the first sip."
 
 **BODY (3–38s):**
-The problem isn't how much coffee you drink. It's what happens when the window closes. Regular coffee does one thing — blocks adenosine — and runs for about 45 minutes. After that, cortisol drops, blood sugar slides, focus fragments. The formula was never designed to hold. L-theanine from matcha extends the energy arc to four to six hours. Taurine buffers the cortisol drop. Five grams of pea protein stabilizes blood sugar. One scoop. The whole morning holds.
+Your regular coffee spikes cortisol fast. That's the focus feeling. The problem is what follows: adenosine floods back as caffeine recedes, cortisol drops, blood sugar dips — and the system is already falling before your first meeting ends. Matcha's L-theanine extends the energy release to four to six hours. Cinnamon smooths the blood sugar curve so the dip never arrives. Taurine keeps the cortisol response clean through the whole morning. Eleven ingredients built to hold the arc — not just start it. One scoop. The whole morning holds.
 
 **CTA (38–45s):**
-"The first win of your day. thepowercoffee.com."
+"Build a morning that doesn't fall apart. thepowercoffee.com."
 
-**On-screen text:** "[SHARP AT 8. GONE BY NOON.]" → "[CAFFEINE HAS A 45-MINUTE WINDOW]" → "[MATCHA + TAURINE + PROTEIN]" → "[11 INGREDIENTS. THE WINDOW DOESN'T CLOSE.]" → "[THEPOWERCOFFEE.COM]"
+**On-screen text:** "[THE CRASH STARTS AT FIRST SIP]" → "[CAFFEINE SPIKES. THEN EXITS.]" → "[MATCHA + CINNAMON + TAURINE]" → "[11 INGREDIENTS. THE ARC HOLDS.]" → "[THEPOWERCOFFEE.COM]"
+
+### Caption
+Most people think the 2pm crash is a willpower problem. It is not. It is a formula problem — and it starts with the first sip.
+
+Regular coffee does one thing: blocks adenosine receptors. It does that job for about forty-five minutes. After that, cortisol drops, blood sugar follows, and the system starts to unravel. By 2pm you are just noticing what began hours earlier.
+
+Power Coffee was built to close that gap. Matcha for a four to six hour energy arc. Cinnamon to smooth the blood sugar curve before the dip ever forms. Taurine to keep the cortisol response clean through the whole morning. Eleven ingredients. One scoop.
+
+The arc holds all the way through.
+
+Try it → thepowercoffee.com or link in bio.
+
+### Hashtags
+#powercoffee #thefirstwin #functionalcoffee #cleanenergy #nocrash #morningritual #energycrash #biohacking #deepwork #morningfuel #coffeescience #highperformance
 
 ---
 
 ## X.COM
 ### Post
-Most people think the 10am brain fog is a sleep problem. It isn't. It's a formula problem. Regular coffee has one mechanism and a 45-minute window. After that, nothing. The fix isn't more coffee.
+Your 2pm crash does not start at 2pm. It starts the moment your regular coffee peaks — around minute 20. You have been in freefall since before your first meeting ended.
 
 ### Thread
-Post 1: Your brain fog at 10am isn't a sleep problem. It's a formula problem. Your coffee peaked at 8:15 and left the building.
+Post 1: Your 2pm crash does not start at 2pm. It starts the moment your regular coffee peaks. Here is what is actually happening in your body — and how to fix the architecture:
 
-Post 2: Regular coffee has one mechanism: adenosine blockade. Window: 45–60 minutes. After that, cortisol dips, blood sugar slides, and focus fragments. The formula never had anything in reserve.
+Post 2: Caffeine blocks adenosine receptors — that is the mechanism. It works for roughly forty-five minutes. Then caffeine recedes, adenosine floods back hard, cortisol drops, blood sugar follows. The system enters a descent you feel at 2pm but that started before 10. The wall is just when you finally notice the freefall.
 
-Post 3: L-theanine from matcha binds the same pathways as caffeine — but the release arc is 4–6 hours, not 45 minutes. Pair it with 2g of taurine as a cortisol buffer, and the energy doesn't cliff-drop before your second meeting.
+Post 3: Matcha contains L-theanine, which binds the same receptors as caffeine but releases over 4–6 hours instead of 45 minutes. Cinnamon smooths the glucose curve that causes the mid-morning dip. Taurine buffers the cortisol response so the crash does not compound. Three mechanisms. One problem. The arc holds.
 
-Post 4: I added 5g of pea protein per serving specifically because of the 10am window. Blood sugar stability is what separates "sharp until noon" from "useless by 10:30." It took 2 years and five formula versions to understand that.
+Post 4: I built Power Coffee because I kept crashing before my best work was done. Ironman training, a full workday, two kids who need a present father at 6pm. Regular coffee was not designed to hold through all of that. The formula took two years and five versions. The goal was always one thing: make the arc hold all morning.
 
-Post 5: Eleven ingredients. One scoop. The 10am wall stops being a daily event. thepowercoffee.com
+Post 5: Add one scoop to whatever you are already drinking — your espresso, your drip, your oat milk latte. No new ritual. Just a formula that does not collapse before lunch. thepowercoffee.com
 
 ---
 
 ## LINKEDIN
 ### Post
-I haven't had a foggy 10am in over a year.
+I used to think my afternoon crashes were a sleep problem.
 
-Before that, it was routine. Coffee at 6, another at 8, brain starting to fragment by 10:30 — pushing through with sheer will, or reaching for another cup.
+Then I thought they were a caffeine tolerance problem.
 
-I kept calling it fatigue. It wasn't.
+Then I built a formula and realized: it was an architecture problem.
 
-It was a formula problem.
+Regular coffee has one mechanism — blocking adenosine receptors. It does that job well, for about forty-five minutes. After that, there is nothing in the formula to sustain the arc. Cortisol drops. Blood sugar follows. Focus goes with it.
 
-Regular coffee has one job and a 45-minute window. After that, nothing is holding the arc. Cortisol dips. Blood sugar slides. Focus stops being something you choose and starts being something you hunt for.
+The 2pm crash is not late-afternoon fatigue. It is the predictable end of a tool that was designed to spike, not sustain.
 
-The fix wasn't more coffee. It was building something that didn't abandon you after the first hour.
+I spent two years building something different. Matcha for the extended release. Cinnamon to smooth the blood sugar curve before the mid-morning dip forms. Taurine to keep the cortisol response clean from the first cup to the last task. Eleven ingredients — each one chosen for a specific mechanism, at a specific dose.
 
-Eleven ingredients. One scoop into whatever you're already drinking. The window doesn't close.
-
-I built The Power Coffee for the mornings when the work matters most — and you need to still be there at 11am.
-
-Is there a morning pattern you had to build around before you fixed it?
+The question I keep coming back to: how many hours of high-quality work are we losing every day because we are running on a formula that stops working by 10am?
 
 Leo, Founder — The Power Coffee
 
@@ -70,33 +80,35 @@ Leo, Founder — The Power Coffee
 
 ## TELEGRAM
 ### Message
-That foggy 10am feeling isn't tiredness — it's your coffee formula running out. Power Coffee adds matcha, taurine, and pea protein to hold the energy arc through your whole morning. One scoop. The window doesn't close. thepowercoffee.com
+Most people blame the 2pm slump on bad sleep. The real culprit is what they drank at 7am. Regular coffee spikes and exits — and the system starts falling apart before your first meeting ends. Power Coffee was built to hold the arc through the whole morning. One scoop into whatever you are already drinking. Try it at thepowercoffee.com.
 
 ---
 
 ## EMAIL
 ### Subject Line
-The 10am wall is a formula problem
+Your coffee is crashing you by 9am
 
 ### Preview Text
-Your coffee peaked at 8. Here's what holds the arc.
+The 2pm wall starts with the first sip. Here is why.
 
 ### Body
-Hey —
+Most people discover the crash at 2pm.
 
-You know that 10am moment when the focus starts breaking up?
+It started at 9.
 
-Most people call it fatigue. It isn't. It's your coffee formula running out.
+Here is what happens when regular coffee hits your system: caffeine blocks adenosine receptors — that is the mechanism. It does that job for about forty-five minutes. Then cortisol drops, blood sugar follows, and the formula has nothing left. By the time you reach for a second cup, the first one has already set the collapse in motion.
 
-Regular coffee does one thing: blocks adenosine receptors and spikes alertness. That window is 45 to 60 minutes. After that, cortisol drops, blood sugar follows, and focus fragments. Nothing in a standard cup is designed to hold what comes next.
+This is not a willpower problem. It is not a sleep problem. It is architecture. Regular coffee was never designed to hold focus across a full morning. It was designed to wake you up.
 
-That's the gap I built Power Coffee to close.
+Power Coffee closes the gap.
 
-Matcha adds L-theanine — same pathways as caffeine, but a 4 to 6 hour release arc. Taurine buffers the cortisol response so the energy doesn't cliff-drop. Five grams of pea protein stabilizes blood sugar through the morning window. Ginkgo biloba supports cerebral blood flow so the focus stays accessible when the real work starts.
+Matcha's L-theanine extends the energy arc to four to six hours. Cinnamon smooths the blood sugar curve so the mid-morning dip never arrives. Two grams of taurine keeps the cortisol response clean from the first cup to the last task. Eleven ingredients — each one chosen for a specific mechanism, at a specific dose.
 
-One scoop. The 10am wall goes quiet.
+One scoop into your regular espresso or drip. No new routine. Just a morning that actually holds.
 
-thepowercoffee.com
+$0.73 a serving. Fifteen mornings for $17.90.
+
+Try it → thepowercoffee.com
 
 — Leo
 
@@ -116,7 +128,7 @@ cinematic_studio_3_0
 15
 
 ### Prompt
-Cinematic scene. A woman in her early 40s at a standing desk in a modern home office, warm 9am window light. She's mid-task, typing — then her hands slow, she sits back, jaw tightens, eyes losing focus. The 10am fog landing in real time. Then: same woman, same desk, now holding a dark ceramic mug, a matte black bag beside her keyboard. She sits forward. Hands return to the keyboard. Eyes sharpen. Posture lifts. The shift is the story. Slow push-in from medium shot to close on her face. Warm amber and espresso brown tones. Shallow depth of field. Product visible, not centered. Photorealistic, unhurried. No text in frame.
+A man in his early 40s standing at a kitchen counter in pre-dawn darkness, both hands wrapped around a ceramic mug, staring forward with quiet intensity. Warm amber lamplight cuts through the low light. A thin curl of steam rises from the mug. Slow cinematic push-in on his face as his expression shifts from tired to focused — eyes sharpen, jaw sets, posture straightens with purpose. A matte black coffee bag sits on the counter beside him. Muted espresso brown and cream tones throughout. No text in frame. Photorealistic, cinematic. Mid-clip: the shift in posture and expression is the transformation.
 
 ---
 
