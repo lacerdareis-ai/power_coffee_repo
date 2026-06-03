@@ -177,4 +177,60 @@ The best hooks do ONE of these:
 
 <!-- LENS_APPEND_START -->
 <!-- LENS writes here. Do not edit manually. Append only. -->
+
+### LENS Update — Week 3 (May 25–29, 2026)
+
+**Reel dominance confirmed across full Sales Motor period:**
+- Reels avg **199 reach** / Carousels avg **86 reach** — 2.3× gap is structural, not outlier-driven
+- Reels avg **2.7 comments** / Carousels avg **0.1 comments** — 27× difference
+- Every P3 day must default to Reel, never Carousel. If no video file exists, skip Instagram; publish to other platforms only.
+
+**Declarative hook > question hook on Reels (confirmed):**
+- "I'm building with AI. And I'm not hiding it." → 10.19% ER
+- "DID YOU KNOW A FUNCTIONAL COFFEE WAS CO-CREATED WITH AI?" → 1.30% ER
+- Same topic, same week, same account. 7.8× difference.
+- **Rule:** Never open a Reel with "Did you know" or "Have you ever." Open with a declaration, a confession, or a refusal.
+- **Template confirmed:** "I [action]. And I'm not [hiding/apologizing/pretending]."
+
+**Radical transparency = highest comment engagement in full SM period:**
+- The "build in public / AI-first" angle drove 7 comments — more than all other posts combined.
+- This is not a one-time angle. Activate as a recurring P3 sub-series.
+- Next iterations: AI-generated research validation, AI-assisted ingredient sourcing, showing the actual workflow.
+
+**Reel video file is the only bottleneck:**
+- Pipeline, hooks, captions, and platform fanout are all working.
+- The only thing blocking full Reel execution is the missing `instagram.mp4` before 4am.
+- **Required habit:** Film or generate one Reel video every Sunday night. No video file = no Instagram Reel that week.
+
+**Price anchor correction (effective May 30, 2026):**
+- Price per serving is **$1.19** ($17.90 ÷ 15 servings), not $0.73.
+- Update all future P6 content. Historical posts are not retroactively corrected.
+
+
+### LENS Update — May 25–May 29, 2026
+
+**Patterns confirmed this week:**
+**1. Move Instagram asset preparation to a hard deadline of 6pm the day before publish.**
+Every missed Instagram publish this week was an asset delivery problem, not a content problem. Implement a preflight check: if `instagram.jpg` / `carousel_1.jpg` / `instagram.mp4` are not in the day folder by 6pm the prior evening, trigger a manual alert. Do not let the pipeline run without assets confirmed.
+
+**2. Lead next week's P3 Reel with another declarative confession — but rotate the subject.**
+The "I'm not hiding it" template is confirmed. Next rotation: something the audience would expect a founder to hedge on — pricing, formula limitations, early failures, or the bootstrap reality. Candidate hook: "We can't compete on ad spend. So we're not trying." or "I sell 15 servings for $17.90. That's not a margin flex. Here's why I haven't changed it." Same structure, new confession.
+
+**3. Publish the Day 3 buyer quote carousel to the Instagram feed as a proper post next week.**
+The content is written and strong. It was never seen as a feed post. Buyer social proof (P5) is the closest pillar to purchase intent — losing it to a Story was a structural waste. Republishing it as a carousel next week is not recycling; it is first exposure for the feed audience.
+
+---
+
+**Updated baseline:**
+> Includes all available Instagram data from the Sales Motor period. This week adds 2 posts.
+
+| Format | Posts This Week | Total Posts (SM Period) | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|---|---|---|---|---|---|---|
+| **Reels** | 1 | Est. 4–5 cumulative | ~260–280 (est.) | ~6–8 (est.) | ~2–3 (est.) | ~7–9% (est.) |
+| **Carousels** | 1 | Est. 5–6 cumulative | ~80–110 (est.) | ~2–3 (est.) | ~0.5 (est.) | ~3–5% (est.) |
+
+> **Data integrity note:** Monday May 25 and Tuesday May 26 suffered pipeline failures — no publish confirmations exist and no Instagram analytics were returned for those dates. Friday May 29 published only a CTA Story (no feed post analytics available). Baseline averages for this week are computed from 2 confirmed feed posts. Running Sales Motor averages are estimated — a full baseline reconciliation is recommended once pipeline failures are audited.
+
+---
+
 <!-- LENS_APPEND_END -->
