@@ -53,8 +53,8 @@
 | Pea Protein | Satiety | Functional nutrition, blood sugar stability |
 
 ### Specs
-- Format: 150g resealable pack, ~30 servings
-- Price: $21.90/pack — $0.73/serving
+- Format: resealable pack, 15 servings
+- Price: $17.90/pack — $1.19/serving
 - No sugar, no artificial sweeteners, no fillers, lactose-free
 - Can be used standalone or added to existing coffee ritual
 
@@ -75,6 +75,60 @@
 ### Positioning statement
 > "They say quit coffee. I say upgrade it."
 > Power Coffee is for people who already take their mornings seriously.
+
+---
+
+## Performance Research Library
+
+Use these citations to back copy claims. Always frame with FTC-safe language: "research suggests", "associated with", "studies indicate." Never say "proven", "clinically proven", or "guarantees."
+
+---
+
+### Caffeine & Adenosine — The Crash Mechanism
+
+**Citation:** Fredholm BB, Bättig K, Holmén J, Nehlig A, Zvartau EE. "Actions of caffeine in the brain with special reference to factors that contribute to its widespread use." *Pharmacological Reviews.* 1999;51(1):83–133.
+
+**Key finding:** Caffeine acts primarily as a competitive antagonist of adenosine receptors (A1 and A2A). Adenosine — the molecule responsible for building sleep pressure — continues accumulating while its receptors are blocked. When caffeine clears (half-life ~5 hours), the accumulated adenosine floods back in at once. This is the physiological mechanism behind the caffeine crash — not tolerance, not dependence.
+
+**Content hook:** "Your second cup doesn't hit like the first. That's not tolerance. That's adenosine."
+
+**FTC-safe framing:** "Research suggests caffeine works by temporarily blocking adenosine receptors — and the crash is what happens when it clears."
+
+---
+
+### L-Theanine + Caffeine — Smoother Arc, Fewer Side Effects
+
+**Citation:** Haskell CF, Kennedy DO, Milne AL, Wesnes KA, Scholey AB. "The effects of L-theanine, caffeine and their combination on cognition and mood." *Biological Psychology.* 2008;77(2):113–122.
+
+**Key finding:** The L-theanine + caffeine combination significantly improved speed and accuracy on attention-switching tasks and improved alertness vs caffeine alone. It also reduced self-reported headaches and tiredness associated with caffeine-only use.
+
+**Content hook:** "Matcha's L-theanine doesn't add more energy. It changes the shape of the arc — smoother entry, longer hold, less crash on the other end."
+
+**FTC-safe framing:** "Studies suggest L-theanine combined with caffeine may support sustained alertness with fewer side effects than caffeine alone."
+
+---
+
+### Blood Sugar & Cognitive Performance — The Hidden Crash Driver
+
+**Citation:** Benton D. "Carbohydrate ingestion, blood glucose and mood." *Neuroscience & Biobehavioral Reviews.* 2002;26(3):293–308.
+
+**Key finding:** Blood glucose fluctuations directly affect cognitive performance and mood. Rapid glucose drops — common after high-glycemic food or drink — are associated with impaired attention, slower reaction times, and increased fatigue.
+
+**Content hook:** "Your 10am crash isn't just caffeine. It's blood sugar. The two crashes compound."
+
+**FTC-safe framing:** "Research indicates blood sugar stability is associated with more consistent cognitive performance — which is why the pea protein in Power Coffee is functional, not just nutritional."
+
+---
+
+### Taurine — Neuromodulator, Not Stimulant
+
+**Citation:** Ripps H, Shen W. "Review: taurine: a 'very essential' amino acid." *Molecular Vision.* 2012;18:2673–2686.
+
+**Key finding:** Taurine functions as a neuromodulatory amino acid, modulating GABA receptors and helping regulate neuronal excitability. It does not act as a stimulant — it works to prevent overstimulation and support the nervous system's inhibitory response.
+
+**Content hook:** "Taurine is in Red Bull — but not for the reason you think. It doesn't stimulate. It stops the stimulants from going too far."
+
+**FTC-safe framing:** "Research suggests taurine supports neurological balance, which may contribute to focus without the jittery edge associated with caffeine-only formulas."
 
 ### What NOT to claim (FTC/FDA compliance)
 - No medical claims (does not treat/cure/prevent any disease)
@@ -144,7 +198,7 @@
 | "Under-built coffee" | "Your coffee isn't too much. It's under-built." | Reframes the problem — buyer doesn't need to change habits, just upgrade the formula. Zero friction to trial. |
 | Ironman/family demand stacking | "My formula has to cover training, work, and being present for Gabriel and Helena." | Real stakes + real context. Not aspirational — relatable to anyone splitting their morning between multiple demands. |
 | Red Bull contrast | "Taurine is in Red Bull — but not for the reason you think." | Familiar reference point lowers skepticism. Positions Power Coffee as the clean version of what they already know. |
-| Price anchor | "$0.73 a morning vs $5-6 latte" | Always include. Disarms the price objection before it forms. Proven in P6 CTA content. |
+| Price anchor | "$1.19 a morning vs $5-6 latte" | Always include. Disarms the price objection before it forms. Proven in P6 CTA content. |
 | Day 3 proof | "I was really focused on Day 3." (buyer quote) | Specific timeline removes vagueness. Gives the skeptic a concrete milestone to aim for. |
 
 ### Customer Persona: Julia
@@ -229,4 +283,41 @@ Heavy coffee drinkers who are already caffeinated and still foggy — *"two cups
 
 <!-- LENS_APPEND_START -->
 <!-- LENS writes here. Do not edit manually. Append only. -->
+
+### LENS Update — Week 3 (May 25–29, 2026)
+
+**New conversion angle confirmed: Radical Transparency / AI-First**
+The highest-performing post in the Sales Motor period was not about an ingredient, a pain point, or a price anchor. It was the founder refusing to apologize for using AI. "I'm building this company with AI. And I'm not hiding it." — 10.19% ER, 7 comments (most of any SM post).
+
+Add to Proven Conversion Angles table:
+| Radical transparency / AI-first | "I'm building this company with AI. And I'm not hiding it." | Anti-apology framing disarms the expected skepticism and turns it into credibility. Audience rewards honesty over polish. Drives conversation, not just passive likes. |
+
+**Founder content rule update:**
+The audience responds most to moments when Leo names something uncomfortable and refuses to back down from it. The formula: [uncomfortable truth about how I build / live] + [declarative refusal to apologize]. Apply this to: AI tools, 4:45am training, formula testing, pricing decisions, building without a team.
+
+**Content Hook Performance update (May 27–28, 2026):**
+| Declarative "I'm not hiding it" (Reel) | 10.19% ER | Best ER tied #1 all-time | Always use declarative, never interrogative on Reels |
+| Question "DID YOU KNOW..." (Carousel) | 1.30% ER | Worst carousel ER in SM period | Never open with "Did you know" — audience reads it as ad copy |
+
+
+### LENS Update — May 25–May 29, 2026
+
+**Audience insights:**
+**1. Radical transparency / anti-apology hook outperforms everything.**
+The "I'm not hiding it" Reel hit 10.19% ER — tied all-time best — with 7 comments, the highest comment count in the Sales Motor period. This is now a confirmed repeatable pattern, not a one-time result. The template holds: "I [action that invites judgment]. And I'm not [hiding/apologizing for it]."
+
+**2. Reels consistently outperform Carousels on ER.**
+The May 28 Reel (10.19% ER) outperformed the May 27 Carousel (1.30% ER) by 7.8x in the same week, on the same pillar (P3). This is the second consecutive week this gap has appeared. Reels drive comments and reach; Carousels drive shares and saves. Both have a role — but Reels are the primary ER engine.
+
+**3. Declarative hooks outperform interrogative hooks.**
+"I'm not hiding it" (declarative, 10.19% ER) vs. the carousel's implicit question framing (1.30% ER). Same founder, same week, same pillar. The data continues to confirm: declarations feel like confessions, questions feel like ad copy.
+
+**4. Shopify SEO content published successfully (May 28).**
+The Taurine blog post published to Shopify on May 28 — the only Thursday Shopify post this week. This is an underreported asset. Blog content compounds. The Day 3 Effect post was written Friday but did not publish to Shopify (not a Tuesday or Thursday). Pipeline scheduling needs to be reviewed to ensure SEO content is not lost.
+
+**5. Cross-platform distribution on May 28 was strong where it landed.**
+X, Telegram, WhatsApp, and LinkedIn all confirmed. LinkedIn specifically received the AI transparency post — a high-fit placement for a founder narrative about building a CPG company with AI. That post has strong B2B resonance that Instagram ER alone cannot capture.
+
+---
+
 <!-- LENS_APPEND_END -->
