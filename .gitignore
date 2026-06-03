@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Cloud-sync (iCloud/Dropbox) duplicate-conflict copies, e.g. "jun02_2026 1/"
+*\ 1/
+*\ 1.*
+*\ [0-9]/
+
+# Local scratch
+files.zip
