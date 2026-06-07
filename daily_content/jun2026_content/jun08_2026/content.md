@@ -11,161 +11,163 @@
 
 ## INSTAGRAM
 ### Reel Script
-**HOOK (0-3s):**
-"You've had three coffees today. And you're still exhausted. Why?"
 
-**BODY (3-40s):**
-"Here's what's actually happening. Regular coffee spikes your cortisol, burns through your system in about 45 minutes, and leaves you worse than before you started.
+**Hook (0-3s):**
+"You've had three coffees today. Why are you still exhausted?"
 
-No protein means your blood sugar crashes right after that initial hit. No taurine means your nervous system is overstimulated with nothing to balance it. No matcha means you got one sharp spike — not sustained, smooth energy.
+**Body (3-40s):**
+"Here's what nobody tells you. Regular coffee spikes your cortisol, burns through in under an hour, and leaves you worse than before you started. So you pour another cup. Then another. And by 2pm you're foggy, irritable, and reaching for something — anything — to get through the rest of the day.
 
-So you reach for another cup. Then another. And by 2pm you're running on stress hormones and habit.
+The problem isn't caffeine. It's what your coffee is missing.
 
-This isn't a caffeine problem. It's a formula problem.
+Taurine to calm the overstimulation. Matcha to release energy over four to six hours. Pea protein to stabilize your blood sugar. Ginkgo biloba to keep cerebral blood flow where it needs to be.
 
-Power Coffee adds 5 grams of pea protein, 2 grams of taurine, and matcha-sourced L-theanine to your morning cup. One scoop. Eleven ingredients. Your energy lasts through the work, the calls, the errands — and you don't crash.
-
-Not because we added more caffeine. Because we fixed what was missing."
+That's not a supplement stack. That's one scoop. In your existing coffee. Eleven ingredients. One ritual. No crash."
 
 **CTA (40-45s):**
-"Link in bio. Try it for seven days. Your 2pm self will notice the difference."
+"Link in bio. Try it for seven days. Then come back and tell me I'm wrong."
+
+---
 
 ### Caption
-Three coffees in and still hitting a wall by 2pm.
+Three coffees. Still crashing by 2pm.
 
 That's not a willpower problem. That's a formula problem.
 
-Regular coffee gives you a cortisol spike and a crash. No protein. No taurine. Nothing to hold the energy steady.
+Your regular coffee was never built for the kind of day you're trying to have.
 
-One scoop of Power Coffee adds what's missing — 5g pea protein, 2g taurine, matcha L-theanine.
-
-Same ritual. Better result.
+One scoop changes the equation.
+11 ingredients. Clean energy. No crash.
 
 Link in bio → try it for 7 days.
 
 ### Hashtags
-#functionalcoffee #cleanenergy #morningroutine #coffecrash #biohacking #powercoffee #thefirstwin #workfromhome #nootropics #energywithoutcrash #highperformance #focusfuel
+#functionalcoffee #cleanenergy #morningroutine #nocrash #biohacking #powercoffee #thefirstwin #workdayenergy #focusfuel #coffeeaddict #highperformance #sustainableenergy
 
 ---
 
 ## X.COM
 ### Post
-You're not tired because you need more caffeine. You're tired because your coffee was never built to last. There's a difference.
+Three coffees and you're still crashing at 2pm. That's not a caffeine problem. That's a formula problem.
+
+---
 
 ### Thread
-Post 1: You've had 3 coffees today. You're still crashing by 2pm. This isn't a caffeine problem. It's a formula problem.
+Post 1: Three coffees. Still exhausted by 2pm. I've been there. Here's why your coffee is failing you — and what I did about it.
 
-Post 2: Regular coffee does one thing: spike cortisol. Fast. Hard. Then it's gone. No protein to stabilize blood sugar. No taurine to buffer overstimulation. No slow-release energy source. Just a spike and a drop.
+Post 2: Regular coffee spikes cortisol fast and burns out faster. No protein to stabilize blood sugar. No buffer for the crash. You're not tired because you're weak. You're tired because your coffee was designed for a 45-minute lift, not a full day.
 
-Post 3: Research on L-theanine + caffeine stacking shows smoother cognitive performance and lower cortisol spikes vs. caffeine alone. Taurine at 2g/day is associated with reduced oxidative stress and better neural regulation. Pea protein blunts the glycemic response that causes mid-morning energy drops.
+Post 3: Studies on L-theanine + caffeine show significantly smoother, longer energy curves than caffeine alone. Add 2g taurine for neuromodulation and 5g pea protein for blood sugar stability — the crash profile changes completely.
 
-Post 4: These aren't experimental ingredients. They're well-studied. The problem is nobody put them in your coffee. So you keep drinking more of something that was never designed to sustain you — and wondering why it isn't working.
+Post 4: I spent two years testing this. 5 formula versions. Hundreds of adjustments. The result is 11 ingredients that go into your existing coffee — not a replacement, a booster. Built for people who need to perform all day, not just the first hour.
 
-Post 5: We put all three in Power Coffee. 11 ingredients. One scoop into your existing brew. No new routine. No crash. Try it: [link]
+Post 5: Seven days. That's all I ask. Link → [thepowercoffee.com]
 
 ---
 
 ## LINKEDIN
 ### Post
-Most people I talk to drink two or three coffees before noon.
 
-Not because they love coffee that much. Because the first one stopped working.
+Three coffees before noon and still foggy by 2pm.
 
-I used to do the same thing. I thought the answer was more caffeine. It wasn't.
+That used to be my Tuesday.
 
-The answer was looking at what regular coffee is missing entirely: protein to stabilize blood sugar, taurine to regulate overstimulation, and a slow-release energy source that doesn't burn out in 45 minutes.
+I didn't think it was a product problem. I thought it was a me problem — not enough sleep, too much stress, not disciplined enough.
 
-When I was formulating Power Coffee, this was the core problem I wanted to solve. Not "how do we make coffee stronger." But "why does it fail people by mid-morning, and what fills that gap."
+Turns out it was a formula problem.
 
-The result was 11 ingredients in one scoop. Not a replacement for your coffee ritual. An upgrade to it.
+Regular coffee delivers caffeine. Full stop. No taurine to buffer the overstimulation. No protein to keep blood sugar stable. No matcha to extend the energy curve past the first hour.
 
-The crash most people accept as normal is actually optional.
+So you reach for another cup. Then another. And the crash just compounds.
 
-I've seen it change for hundreds of customers in the last year. And for me, personally, for 550+ days running.
+That's what drove me to spend two years building something different.
 
-What's the one thing about your morning energy you wish worked differently?
+11 ingredients in one scoop. Goes into your existing coffee. No new routine required.
+
+I'm not saying it solves everything. But I haven't had a 2pm crash since I started drinking my own product daily — and that's not a coincidence.
+
+If you're still running on three cups and hoping for the best, I'd ask you this: when did "barely getting through" become the standard you're willing to accept?
 
 ---
 
 ## TELEGRAM
 ### Message
-Real question for you: how many coffees do you actually drink before noon?
 
-Most people I hear from say 2 or 3 — not because they want more coffee, but because the first one stopped working. That's not a caffeine issue. That's a missing-ingredient issue. Protein, taurine, L-theanine — none of them are in your regular brew.
-
-That's exactly the gap Power Coffee was built to close. One scoop, and you stop chasing the next cup.
+Real talk — if you're pouring your third coffee before lunch and still dragging by 2pm, the problem isn't you. Your coffee just wasn't built to carry you through the kind of day you're actually trying to have. That's exactly why Power Coffee exists. One scoop in what you're already drinking. Give it a week and see what a full day of clean energy actually feels like.
 
 ---
 
 ## SHOPIFY BLOG
 ### Title
-Why Your Coffee Stops Working by 10AM (And What's Actually Missing From It)
+Why You're Still Exhausted After Three Cups of Coffee (And What's Actually Missing)
 
 ### Body
-## The Crash Is Not Your Fault
 
-You made the coffee. You drank the coffee. You still hit a wall by mid-morning.
+## The 2pm Crash Isn't a Willpower Problem
 
-If this sounds familiar, you're not alone — and the problem isn't your willpower or your caffeine tolerance. It's your formula.
+If you've ever poured a third cup of coffee before noon and still found yourself foggy, irritable, and barely functional by mid-afternoon — you're not alone, and you're not weak.
 
-Regular coffee was designed to deliver caffeine. That's it. What happens after the caffeine hits is where the system breaks down.
+You're just working with an incomplete tool.
 
 ## What Regular Coffee Actually Does to Your Body
 
-Caffeine triggers a cortisol spike. Your heart rate rises, your focus sharpens, and for about 30 to 45 minutes, you feel locked in. Then cortisol drops, blood sugar follows, and your brain starts looking for the next hit.
+Standard coffee delivers caffeine and not much else. Caffeine works by blocking adenosine receptors — the chemical signal that tells your brain it's tired. The result is a fast, sharp energy spike. The problem is what comes next.
 
-This is why the second cup becomes a habit. Then the third. You're not energized — you're chasing a baseline you can't hold.
+With no protein to stabilize blood sugar, no adaptogenic buffer for cortisol, and no sustained-release mechanism, that spike drops hard. Your body floods with adenosine the moment caffeine clears, leaving you more fatigued than before you started.
 
-## The Three Things Missing From Your Morning Cup
+So you pour another cup. The cycle continues.
 
-**Protein.** Without it, your blood sugar spikes and crashes alongside the caffeine. Even 5 grams of pea protein is enough to blunt that glycemic response and keep energy stable.
+## The Ingredients Your Coffee Is Missing
 
-**Taurine.** This amino acid is a neuromodulator — it balances excitatory signals in the brain so you get focus without overstimulation. Most energy drinks include it, but rarely at effective doses alongside quality ingredients.
+Research points to a few key compounds that change this pattern entirely:
 
-**L-Theanine from Matcha.** When paired with caffeine, L-theanine extends the energy curve and removes the jittery edge. Studies consistently show the combination outperforms caffeine alone for sustained cognitive performance.
+**L-theanine and matcha** — when paired with caffeine, studies show a significantly smoother energy curve with reduced jitteriness and improved focus duration.
 
-## The Upgrade Your Ritual Needs
+**Taurine** — a neuromodulator that calms overactive neurons without causing drowsiness. Used in nearly every energy drink for a reason, but rarely dosed correctly or paired intelligently.
 
-Power Coffee adds all three — plus eight additional functional ingredients — into a single scoop that mixes directly into your existing brew.
+**Pea protein** — 5 grams slows glucose absorption and prevents the blood sugar spike-and-crash that amplifies afternoon fatigue.
 
-Same ritual. No new habit to build. No extra supplements to manage.
+**Ginkgo biloba** — supports cerebral circulation, helping maintain cognitive sharpness through the back half of your day.
 
-If your coffee is failing you by 10am, it's not you. It's the formula. [Try Power Coffee here and see what a full morning of clean energy actually feels like.](https://www.thepowercoffee.com)
+## One Scoop. Your Existing Coffee. Different Day.
+
+Power Coffee was built specifically to address what regular coffee leaves out. Not a replacement — a precision upgrade. Eleven ingredients, one ritual, no crash.
+
+If your afternoons have been running on fumes, [try Power Coffee for seven days →](https://www.thepowercoffee.com) and see what a complete formula actually feels like.
 
 ### Image Prompt
-A man in his early 40s seated at a clean home office desk, one hand resting on a keyboard, the other wrapped around a dark ceramic mug. He is mid-thought, eyes forward, calm and focused. Soft natural light coming from a window to his left. Warm wood tones in the desk and shelves. A matte black bag of coffee product sits slightly out of focus on the shelf behind him. No text in frame. Shallow depth of field. Warm cream and espresso brown color palette. Cinematic lifestyle photography feel. Portrait orientation 4:5.
+A man in his early 40s sitting at a minimal home office desk, one hand on a laptop keyboard, the other wrapped around a dark ceramic mug. Late morning natural light from a window at his side casts warm shadows across the desk. A matte black bag of coffee product sits slightly out of focus in the background on a shelf. The expression is focused, composed — not stressed. Warm espresso and cream tones throughout. Shallow depth of field. No text in frame. Shot from slightly above at a 3/4 angle. Aspect ratio 16:9. --ar 16:9
 
 ---
 
 ## EMAIL
 ### Subject Line
-Why 3 coffees still aren't working
+Why 3 coffees still aren't enough
 
 ### Preview Text
-It's not your tolerance. Here's what your morning brew is actually missing.
+It's not how much you drink. It's what's missing from every cup.
 
 ### Body
-Hey,
 
-Quick question: how many coffees do you drink before noon?
+Hey —
 
-If the honest answer is two or three — not because you love the taste, but because the first one ran out — this is worth 60 seconds of your time.
+If you're like most people I talk to, you're not under-caffeinated.
 
-Regular coffee delivers caffeine. Fast. Hard. And then it's gone.
+You're having two, three, sometimes four cups a day — and still hitting a wall by early afternoon.
 
-No protein means your blood sugar crashes with it. No taurine means your brain is overstimulated with nothing to balance it. No L-theanine means no sustained curve — just a spike and a drop you're constantly chasing.
+That's not a caffeine problem. That's a formula problem.
 
-This is the exact problem I built Power Coffee to solve. One scoop into your existing brew adds 5g pea protein, 2g taurine, matcha, ginkgo, and six more functional ingredients.
+Regular coffee was never designed for the kind of day you're trying to have. No protein to stabilize blood sugar. No taurine to buffer the crash. No sustained-release mechanism to carry you past hour two.
 
-You don't change your routine. You upgrade it.
+So the energy spikes. Then it drops. And you pour another cup hoping this one will finally hold.
 
-The crash you've been accepting as normal? It's not inevitable.
+Power Coffee fixes the formula. One scoop in your existing brew — 11 ingredients, including 2g taurine, matcha, pea protein, and ginkgo biloba. Clean energy that actually lasts through meetings, workouts, and everything in between.
 
-**[Try Power Coffee — link here]**
+No new routine. No crash. Just a complete cup.
+
+**→ [Try it for 7 days — thepowercoffee.com](https://www.thepowercoffee.com)**
 
 — Leo
-
-*Not intended to diagnose, treat, cure, or prevent any disease. Individual results vary.*
 
 ---
 
@@ -183,7 +185,7 @@ cinematic_studio_3_0
 15
 
 ### Prompt
-A man in his early 40s sits at a minimal home office desk, staring at dual monitors, visibly fatigued — eyes heavy, one hand rubbing his forehead. An empty coffee mug sits at the edge of the desk. He exhales slowly. Cut to: the same man standing at his kitchen counter in the early morning, spooning dark powder from a matte black bag into a ceramic mug, focused and deliberate. Back to the desk: he sits straighter now, typing with purpose, mug in hand, expression calm and locked in. Warm window light throughout — dawn kitchen transitioning to mid-morning office. Camera moves with a slow push-in on the desk scene, handheld and slightly organic on the kitchen scene. Color grade: warm cream and espresso brown tones, slightly desaturated in fatigue moment, richer and warmer after the coffee moment. Mood: quiet transformation, not dramatic — real and grounded. No text overlays. No graphics. No staged product hero shots. Product bag visible naturally on counter as a prop.
+A man in his early 40s sits at a clean home office desk in the late morning. He reaches for a ceramic mug with both hands, takes a slow sip, and settles back slightly — a subtle shift from tension to composure. A matte black coffee bag sits on the shelf behind him, soft and out of focus. The second half of the shot pushes slowly toward his face as he turns back to his laptop with quiet focus. Warm natural side light from a window. Handheld camera with a slow, almost imperceptible push-in. Color grade: warm espresso browns, cream tones, slight desaturation. Mood: purposeful calm, not performative. Authentic and unhurried. No text overlays. No graphics in frame.
 
 ---
 
@@ -222,12 +224,25 @@ function addRect(parent, x, y, w, h, color, opacity) {
   return r;
 }
 
+// Font map — matches make_carousel.py (Pillow) rendering
+// Headlines/body → Georgia | Labels/pills/footer → Arial
+function _fontFor(weight) {
+  if (weight === "Black Italic" || weight === "Bold Italic") { return { family: "Georgia", style: "Bold Italic" }; }
+  if (weight === "Black" || weight === "Bold" && false)      { return { family: "Georgia", style: "Bold" }; }
+  if (weight === "Italic" || weight === "Regular Italic")    { return { family: "Georgia", style: "Italic" }; }
+  // Labels, overlines, pills, footer, counter use Arial
+  if (weight === "Bold")    { return { family: "Arial", style: "Bold" }; }
+  if (weight === "Regular") { return { family: "Georgia", style: "Regular" }; }
+  return { family: "Arial", style: weight };
+}
+
 async function addText(parent, txt, x, y, w, size, weight, color, align, lineH) {
   if (align === undefined) { align = "LEFT"; }
   if (lineH === undefined) { lineH = 1.05; }
-  await figma.loadFontAsync({ family: "Inter", style: weight });
+  var fn = _fontFor(weight);
+  await figma.loadFontAsync(fn);
   var t = figma.createText();
-  t.fontName = { family: "Inter", style: weight };
+  t.fontName = fn;
   t.characters = txt;
   t.fontSize = size;
   t.textAlignHorizontal = align;
@@ -277,14 +292,14 @@ async function buildSlide(data, offsetX) {
     var pillX = 64;
     for (var j = 0; j < data.pills.length; j++) {
       var pill = data.pills[j];
-      await figma.loadFontAsync({ family: "Inter", style: "Bold" });
+      await figma.loadFontAsync({ family: "Arial", style: "Bold" });
       var pf = figma.createFrame();
       pf.resize(160, 36); pf.x = pillX; pf.y = divY + 20;
       pf.fills = [{ type: "SOLID", color: col("BROWN"), opacity: 0.25 }];
       pf.cornerRadius = 0;
       frame.appendChild(pf);
       var pt = figma.createText();
-      pt.fontName = { family: "Inter", style: "Bold" };
+      pt.fontName = { family: "Arial", style: "Bold" };
       pt.characters = pill; pt.fontSize = 10;
       pt.textAlignHorizontal = "CENTER";
       pt.fills = [{ type: "SOLID", color: col("CREAM") }];
