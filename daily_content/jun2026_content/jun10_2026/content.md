@@ -62,27 +62,33 @@ Post 5: The result is Power Coffee. 11 ingredients. ~175mg caffeine. 5g protein.
 
 ## LINKEDIN
 ### Post
-I'm not a nutritionist.
+My brand publishes content every morning at 4am.
 
-I'm not a food scientist.
+I'm usually asleep.
 
-I'm a founder who was exhausted — and couldn't find a product built for the way I actually live.
+It monitors competitors while I train. It briefs me before my first coffee. It writes, formats, and schedules posts across every platform — without me touching a single thing.
 
-5am training sessions. Back-to-back calls. Kids at the door by 7.
+I built this as a solo founder with no team, no agency, no budget for either.
 
-Regular coffee worked for 45 minutes. Then it didn't.
+What it replaced wasn't just time. It was the mental load. The Sunday anxiety of "what do I post this week." The creative blocks at 6am. The feeling that the brand only moved when I pushed it.
 
-So I started reading. Research papers on taurine, matcha, ginkgo, pea protein. I used AI to stress-test ingredient combinations I never would have found on my own. Then I tested everything on myself.
+Now it moves on its own.
 
-Not once. For two years.
+Building it wasn't fast. It took months of iteration, failed automations, and learning to think in systems instead of tasks. There were weeks where I spent more time building the engine than running the business.
 
-The product I built isn't built for a customer avatar. It's built for my actual morning. That turned out to matter.
+But here's what I didn't expect: once the system was running, I stopped thinking like a content creator and started thinking like a CEO.
 
-Founders who use their own product daily have an unfair advantage. You feel every flaw. Every win. There's no hiding from the feedback.
+That shift changed everything.
 
-Power Coffee exists because I needed it before anyone else did.
+The honest limitation: AI handles execution well. It doesn't replace judgment. The calls that matter — what the brand stands for, what we won't say, where we're going — those are still mine to make. The system is only as good as the thinking that built it.
 
-Does your product solve your own problem first — or did you build it for someone else?
+For founders building lean: AI isn't a shortcut. It's a multiplier. But only if you're clear on what you're multiplying.
+
+How are you using AI in your business — and what surprised you most?
+
+Leo, Founder — The Power Coffee
+
+#ai #founders #entrepreneurship #aitools #brandbuilding
 
 ---
 
@@ -95,6 +101,7 @@ Wednesday morning check-in ☕
 If you're wondering whether this stuff actually works — I've been the test case for two years. Every batch. Every tweak. Every morning.
 
 That's not a marketing line. That's just how it happened. Try it if you haven't. You'll feel the difference by day three.
+www.thepowercoffee.com
 
 ---
 
