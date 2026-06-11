@@ -26,7 +26,7 @@
         "pillar": "belief_shifting",
         "title": "Your crash isn't caffeine. It's blood sugar.",
         "angle": "Reframe the 11am energy collapse from a caffeine problem to a glucose problem, then reveal the functional ingredient that addresses the root cause.",
-        "selected": false,
+        "selected": true,
         "is_theme": false
       },
       {
@@ -56,7 +56,7 @@
         "pillar": "belief_shifting",
         "title": "Energy drinks are a symptom, not a solution.",
         "angle": "The reason people reach for a second Red Bull at 3pm is a formulation failure, not a willpower failure — here's what functional coffee fixes differently.",
-        "selected": false,
+        "selected": true,
         "is_theme": false
       },
       {
@@ -114,7 +114,7 @@
         "pillar": "prova",
         "title": "A review stopped me mid-scroll this week.",
         "angle": "Story-framed social proof — a specific buyer quote with a timeline arc that mirrors the skeptic-to-convert journey, told as a founder reflection rather than a headline ad.",
-        "selected": false,
+        "selected": true,
         "is_theme": false
       },
       {
@@ -158,7 +158,7 @@
         "pillar": "prova",
         "title": "Real buyer. Day 3. Something shifted.",
         "angle": "Drop a specific buyer message with commentary — the 'Day 1 skeptical, Day 3 something shifted' quote pattern that validates slow conversion and removes the instant-results objection.",
-        "selected": false,
+        "selected": true,
         "is_theme": false
       }
     ],
@@ -167,7 +167,7 @@
         "pillar": "autoridade",
         "title": "Functional coffee vs energy drinks: the real difference.",
         "angle": "A comprehensive ingredient-level comparison that positions Power Coffee in a whitespace neither traditional coffee nor energy drinks occupy — the definitive category explainer.",
-        "selected": false,
+        "selected": true,
         "is_theme": false
       },
       {
@@ -223,9 +223,9 @@
       },
       {
         "pillar": "autoridade",
-        "title": "$0.73 a morning. The math that changes everything.",
-        "angle": "Price-anchor email that walks through the real daily cost comparison against a coffee shop habit, reframing Power Coffee as the financially rational premium choice, not a luxury.",
-        "selected": false,
+        "title": "$1.19 a morning. The math that changes everything.",
+        "angle": "Price-anchor email that walks through the real daily cost comparison against a coffee shop habit, reframing Power Coffee as the financially rational daily choice, not a luxury.",
+        "selected": true,
         "is_theme": false
       },
       {
@@ -237,5 +237,13 @@
       }
     ]
   },
-  "approved": false
+  "approved": false,
+  "channel_focus": {
+    "ig": "Conteúdo que gere interesse",
+    "x": "Conteúdo que gere atenção",
+    "li": "Conteúdo que gere interesse",
+    "tg": "",
+    "blog": "Conteudo Científico",
+    "em": "Conteúdo que gere interesse"
+  }
 }
