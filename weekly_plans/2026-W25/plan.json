@@ -19,31 +19,36 @@
         "pillar": "prova",
         "title": "Day 1 skeptic. Day 7 convert. Real timeline.",
         "angle": "A buyer's honest 7-day arc — from doubt to daily habit — dismantles the 'what if it doesn't work fast' objection before it forms.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "belief_shifting",
         "title": "Your crash isn't caffeine. It's blood sugar.",
         "angle": "Reframe the 11am energy collapse from a caffeine problem to a glucose problem, then reveal the functional ingredient that addresses the root cause.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "pessoal",
         "title": "Two hours before the world wakes up.",
         "angle": "Leo's pre-dawn Ironman training routine shows why the coffee he drinks has to work — because the stakes are a full day of work plus two kids who need a present dad.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "autoridade",
         "title": "The tree that survived a nuclear blast.",
         "angle": "Ginkgo biloba's Hiroshima survival story hooks curiosity, then delivers the science behind why resilience at the cellular level matters in a focus formula.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "prova",
         "title": "$0.73 a morning. Real focus. No crash.",
         "angle": "Side-by-side price math against the daily latte disarms the cost objection instantly and anchors Power Coffee as the smarter daily investment.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       }
     ],
     "x": [
@@ -51,31 +56,36 @@
         "pillar": "belief_shifting",
         "title": "Energy drinks are a symptom, not a solution.",
         "angle": "The reason people reach for a second Red Bull at 3pm is a formulation failure, not a willpower failure — here's what functional coffee fixes differently.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "autoridade",
         "title": "Why I built the formula around the crash.",
         "angle": "A short framework post on how designing backward from the 2pm crash — instead of forward from the morning boost — changed every ingredient decision in Power Coffee.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "prova",
         "title": "430 mornings. Same formula. Here's why.",
         "angle": "Specificity + anti-marketing framing: Leo hasn't switched formulas in over a year not because it's his product, but because the data in his own body keeps confirming it works.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "pessoal",
         "title": "Building in public means showing the ugly days.",
         "angle": "A candid thread on a week where the pipeline broke, two posts failed to publish, and what Leo learned about consistency being the actual product at this stage.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "autoridade",
         "title": "Functional coffee is not a category yet. Yet.",
         "angle": "Industry POV on why 'functional coffee' sits in a whitespace between supplements and specialty coffee — and why that gap is a timing advantage, not a risk.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       }
     ],
     "li": [
@@ -83,31 +93,36 @@
         "pillar": "pessoal",
         "title": "I spent two years formulating this coffee.",
         "angle": "Founder-narrated ingredient science with real personal stakes — the Brazilian entrepreneur who couldn't find a coffee that held up through founder hours, so he built it himself.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "autoridade",
         "title": "What CPG founders get wrong about energy.",
         "angle": "Industry framework post on how most functional beverage brands optimize for the marketing claim rather than the mechanism, and the formulation discipline that separates lasting brands.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "belief_shifting",
         "title": "Caffeine is not the active ingredient. Timing is.",
         "angle": "Reframe for a professional audience: the reason smart people still crash mid-afternoon isn't dosage, it's the absence of co-factors that regulate absorption and blood sugar response.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "prova",
         "title": "A review stopped me mid-scroll this week.",
         "angle": "Story-framed social proof — a specific buyer quote with a timeline arc that mirrors the skeptic-to-convert journey, told as a founder reflection rather than a headline ad.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "pessoal",
         "title": "I'm building this with AI. Not hiding it.",
         "angle": "Radical transparency post on using AI as a co-builder in a CPG startup — disarms skepticism by naming it first, then explaining what human judgment AI cannot replace in formulation and brand.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       }
     ],
     "tg": [
@@ -115,31 +130,36 @@
         "pillar": "prova",
         "title": "This week's numbers. Unfiltered.",
         "angle": "A behind-the-dashboard drop for the community — real reach, real ER, what worked and what flatlined, because building in public means sharing the spreadsheet, not just the wins.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "pessoal",
         "title": "Leo's Monday morning. Before anything else.",
         "angle": "A short personal note sent early Monday on what the pre-dawn routine looks like this week — Ironman training block, coffee, 10 minutes of stillness before the inbox opens.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "belief_shifting",
         "title": "Why I stopped drinking regular coffee at 35.",
         "angle": "Leo's personal reframe on the moment he realized his daily coffee was the source of the afternoon fog, not the solution — the origin story of the formula told in first person.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "autoridade",
         "title": "The 3-ingredient framework behind every functional formula.",
         "angle": "A simple teachable framework the community can apply: every functional coffee ingredient either extends energy, smooths the curve, or protects the brain — and how Power Coffee maps to all three.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "prova",
         "title": "Real buyer. Day 3. Something shifted.",
         "angle": "Drop a specific buyer message with commentary — the 'Day 1 skeptical, Day 3 something shifted' quote pattern that validates slow conversion and removes the instant-results objection.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       }
     ],
     "blog": [
@@ -147,31 +167,36 @@
         "pillar": "autoridade",
         "title": "Functional coffee vs energy drinks: the real difference.",
         "angle": "A comprehensive ingredient-level comparison that positions Power Coffee in a whitespace neither traditional coffee nor energy drinks occupy — the definitive category explainer.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "prova",
         "title": "What ginkgo biloba actually does to your focus.",
         "angle": "Deep-dive ingredient science post anchored by the Hiroshima survival hook, walking through the peer-reviewed mechanism behind ginkgo's cognitive effects at functional doses.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "belief_shifting",
         "title": "Your 2pm crash is a formulation problem, not yours.",
         "angle": "Reframe piece that shifts blame from willpower and sleep habits to the absence of blood-sugar-stabilizing co-factors in standard coffee — with Power Coffee's approach as the solution architecture.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "pessoal",
         "title": "430 mornings: what I learned drinking my own formula.",
         "angle": "Leo's personal longitudinal self-experiment — what changed, what didn't, what surprised him, and why a founder who drinks his own product every day is the most honest quality signal.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "autoridade",
         "title": "How to read a functional coffee label like a founder.",
         "angle": "An educational framework for consumers on dose thresholds, proprietary blend red flags, and the three questions to ask before buying any functional beverage — with Power Coffee as the transparent benchmark.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       }
     ],
     "em": [
@@ -179,32 +204,38 @@
         "pillar": "prova",
         "title": "Day 1 skeptic. Day 7 subscriber. Read this.",
         "angle": "Email anchored in a real buyer's 7-day arc — slow, honest, no miracle claims — that mirrors subscriber resistance and resolves it through a peer's lived progression.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "belief_shifting",
         "title": "The crash isn't caffeine. Here's proof.",
         "angle": "A direct, science-backed email reframing the afternoon energy collapse as a blood sugar and co-factor issue, not a caffeine dosage issue — with the ingredient reveal as the payoff.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "pessoal",
         "title": "What I tell my kids this coffee is for.",
         "angle": "A personal, faith-and-family-grounded email from Leo explaining that the formula isn't about performance for its own sake — it's about being present for the people who matter most.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "autoridade",
         "title": "$0.73 a morning. The math that changes everything.",
         "angle": "Price-anchor email that walks through the real daily cost comparison against a coffee shop habit, reframing Power Coffee as the financially rational premium choice, not a luxury.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       },
       {
         "pillar": "prova",
         "title": "430 mornings. I'm still drinking it. Here's why.",
         "angle": "Founder-credibility email using specificity and anti-marketing framing — the number 430 does the work, and 'not for content' closes the trust gap with skeptical readers.",
-        "selected": false
+        "selected": false,
+        "is_theme": false
       }
     ]
-  }
+  },
+  "approved": false
 }
