@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -23,7 +23,7 @@ No taste. No color. Just invisible powder that supposedly does something.
 
 Power Coffee doesn't work like that.
 
-When you add it to black coffee — and I mean actual black coffee, no milk, no sugar — the flavor changes. You notice it immediately. Bolder. Earthier. A hint of cinnamon. A slight matcha undertone that cuts through the bitter.
+When you add it to black coffee — and I mean actual black coffee, no milk, no sugar — the flavor changes. You notice it immediately. Bolder. A hint of cinnamon.
 
 Some people taste it on day one and say: wait, what is that.
 
@@ -72,11 +72,9 @@ Power Coffee changes the taste of your black coffee.
 
 That's cinnamon, matcha, ginkgo — at real doses. Real ingredients have flavor. That's the point.
 
+thepowercoffee.com
+
 ---
-
-### Thread
-
-Post 1:
 Hot take: if your "functional coffee" tastes like regular coffee, you should be skeptical about what's actually in it.
 
 Post 2:
@@ -134,6 +132,8 @@ I kept the flavor honest on purpose. Real ingredients at real doses taste like s
 Try it in black coffee this weekend. No milk. No sugar. Just the scoop.
 
 You'll know exactly what's in it.
+
+→ thepowercoffee.com
 
 ---
 
