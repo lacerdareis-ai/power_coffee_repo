@@ -2,60 +2,60 @@
 
 **Status:** PENDING  |  **Approved:** ⬜
 
-**Vlog theme:** What you build when no one's watching becomes the brand everyone trusts.
+**Vlog theme:** Building in public means showing the week before the results exist.
 
-- **Mon**: Leo films his 5am kitchen — coffee brewing, training shoes already on — and says quietly: 'The week starts before anyone sees it. That's always been the point.'
-- **Tue**: Standing at his desk after a morning of formulation notes, Leo holds up the Power Coffee bag and says: 'Two years of mornings went into this bag. I want to show you what that actually looked like.'
-- **Wed**: Leo walks through a single ingredient — ginkgo — and explains calmly: 'There's a tree that survived Hiroshima. That story is in your cup. I didn't put it there for marketing. I put it there because it works.'
-- **Thu**: After school pickup, Leo films himself briefly with Gabriel and Helena in the background and says: 'The reason I care about the 2pm crash isn't productivity. It's this. I want to be here when I'm here.'
-- **Fri**: Leo opens his laptop to show the week's content numbers — no filter — and says: 'Pipeline broke twice this week. Two posts didn't go out. The lesson isn't about content. It's about building the system before you need it.'
-- **Sat**: On a long training run, Leo records a short voice note afterward and says: 'Ironman prep and building a company are the same discipline — you don't get credit for the work you skip on hard days.'
-- **Sun**: Leo closes the week sitting quietly, coffee in hand, and says: 'This week wasn't perfect. But we showed up every day. That's the only metric that compounds. See you Monday.'
+- **Mon**: Leo starts the week at 5am, formula in hand, walking through exactly what this week needs to accomplish — one product goal, one content goal, one family commitment — nothing more.
+- **Tue**: He films the formulation notes on his desk, explaining one ingredient decision he almost reversed during R&D, because the audience deserves to know the build wasn't clean.
+- **Wed**: Mid-week check-in from wherever the day landed — a corner of the office, a car park after training — honest about what is ahead of plan and what is not.
+- **Thu**: Leo talks directly to the camera about the hardest part of building a CPG brand: the gap between knowing the product works and finding the people who need to hear it.
+- **Fri**: He shares one real customer message received this week, reads it without commentary for ten seconds, then says quietly: 'This is why the formula exists.'
+- **Sat**: Weekend morning with Gabriel and Helena briefly in frame — Leo explains that the energy to be present for this is the actual product promise, not a marketing line.
+- **Sun**: Leo closes the week with one honest sentence about what he learned, one thing he is carrying into next week, and a reminder that the build is slow and that is exactly right.
 
-## Instagram — Conteúdo que gere interesse
+## Instagram
   🎯 Theme: *(not selected)*
-⬜ 1. [prova] **Day 1 skeptic. Day 7 convert. Real timeline.** — A buyer's honest 7-day arc — from doubt to daily habit — dismantles the 'what if it doesn't work fast' objection before it forms.
-✅ 2. [belief_shifting] **Your crash isn't caffeine. It's blood sugar.** — Reframe the 11am energy collapse from a caffeine problem to a glucose problem, then reveal the functional ingredient that addresses the root cause.
-⬜ 3. [pessoal] **Two hours before the world wakes up.** — Leo's pre-dawn Ironman training routine shows why the coffee he drinks has to work — because the stakes are a full day of work plus two kids who need a present dad.
-⬜ 4. [autoridade] **The tree that survived a nuclear blast.** — Ginkgo biloba's Hiroshima survival story hooks curiosity, then delivers the science behind why resilience at the cellular level matters in a focus formula.
-⬜ 5. [prova] **$0.73 a morning. Real focus. No crash.** — Side-by-side price math against the daily latte disarms the cost objection instantly and anchors Power Coffee as the smarter daily investment.
+⬜ 1. [prova] **Day 1 Skeptical. Day 7 Converted.** — Open with a buyer's resistance arc quote — 'day one I didn't feel anything' — then reveal the day-7 shift to make skeptics feel seen before they object.
+⬜ 2. [belief_shifting] **Your 2pm Crash Is Not Tiredness** — Hook with the blood-sugar mechanism most people misread as fatigue, then reframe Power Coffee as a metabolic tool, not an energy drink.
+⬜ 3. [autoridade] **Why I Chose Adaptogens Over More Caffeine** — Teach the formulation decision — more caffeine accelerates the crash, adaptogens extend the curve — so followers leave with a framework, not just a product claim.
+⬜ 4. [pessoal] **Two Hours Before My Family Wakes** — Show the pre-dawn routine — Ironman prep, formula in hand, house still dark — so the audience connects the product to real stakes, not a lifestyle pose.
+⬜ 5. [prova] **The Tree That Outlived Everything** — Lead with the nuclear-blast Ginkgo survival hook, then land on what that resilience mechanism does inside your cup by 9am.
 
-## X — Conteúdo que gere atenção
+## X
   🎯 Theme: *(not selected)*
-✅ 1. [belief_shifting] **Energy drinks are a symptom, not a solution.** — The reason people reach for a second Red Bull at 3pm is a formulation failure, not a willpower failure — here's what functional coffee fixes differently.
-⬜ 2. [autoridade] **Why I built the formula around the crash.** — A short framework post on how designing backward from the 2pm crash — instead of forward from the morning boost — changed every ingredient decision in Power Coffee.
-⬜ 3. [prova] **430 mornings. Same formula. Here's why.** — Specificity + anti-marketing framing: Leo hasn't switched formulas in over a year not because it's his product, but because the data in his own body keeps confirming it works.
-⬜ 4. [pessoal] **Building in public means showing the ugly days.** — A candid thread on a week where the pipeline broke, two posts failed to publish, and what Leo learned about consistency being the actual product at this stage.
-⬜ 5. [autoridade] **Functional coffee is not a category yet. Yet.** — Industry POV on why 'functional coffee' sits in a whitespace between supplements and specialty coffee — and why that gap is a timing advantage, not a risk.
+⬜ 1. [belief_shifting] **Energy Drinks Solve the Wrong Problem** — Declare that energy drinks treat low energy when the real problem is unstable energy — one sentence reframe that invites replies and shares.
+⬜ 2. [autoridade] **The Formulation Rule I Never Break** — Share one non-negotiable from the lab — never layer two stimulants without a buffer — as a short framework thread that positions Leo as a builder with standards.
+⬜ 3. [prova] **$0.73 Morning. No Crash. Do The Math.** — Run the price-math comparison against a daily latte in three lines, letting the arithmetic disarm the cost objection before anyone types it.
+⬜ 4. [pessoal] **I'm Building This Company In Public** — Declarative confession — 'I share the losses too' — using the radical-transparency pattern to drive comments from founders who recognize the honesty.
+⬜ 5. [autoridade] **What Two Years of Formulation Taught Me** — Three hard lessons from R&D — one ingredient that failed, one that surprised, one that defined the product — structured as a tight numbered post.
 
-## LinkedIn — Conteúdo que gere interesse
+## LinkedIn
   🎯 Theme: *(not selected)*
-⬜ 1. [pessoal] **I spent two years formulating this coffee.** — Founder-narrated ingredient science with real personal stakes — the Brazilian entrepreneur who couldn't find a coffee that held up through founder hours, so he built it himself.
-⬜ 2. [autoridade] **What CPG founders get wrong about energy.** — Industry framework post on how most functional beverage brands optimize for the marketing claim rather than the mechanism, and the formulation discipline that separates lasting brands.
-⬜ 3. [belief_shifting] **Caffeine is not the active ingredient. Timing is.** — Reframe for a professional audience: the reason smart people still crash mid-afternoon isn't dosage, it's the absence of co-factors that regulate absorption and blood sugar response.
-✅ 4. [prova] **A review stopped me mid-scroll this week.** — Story-framed social proof — a specific buyer quote with a timeline arc that mirrors the skeptic-to-convert journey, told as a founder reflection rather than a headline ad.
-⬜ 5. [pessoal] **I'm building this with AI. Not hiding it.** — Radical transparency post on using AI as a co-builder in a CPG startup — disarms skepticism by naming it first, then explaining what human judgment AI cannot replace in formulation and brand.
+⬜ 1. [pessoal] **I Spent Two Years Fixing My Own Crash** — Open with the personal problem — Ironman training plus a startup equaled a 2pm collapse — then walk through the formulation journey as a founder-narrated ingredient story that LinkedIn's audience rewards over headline-led posts.
+⬜ 2. [autoridade] **Why Most Functional Beverages Fail Founders** — Teach the three formulation mistakes that produce a spike-and-crash product, positioning Leo as an industry voice before introducing how Power Coffee was designed differently.
+⬜ 3. [belief_shifting] **Caffeine Is Not Your Focus Problem** — Reframe the standard CPG narrative — caffeine quantity is the wrong metric, blood-sugar stability is the real lever — giving LinkedIn operators a shareable mental model.
+⬜ 4. [prova] **A Review Stopped Me Mid-Scroll** — Story-frame a real customer result using the 'day 1 skeptical, day 7 converted' arc so the social proof reads like a case study, not an ad headline, avoiding the zero-engagement trap.
+⬜ 5. [pessoal] **Building a CPG Brand With AI And Faith** — Transparent founder post on using AI tools without apology, weaving in the family-first and faith context that makes Leo's voice distinct and human on a platform full of polished operators.
 
 ## Telegram
   🎯 Theme: *(not selected)*
-⬜ 1. [prova] **This week's numbers. Unfiltered.** — A behind-the-dashboard drop for the community — real reach, real ER, what worked and what flatlined, because building in public means sharing the spreadsheet, not just the wins.
-⬜ 2. [pessoal] **Leo's Monday morning. Before anything else.** — A short personal note sent early Monday on what the pre-dawn routine looks like this week — Ironman training block, coffee, 10 minutes of stillness before the inbox opens.
-⬜ 3. [belief_shifting] **Why I stopped drinking regular coffee at 35.** — Leo's personal reframe on the moment he realized his daily coffee was the source of the afternoon fog, not the solution — the origin story of the formula told in first person.
-⬜ 4. [autoridade] **The 3-ingredient framework behind every functional formula.** — A simple teachable framework the community can apply: every functional coffee ingredient either extends energy, smooths the curve, or protects the brain — and how Power Coffee maps to all three.
-✅ 5. [prova] **Real buyer. Day 3. Something shifted.** — Drop a specific buyer message with commentary — the 'Day 1 skeptical, Day 3 something shifted' quote pattern that validates slow conversion and removes the instant-results objection.
+⬜ 1. [prova] **This Week's Numbers: Raw And Unfiltered** — Drop the week's real metrics — orders, reach, one win, one failure — so the community feels inside the build and trusts the brand because nothing is hidden.
+⬜ 2. [pessoal] **What Sunday Prep Looks Like For Leo** — Short behind-the-scenes on how the week is planned — family first block, training block, content block — making the founder's system visible and relatable.
+⬜ 3. [belief_shifting] **Why We Refuse To Add More Caffeine** — A single clear conviction post explaining the brand's formulation line in the sand, inviting community members to share their own crash stories in reply.
+⬜ 4. [autoridade] **The Ingredient Most Brands Skip And Why** — Teach one underused adaptogen from the formula — mechanism, source, dose rationale — as a community-exclusive education drop that rewards subscribers for being here.
+⬜ 5. [prova] **430 Mornings. One Formula. Here's What Changed.** — Use the specificity-plus-anti-marketing pattern to share Leo's personal longitudinal self-experiment, making the founder the most credible proof point in the channel.
 
-## Shopify Blog — Conteudo Científico
+## Shopify Blog
   🎯 Theme: *(not selected)*
-✅ 1. [autoridade] **Functional coffee vs energy drinks: the real difference.** — A comprehensive ingredient-level comparison that positions Power Coffee in a whitespace neither traditional coffee nor energy drinks occupy — the definitive category explainer.
-⬜ 2. [prova] **What ginkgo biloba actually does to your focus.** — Deep-dive ingredient science post anchored by the Hiroshima survival hook, walking through the peer-reviewed mechanism behind ginkgo's cognitive effects at functional doses.
-⬜ 3. [belief_shifting] **Your 2pm crash is a formulation problem, not yours.** — Reframe piece that shifts blame from willpower and sleep habits to the absence of blood-sugar-stabilizing co-factors in standard coffee — with Power Coffee's approach as the solution architecture.
-⬜ 4. [pessoal] **430 mornings: what I learned drinking my own formula.** — Leo's personal longitudinal self-experiment — what changed, what didn't, what surprised him, and why a founder who drinks his own product every day is the most honest quality signal.
-⬜ 5. [autoridade] **How to read a functional coffee label like a founder.** — An educational framework for consumers on dose thresholds, proprietary blend red flags, and the three questions to ask before buying any functional beverage — with Power Coffee as the transparent benchmark.
+⬜ 1. [autoridade] **The Blood Sugar Crash Nobody Talks About** — Long-form explainer on why post-caffeine crashes are metabolic events, not energy deficits, building SEO authority around the 'functional coffee' search intent.
+⬜ 2. [prova] **Ginkgo Biloba: Science Behind The Survival Claim** — Expand the nuclear-blast hook into a fully sourced ingredient deep-dive — history, mechanism, clinical data — giving curious buyers the evidence layer that converts skeptics.
+⬜ 3. [belief_shifting] **Functional Coffee vs Energy Drinks: The Real Difference** — Head-to-head framework post that reframes the category comparison around mechanism and duration of effect, not caffeine milligrams, making Power Coffee the obvious adult choice.
+⬜ 4. [pessoal] **How I Formulated Around My Family Schedule** — Founder narrative connecting Ironman training, two kids, and a startup to the specific performance demands that drove every ingredient decision in the formula.
+⬜ 5. [autoridade] **What A Functional Beverage Label Should Tell You** — Teach readers how to read an ingredient panel critically — what to look for, what to avoid, what dose thresholds matter — leaving Power Coffee's label as the implied gold standard.
 
-## Email — Conteúdo que gere interesse
+## Email
   🎯 Theme: *(not selected)*
-⬜ 1. [prova] **Day 1 skeptic. Day 7 subscriber. Read this.** — Email anchored in a real buyer's 7-day arc — slow, honest, no miracle claims — that mirrors subscriber resistance and resolves it through a peer's lived progression.
-⬜ 2. [belief_shifting] **The crash isn't caffeine. Here's proof.** — A direct, science-backed email reframing the afternoon energy collapse as a blood sugar and co-factor issue, not a caffeine dosage issue — with the ingredient reveal as the payoff.
-⬜ 3. [pessoal] **What I tell my kids this coffee is for.** — A personal, faith-and-family-grounded email from Leo explaining that the formula isn't about performance for its own sake — it's about being present for the people who matter most.
-✅ 4. [autoridade] **$1.19 a morning. The math that changes everything.** — Price-anchor email that walks through the real daily cost comparison against a coffee shop habit, reframing Power Coffee as the financially rational daily choice, not a luxury.
-⬜ 5. [prova] **430 mornings. I'm still drinking it. Here's why.** — Founder-credibility email using specificity and anti-marketing framing — the number 430 does the work, and 'not for content' closes the trust gap with skeptical readers.
+⬜ 1. [prova] **Day 3 Something Shifted — A Real Story** — Lead with the buyer resistance-arc quote as the subject line, then unfold the customer's day-by-day progression to make the email feel like a testimonial letter, not a campaign.
+⬜ 2. [belief_shifting] **Your Coffee Is Failing You By 2pm** — Problem-first hook in the subject line, then a tight explanation of the blood-sugar mechanism, ending with a single CTA to try the formula that was built to solve exactly this.
+⬜ 3. [pessoal] **I Almost Quit Formulating — Here's Why I Didn't** — Founder vulnerability email sharing the hardest moment in the R&D process, grounded in faith and family stakes, making subscribers feel they are part of something that almost didn't exist.
+⬜ 4. [autoridade] **The $0.73 Morning: A Simple Cost Breakdown** — Walk the subscriber through the full price-math comparison — daily latte, energy drink, Power Coffee — as a calm financial case that removes the last objection before purchase.
+⬜ 5. [prova] **430 Mornings In. Here Is What I Know.** — Leo's personal longitudinal proof email using the specificity pattern — exact number, anti-marketing framing — delivered as a quiet confidence note, not a sales push, with a soft link at the end.
