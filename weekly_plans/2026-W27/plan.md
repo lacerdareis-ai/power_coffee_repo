@@ -1,0 +1,61 @@
+# Weekly Plan — 2026-W27
+
+**Status:** PENDING  |  **Approved:** ⬜
+
+**Vlog theme:** Showing up clean — one honest week of building Power Coffee in public.
+
+- **Mon**: Leo at his desk at 6AM, cup in hand: 'New week. I'm going to show you exactly what building this looks like — not the highlight reel, just the actual days.'
+- **Tue**: Leo at the kitchen counter after an early training session: 'Ironman prep was at five this morning. The formula I drink every day had to earn that slot — I need it to work, not just market well.'
+- **Wed**: Leo reviewing ingredient research on his laptop: 'I spent two years on this formula. Today I want to walk you through the one ingredient most people have never heard of — and why it's in every bag.'
+- **Thu**: Leo on a video call, then turning to camera: 'Just got off a call with a potential retail partner. I can't share the name yet, but I can tell you what they asked me — and what it means for the brand.'
+- **Fri**: Leo at his desk, quieter energy: 'End of week. One thing went well, one thing didn't. I'm going to tell you both — because building in public only means something if it includes the honest parts.'
+- **Sat**: Leo with Gabriel and Helena in frame briefly, then stepping aside: 'Saturday belongs to them. But before the day started, I had twenty minutes with my coffee and my notes — this is what I'm thinking about for next week.'
+- **Sun**: Leo, calm, sitting outside: 'Sunday is for recharging. Faith, family, rest. The business will be there Monday. I built it to fund this kind of day — so it matters that I actually take it.'
+
+## Instagram
+  🎯 Theme: *(not selected)*
+⬜ 1. [prova] **Day 1 Skeptic to Day 3 Convert** — Open with 'Day 1: skeptical. Day 3: something shifted.' — a buyer-quote carousel that mirrors resistance and resolves it, driving saves.
+⬜ 2. [belief_shifting] **Your 3PM Slump Isn't Tiredness** — Hook: 'Your 3PM crash isn't fatigue — it's blood sugar.' then reveal the ingredient that stabilizes it, reframing the entire energy drink category.
+⬜ 3. [pessoal] **Two Hours Before the World Starts** — Declarative reel opener: 'I train at 5AM not because I'm disciplined — because Gabriel and Helena deserve a present dad by 7.' — Ironman prep meets family stakes.
+⬜ 4. [autoridade] **Why Functional Coffee Beats a Supplement Stack** — Framework carousel: break down the cost, convenience, and bioavailability gap between a $90 supplement stack and one cup — authority without arrogance.
+⬜ 5. [prova] **431 Mornings. Same Formula. Here's Why.** — Specific-number hook ('431 mornings — not for content') paired with a before/after energy pattern graph, making founder proof feel like a clinical log.
+
+## X
+  🎯 Theme: *(not selected)*
+⬜ 1. [belief_shifting] **Caffeine Isn't Your Problem. Timing Is.** — Thread opener that reframes the popular 'drink less coffee' advice — the issue is cortisol timing, not caffeine volume, and here's the fix in 5 tweets.
+⬜ 2. [autoridade] **How I Formulated a Coffee With AI** — Transparent thread: 'I used AI to co-formulate Power Coffee. Here's exactly how that worked and what a human still had to decide.' — radical transparency drives replies.
+⬜ 3. [prova] **$0.73 Morning vs $6 Latte: Do the Math** — Single punchy post with a 30-day cost comparison table — disarms price objection before it forms, invites quote-tweets from frugal productivity crowd.
+⬜ 4. [pessoal] **Building in Public While Kids Are Asleep** — Short personal post: 'Most of Power Coffee's product decisions happen between 9PM and midnight. That's not hustle culture — that's just the deal I made.' — honest, not performative.
+⬜ 5. [autoridade] **The Ingredient That Survived a Nuclear Blast** — Hook-first tweet about Ginkgo biloba's Hiroshima survival story, then pivot to cognitive function — surprising historical claim earns clicks before the product is mentioned.
+
+## LinkedIn
+  🎯 Theme: *(not selected)*
+⬜ 1. [pessoal] **I Built This Because My Energy Was Broken** — Founder-narrated origin post: 'Two years ago I was a Brazilian entrepreneur in the US, running on bad coffee and worse sleep — so I fixed it.' — personal stakes drive 2x LinkedIn ER.
+⬜ 2. [autoridade] **Why CPG Founders Ignore Functional Ingredients** — Industry POV post: the three reasons most coffee brands skip adaptogens (cost, shelf life, taste) and why Power Coffee solved all three — positions Leo as a category insider.
+⬜ 3. [prova] **A Review Stopped Me Mid-Scroll This Week** — Story-frame social proof: open with 'A customer DM stopped me mid-scroll — not because it was glowing, but because it described exactly the problem I set out to solve.' — avoids the ad-headline trap.
+⬜ 4. [belief_shifting] **Productivity Culture Has a Caffeine Problem** — Reframe for the LinkedIn professional: the highest-performing founders aren't drinking more coffee — they're drinking smarter coffee, and here's the physiological reason why.
+⬜ 5. [pessoal] **What Ironman Training Taught Me About Business** — Parallel structure post: the discipline of 5AM training maps directly onto building a CPG brand in public — pacing, not sprinting, is the competitive advantage.
+
+## Telegram
+  🎯 Theme: *(not selected)*
+⬜ 1. [prova] **This Week's Numbers: Honest Weekly Recap** — Transparent community update sharing real metrics — reach, sales, one win, one failure — building insider trust with the audience closest to the brand.
+⬜ 2. [autoridade] **The 3-Ingredient Stack Behind Every Cup** — Educational breakdown exclusive to Telegram: the mechanism of the top three functional ingredients, why they stack, and the dosing logic — community gets the framework first.
+⬜ 3. [belief_shifting] **Energy Drinks Are Lying to You About Crashes** — Conversational post challenging the 'crash is normal' narrative — opens a thread for community members to share their own crash stories and shift belief together.
+⬜ 4. [pessoal] **Faith, Family, and Friday Reflection** — End-of-week personal note from Leo: one thing faith grounded this week, one moment with Gabriel or Helena that reminded him why the business exists — calm, not preachy.
+⬜ 5. [prova] **Drop Your Honest Review. I'm Reading All.** — Community engagement post inviting raw reviews — 'no filter, no marketing language' — Leo responds to every one, generating authentic social proof for future content.
+
+## Shopify Blog
+  🎯 Theme: *(not selected)*
+⬜ 1. [autoridade] **Adaptogens in Coffee: A Founder's Science Brief** — Long-form breakdown of ashwagandha, ginkgo, and L-theanine mechanisms — written as 'what I wish I knew before formulating' to position Leo as a credible category educator.
+⬜ 2. [belief_shifting] **Why 'Just Drink Less Coffee' Is Wrong Advice** — Reframe article targeting the cortisol-timing insight — argues that the problem isn't caffeine quantity but delivery context, ending with the functional coffee alternative.
+⬜ 3. [prova] **431 Days Drinking My Own Formula: What Changed** — Data-driven personal log post: energy pattern, sleep quality, workout recovery, and cognitive output tracked over 14 months — specificity makes it a reference piece, not a testimonial.
+⬜ 4. [pessoal] **Building Power Coffee as a Brazilian in America** — Narrative founder piece about the cultural, logistical, and identity challenges of launching a CPG brand in the US market — honest, personal, shareable to immigrant entrepreneur communities.
+⬜ 5. [autoridade] **Functional Coffee vs Supplement Stack: Full Comparison** — Head-to-head framework post with cost, convenience, bioavailability, and taste scores — structured like a buyer's guide, designed to rank for comparison searches.
+
+## Email
+  🎯 Theme: *(not selected)*
+⬜ 1. [prova] **What 431 Mornings Proved About This Formula** — Subject line leads with the number; body shares three specific changes Leo tracked over 14 months — proof-driven email that converts skeptics already on the list.
+⬜ 2. [belief_shifting] **Your Morning Coffee Is Missing One Thing** — Curiosity-gap subject line opens into a tight reframe: the gap isn't caffeine, it's the absence of blood-sugar and cognitive support — ends with a single CTA to try Power Coffee.
+⬜ 3. [pessoal] **I Almost Quit Building This. Here's What Stayed.** — Personal founder email about a specific low moment in the build — what faith and family anchored, what changed after — the most human email of the week, lowest selling pressure.
+⬜ 4. [autoridade] **The $0.73 Morning: A Simple Cost Breakdown** — Math-first email that walks through the daily cost versus a latte, a supplement stack, and an energy drink — ends with a table and a clear value statement, not a discount.
+⬜ 5. [prova] **A Customer Said This. I Had to Share It.** — Story-frame review email: open with the specific quote that stopped Leo mid-scroll, narrate why it mattered, then let the review speak — social proof wrapped in a founder moment.
