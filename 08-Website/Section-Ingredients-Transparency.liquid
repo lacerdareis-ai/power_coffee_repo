@@ -1,0 +1,334 @@
+{% comment %}
+  SECTION: Ingredient Transparency
+  Add to Shopify: Online Store → Themes → Edit code → Sections → New section → paste this
+  Then add to your homepage template via the theme editor.
+
+  DOSES: confirmed from brand documentation + research-backed formulation consult.
+  Verify against your physical product label before publishing.
+  Flagged items: [ confirm X ] means Leo should cross-check this value.
+{% endcomment %}
+
+<section class="pc-ingredients" id="ingredients">
+  <div class="pc-ingredients__inner">
+
+    <div class="pc-ingredients__header">
+      <span class="pc-ingredients__eyebrow">What's inside</span>
+      <h2 class="pc-ingredients__title">Every ingredient. Every dose.<br>Nothing hidden.</h2>
+      <p class="pc-ingredients__subtitle">
+        Most functional coffee brands don't show you the numbers.
+        We do. Every ingredient in Power Coffee is in there for a reason,
+        dosed to actually work.
+      </p>
+    </div>
+
+    <div class="pc-ingredients__grid">
+
+      <!-- 1. Instant Coffee -->
+      <div class="pc-ingredient">
+        <div class="pc-ingredient__top">
+          <span class="pc-ingredient__icon">☕</span>
+          <div>
+            <span class="pc-ingredient__name">Instant Coffee</span>
+            <span class="pc-ingredient__dose">~50mg caffeine per serving</span>
+          </div>
+        </div>
+        <p class="pc-ingredient__mechanism">
+          The base. A measured caffeine foundation — enough to anchor the formula
+          without spiking cortisol. Add to your regular coffee for a stronger morning,
+          or use alone in hot water. Either way, the rest of the formula does the work.
+        </p>
+      </div>
+
+      <!-- 2. Matcha -->
+      <div class="pc-ingredient">
+        <div class="pc-ingredient__top">
+          <span class="pc-ingredient__icon">🍵</span>
+          <div>
+            <span class="pc-ingredient__name">Matcha Green Tea</span>
+            <span class="pc-ingredient__dose">600mg per serving</span>
+          </div>
+        </div>
+        <p class="pc-ingredient__mechanism">
+          Matcha releases caffeine slowly — no spike, no crash. Unlike coffee caffeine,
+          matcha's caffeine is bound to L-theanine in the leaf, which smooths the
+          stimulant arc and extends the hold by 2–3 hours.
+        </p>
+      </div>
+
+      <!-- 3. L-Theanine -->
+      <div class="pc-ingredient">
+        <div class="pc-ingredient__top">
+          <span class="pc-ingredient__icon">🧠</span>
+          <div>
+            <span class="pc-ingredient__name">L-Theanine</span>
+            <span class="pc-ingredient__dose">200mg per serving</span>
+          </div>
+        </div>
+        <p class="pc-ingredient__mechanism">
+          The "no jitter" ingredient. L-theanine creates alert calm — sharpness
+          without restlessness. Research shows the combination of L-theanine and
+          caffeine improves attention accuracy more than caffeine alone.
+          We add it separately on top of what matcha contributes naturally
+          so the dose is consistent, not batch-dependent.
+        </p>
+      </div>
+
+      <!-- 4. Taurine -->
+      <div class="pc-ingredient">
+        <div class="pc-ingredient__top">
+          <span class="pc-ingredient__icon">⚡</span>
+          <div>
+            <span class="pc-ingredient__name">Taurine</span>
+            <span class="pc-ingredient__dose">2,000mg per serving</span>
+          </div>
+        </div>
+        <p class="pc-ingredient__mechanism">
+          2,000mg — twice what Red Bull puts in a can. Taurine is a neuromodulator,
+          not a stimulant. It doesn't add energy; it changes the quality of it.
+          It supports mitochondrial function and reduces overstimulation,
+          which is why the energy holds without the edge.
+        </p>
+      </div>
+
+      <!-- 5. Pea Protein -->
+      <div class="pc-ingredient">
+        <div class="pc-ingredient__top">
+          <span class="pc-ingredient__icon">💪</span>
+          <div>
+            <span class="pc-ingredient__name">Pea Protein</span>
+            <span class="pc-ingredient__dose">5,000mg (5g) per serving</span>
+          </div>
+        </div>
+        <p class="pc-ingredient__mechanism">
+          5 grams per scoop. Not for muscle — for blood sugar. Protein slows the
+          post-caffeine glucose drop that causes the 10am crash. Most functional coffees
+          don't do this. We consider it the most underrated ingredient in the formula.
+        </p>
+      </div>
+
+      <!-- 6. Cinnamon -->
+      <div class="pc-ingredient">
+        <div class="pc-ingredient__top">
+          <span class="pc-ingredient__icon">🌶️</span>
+          <div>
+            <span class="pc-ingredient__name">Cinnamon</span>
+            <span class="pc-ingredient__dose">500mg per serving</span>
+          </div>
+        </div>
+        <p class="pc-ingredient__mechanism">
+          Not for flavor. Research indicates cinnamon supports insulin sensitivity,
+          which stabilizes blood sugar after stimulant consumption. A steadier blood
+          sugar floor means a steadier focus floor. The 10am crash is a blood sugar
+          problem — cinnamon is part of the fix.
+        </p>
+      </div>
+
+      <!-- 7. Ginkgo Biloba -->
+      <div class="pc-ingredient">
+        <div class="pc-ingredient__top">
+          <span class="pc-ingredient__icon">🌿</span>
+          <div>
+            <span class="pc-ingredient__name">Ginkgo Biloba</span>
+            <span class="pc-ingredient__dose">120mg per serving</span>
+          </div>
+        </div>
+        <p class="pc-ingredient__mechanism">
+          Supports blood circulation to the brain. The tree that survived the Hiroshima
+          blast. Clinical research at 120mg associates ginkgo with improved short-term
+          memory and cognitive endurance during extended work sessions — not just
+          a morning effect.
+        </p>
+      </div>
+
+      <!-- 8. Ginger -->
+      <div class="pc-ingredient">
+        <div class="pc-ingredient__top">
+          <span class="pc-ingredient__icon">🫚</span>
+          <div>
+            <span class="pc-ingredient__name">Ginger Root</span>
+            <span class="pc-ingredient__dose">250mg per serving</span>
+          </div>
+        </div>
+        <p class="pc-ingredient__mechanism">
+          Mildly thermogenic and anti-inflammatory. Supports digestion and reduces
+          the stomach sensitivity some people have from stimulants on an empty stomach.
+          Makes the formula work for people who can't do coffee without food.
+        </p>
+      </div>
+
+      {% comment %}
+        INGREDIENTS 9, 10, 11: Add your remaining 3 ingredients here.
+        Use the block structure above. The formula consultation identified possible candidates:
+        black pepper extract (piperine, 10mg), coconut milk powder, or a third spice/vitamin.
+        Verify against your product label.
+      {% endcomment %}
+
+    </div><!-- /.pc-ingredients__grid -->
+
+    <div class="pc-ingredients__footer">
+      <div class="pc-ingredients__total">
+        <span class="pc-ingredients__total-label">Total per serving:</span>
+        <span class="pc-ingredients__total-value">10g · 8 active ingredients · 0 fillers</span>
+      </div>
+      <p class="pc-ingredients__disclaimer">
+        These statements have not been evaluated by the Food and Drug Administration.
+        This product is not intended to diagnose, treat, cure, or prevent any disease.
+      </p>
+    </div>
+
+  </div><!-- /.pc-ingredients__inner -->
+</section>
+
+<style>
+.pc-ingredients {
+  background: #171412;
+  color: #F7F0E0;
+  padding: 80px 24px;
+  font-family: -apple-system, 'Helvetica Neue', sans-serif;
+}
+
+.pc-ingredients__inner {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.pc-ingredients__header {
+  text-align: center;
+  margin-bottom: 64px;
+}
+
+.pc-ingredients__eyebrow {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #D9A633;
+  margin-bottom: 16px;
+}
+
+.pc-ingredients__title {
+  font-size: clamp(28px, 4vw, 46px);
+  font-weight: 800;
+  line-height: 1.15;
+  color: #F7F0E0;
+  margin: 0 0 20px;
+}
+
+.pc-ingredients__subtitle {
+  font-size: 18px;
+  line-height: 1.6;
+  color: rgba(247,240,224,0.65);
+  max-width: 580px;
+  margin: 0 auto;
+}
+
+.pc-ingredients__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2px;
+  background: rgba(247,240,224,0.06);
+  border: 1px solid rgba(247,240,224,0.08);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.pc-ingredient {
+  padding: 28px 24px;
+  background: #1E1A17;
+  transition: background 0.2s;
+}
+
+.pc-ingredient:hover {
+  background: #252019;
+}
+
+.pc-ingredient__top {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  margin-bottom: 14px;
+}
+
+.pc-ingredient__icon {
+  font-size: 26px;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.pc-ingredient__name {
+  display: block;
+  font-size: 17px;
+  font-weight: 700;
+  color: #F7F0E0;
+  margin-bottom: 4px;
+}
+
+.pc-ingredient__dose {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  color: #D9A633;
+  letter-spacing: 0.03em;
+}
+
+.pc-ingredient__mechanism {
+  font-size: 15px;
+  line-height: 1.65;
+  color: rgba(247,240,224,0.7);
+  margin: 0;
+}
+
+.pc-ingredients__footer {
+  margin-top: 48px;
+  text-align: center;
+}
+
+.pc-ingredients__total {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  background: rgba(217,166,51,0.1);
+  border: 1px solid rgba(217,166,51,0.25);
+  border-radius: 8px;
+  padding: 12px 24px;
+  margin-bottom: 24px;
+}
+
+.pc-ingredients__total-label {
+  font-size: 13px;
+  color: rgba(247,240,224,0.5);
+  letter-spacing: 0.05em;
+}
+
+.pc-ingredients__total-value {
+  font-size: 14px;
+  font-weight: 600;
+  color: #D9A633;
+}
+
+.pc-ingredients__disclaimer {
+  font-size: 12px;
+  color: rgba(247,240,224,0.3);
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+@media (max-width: 640px) {
+  .pc-ingredients {
+    padding: 60px 16px;
+  }
+  .pc-ingredients__grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+{% schema %}
+{
+  "name": "Ingredients Transparency",
+  "tag": "section",
+  "settings": []
+}
+{% endschema %}

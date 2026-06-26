@@ -1,4 +1,4 @@
-- [ ] APPROVED
+- [x] APPROVED
 
 # Power Coffee — June 16, 2026 (Monday)
 **Pillar:** P3 Founder Proof (IG Reel) | P2 Ingredient Science (X) | P3 Founder / Objective 1 (LinkedIn)
@@ -113,7 +113,7 @@ thepowercoffee.com
 
 ### Post
 
-I've been selling The Power Coffee at $17.90 for over a year.
+I've been selling @The Power Coffee at $17.90 for over a year.
 
 Every comparable functional coffee brand in my category is priced between $28 and $42 for the same serving count.
 

@@ -9,3 +9,9 @@
 
 # Local scratch
 files.zip
+
+# Large video assets — exceed GitHub's 100MB limit; Meta can't fetch them via CDN. Host elsewhere.
+*.mp4
+*.MP4
+*.mov
+*.MOV

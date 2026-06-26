@@ -13,19 +13,19 @@
 ### Reel Script
 
 **Hook (0-3s):**
-"You've had three coffees today. Why are you still exhausted?"
+"Three coffees before noon. Still crashing by 2pm. That's not you. That's your formula."
 
 **Body (3-40s):**
-"Here's what nobody tells you. Regular coffee spikes your cortisol, burns through in under an hour, and leaves you worse than before you started. So you pour another cup. Then another. And by 2pm you're foggy, irritable, and reaching for something — anything — to get through the rest of the day.
+"Regular coffee spikes your cortisol, burns through in under an hour, and leaves you worse than before you started. So you pour another cup. Then another. And by 2pm you're running on stress hormones and habit — not fuel.
 
-The problem isn't caffeine. It's what your coffee is missing.
+The problem isn't how much caffeine you're drinking. It's what your coffee is missing.
 
-Taurine to calm the overstimulation. Matcha to release energy over four to six hours. Pea protein to stabilize your blood sugar. Ginkgo biloba to keep cerebral blood flow where it needs to be.
+Taurine to calm the overstimulation. Matcha to release energy over four to six hours. Pea protein to stabilize your blood sugar so the crash never starts. Ginkgo biloba to keep cerebral blood flow where it needs to be.
 
-That's not a supplement stack. That's one scoop. In your existing coffee. Eleven ingredients. One ritual. No crash."
+That's not a supplement stack. That's one scoop. In your existing coffee. Eleven ingredients. No new routine. No crash."
 
 **CTA (40-45s):**
-"Link in bio. Try it for seven days. Then come back and tell me I'm wrong."
+"Link in bio. One scoop. Seven days. $1.19 a morning."
 
 ---
 
@@ -68,25 +68,25 @@ Post 5: Seven days. That's all I ask. Link → [thepowercoffee.com]
 ## LINKEDIN
 ### Post
 
-Three coffees before noon and still foggy by 2pm.
+Three coffees before noon. Still crashing by 2pm.
 
-That used to be my Tuesday.
+I thought it was a me problem. Not enough sleep. Too much on my plate. Not disciplined enough.
 
-I didn't think it was a product problem. I thought it was a me problem — not enough sleep, too much stress, not disciplined enough.
+It wasn't. It was a formula problem.
 
-Turns out it was a formula problem.
+Regular coffee was designed for a 45-minute lift. No taurine to buffer the overstimulation. No protein to hold blood sugar steady. No slow-release mechanism past the first hour. Just a spike — and then you're on your own.
 
-Regular coffee delivers caffeine. Full stop. No taurine to buffer the overstimulation. No protein to keep blood sugar stable. No matcha to extend the energy curve past the first hour.
+I spent two years building the thing I couldn't find. 11 ingredients in one scoop that goes into the coffee you're already making. $1.19 a morning. No new habit required.
 
-So you reach for another cup. Then another. And the crash just compounds.
+550 mornings of drinking my own formula. I've had every reason to stop. I haven't found one.
 
-That's what drove me to spend two years building something different.
+If you've been running on three cups and still hitting the wall — try this instead: tomorrow morning, one scoop. See if you reach for a second cup by 10am.
 
-11 ingredients in one scoop. Goes into your existing coffee. No new routine required.
+That's the test. It's the only one that matters.
 
-I'm not saying it solves everything. But I haven't had a 2pm crash since I started drinking my own product daily — and that's not a coincidence.
+→ thepowercoffee.com
 
-If you're still running on three cups and hoping for the best, I'd ask you this: when did "barely getting through" become the standard you're willing to accept?
+Leo, Founder — The Power Coffee
 
 ---
 
@@ -94,6 +94,7 @@ If you're still running on three cups and hoping for the best, I'd ask you this:
 ### Message
 
 Real talk — if you're pouring your third coffee before lunch and still dragging by 2pm, the problem isn't you. Your coffee just wasn't built to carry you through the kind of day you're actually trying to have. That's exactly why Power Coffee exists. One scoop in what you're already drinking. Give it a week and see what a full day of clean energy actually feels like.
+Order now: www.thepowercoffee.com
 
 ---
 

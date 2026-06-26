@@ -116,12 +116,12 @@ Ran a full patterns analysis on the week of May 18–22 and updated all three br
 
 **Patterns extracted and logged:**
 
-| Pattern | Evidence |
-|---------|----------|
-| Present-tense problem scene | "Two cups in. Still foggy." → #4 all-time, 1.17% ER |
-| Price math comparison | "$0.73 a morning. Real focus. No crash." → disarms price objection |
-| Pain-first ingredient reveal | Lead with blood sugar problem → ingredient as solution in slide 2 |
-| Nuclear/survival hook | "The tree that survived a nuclear blast..." → 4–6 likes vs 1 like for direct product hook |
+| Pattern                      | Evidence                                                                                  |
+| ---------------------------- | ----------------------------------------------------------------------------------------- |
+| Present-tense problem scene  | "Two cups in. Still foggy." → #4 all-time, 1.17% ER                                       |
+| Price math comparison        | "$0.73 a morning. Real focus. No crash." → disarms price objection                        |
+| Pain-first ingredient reveal | Lead with blood sugar problem → ingredient as solution in slide 2                         |
+| Nuclear/survival hook        | "The tree that survived a nuclear blast..." → 4–6 likes vs 1 like for direct product hook |
 
 **Files updated:**
 - `04-Analytics/Winning-Patterns.md` — 4 copy patterns, 2 visual styles, Week 1–2 trend rows

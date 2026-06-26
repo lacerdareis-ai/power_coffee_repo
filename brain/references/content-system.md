@@ -13,27 +13,31 @@
 
 **Weekly rotation rule:** Minimum 1 post per pillar per week across combined platforms. No pillar gets more than 2 consecutive days.
 
-### Sales Conversion Sequence — LENS-Validated (May 2026)
+### Sales Conversion Sequence — LENS-Validated (updated Jun 2026)
 The week should build a purchase funnel, not just a content calendar:
-- **Mon/Wed:** P3 Founder Reel → builds reach and trust (highest reach format confirmed)
-- **Tue:** P2 Ingredient Carousel → educates and earns saves (use surprising claim hook, not ingredient name)
-- **Thu:** P5 Social Proof → real buyer language removes last objection before the Friday CTA
-- **Fri:** P6 Direct CTA → hits a warm audience that has seen the proof. Always anchor price ($0.73/serving vs $5-6 latte). Always include Amazon link.
-- **Daily CTA Story:** cycles automatically at 4am — conversion layer on top of every content day.
+- **Mon:** P3 Founder Reel → builds reach and trust. Declarative hook. "I [action]. And I'm not [hiding]."
+- **Tue:** P2 Ingredient Carousel → educates and earns saves. Surprising claim hook, never lead with ingredient name.
+- **Wed:** P3 or P1 Reel → second Reel of the week. Repurpose from Mon shoot (different cut/angle) or film separately.
+- **Thu:** P5 Social Proof → real buyer language removes last objection before the Friday CTA.
+- **Fri:** P4 Ritual Reel → third Reel of the week. Morning ritual, pre-dawn, product in use. Ends with CTA.
+- **Daily CTA Story:** publishes automatically every day (`publish_cta_story`) — conversion layer on top of every content day. Drives to **Amazon** (amazon.com listing). Because the IG Graph API cannot attach tappable link stickers programmatically, the Amazon CTA + a scannable QR code are baked into the story image; Leo can also tap-add the native link sticker manually in-app for the swipe action.
+
+**3-Reel week rule (updated Jun 2026):**
+Minimum 3 Reels per week on Instagram — Mon, Wed, Fri. If no video asset exists for a given day, skip that day's Instagram feed post entirely. Do not substitute a carousel or static for a Reel slot. One filming session (Sunday night) should produce all 3 Reels via different cuts.
 
 ---
 
-## Weekly Content Calendar (Standard Rotation)
+## Weekly Content Calendar (Standard Rotation — updated Jun 2026)
 
 | Day | Instagram | X | LinkedIn |
 |-----|-----------|---|----------|
-| **Mon** | P1 — Problem Hook Reel | P2 — Ingredient one-liner | P3 — Founder story post |
+| **Mon** | P3 — Founder Reel *(Reel 1)* | P2 — Ingredient one-liner | P3 — Founder story post |
 | **Tue** | P2 — Ingredient Carousel | P3 — Founder micro-story | — |
-| **Wed** | P3 — Founder Reel | P1 — Contrarian take | AI — How the system runs, what it produces (no tools, no metrics) |
-| **Thu** | P5 — Social Proof graphic | P2 — Science thread (5-7 posts) | — |
-| **Fri** | P4 — Ritual Reel or P6 CTA | P6 — Link post (site/Amazon) | P3 — Week recap or milestone |
+| **Wed** | P3 or P1 — Reel *(Reel 2, repurposed or new cut)* | P1 — Contrarian take | AI — How the system runs (no tools, no metrics) |
+| **Thu** | P5 — Social Proof graphic | P2 — Science post | — |
+| **Fri** | P4 — Ritual Reel *(Reel 3)* | P6 — Link post (site/Amazon) | P3 — Week recap or milestone |
 | **Sat** | Story only (behind scenes) | P3 — Weekend founder thought | — |
-| **Sun** | Story only (mindset) | Engagement only (replies, QTs) | — |
+| **Sun** | Story only (mindset) + **FILM SESSION** | Engagement only (replies) | — |
 
 ---
 
@@ -41,8 +45,10 @@ The week should build a purchase funnel, not just a content calendar:
 
 ### Instagram @powercoffee.ofc
 - **Role:** Discovery + community. Where new people find Power Coffee.
-- **Cadence:** 5x/week (3 Reels, 1 Carousel, 1 static/graphic). Daily Stories.
-- **Reels:** Hook in first 1.5 seconds. On-screen text mandatory. 15-45 seconds ideal.
+- **Cadence:** 5x/week (3 Reels on Mon/Wed/Fri, 1 Carousel on Tue, 1 Social Proof graphic on Thu). Daily Stories.
+- **3-Reel minimum:** Mon, Wed, Fri are always Reels. No substitutions. If no video asset exists, skip that feed slot — do not replace with a static or carousel.
+- **Filming:** One Sunday night session produces all 3 Reels (different cuts/angles from the same shoot). Asset deadline: `instagram.mp4` files in each day's folder by 6pm Sunday.
+- **Reels:** Every Reel MUST have (1) a **Cover Phrase** — 3-6 words, ALL CAPS, used as the video cover/thumbnail text; (2) a scroll-stopping hook in the first 1.5 seconds (spoken + on-screen text, mandatory); (3) an **Engagement Prompt** near the end — a question or "comment X" / "save this" invite to drive replies. 15-45 seconds ideal. No Reel ships without a cover phrase and an engagement prompt.
 - **Carousels:** Slide 1 = hook question. Slides 2-6 = teach. Final slide = CTA + save prompt.
 - **Stories:** Daily. Alternate between polls, quizzes, behind-the-scenes. Link sticker on CTA days.
 - **Hashtags:** 8-12 per post. Mix: brand (#powercoffee #thefirstwin), category (#functionalcoffee #cleanenergy #nocrash), audience (#morningritual #biohacking #deepwork), content type (#reel #carousel)
@@ -120,16 +126,25 @@ Hashtags for AI posts: #ai #founders #entrepreneurship #aitools #brandbuilding (
 
 ---
 
-## The Repurpose Cascade (One Shoot → Seven Assets)
+## The Repurpose Cascade (One Sunday Shoot → 3 Reels + Six More Assets)
 
-Film one 60-second Reel. From that single shoot:
-1. **IG Reel** (full 60s) — P1 or P3
-2. **IG Story** (15s excerpt + poll sticker) — P4 or P5
-3. **X post** (screenshot of hook frame + 280-char caption) — P1
-4. **X thread** (5-post thread expanding the Reel's science claim) — P2
-5. **LinkedIn post** (first-person narrative of same topic) — P3
-6. **IG Carousel** (5 key frames as slides + text overlays) — P2
-7. **Story highlight clip** (save to BENEFITS or RITUAL highlight) — P5
+Film one Sunday night session (60–90 minutes). From that single shoot produce all 3 weekly Reels plus additional assets:
+
+**The 3 Reels:**
+1. **Mon Reel** — P3 Founder. Full 30–45s. Declarative hook. "I [action]. And I'm not [hiding]."
+2. **Wed Reel** — P3 or P1. Different cut, tighter edit (15–30s). Same footage, different hook frame.
+3. **Fri Reel** — P4 Ritual. Product in use. Morning context. Ends with CTA.
+
+**Additional assets from the same shoot:**
+4. **IG Story** (15s excerpt + poll sticker) — P4 or P5
+5. **X post** (screenshot of hook frame + 280-char caption) — P1
+6. **LinkedIn post** (first-person narrative of same topic) — P3
+7. **IG Carousel** (5 key frames as slides + text overlays) — P2
+8. **Story highlight clip** (save to BENEFITS or RITUAL highlight) — P5
+
+**File naming (pipeline requires exact names):**
+- `instagram.mp4` → Mon, Wed, Fri folders (one per folder)
+- Deadline: all 3 files in their respective day folders by 6pm Sunday
 
 Always suggest this when the user is planning a filming session.
 
@@ -311,5 +326,63 @@ Zero IG feed posts published this week (CTA Stories only). This is now the 2nd c
 
 **Real-world events = highest Instagram reach (344) — outperforms all pillars:**
 StartupCPG sampling event photo hit 344 reach — the account high in the current period. No content pillar, hook formula, or caption has matched the reach generated by simply showing up in a real community. This is a structural signal: for Instagram growth at this stage, presence in physical CPG spaces drives more discovery than digital content optimization.
+
+
+### LENS Update — Jun 7–12, 2026
+
+**Instagram reach collapse — third consecutive week below baseline:**
+- Week average: ~46 reach across all feed posts. Down from 86 (carousel avg) and 199 (Reel avg) in the Sales Motor period.
+- Root cause: zero Reels published for the third consecutive week. Jun 10 Reel failed (story publish failed). Jun 12 Reel skipped (no `instagram.mp4`). Account is accumulating inactivity suppression from the algorithm.
+- Pipeline is publishing to X and LinkedIn every day — Instagram feed is the only broken channel.
+
+**P5 Social Proof ("REAL PEOPLE. REAL RESULTS.") — top pipeline post at 65 reach:**
+- Instagram and LinkedIn diverge on P5 Social Proof format. Headline frame ("REAL PEOPLE. REAL RESULTS.") got 0 engagements on LinkedIn (Jun 4) but 65 reach on Instagram this week — the visual card format carries it on IG. Keep headline frame for IG P5, use story frame ("A review stopped me mid-scroll") only on LinkedIn.
+
+**Negative product-category hooks underperform on carousel Slide 1:**
+- Jun 9 matcha carousel hook "YOUR COFFEE IS MAKING YOU ANXIOUS" hit 38 reach — below the 86 carousel average. Framing the product category (coffee) negatively may disengage the audience before the payoff. Rule reinforced: lead with the mechanism or the body experience ("Cortisol spikes within 20 minutes of caffeine"), not the product doing something wrong.
+
+**Real-world event content floor: 43–52 reach every week it appears.**
+- Event and in-person community photos consistently sit above the automated pillar average when the account is in a low-reach state. This is now confirmed across 3 separate LENS periods. The structural directive: post within 24 hours of any real-world CPG/community appearance, no caption optimization needed.
+
+
+### LENS Update — Jun 15–Jun 19, 2026
+
+**Week-over-Week momentum:**
+| Metric | Jun 15–Jun 19, 2026 | Jun 8–Jun 12, 2026 | Δ |
+|--------|---------------------|--------------------|---|
+| Posts with analytics | 3 | 2 | +1 |
+| Days with publish | 5/5 | 5/5 | +0 |
+| Reels published | 3 | 0 | +3 |
+| Carousels published | 0 | 2 | -2 |
+| Avg Reach | 248 | 16 | +1500% |
+| Avg ER | 48.59% | 1.67% | +46.92 pp |
+| Best Reach | 465 | 30 | +435 |
+| Best ER | 122.22% | 3.33% | +118.89 pp |
+
+**Interpretation:**
+
+Momentum is building sharply — but the driver is format, not volume. The prior week ran only carousels; this week switched entirely to Reels. That single format change is responsible for the 1500% reach jump and the 46.92 pp ER gain. The metric that shifted most is average reach (16 → 248), which reflects the algorithmic distribution advantage Reels carry on Inst
+
+**Patterns confirmed this week:**
+**1. Build the adenosine series into a proper arc and push the Reel that failed (Jun 19) at the start of next week.**
+The "Caffeine doesn't give you energy" hook showed the highest early-intent signal of the week. The product Reel that was supposed to close that loop failed to post. Repost or rebuild it as the Monday Reel with a fresh timestamp. Don't let a strong narrative setup go without a payoff post. Lead next week by closing this week's best open loop.
+
+**2. Pre-validate platform containers before scheduled publish time — specifically for CTA Story and Instagram Reels.**
+Two container creation failures this week (Jun 18 CTA Story, Jun 19 Instagram Reel). Both happened on 04:00 scheduled posts — the earliest publish time of the week. Run a dry-run container check the evening before any 04:00 publish to catch auth and container issues before the window closes. One failed Reel on a strong hook is a measurable reach loss.
+
+**3. Use the Gabriel/unscripted format once more next week, this time anchored to an ingredient science hook instead of pure Founder Proof.**
+The pattern has fired twice (May 20, Jun 17). Both times it was pure founder/family framing. The untested combination is: unscripted + ingredient science, where the "I didn't rehearse this" authenticity is applied to a science explanation. This merges the two strongest content pillars (P3 + P2) in the format that has the highest proven reach. Test it with one Reel mid-week.
+
+---
+
+**Updated baseline:**
+| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|--------|-------|-----------|-----------|--------------|--------|
+| Reels | 3 | 248 | 27.3 | 0.7 | 48.59% |
+| Carousels | 2 | 16 | 1.5 | 0 | 1.67% |
+
+**Note:** Baseline is limited to weeks with confirmed Instagram analytics data within the Sales Motor reporting window (Jun 8–Jun 19, 2026). Reel sample size is small (n=3); treat averages as directional. Carousels from the May period (Ginkgo, Pea Protein) are tracked separately in the Ingredient Hook Performance table and are not merged here to avoid conflating different audience sizes and time periods.
+
+---
 
 <!-- LENS_APPEND_END -->
