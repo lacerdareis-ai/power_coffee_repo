@@ -320,4 +320,59 @@ X, Telegram, WhatsApp, and LinkedIn all confirmed. LinkedIn specifically receive
 
 ---
 
+### LENS Update — Jun 1–5, 2026
+
+**LinkedIn audience profile confirmed — major strategic implication:**
+First full LinkedIn analytics breakdown available. The 13,825 LinkedIn followers are:
+- **32% Greater São Paulo** — Brazilian professional audience, not US consumer
+- **4% Greater Boston** — Leo's actual US market
+- **30% Senior-level, 11% CXO, 6% CEO, 5% Founder** — buying decision-makers, not end consumers
+- Top industries: IT Services, Financial Services, Business Consulting — not health/wellness
+
+**LinkedIn — Two explicit objectives (updated Jun 6, 2026):**
+
+**1. Angel investor connections — USA and Brazil.**
+Target angels who have backed CPG, food/bev, functional nutrition, or wellness. Geography: Greater Boston, New York, São Paulo, Belo Horizonte. These readers evaluate Leo-as-founder, not the product. Content: founder discipline, unit economics transparency, CPG market insight, growth milestones. Hook patterns: "I built this without an agency, without a co-founder, without outside capital — here's what that actually looks like." Never pitch the product to this audience. Pitch the builder.
+
+**2. Engage existing followers to try The Power Coffee.**
+13,825 followers who know Leo but haven't bought yet. They need a personal reason — the second cup test, Day 3 specificity, 550-day founder proof, buyer quotes. Low-commitment dare CTAs outperform hard sells: "Tomorrow morning: one scoop in your existing coffee. See if you reach for a second cup by 10am." P3 and P2 in narrative form are the highest-performing formats for this goal.
+
+P6 Direct CTA will structurally underperform on this audience. P5 Social Proof needs a story frame ("A review stopped me mid-scroll on Tuesday…"), never a headline frame ("REAL PEOPLE. REAL RESULTS." got 0 engagements Jun 4).
+
+**Follower growth pattern (Jun 1–5):**
++30 followers in 5 days. Jun 4 (Social Proof day) drove the most new followers (+11) despite 0 post engagements — likely profile visits from the Shopify blog post or X amplification rather than LinkedIn content itself.
+
+**Real-world community presence > all digital pillars for Instagram reach:**
+StartupCPG event photo: 344 reach (account high). This is structural, not exceptional. The Power Coffee is a physical CPG product. The Instagram algorithm rewards community credibility signals that event photos provide. For every StartupCPG, sampling event, or founders group appearance, post the event content within 24 hours — it will outperform any scripted pillar post.
+
+---
+
+## Visual Assets (Brand Kit)
+
+**Location:** `Sales_motor/daily_content/_brand_kit/`
+
+| File | Description | Use |
+|------|-------------|-----|
+| `cutouts/mascot_logo.png` | Animated coffee cup mascot — lightning bolt on top, cartoon arms + legs, "THE POWER COFFEE" on cup body. 1560×1560px, RGBA transparent. Figma: Brand_kit node 14:21. | CTA slides, story covers, hook slide accent. Dark bg preferred. |
+| `cutouts/logo.png` | Standard wordmark logo | Footer, email header |
+| `fonts/` | Georgia (headlines) + Arial (labels) — macOS system fonts | All carousels + Figma Scripter slides |
+
+**Mascot use rules:** Use on CTA and hook slides for personality. Avoid on P2 ingredient science slides where clinical credibility matters more. Works best on Deep Espresso background.
+
+
+### LENS Update — Jun 15–Jun 19, 2026
+
+**Audience insights this week:**
+**1. Reels outperform Carousels by every measurable metric.** Avg reach: 248 vs 16. Avg ER: 48.59% vs 1.67%. This is not a minor edge — it is a 15x reach difference. The format decision is more important than the copy decision at this stage of the account.
+
+**2. The Gabriel/unscripted angle is a repeatable pattern.** Jun 17 (465 reach, 16.13% ER) mirrors May 20 (438 views, 279 reach, 3.94% ER). Two data points. Same mechanic: real person, real context, anti-performance framing. This is becoming the account's signature move for the Founder Proof pillar.
+
+**3. Science counter-claim hooks drive high-intent early engagement.** "Caffeine doesn't give you energy" — 122.22% ER on day 1. The adenosine frame is intellectually novel to most viewers, which creates the same curiosity gap that drove the Ginkgo Biloba nuclear-blast hook. The mechanism is: surprise the viewer with a claim that contradicts something they assumed was true, then explain it.
+
+**4. Price transparency continues to generate shares.** The Jun 16 post produced 3 shares — the highest share count of the week — on a $17.90 vs $30 price comparison angle. Shares on this account are rare; three in one post means the content is being used as a forwarding tool, which is the highest organic distribution signal available.
+
+**5. Five-day publish consistency held.** Despite two dry-run days and multiple technical failures, content went live every day of the week. Volume discipline is maintained.
+
+---
+
 <!-- LENS_APPEND_END -->

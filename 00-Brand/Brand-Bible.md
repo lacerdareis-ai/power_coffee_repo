@@ -19,10 +19,10 @@
 | Field | Detail |
 |---|---|
 | Product | Power Coffee — Functional Coffee Blend |
-| Format | 150g resealable pack (~30 servings) |
-| Price | $21.90 per pack |
-| Serving | 1 scoop (5g) mixed with hot water or milk |
-| Shelf life | TBD — confirm with manufacturer |
+| Format | 150g resealable pack (15 servings) |
+| Price | $17.90 per pack |
+| Serving | 1 scoop (10g) mixed with hot water or milk |
+| Shelf life | 1 year
 
 ### Core Ingredients
 - Instant coffee (base)
@@ -91,8 +91,8 @@
 - Primary: Deep coffee brown (#3B1A08)
 - Accent: Warm gold/amber (#EF9F27)
 - Clean white backgrounds for product shots
-- Lifestyle: morning light, kitchen counter, desk setup
-- Avoid: gym settings, flexing, aggressive "pump" imagery
+- Lifestyle: morning light, kitchen counter, desk setup, work, 
+- Avoid: flexing, aggressive "pump" imagery
 - Feel: premium, clean, morning ritual energy
 
 ---

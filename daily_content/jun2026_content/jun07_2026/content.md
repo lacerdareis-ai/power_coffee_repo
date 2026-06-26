@@ -16,22 +16,20 @@
 **Visual concept:** A man in his early 40s at a small wooden table, writing in a leather journal, a steaming mug beside him. Warm lamplight. Dawn glow through curtains. Peaceful, purposeful morning. No text in frame. Negative space in lower third for caption anchor. (Reference: E1)
 
 **On-screen text overlay (added in post):**
-"Your brain runs on more than caffeine."
+"The crash isn't caffeine leaving. It's what was never there to begin with."
 
 ### Caption
-Your regular coffee gives you a spike.
+Your coffee doesn't fail you at 2pm because the caffeine runs out.
 
-Then it drops you.
+It fails you because caffeine was never designed to work alone.
 
-Not because caffeine is bad — but because caffeine alone is incomplete.
+No protein means your blood sugar corrects hard the moment the spike fades. No taurine means your nervous system has nothing to buffer the overstimulation. No L-theanine means you got a sharp edge with no sustained release behind it.
 
-L-theanine smooths the edge. Taurine steadies the signal. Ginkgo opens the flow. Pea protein stabilizes the crash before it starts.
+The crash is a design gap — not a caffeine problem.
 
-11 ingredients. Built to work together. One scoop in the coffee you already drink.
+One scoop adds what's missing. 11 ingredients built around the caffeine you're already drinking.
 
-This is what clean energy actually feels like.
-
-Link in bio to try it.
+Link in bio.
 
 ### Hashtags
 #functionalcoffee #cleanenergy #nootropics #morningroutine #biohacking #brainfuel #taurine #powercoffee #thefirstwin #cognitiveperformance #ingredientscience
@@ -40,10 +38,10 @@ Link in bio to try it.
 
 ## X.COM
 ### Post
-Your coffee isn't failing you. It's just missing 10 ingredients. Here's what taurine, matcha, and ginkgo actually do inside your brain — and why they belong in your morning cup.
+The afternoon crash isn't caffeine wearing off. It's what caffeine was never given to work with. Taurine, L-theanine, pea protein — a thread on what your morning cup is missing.
 
 ### Thread
-Post 1: Most people blame caffeine for their afternoon crash. Caffeine isn't the problem. It's what's missing around it. A thread on the ingredients that turn a spike into sustained energy:
+Post 1: The afternoon crash is not a caffeine problem. Caffeine clears your system in 4-5 hours. What drops you at 2pm started failing you at 9am — when you drank caffeine without the compounds that make it sustainable.
 
 Post 2: Taurine — not a stimulant. A neuromodulator. It quiets overactive neurons without sedating you. Think of it as a governor for your nervous system. 2g/day is where the research gets interesting.
 
@@ -193,7 +191,7 @@ const H = 1080;
 const GAP = 60;
 
 // SLIDE DATA - accent/bg/textColor must be quoted strings: "BLACK", "BROWN", "BROWN_L", "CREAM", "WHITE"
-const SLIDES = [{ id: 1, slideType: "hook", overline: "CLEAN ENERGY", headline: "Your brain runs\non more than\ncaffeine.", subtext: "11 ingredients. Built to work together. One scoop in the coffee you already drink.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }
+const SLIDES = [{ id: 1, slideType: "hook", overline: "INGREDIENT SCIENCE", headline: "THE CRASH ISN'T\nCAFFEINE LEAVING.\nIT'S WHAT WAS\nNEVER THERE.", subtext: "11 ingredients built around the caffeine you're already drinking.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }
 ];
 
 // ── HELPERS ──────────────────────────────────────────────────

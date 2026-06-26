@@ -1,0 +1,305 @@
+{% comment %}
+  SECTION: Price Comparison
+  Turns the "$17.90 vs $30" content angle into a homepage conversion section.
+  Add via: Online Store → Themes → Edit code → Sections → New section → paste this
+  Place it immediately below the hero or after the triple-action benefits block.
+{% endcomment %}
+
+<section class="pc-price" id="why-cheaper">
+  <div class="pc-price__inner">
+
+    <div class="pc-price__header">
+      <span class="pc-price__eyebrow">Pricing transparency</span>
+      <h2 class="pc-price__title">Every comparable brand charges $30 or more.<br>We charge $17.90.</h2>
+      <p class="pc-price__subtitle">
+        Not a launch discount. Not a loss leader. The permanent price —
+        because $1.19 a morning shouldn't be a luxury.
+      </p>
+    </div>
+
+    <div class="pc-price__comparison">
+
+      <!-- Power Coffee side -->
+      <div class="pc-price__card pc-price__card--ours">
+        <div class="pc-price__badge">Power Coffee</div>
+        <div class="pc-price__amount">$17.90</div>
+        <div class="pc-price__per">for 15 servings — $1.19 a morning</div>
+        <ul class="pc-price__list">
+          <li>✓ 11 real ingredients, real doses</li>
+          <li>✓ No agency retainer in the price</li>
+          <li>✓ No influencer margin baked in</li>
+          <li>✓ No paid distribution markup</li>
+          <li>✓ Founder answers the DMs</li>
+        </ul>
+        <a href="/products/power-coffee" class="pc-price__cta">
+          Start for $1.19 a morning
+        </a>
+      </div>
+
+      <!-- Competitor side -->
+      <div class="pc-price__card pc-price__card--theirs">
+        <div class="pc-price__badge pc-price__badge--theirs">Typical competitors</div>
+        <div class="pc-price__amount pc-price__amount--theirs">$28–$42</div>
+        <div class="pc-price__per">for the same serving count</div>
+        <ul class="pc-price__list pc-price__list--theirs">
+          <li>→ Agency retainer baked into price</li>
+          <li>→ Influencer commission factored in</li>
+          <li>→ Platform distribution fee included</li>
+          <li>→ Brand positioning premium added</li>
+          <li>→ Formula? Often identical or less</li>
+        </ul>
+        <div class="pc-price__note">
+          The extra $15–$25 isn't going into the scoop. It's going into the system that sold it to you.
+        </div>
+      </div>
+
+    </div><!-- /.pc-price__comparison -->
+
+    <div class="pc-price__math">
+      <div class="pc-price__math-item">
+        <span class="pc-price__math-num">$1.19</span>
+        <span class="pc-price__math-label">cost per morning</span>
+      </div>
+      <div class="pc-price__math-sep">·</div>
+      <div class="pc-price__math-item">
+        <span class="pc-price__math-num">15</span>
+        <span class="pc-price__math-label">servings per bag</span>
+      </div>
+      <div class="pc-price__math-sep">·</div>
+      <div class="pc-price__math-item">
+        <span class="pc-price__math-num">11</span>
+        <span class="pc-price__math-label">active ingredients</span>
+      </div>
+      <div class="pc-price__math-sep">·</div>
+      <div class="pc-price__math-item">
+        <span class="pc-price__math-num">$0</span>
+        <span class="pc-price__math-label">middleman markup</span>
+      </div>
+    </div>
+
+  </div><!-- /.pc-price__inner -->
+</section>
+
+<style>
+.pc-price {
+  background: #F7F0E0;
+  color: #171412;
+  padding: 80px 24px;
+  font-family: -apple-system, 'Helvetica Neue', sans-serif;
+}
+
+.pc-price__inner {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.pc-price__header {
+  text-align: center;
+  margin-bottom: 56px;
+}
+
+.pc-price__eyebrow {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #D9A633;
+  margin-bottom: 16px;
+}
+
+.pc-price__title {
+  font-size: clamp(26px, 3.5vw, 42px);
+  font-weight: 800;
+  line-height: 1.15;
+  color: #171412;
+  margin: 0 0 18px;
+}
+
+.pc-price__subtitle {
+  font-size: 18px;
+  line-height: 1.6;
+  color: rgba(23,20,18,0.65);
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.pc-price__comparison {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin-bottom: 56px;
+}
+
+.pc-price__card {
+  border-radius: 16px;
+  padding: 36px 32px;
+}
+
+.pc-price__card--ours {
+  background: #171412;
+  color: #F7F0E0;
+  border: 2px solid #D9A633;
+}
+
+.pc-price__card--theirs {
+  background: rgba(23,20,18,0.06);
+  color: rgba(23,20,18,0.55);
+  border: 2px solid rgba(23,20,18,0.1);
+}
+
+.pc-price__badge {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #D9A633;
+  margin-bottom: 20px;
+  padding: 4px 10px;
+  background: rgba(217,166,51,0.12);
+  border-radius: 4px;
+}
+
+.pc-price__badge--theirs {
+  color: rgba(23,20,18,0.4);
+  background: rgba(23,20,18,0.06);
+}
+
+.pc-price__amount {
+  font-size: 56px;
+  font-weight: 900;
+  line-height: 1;
+  color: #F7F0E0;
+  margin-bottom: 8px;
+}
+
+.pc-price__amount--theirs {
+  color: rgba(23,20,18,0.35);
+  text-decoration: line-through;
+}
+
+.pc-price__per {
+  font-size: 14px;
+  color: rgba(247,240,224,0.55);
+  margin-bottom: 28px;
+}
+
+.pc-price__card--theirs .pc-price__per {
+  color: rgba(23,20,18,0.4);
+}
+
+.pc-price__list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 28px;
+}
+
+.pc-price__list li {
+  font-size: 15px;
+  line-height: 1.5;
+  padding: 7px 0;
+  color: rgba(247,240,224,0.85);
+  border-bottom: 1px solid rgba(247,240,224,0.08);
+}
+
+.pc-price__list li:last-child {
+  border-bottom: none;
+}
+
+.pc-price__list--theirs li {
+  color: rgba(23,20,18,0.45);
+  border-bottom-color: rgba(23,20,18,0.07);
+}
+
+.pc-price__cta {
+  display: block;
+  text-align: center;
+  background: #D9A633;
+  color: #171412;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 16px 28px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.pc-price__cta:hover {
+  opacity: 0.9;
+}
+
+.pc-price__note {
+  font-size: 14px;
+  line-height: 1.6;
+  color: rgba(23,20,18,0.45);
+  font-style: italic;
+}
+
+.pc-price__math {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+  flex-wrap: wrap;
+  padding: 40px;
+  background: #171412;
+  border-radius: 16px;
+  color: #F7F0E0;
+}
+
+.pc-price__math-item {
+  text-align: center;
+}
+
+.pc-price__math-num {
+  display: block;
+  font-size: 40px;
+  font-weight: 900;
+  color: #D9A633;
+  line-height: 1;
+  margin-bottom: 6px;
+}
+
+.pc-price__math-label {
+  display: block;
+  font-size: 13px;
+  color: rgba(247,240,224,0.55);
+  letter-spacing: 0.04em;
+}
+
+.pc-price__math-sep {
+  font-size: 28px;
+  color: rgba(247,240,224,0.2);
+}
+
+@media (max-width: 660px) {
+  .pc-price {
+    padding: 60px 16px;
+  }
+  .pc-price__comparison {
+    grid-template-columns: 1fr;
+  }
+  .pc-price__amount {
+    font-size: 48px;
+  }
+  .pc-price__math {
+    gap: 20px;
+    padding: 28px 20px;
+  }
+  .pc-price__math-sep {
+    display: none;
+  }
+  .pc-price__math-num {
+    font-size: 32px;
+  }
+}
+</style>
+
+{% schema %}
+{
+  "name": "Price Comparison",
+  "tag": "section",
+  "settings": []
+}
+{% endschema %}

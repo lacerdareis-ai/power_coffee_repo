@@ -20,6 +20,12 @@
 
 | Pipeline failure as ER suppressor | Mon/Tue losses in the same week as the best-ER post (10.19%) confirm that operational gaps — not content quality — are the primary growth ceiling at this stage. No pattern in copy outperforms consistent publishing. | Structural finding: when 2 of 5 days fail, the week's reach average drops regardless of individual post quality. Fix the pipe before optimizing the copy. | May 25–29, 2026 |
 | Buyer quote with a timeline arc | "Day 1: skeptical. Day 2: still skeptical. Day 3: something shifted." | Mirrors the reader's own resistance arc. Doesn't claim a miracle — claims a progression. Removes the objection "what if it doesn't work immediately" by validating it and then resolving it. | May 29, 2026 |
+| P2 on LinkedIn outperforms all other pillars | Jun 2 P2 "I spent two years formulating a functional coffee" — 136 impressions, 4 engagements (2.94% ER), highest LinkedIn post of the week by 2x. | Founder-narrated ingredient science (the "I built this because of a real problem I had") drives more engagement than problem hooks or social proof on LinkedIn. The mechanism + personal stakes combo. | Jun 2, 2026 |
+| Real-world event content = account-high reach on IG | StartupCPG sampling event photo: 344 reach (account high in recent period). CPG Founders show: 158 reach. Both outperform all Sales Motor automated content. | Showing up in real spaces signals credibility that no caption can manufacture. The algorithm amplifies event content because it signals community authority. | Jun 2026 |
+| High impressions ≠ engagement on LinkedIn — P5 warning | Jun 4 P5 Social Proof ("REAL PEOPLE. REAL RESULTS."): 63 impressions, 0 engagements. P2 same week: 136 impressions, 4 engagements. Social proof headlines that feel like ads get skipped on LinkedIn even when they reach people. | On LinkedIn, P5 needs a story frame not a headline frame. Start with "A review stopped me mid-scroll" not "REAL PEOPLE. REAL RESULTS." | Jun 4, 2026 |
+| Unscripted framing as hook signal | "I didn't write a script for this one." (Jun 17 Reel, 465 reach, 16.13% ER, 17 saves) | Signals authenticity before the viewer decides whether to keep watching. Anti-performance framing lowers skepticism in a category (functional products) where audiences are trained to distrust polished content. Saves rate (3.66%) suggests retention beyond the first view. | Jun 17, 2026 |
+| Scientific counter-claim as declarative hook | "Caffeine doesn't give you energy." — then explain the adenosine mechanism | Contradicts a widely held assumption in one short declarative sentence. Forces the viewer to either dismiss or stay to find out why they're wrong. High early-intent signal (122.22% ER day 1). Same curiosity gap mechanic as Ginkgo nuclear-blast hook, now applied to mechanism rather than history. | Jun 18, 2026 |
+| Price gap stated as flat fact, not comparison | "I sell this for $17.90. Every competitor charges $30." — 3 shares, 7.41% ER | No framing, no justification, no question. The gap speaks for itself. Share behavior (3 shares, 0 comments) indicates forwarding intent — "I'm sending this to someone" rather than "I want to debate this." | Jun 16, 2026 |
 ### Template entries:
 - **Price anchor hook:** "$0.73 vs $5.75" — comparison to daily coffee shop spend
 - **Problem-first hook:** "Your coffee is failing you by 2pm" — names the pain immediately
@@ -53,7 +59,8 @@
 
 | Audience | CPA | ROAS | Notes | Date |
 |---|---|---|---|---|
-| *Add as you test* | | | | |
+| LinkedIn followers (13,825) | — | — | 32% São Paulo area, 30% Senior, 11% CXO, 6% CEO — overwhelmingly Brazilian senior exec audience. Only 4% Greater Boston (Leo's US market). LinkedIn reach is building brand authority with investors/peers, not driving US consumer purchase. Separate playbook needed. | Jun 6, 2026 |
+| StartupCPG community | — | — | Event photo hit 344 reach (IG account high). In-person presence in CPG community drives more discovery than any automated pillar. Prioritize events and sampling appearances for IG. | Jun 2026 |
 
 ### Track these audience segments:
 - Coffee lovers + wellness
@@ -91,7 +98,79 @@
 | Week 1 (May 11–15) | — | — | — | — | P2 Ginkgo carousel: 10.53% ER (best ER in period). P5 stories live. System stabilizing. |
 | Week 2 (May 18–22) | — | — | — | — | P3 Ironman Reel: 438 views/279 reach (#1 reach in SM period). Carousel ER declining (2.22%). Email: 359 contacts, 1 send. |
 | Week 3 (May 25–29) | — | — | — | — | Pipeline down Mon–Tue (2 days dark). May 28 AI-first Reel: 10.19% ER / 7 comments (tied #1 all-time). May 29 Social Proof Carousel live. Reels avg 199 reach vs carousels avg 86. |
-| Week 4 (Jun 1–5) | | | | | |
+| Week 4 (Jun 1–5) | — | — | — | — | LinkedIn: Jun 2 P2 top performer (136 impressions, 4 engagements, 2.94% ER). Jun 4 P5 highest impressions (63) but 0 engagements — reach without resonance. 2 of 5 days missed 4am publish (Mon/Thu ran partial only). Instagram: 0 feed posts all week — CTA Stories only. Structural: StartupCPG event content hit 344 reach (account high) — real-world presence > any pillar. LinkedIn audience is 32% São Paulo senior executives — misaligned with US buyer ICP. |
+| Week 5 (Jun 7–12) | — | — | — | — | Instagram reach avg: ~46 (down from 86 carousel avg / 199 Reel avg). 3rd consecutive week no Reel published — pipeline asset failures (Jun 10 failed, Jun 12 no mp4). Top pipeline post: P5 "REAL PEOPLE. REAL RESULTS." 65 reach. Real-world event photos: 43–52 reach floor. Jun 9 matcha carousel 38 reach — negative product-category hook ("YOUR COFFEE IS MAKING YOU ANXIOUS") likely suppressed performance. X and LinkedIn fully healthy all week. |
+| Week 6 (Jun 15–Jun 19, 2026) | — | — | — | — | Reels 15x reach over carousels; adenosine hook strongest signal; 2 dry-run days + Instagram failures cost distribution |
+
+---
+
+---
+
+## Purchase Triggers — Conversion Framework (Jun 2026)
+
+*Sourced from: verified buyer reviews, PULSE data, LENS performance, buyer interviews. Use these as the raw material of every conversion piece (P5, P6, and any CTA slide).*
+
+### The 8 Triggers
+
+| # | Trigger | Hook formula | Best for |
+|---|---|---|---|
+| 1 | **The Second Cup Test** | "Tomorrow morning: one scoop. See if you reach for a second cup by 10am." | Cold — self-verifiable dare, removes commitment frame |
+| 2 | **Day 3 Specificity** | "Day 1: skeptical. Day 2: still skeptical. Day 3: I stopped reaching for a second cup." | Warm / retargeting — neutralises the "what if it doesn't work" objection with a buyer's exact timeline |
+| 3 | **$1.19 Math** | "$1.19 a morning. In the coffee you're already making. Not a new routine — an upgraded one." | Any CTA — pre-empts price objection before it forms |
+| 4 | **Under-built Coffee Reframe** | "Your coffee isn't too much. It's under-built." | Cold — eliminates "I already have a routine" friction in one line |
+| 5 | **The Smooth Word** | "Not a bigger spike. A smoother arc." | All content — replace "sustained energy" with "smooth energy"; replace "no crash" with "smooth through the afternoon" |
+| 6 | **112 Reviews at 4.9★** | "4.9 stars. 112 people. They didn't all get it wrong." | P5 + P6 — specificity ("112") is credibility; round numbers sound like marketing |
+| 7 | **Red Bull Taurine Reframe** | "Taurine is in Red Bull. But not for the reason most people think — and the dose difference explains everything." | P2 hook — familiar reference lowers skepticism, no education needed |
+| 8 | **550 Days Founder Use** | "550 consecutive mornings. Same scoop. Same formula. I've had every reason to stop. I haven't found one." | P3 — founder as the longest-running case study; no one uses something 550 days if it doesn't work |
+
+### Conversion combos by audience
+
+| Audience | Use triggers |
+|---|---|
+| **Cold** | 4 (under-built) + 1 (second cup test) + 3 ($1.19 math) |
+| **Warm / retargeting** | 2 (Day 3) + 6 (112 reviews) + 5 (smooth) |
+| **Skeptic** | 7 (Red Bull taurine) + 8 (550 days) + 1 (second cup test) |
+
+### The structural fix that beats all 8 triggers
+The 112 reviews are invisible — not embedded on the website. Every trigger above sends people to thepowercoffee.com and they land on placeholder testimonials. **Fix the homepage before optimising content.** Collect 5 real buyer quotes ("what changed after Week 3?"), publish them, embed the Google reviews widget.
+
+---
+
+## Next Week Directives — Jun 15–21, 2026 (W25)
+
+**1. Monday Reel is the entire week's highest-leverage move.**
+Three consecutive weeks without a Reel. Average reach dropped from 199 (Reel avg) to ~46 (this week's average). Film Sunday Jun 14 night. `instagram.mp4` in jun15_2026 by 6pm Sunday. One scoop, pre-dawn kitchen, Leo to camera. Everything else is secondary.
+
+**2. P5 Social Proof ("REAL PEOPLE. REAL RESULTS.") works on Instagram — 65 reach, top pipeline post this week.**
+Reverses the LinkedIn finding. The visual format (black card, cream quote text) carries the post on IG in a way the LinkedIn text version doesn't. Keep the headline frame for Instagram P5 — change it only on LinkedIn.
+
+**3. Event content posts same day, no exception.**
+Every week that has a real-world event photo in the 43–52 reach range outperforms automated content. If Leo is anywhere public with the product, that photo publishes within 24 hours. No caption strategy needed.
+
+**4. "YOUR COFFEE IS MAKING YOU ANXIOUS" hook underperformed — avoid negative product-category framing.**
+Jun 9 matcha carousel (38 reach) used this hook. Below carousel average of 86. Likely caused by framing coffee negatively — coffee drinkers disengage before the payoff. Rule: lead with the mechanism or the body experience, not the product category acting against the reader.
+
+---
+
+## Next Week Directives — Jun 8–12, 2026
+
+**1. Reel hooks: declarative only — no question marks, no "Did you know", no "Why?"**
+Declarative outperforms interrogative 7.8x on Reels (10.19% ER vs 1.30% ER, same topic same week). Template: "[Observable fact]. That's not [their excuse]. That's [real cause]." Applied to jun08: "Three coffees before noon. Still crashing by 2pm. That's not you. That's your formula."
+
+**2. P2 hook formula: mechanism claim first, ingredient name second.**
+"The crash isn't caffeine leaving. It's what was never there to begin with." Applied to jun07. Never lead with "taurine does X" — lead with the problem the ingredient solves, reveal the ingredient as the payoff. Ginkgo nuclear blast pattern (10.53% ER) proves this at scale.
+
+**3. P2 and P3 on LinkedIn: maintain "I spent X [time] on a single question" opening.**
+Jun 2 LinkedIn (P2): 136 impressions, 4 engagements (2.94% ER) — best LinkedIn post of the week by 2x. The formula: [founder time invested] + [single precise question] + [counterintuitive answer]. Do not vary this structure. Rotate the question, keep the format.
+
+**4. P5 on LinkedIn: story frame — never headline frame.**
+"A review stopped me mid-scroll on Tuesday" opens 3–5x better than "REAL PEOPLE. REAL RESULTS." on a senior executive audience. Jun 4 P5 headline got 63 impressions, 0 engagements. The narrative version of the same content would have gotten 2–4. Apply to Jun 12 (Thursday P5).
+
+**5. Operational priority: Reel video file by Sunday 8pm.**
+`instagram.mp4` in the day folder before the Mac sleeps Sunday = Monday Reel publishes automatically at 4am = highest-reach format (avg 199 reach vs 86 carousels) fires without manual intervention. This single habit is worth more than any copy optimization available right now.
+
+**6. Event content rule: post within 24 hours, unedited.**
+Any photo from a real-world CPG/community appearance posts immediately. StartupCPG event hit 344 reach — account high. The event context does the work. No caption optimization needed.
 
 ---
 

@@ -12,7 +12,7 @@
 ---
 
 ## INSTAGRAM
-### Story Copy
+### Post Copy
 **Headline:** REAL PEOPLE. REAL RESULTS.
 
 **Subtext:** Here's what they're saying after one week.

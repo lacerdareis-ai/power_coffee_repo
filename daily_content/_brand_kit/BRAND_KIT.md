@@ -24,29 +24,59 @@ _brand_kit/
 
 _Add any missing (gradients, lighter cream, etc.):_ …
 
-## 2. Fonts  → drop files in `fonts/`
-| Use | Font file | Weight |
-|-----|-----------|--------|
-| Headlines | … | … |
-| Body | … | … |
-| Accent/labels (optional) | … | … |
+## 2. Fonts
+
+Both are macOS system fonts — no files needed, already on every Mac and in Figma natively.
+
+| Use | Font | Weight | Notes |
+|-----|------|--------|-------|
+| Headlines (carousel / story) | **Georgia** | Bold Italic | All slide main headlines |
+| Sub-headlines / CTA block | **Georgia** | Bold | Story heads, CTA text |
+| Body copy | **Georgia** | Regular | Slide body, supporting text |
+| Quotes / tagline | **Georgia** | Italic | "The first win of your day." |
+| Labels / Overlines | **Arial** | Bold | ALL CAPS overlines, slide counter |
+| Footer brand name | **Arial** | Bold | "THE POWER COFFEE" |
+| Footer tagline | **Arial** | Regular | "CLEAN ENERGY. REAL FOCUS." |
+| Ingredient pills | **Arial** | Bold | Letter-spacing +20% |
+
+**System paths (make_carousel.py):**
+`Georgia Bold.ttf` · `Georgia.ttf` · `Arial Bold.ttf` · `Arial.ttf` — all in `/System/Library/Fonts/Supplemental/`
+
+**Figma:** both available natively — no upload needed. `figma_brand_kit.js` uses them directly.
 
 ## 3. Cutouts (transparent PNGs)  → drop files in `cutouts/`
-List each image + how to use it:
-- `…png` — what it is — where it goes (e.g. product can → bottom-right of CTA slide)
-- …
+| File | What it is | Suggested use |
+|------|-----------|---------------|
+| `mascot_logo.png` | Animated coffee cup mascot — lightning bolt on top, arms + legs, "THE POWER COFFEE" on cup body. 1560×1560px, RGBA transparent. Sourced from Figma Brand_kit node 14:21. | CTA slides, story covers, hook slide accent. Bottom-right or centered over dark bg. |
+| `high_energy_guy.png` | — | — |
+| `logo.png` | — | — |
 
 ## 4. Design direction
 Drop 1+ reference screenshots in `references/`, and/or describe:
-- Headline placement: top / centered / bottom — …
-- Product image on every slide, or only hook/CTA? — …
-- Background: solid Deep Espresso / texture / photo — …
-- Light slides, dark slides, or alternating? — …
-- Logo placement: …
-- Slide counter (01/07) yes/no: …
-- Overall vibe (3 words): …
+- Headline placement: top / centered / bottom — Left
+- Product image on every slide, or only hook/CTA? — Both
+- Background: solid Deep Espresso / texture / photo — all of them
+- Light slides, dark slides, or alternating? — alternating
+- Logo placement: use HE (our energy mug) on bottom right
+- Slide counter (01/07) yes/no: yes
+- Overall vibe (3 words): Energy/ real regular person/ Focus
 
-## 5. Format
+## 5. Welcome Screens (Video Title Cards)
+
+Created Jun 10, 2026 — Figma file Brand_kit, nodes `17:2` and `17:43`.
+
+| File | Text | Tagline |
+|------|------|---------|
+| `☕ Welcome — GOOD MORNING.png` | GOOD MORNING | Let's win today. |
+| `☕ Welcome — HELLO THERE.png` | HELLO THERE | Ready to fuel up? |
+
+Format: 1080 × 1920 (9:16). Deep Espresso bg, mascot + gold glow, Lora Bold Italic headlines, gold accents, THE POWER COFFEE footer. Use as video intro title cards.
+
+Figma Scripter source: `figma_welcome_screen.js`
+
+---
+
+## 6. Format
 - Size: 1080 × 1350 (4:5 portrait) unless you want square 1080×1080 — …
 - Slide count: follows `content.md` "Carousel Copy" (7 for jun02)
 

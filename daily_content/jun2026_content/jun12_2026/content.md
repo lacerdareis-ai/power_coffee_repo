@@ -10,50 +10,34 @@
 ## INSTAGRAM
 ### Reel Script
 
-**Hook (on screen — first 1.5s):**
-"I changed the flavor of my coffee."
+"Two Hours Before My Family Wakes"
+
+**Format:** Founder to camera. Pre-dawn kitchen. Worn training clothes. One scoop in frame. House dark. Kitchen window just beginning to grey.
 
 ---
 
-**Script (30-45s talking head or POV prep footage):**
-
-"People expect a supplement to disappear in their cup.
-
-No taste. No color. Just invisible powder that supposedly does something.
-
-Power Coffee doesn't work like that.
-
-When you add it to black coffee — and I mean actual black coffee, no milk, no sugar — the flavor changes. You notice it immediately. Bolder. A hint of cinnamon.
-
-Some people taste it on day one and say: wait, what is that.
-
-That's ginkgo. That's cinnamon. That's real matcha. Not flavoring — the actual plant, ground down.
-
-Real ingredients at real doses have flavor. That's not a side effect. That's the proof.
-
-If it tasted like nothing, you'd be right to wonder what's actually in there.
-
-One scoop. Your black coffee. You'll taste the difference."
-
-**CTA (last 3s on screen):**
-"thepowercoffee.com — link in bio"
+**HOOK (0–3s)**
+On-screen text: "I wake up at 4:45am. And it's not for the aesthetic."
+Leo looks directly into the lens. No smile. Calm.
 
 ---
 
-### Caption
-Most people add a scoop to their coffee and expect to taste nothing.
+**BODY (3–38s)**
+Voiceover or to-camera — calm, unhurried:
 
-Power Coffee tastes like something.
+"The two hours before my family wakes are the only hours that are entirely mine. Training. Formula prep. The first quiet of the day. All of it happens before Gabriel and Helena come down the stairs.
 
-When you add it to black coffee, the flavor shifts. Bolder, earthier — a hit of cinnamon, the subtle edge of matcha underneath the roast. Not perfume. Not flavoring. The actual plants, at doses that do something.
+For a long time, those early hours didn't hold. By 2pm the edge was gone. I'd sit with my kids and I wasn't really there — three coffees in, still running on empty.
 
-That's what real ingredients taste like when you use enough of them to matter.
+That gap between the morning I built and the afternoon that fell apart is why I spent two years formulating this. Seven ingredients. One scoop. Not to sell something — to fix something real in my own life.
 
-I spent two years getting this formula right. The flavor is part of that. It's not a bug. It's the most honest thing about what's in the scoop.
+The energy holds now. And I'm actually present when it counts."
 
-One scoop into your black coffee tomorrow morning. You'll know the difference.
-
-→ Link in bio to try it.
+On-screen text progression:
+- "4:45am. Every morning." (3s)
+- "By 2pm — gone." (12s)
+- "Two years. One formula." (22s)
+- "Now the afternoon holds." (32s)
 
 ---
 
