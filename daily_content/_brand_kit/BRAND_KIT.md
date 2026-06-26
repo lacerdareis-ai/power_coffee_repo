@@ -26,23 +26,23 @@ _Add any missing (gradients, lighter cream, etc.):_ …
 
 ## 2. Fonts
 
-Both are macOS system fonts — no files needed, already on every Mac and in Figma natively.
+**Current standard (Leo, 2026-06-26): Anton for headlines, Inter for everything else.** This replaces the old Georgia/Arial system.
 
 | Use | Font | Weight | Notes |
 |-----|------|--------|-------|
-| Headlines (carousel / story) | **Georgia** | Bold Italic | All slide main headlines |
-| Sub-headlines / CTA block | **Georgia** | Bold | Story heads, CTA text |
-| Body copy | **Georgia** | Regular | Slide body, supporting text |
-| Quotes / tagline | **Georgia** | Italic | "The first win of your day." |
-| Labels / Overlines | **Arial** | Bold | ALL CAPS overlines, slide counter |
-| Footer brand name | **Arial** | Bold | "THE POWER COFFEE" |
-| Footer tagline | **Arial** | Regular | "CLEAN ENERGY. REAL FOCUS." |
-| Ingredient pills | **Arial** | Bold | Letter-spacing +20% |
+| Headlines (carousel / story / CTA) | **Anton** | Regular | ALL CAPS display; Anton ships heavy/condensed so one weight is enough |
+| Sub-headlines / CTA block | **Inter** | SemiBold | Story heads, CTA text |
+| Body copy | **Inter** | Regular | Slide body, supporting text |
+| Labels / Overlines | **Inter** | Bold | ALL CAPS overlines, slide counter |
+| Footer brand name | **Inter** | Bold | "THE POWER COFFEE" |
+| Ingredient pills | **Inter** | SemiBold | Letter-spacing +20% |
 
-**System paths (make_carousel.py):**
-`Georgia Bold.ttf` · `Georgia.ttf` · `Arial Bold.ttf` · `Arial.ttf` — all in `/System/Library/Fonts/Supplemental/`
+**Font files (installed in `_brand_kit/fonts/`):**
+`Anton-Regular.ttf` · `Inter-Variable.ttf` (variable — pick weight in PIL via `set_variation_by_name("Regular"|"SemiBold"|"Bold")`)
 
-**Figma:** both available natively — no upload needed. `figma_brand_kit.js` uses them directly.
+**Renderers use these:** `make_cta_story.py` (done). Any new carousel/story renderer must load Anton + Inter from `_brand_kit/fonts/`, not the old system Georgia/Arial.
+
+**Figma:** Anton + Inter are both free Google Fonts — add them to the Figma file's fonts if not present.
 
 ## 3. Cutouts (transparent PNGs)  → drop files in `cutouts/`
 | File | What it is | Suggested use |
