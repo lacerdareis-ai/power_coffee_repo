@@ -174,4 +174,16 @@ Any photo from a real-world CPG/community appearance posts immediately. StartupC
 
 ---
 
+## Week of Jun 22–26, 2026 (live pull — week was a pipeline outage; only Jun 23 + Jun 26 published)
+
+**7. Reels out-reach Feed ~8×.** Reel avg reach ≈416 vs Feed ≈51 (last 10 posts). Feed carousels: 28–78 reach. The single highest-leverage decision is "is it a Reel."
+
+**8. Unscripted founder POV = most comments.** Jun 17 Reel "I didn't write a script for this one" → 526 reach, 18 comments, 16.2% ER (recent high). Open Reels by naming they're raw/unscripted.
+
+**9. Shares only happen on Reels.** Jun 22 Reel: 1169 reach, 9 shares (best distribution). Feed posts: 1–2 shares max.
+
+**10. Saves ≈ 0 everywhere (gap).** No content is being bookmarked. Re-point carousels at save-value (checklists, ingredient breakdowns) or deprioritize them.
+
+---
+
 *This document compounds in value. Never delete old entries — they show you the evolution of what works.*
