@@ -17,9 +17,9 @@ You've been meaning to try it.
 This weekend, there's no reason not to.
 
 **Slide 2:**
-One scoop. Seven ingredients.
+One scoop. Eleven ingredients.
 Here's what you actually get:
-Clean caffeine + matcha for smooth release.
+175mg clean caffeine + matcha for smooth release.
 Taurine for sustained focus.
 5g pea protein to stabilize blood sugar.
 No crash. No jitters. No second cup needed.
@@ -52,7 +52,7 @@ Your first win starts with one scoop.
 ### Caption
 You've been thinking about it long enough.
 
-One scoop. Seven ingredients. Clean energy from the first sip to the last hour of your day.
+One scoop. Eleven ingredients. Clean energy from the first sip to the last hour of your day.
 
 No crash. No jitters. No extra supplements.
 

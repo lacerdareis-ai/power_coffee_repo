@@ -52,8 +52,11 @@
 | Ginger | Thermogenic | Metabolic support, energy blend |
 | Pea Protein | Satiety | Functional nutrition, blood sugar stability |
 
+> **Full formula = 11 functional ingredients · 175mg caffeine per serving** (confirmed by Leo, 2026-06-27). The table above lists the primary actives; 4 more complete the 11 — still to be documented here. Always say **"11 ingredients"** and **"175mg caffeine"** in content.
+
 ### Specs
 - Format: resealable pack, 15 servings
+- **11 functional ingredients · 175mg caffeine per serving**
 - Price: $17.90/pack — $1.19/serving
 - No sugar, no artificial sweeteners, no fillers, lactose-free
 - Can be used standalone or added to existing coffee ritual
