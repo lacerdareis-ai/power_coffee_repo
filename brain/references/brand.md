@@ -41,25 +41,29 @@
 
 ## Product
 
-### Formula
-| Ingredient | Role | Benefit |
-|------------|------|---------|
-| Instant Coffee | Base | Energy + ritual familiarity |
-| Matcha | Focus | Sustained energy, no spike (L-theanine) |
-| Taurine | Performance | Clean focus, no crash, no jitters |
-| Ginkgo Biloba | Cognition | Blood flow, brain performance at 6am |
-| Cinnamon | Metabolic | Blood sugar stability → focus quality |
-| Ginger | Thermogenic | Metabolic support, energy blend |
-| Pea Protein | Satiety | Functional nutrition, blood sugar stability |
+### Formula — 11 ingredients (source: `09-Formula/Formula-Master.md`)
+| # | Ingredient | Dose | Role |
+|---|------------|------|------|
+| 1 | Instant Coffee | ~1.5g | Base energy + ritual familiarity |
+| 2 | Matcha Green Tea | 600mg | Sustained energy, smooth arc (bound L-theanine) |
+| 3 | L-Theanine | 200mg | Alert calm — focus without the jitter |
+| 4 | Taurine | 2,000mg (2g) | Clean focus, neuromodulation (2× the Red Bull dose) |
+| 5 | Pea Protein | 5,000mg (5g) | Blood sugar stability, functional nutrition |
+| 6 | Cinnamon (Ceylon) | 500mg | Blood sugar regulation, insulin sensitivity |
+| 7 | Ginkgo Biloba (EGb 761) | 120mg | Cerebral blood flow, cognitive endurance |
+| 8 | Ginger Root | 250mg | Thermogenic; empty-stomach tolerance |
+| 9 | L-Carnitine | ~0.5–2g (verify label) | Fat metabolism, mental energy |
+| 10–11 | **Verify on physical label** | ❓ | Candidates: black pepper/piperine, MCT powder, B12 |
 
-> **Full formula = 11 functional ingredients · 175mg caffeine per serving** (confirmed by Leo, 2026-06-27). The table above lists the primary actives; 4 more complete the 11 — still to be documented here. Always say **"11 ingredients"** and **"175mg caffeine"** in content.
+> **Always say "11 ingredients" in content.** Items 1–9 are confirmed in Formula-Master.md; #10–11 still need physical-label verification (don't name them until confirmed). The two missing from the old 7-item list were **L-Theanine** and **L-Carnitine**.
 
 ### Specs
-- Format: resealable pack, 15 servings
-- **11 functional ingredients · 175mg caffeine per serving**
+- Format: resealable pack, 150g, 15 servings (1 scoop = 10g)
+- **11 functional ingredients**
+- **Caffeine: 175mg per serving** (per physical label, confirmed by Leo 2026-06-27). Note: Formula-Master.md's ~52–70mg figure is a calculated estimate from instant coffee + matcha; the label value (175mg) is authoritative — use **175mg** in content.
 - Price: $17.90/pack — $1.19/serving
-- No sugar, no artificial sweeteners, no fillers, lactose-free
-- Can be used standalone or added to existing coffee ritual
+- Zero sugar · zero lactose · zero artificial · Made in USA
+- Standalone (hot water/milk) or added to an existing coffee
 
 ### Science hooks (for content)
 - "Matcha + L-Theanine: calm focus without spike — energy over 4-6 hours, not 45 minutes"
