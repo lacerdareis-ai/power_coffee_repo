@@ -385,4 +385,14 @@ The pattern has fired twice (May 20, Jun 17). Both times it was pure founder/fam
 
 ---
 
+### LENS Update — Jun 22–26, 2026 (live pull; week was a pipeline outage)
+
+**1. Reels out-reach Feed ~8× — confirmed again.** Reel avg reach ≈416 vs Feed avg ≈51 across the last 10 posts. Feed carousels/images land 28–78 reach; Reels 100–1169. Format choice dominates copy choice.
+
+**2. Unscripted founder POV is the engagement engine.** Jun 17 Reel "I didn't write a script for this one" → 526 reach, **18 comments**, 16.2% ER — the most comments of any recent post. The anti-script/anti-performance opener beats polished scripts. Add as a recurring hook: open a Reel by naming that it's unscripted/raw.
+
+**3. Shares are a Reel-only behavior.** Best distribution was Jun 22 Reel (1169 reach, **9 shares**). Feed posts max out at 1–2 shares. To be forwarded, it has to be a Reel.
+
+**4. Saves are the current gap — near zero everywhere (max 3).** Nothing is being bookmarked. Carousels (low reach anyway) should be re-pointed at save-value: ingredient checklists, "save this" reference framing. Until saves move, carousels are low-leverage.
+
 <!-- LENS_APPEND_END -->
