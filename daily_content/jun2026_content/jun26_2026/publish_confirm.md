@@ -1,17 +1,16 @@
-# Publish Confirmation — 2026-06-26 04:00
+# Publish Confirmation — 2026-06-26 07:07
 
 
-- ✅ **X**: ok 
+- ❌ **X**: skipped not in --platform list
 - ❌ **THREADS**: skipped disabled
-- ✅ **TELEGRAM**: ok 51
-- ❌ **WHATSAPP**: failed /Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175
-                throw new Error(`The browser is already running for ${launchAr
-- ❌ **INSTAGRAM**: failed no carousel items created
+- ❌ **TELEGRAM**: skipped not in --platform list
+- ❌ **WHATSAPP**: skipped not in --platform list
+- ✅ **INSTAGRAM**: ok 18067699262437373
 - ❌ **VIDEOSTORY**: skipped no story.mp4 in today's folder
-- ✅ **CTASTORY**: ok 18057968624739585
-- ✅ **LINKEDIN**: ok urn:li:share:7476182600982888448
-- ❌ **SHOPIFY**: skipped not Tuesday or Thursday
-- ❌ **EMAIL**: skipped not Monday
+- ✅ **CTASTORY**: ok 18328728028254844
+- ❌ **LINKEDIN**: skipped not in --platform list
+- ❌ **SHOPIFY**: skipped not in --platform list
+- ❌ **EMAIL**: skipped not in --platform list
 
 ## Content Summary
 

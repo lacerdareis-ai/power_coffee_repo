@@ -26,3 +26,22 @@
 - ⚠️ `report` — 24 errs, last run 9.0h ago
 - ⚠️ `weekly_broadcast` — 3 errs, last run 80.0h ago
 - 📄 `market.md` stale (28d) — refresh
+
+## 2026-06-28 self-review
+- ⚠️ `analytics` — 23 errs, last run 58.0h ago
+- ⚠️ `biweekly` — 0 errs, last run 150.8h ago
+- ⚠️ `boost_tracker` — 6 errs, last run 68.0h ago
+- ⚠️ `campaign` — 10 errs, last run 54.0h ago
+- ⚠️ `competitor` — 18 errs, last run 54.0h ago
+- ⚠️ `generate` — 31 errs, last run 59.0h ago
+- ⚠️ `lens` — 4 errs, last run 204.0h ago
+- ⚠️ `media` — 10 errs, last run 58.5h ago
+- ⚠️ `morning_brief` — 21 errs, last run 33.0h ago
+- ⚠️ `obsidian` — 6 errs, last run 56.0h ago
+- ⚠️ `publish` — 74 errs, last run 60.0h ago
+- ⚠️ `qa_poller` — 537 errs, last run Noneh ago
+- ⚠️ `report` — 24 errs, last run 56.0h ago
+- ⚠️ `review` — 9 errs, last run 79.0h ago
+- ⚠️ `weekly_broadcast` — 3 errs, last run 151.0h ago
+- ⚠️ `weekly_plan` — 3 errs, last run 57.0h ago
+- 📄 `market.md` stale (30d) — refresh
