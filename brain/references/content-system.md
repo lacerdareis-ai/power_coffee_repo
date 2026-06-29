@@ -1,5 +1,14 @@
 # The Power Coffee — Content System
 
+## ⭐ Desire-Brand Content Rules (apply to EVERY pillar — added 2026-06-27)
+Power Coffee is becoming a **desire brand** (see brand.md → Desire-Brand Strategy). Sell identity + feeling; the formula is the receipt, not the pitch.
+1. **Open with identity/feeling, never ingredients.** The hook = who you become / the morning you want. Science & ingredients appear later as proof only. (LENS-confirmed: unscripted founder POV ≫ ingredient carousels.)
+2. **Use buyer words — "smooth," "level," "no drop."** Drop clinical terms ("neuromodulator," "cerebral blood flow") from hooks; describe the *felt* experience.
+3. **Founder POV first.** Leo's standard/life is the aspiration — favor raw, unscripted founder Reels over polished explainers.
+4. **Drive the #FirstWin ritual + belonging** — invite UGC ("post your first win"); frame drinking it as joining the "wins their morning" club.
+5. **Price = democratization** when relevant: "elite morning, $1.19" vs $5 latte / $35 mushroom coffee.
+6. **Stay in our lane:** discipline · performance · presence. Never "indulgent treat."
+
 ## 6 Content Pillars
 
 | # | Pillar | Purpose | Best Platform |

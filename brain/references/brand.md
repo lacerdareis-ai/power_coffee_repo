@@ -39,6 +39,24 @@
 
 ---
 
+## Desire-Brand Strategy (north star — added 2026-06-27)
+
+> **Model:** Bold Snacks (Brazil) took a *functional* product (protein) and made it **desired** by selling identity, pleasure, aesthetic, a range to collect, and community — never the function. The protein is the permission, not the pitch.
+
+**The shift Power Coffee is making:** stop selling *why it works* (11 ingredients, taurine, no-crash science) → start selling *who you become*, with the science as the **receipt, not the headline.** Regular Americans don't crave "functional coffee." They crave being **the person who has their act together by 6am** — disciplined, sharp, present for family, winning before the world wakes. Power Coffee is the **badge of that identity.**
+
+**Our desire territory (do NOT drift into Bold's "indulgence" lane):** discipline · performance · presence · *"become the person who wins."* Borrow the mechanics, keep our emotional lane — never "treat yourself."
+
+**The 6 levers:**
+1. **Identity over formula** — lead with "the first win of your day" / the person who performs. Ingredients = proof, never the hook.
+2. **Leo as aspirational protagonist** — real Ironman / immigrant / faith / family founder building in public. The unfair advantage Bold rents from influencers; we own it.
+3. **Lead with the felt word buyers use: "smooth"** (PULSE #1 word). Sensory > clinical — drop "neuromodulator / cerebral blood flow" from hooks.
+4. **Photogenic product + a range to collect** (Original + future flavors/drops) — built to be posted.
+5. **#FirstWin / #BoostedDays as a visible tribe** — drinking it signals belonging to the "wins their morning" club. Belonging is desire.
+6. **Price as democratization** — "elite morning, regular-person price": $1.19 vs a $5 latte / $35 mushroom coffee. Then get ubiquitous (Amazon → gyms/offices/retail).
+
+---
+
 ## Product
 
 ### Formula — 11 ingredients (source: `09-Formula/Formula-Master.md`)
