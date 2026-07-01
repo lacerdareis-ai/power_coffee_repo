@@ -9,6 +9,17 @@ Power Coffee is becoming a **desire brand** (see brand.md → Desire-Brand Strat
 5. **Price = democratization** when relevant: "elite morning, $1.19" vs $5 latte / $35 mushroom coffee.
 6. **Stay in our lane:** discipline · performance · presence. Never "indulgent treat."
 
+## ✍️ Anti-AI-Slop Writing Rules (apply to ALL copy — added 2026-07-01)
+Adopt the writing-quality rules from the `no-ai-slop` skill. Keep our brand voice (calm high-performance mentor) — this is about quality, not adopting a different persona. Non-negotiables:
+1. **No em-dashes.** Use a period, comma, semicolon, or parentheses instead.
+2. **No intensifiers** ("extremely," "dramatically," "incredibly," "truly," "literally"). Prove it with a fact or cut it.
+3. **No "It's not X. It's Y." framing** and no dramatic noun-phrase headings that tease instead of inform.
+4. **No filler openers/transitions**: "In a world where," "Let's dive in," "Here's the thing," "the kicker."
+5. **No emoji decoration** in captions (already a brand rule).
+6. **Every claim ends in a concrete, checkable detail** (a number, a timeframe, a named thing). Cut hollow sentences.
+7. **Vary sentence and paragraph length.** No three identical-shape lines in a row.
+8. **Read it before it publishes.** If a line could sit on any brand's post, rewrite it so only Power Coffee could have said it.
+
 ## 6 Content Pillars
 
 | # | Pillar | Purpose | Best Platform |
