@@ -60,7 +60,7 @@ Leo
 
 ### Email 3 — The Comparison (Day 4)
 
-**Subject:** $0.73 vs $5.75
+**Subject:** $1.19 vs $5.75
 **Preview:** The math your wallet will appreciate
 **Send:** 48 hours after Email 2
 
@@ -68,17 +68,17 @@ Let's talk numbers.
 
 The average coffee shop latte costs $5-7. You get caffeine, sugar, and a receipt you'd rather not look at.
 
-Power Coffee costs $0.73 per serving. You get caffeine + matcha + taurine + pea protein + cinnamon + ginger.
+Power Coffee costs $1.19 per serving. You get caffeine plus matcha, taurine, pea protein, cinnamon, and ginger.
 
-That's $150+ back in your pocket every month. And your afternoons back.
+That's over $100 back in your pocket every month if you're buying a daily latte. And your afternoons back.
 
-I'm not saying don't go to the coffee shop ever. I'm saying your daily morning coffee — the one you drink at home before anyone else is awake — should actually work for you.
+I'm not saying don't go to the coffee shop ever. I'm saying your daily morning coffee, the one you drink at home before anyone else is awake, should actually work for you.
 
 30 seconds to make. Zero drive-through required.
 
 Leo
 
-**CTA:** [Try it for $21.90 — free shipping]
+**CTA:** [Try it for $17.90 — free shipping]
 
 ---
 
@@ -109,14 +109,14 @@ Leo
 ### Email 5 — The Ask (Day 7)
 
 **Subject:** Ready to try it?
-**Preview:** $21.90 for 30 mornings
+**Preview:** $17.90 for 15 mornings
 **Send:** 48 hours after Email 4
 
 I've shared the science, the math, and the results.
 
-Here's the offer: Power Coffee, 150g pack (30 servings), $21.90, free shipping.
+Here's the offer: Power Coffee, 150g pack, 15 servings, $17.90, free shipping.
 
-If you don't notice a difference in your energy and focus within the first week, I want to hear about it. Reply to this email directly — I read every one.
+If you don't notice a difference in your energy and focus within the first week, I want to hear about it. Reply to this email directly. I read every one.
 
 This isn't a subscription trap. It's a single pack. Try it. If it works, you'll come back. That's how we built this business.
 
@@ -124,7 +124,7 @@ The first win of your day is waiting.
 
 Leo
 
-**CTA:** [Order Power Coffee — $21.90]
+**CTA:** [Order Power Coffee — $17.90]
 
 ---
 
@@ -142,9 +142,9 @@ Leo
 
 Hey,
 
-You were close. Your Power Coffee pack is still in your cart — just waiting for you to finish up.
+You were close. Your Power Coffee pack is still in your cart, just waiting for you to finish up.
 
-Sometimes life gets in the way. No pressure. But if you were on the fence, remember: it's $21.90 for 30 mornings of better energy. That's less than 4 lattes.
+Sometimes life gets in the way. No pressure. But if you were on the fence, remember: it's $17.90 for 15 mornings of better energy. That's less than 4 lattes.
 
 **CTA:** [Complete your order]
 
@@ -157,13 +157,13 @@ Leo
 **Subject:** Not sure yet? Fair.
 **Preview:** Here's what you might be wondering
 
-I noticed you didn't finish your order. Totally fine — I wanted to address a few things you might be thinking:
+I noticed you didn't finish your order. Totally fine. I wanted to address a few things you might be thinking:
 
-"What if I don't like the taste?" — It tastes like coffee with a hint of cinnamon and ginger. If you drink coffee now, you'll like this. If you don't, I'll personally help you figure out the best way to mix it.
+"What if I don't like the taste?" It tastes like coffee with a hint of cinnamon and ginger. If you drink coffee now, you'll like this. If you don't, I'll personally help you figure out the best way to mix it.
 
-"Is it just another supplement gimmick?" — No pills, no proprietary blends, no hidden ingredients. Every ingredient is listed, researched, and dosed for a reason.
+"Is it just another supplement gimmick?" No pills, no proprietary blends, no hidden ingredients. Every ingredient is listed, researched, and dosed for a reason.
 
-"$21.90 seems like a lot for coffee." — It's $0.73/day. Less than a gas station coffee. And it does 10x more for your body.
+"$17.90 for 15 servings seems like a lot for coffee." That's $1.19 a morning. Less than a gas station coffee. And it does significantly more for your focus.
 
 Your cart is still saved. Just click below.
 
@@ -178,11 +178,11 @@ Leo
 **Subject:** Last call on your cart
 **Preview:** Your Power Coffee pack expires soon
 
-This is the last reminder — your cart will expire soon.
+This is the last reminder. Your cart will expire soon.
 
-30 servings. $21.90. Free shipping. The morning upgrade you were looking for.
+15 servings. $17.90. Free shipping. The morning upgrade you were looking for.
 
-If now isn't the right time, no worries. But if you were just distracted — your order is one click away.
+If now isn't the right time, no worries. But if you were just distracted, your order is one click away.
 
 **CTA:** [Complete your order now]
 
@@ -262,17 +262,32 @@ Leo
 **Subject:** Running low yet?
 **Preview:** Most people reorder around now
 
-If you've been drinking Power Coffee daily, you're probably about halfway through your pack.
+If you've been drinking Power Coffee daily, you have one serving left. Most people are surprised how fast it goes.
 
-Here's the thing: consistency is where the real benefits show up. The first week is about noticing the difference. The second and third weeks are where your body actually adapts to the sustained energy pattern.
-
-Most of our repeat customers say week 3 is when it becomes non-negotiable.
+Here's the thing: consistency is where the real benefits show up. The first week is about noticing the difference. Week 3 is when it becomes non-negotiable. Every repeat customer we have says the same.
 
 Don't wait until you run out. Order your next pack now and keep the momentum going.
 
-**CTA:** [Reorder Power Coffee — $21.90]
+**CTA:** [Reorder Power Coffee — $17.90]
 
 Leo
+
+---
+
+### Email 5 — Referral Invite (Day 21)
+
+**Subject:** Someone you know is crashing at 2pm
+**Preview:** Give them $5. Get $5.
+
+Three weeks in. If Power Coffee is working for you, you probably know someone who would benefit.
+
+Forward this email to them. When they order, you both get $5 off your next bag.
+
+No referral codes. No apps. Just reply to this email with their name and email address and I'll take care of it.
+
+Leo
+
+**CTA:** [Refer a friend — get $5]
 
 ---
 
