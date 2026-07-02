@@ -8,7 +8,7 @@
 ## The Offer
 
 **Name:** The Power Morning Kit
-**Price:** $29.90 (anchored against $17.90 bag alone)
+**Price:** $31.90 (anchored against $18.90 bag alone)
 **Contents:**
 - 1 bag Power Coffee (15 servings)
 - 1 branded scoop (logo engraved or heat-printed)
@@ -18,12 +18,13 @@
 **Perceived value breakdown to show on PDP:**
 | Item | Value |
 |---|---|
-| Power Coffee bag | $17.90 |
+| Power Coffee bag | $18.90 |
 | Branded scoop | $4.00 |
 | Mug | $12.00 |
 | 7-Day card | $3.00 |
 | Total value | $36.90 |
-| **Kit price** | **$29.90** |
+| **Kit price** | **$31.90** |
+| Savings vs. buying separately | $5.00 |
 
 **Tagline:** "Everything you need for your first win."
 
@@ -33,18 +34,18 @@
 
 **Habit formation:** The mug and ritual card turn a first purchase into a repeated behavior. Someone who has a Power Coffee mug on their desk uses the product every morning. Mud\Wtr proved this mechanic — their "ritual kits" outperformed standalone bag sales on LTV.
 
-**Gift use case:** $29.90 is the natural gift price point. "The person who has everything" gift for a spouse, friend, or team member who complains about afternoon crashes. This opens a word-of-mouth channel that the bag alone doesn't.
+**Gift use case:** $31.90 is the natural gift price point. "The person who has everything" gift for a spouse, friend, or team member who complains about afternoon crashes. This opens a word-of-mouth channel that the bag alone doesn't.
 
 **UGC engine:** A kit with a mug and branded card gets photographed and posted. The bag does not.
 
-**AOV lift:** $29.90 vs $17.90 = +67% AOV per transaction.
+**AOV lift:** $31.90 vs $18.90 = +69% AOV per transaction.
 
 ---
 
 ## Pricing psychology
 
 Use the `/offers` skill when setting this up. Key mechanics:
-- Show the "Total value: $36.90" explicitly before the $29.90 offer price
+- Show the "Total value: $38.90" explicitly before the $31.90 offer price
 - Use "you save $7" language, not a percentage (dollar amounts feel more concrete at this price point)
 - The limited-run angle: "First 100 kits available" adds urgency without a countdown timer (which erodes trust)
 - Don't discount the kit with a code — it's already a bundled value. Codes signal margin.
@@ -75,5 +76,5 @@ Subscribers who start with the kit have a mug and a habit. Retention should be m
 
 **Headline:** "Everything you need for your first win."
 **Sub:** "The bag, the scoop, the mug, and a 7-day ritual guide. One order. One morning. Start."
-**CTA:** "Get the Kit — $29.90"
+**CTA:** "Get the Kit — $31.90"
 **Trust line:** "Ships in 2 business days · 30-day guarantee"

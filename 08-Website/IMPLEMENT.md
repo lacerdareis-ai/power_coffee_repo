@@ -20,13 +20,13 @@ This is the highest-trust-damage item on the site. Do this first.
 ## 2. Fix the competing CTAs
 
 Currently the product page has three different framings:
-- "Try it for 7 days — $17.90"
-- "BOOST MY DAY for $1.19/morning"
+- "Try it for 7 days — $18.90"
+- "BOOST MY DAY for $1.26/morning"
 - "Start My 15-Day Supply"
 
-Pick one and use it everywhere: **"Start for $1.19 a morning"**
+Pick one and use it everywhere: **"Start for $1.26 a morning"**
 
-The sub-line handles the context: "15 servings · $17.90 · free shipping"
+The sub-line handles the context: "15 servings · $18.90 · free shipping"
 
 ---
 
@@ -58,7 +58,7 @@ Same process: new section named `pc-ingredients`, add to homepage below the hero
 
 File: `Section-Price-Comparison.liquid`
 
-Add below the ingredient section. This turns the "$17.90 vs $30" content angle into a homepage conversion module.
+Add below the ingredient section. This turns the "$18.90 vs $30" content angle into a homepage conversion module.
 
 The "11 active ingredients" number in the math bar matches the updated ingredient count.
 

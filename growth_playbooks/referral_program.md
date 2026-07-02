@@ -17,7 +17,7 @@ HE-OS generates content and drives traffic, but there is no loop that turns sati
 
 - **Referrer gets:** $5 store credit when their referred friend places a first order
 - **Referee gets:** $5 off their first order (reduces trial barrier)
-- **Minimum order to trigger:** $17.90 (one bag — no gaming with a $1 purchase)
+- **Minimum order to trigger:** $18.90 (one bag — no gaming with a $1 purchase)
 - **Credit expiry:** 90 days (creates urgency without alienating customers)
 
 **Why $5 and not a percentage:**

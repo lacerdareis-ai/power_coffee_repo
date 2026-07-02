@@ -68,7 +68,7 @@ Let's talk numbers.
 
 The average coffee shop latte costs $5-7. You get caffeine, sugar, and a receipt you'd rather not look at.
 
-Power Coffee costs $1.19 per serving. You get caffeine plus matcha, taurine, pea protein, cinnamon, and ginger.
+Power Coffee costs $1.26 per serving. You get caffeine plus matcha, taurine, pea protein, cinnamon, and ginger.
 
 That's over $100 back in your pocket every month if you're buying a daily latte. And your afternoons back.
 
@@ -78,7 +78,7 @@ I'm not saying don't go to the coffee shop ever. I'm saying your daily morning c
 
 Leo
 
-**CTA:** [Try it for $17.90 — free shipping]
+**CTA:** [Try it for $18.90 — free shipping]
 
 ---
 
@@ -109,12 +109,12 @@ Leo
 ### Email 5 — The Ask (Day 7)
 
 **Subject:** Ready to try it?
-**Preview:** $17.90 for 15 mornings
+**Preview:** $18.90 for 15 mornings
 **Send:** 48 hours after Email 4
 
 I've shared the science, the math, and the results.
 
-Here's the offer: Power Coffee, 150g pack, 15 servings, $17.90, free shipping.
+Here's the offer: Power Coffee, 150g pack, 15 servings, $18.90, free shipping.
 
 If you don't notice a difference in your energy and focus within the first week, I want to hear about it. Reply to this email directly. I read every one.
 
@@ -124,7 +124,7 @@ The first win of your day is waiting.
 
 Leo
 
-**CTA:** [Order Power Coffee — $17.90]
+**CTA:** [Order Power Coffee — $18.90]
 
 ---
 
@@ -144,7 +144,7 @@ Hey,
 
 You were close. Your Power Coffee pack is still in your cart, just waiting for you to finish up.
 
-Sometimes life gets in the way. No pressure. But if you were on the fence, remember: it's $17.90 for 15 mornings of better energy. That's less than 4 lattes.
+Sometimes life gets in the way. No pressure. But if you were on the fence, remember: it's $18.90 for 15 mornings of better energy. That's less than 4 lattes.
 
 **CTA:** [Complete your order]
 
@@ -163,7 +163,7 @@ I noticed you didn't finish your order. Totally fine. I wanted to address a few 
 
 "Is it just another supplement gimmick?" No pills, no proprietary blends, no hidden ingredients. Every ingredient is listed, researched, and dosed for a reason.
 
-"$17.90 for 15 servings seems like a lot for coffee." That's $1.19 a morning. Less than a gas station coffee. And it does significantly more for your focus.
+"$18.90 for 15 servings seems like a lot for coffee." That's $1.26 a morning. Less than a gas station coffee. And it does significantly more for your focus.
 
 Your cart is still saved. Just click below.
 
@@ -180,7 +180,7 @@ Leo
 
 This is the last reminder. Your cart will expire soon.
 
-15 servings. $17.90. Free shipping. The morning upgrade you were looking for.
+15 servings. $18.90. Free shipping. The morning upgrade you were looking for.
 
 If now isn't the right time, no worries. But if you were just distracted, your order is one click away.
 
@@ -268,7 +268,7 @@ Here's the thing: consistency is where the real benefits show up. The first week
 
 Don't wait until you run out. Order your next pack now and keep the momentum going.
 
-**CTA:** [Reorder Power Coffee — $17.90]
+**CTA:** [Reorder Power Coffee — $18.90]
 
 Leo
 

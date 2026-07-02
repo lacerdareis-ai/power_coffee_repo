@@ -53,7 +53,7 @@
 3. **Lead with the felt word buyers use: "smooth"** (PULSE #1 word). Sensory > clinical — drop "neuromodulator / cerebral blood flow" from hooks.
 4. **Photogenic product + a range to collect** (Original + future flavors/drops) — built to be posted.
 5. **#FirstWin / #BoostedDays as a visible tribe** — drinking it signals belonging to the "wins their morning" club. Belonging is desire.
-6. **Price as democratization** — "elite morning, regular-person price": $1.19 vs a $5 latte / $35 mushroom coffee. Then get ubiquitous (Amazon → gyms/offices/retail).
+6. **Price as democratization** — "elite morning, regular-person price": $1.26 vs a $5 latte / $35 mushroom coffee. Then get ubiquitous (Amazon → gyms/offices/retail).
 
 ---
 
@@ -79,7 +79,7 @@
 - Format: resealable pack, 150g, 15 servings (1 scoop = 10g)
 - **11 functional ingredients**
 - **Caffeine: 175mg per serving** (per physical label, confirmed by Leo 2026-06-27). Note: Formula-Master.md's ~52–70mg figure is a calculated estimate from instant coffee + matcha; the label value (175mg) is authoritative — use **175mg** in content.
-- Price: $17.90/pack — $1.19/serving
+- Price: $18.90/pack — $1.26/serving
 - Zero sugar · zero lactose · zero artificial · Made in USA
 - Standalone (hot water/milk) or added to an existing coffee
 
@@ -223,7 +223,7 @@ Use these citations to back copy claims. Always frame with FTC-safe language: "r
 | "Under-built coffee" | "Your coffee isn't too much. It's under-built." | Reframes the problem — buyer doesn't need to change habits, just upgrade the formula. Zero friction to trial. |
 | Ironman/family demand stacking | "My formula has to cover training, work, and being present for Gabriel and Helena." | Real stakes + real context. Not aspirational — relatable to anyone splitting their morning between multiple demands. |
 | Red Bull contrast | "Taurine is in Red Bull — but not for the reason you think." | Familiar reference point lowers skepticism. Positions Power Coffee as the clean version of what they already know. |
-| Price anchor | "$1.19 a morning vs $5-6 latte" | Always include. Disarms the price objection before it forms. Proven in P6 CTA content. |
+| Price anchor | "$1.26 a morning vs $5-6 latte" | Always include. Disarms the price objection before it forms. Proven in P6 CTA content. |
 | Day 3 proof | "I was really focused on Day 3." (buyer quote) | Specific timeline removes vagueness. Gives the skeptic a concrete milestone to aim for. |
 
 ### Customer Persona: Julia

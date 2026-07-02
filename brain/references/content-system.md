@@ -298,7 +298,7 @@ The best hooks do ONE of these:
 - **Required habit:** Film or generate one Reel video every Sunday night. No video file = no Instagram Reel that week.
 
 **Price anchor correction (effective May 30, 2026):**
-- Price per serving is **$1.19** ($17.90 ÷ 15 servings), not $0.73.
+- Price per serving is **$1.26** ($18.90 ÷ 15 servings). (Previously $1.19 at $17.90 — updated Jul 2026.)
 - Update all future P6 content. Historical posts are not retroactively corrected.
 
 
@@ -309,7 +309,7 @@ The best hooks do ONE of these:
 Every missed Instagram publish this week was an asset delivery problem, not a content problem. Implement a preflight check: if `instagram.jpg` / `carousel_1.jpg` / `instagram.mp4` are not in the day folder by 6pm the prior evening, trigger a manual alert. Do not let the pipeline run without assets confirmed.
 
 **2. Lead next week's P3 Reel with another declarative confession — but rotate the subject.**
-The "I'm not hiding it" template is confirmed. Next rotation: something the audience would expect a founder to hedge on — pricing, formula limitations, early failures, or the bootstrap reality. Candidate hook: "We can't compete on ad spend. So we're not trying." or "I sell 15 servings for $17.90. That's not a margin flex. Here's why I haven't changed it." Same structure, new confession.
+The "I'm not hiding it" template is confirmed. Next rotation: something the audience would expect a founder to hedge on — pricing, formula limitations, early failures, or the bootstrap reality. Candidate hook: "We can't compete on ad spend. So we're not trying." or "I sell 15 servings for $18.90. That's not a margin flex. Here's why." Same structure, new confession.
 
 **3. Publish the Day 3 buyer quote carousel to the Instagram feed as a proper post next week.**
 The content is written and strong. It was never seen as a feed post. Buyer social proof (P5) is the closest pillar to purchase intent — losing it to a Story was a structural waste. Republishing it as a carousel next week is not recycling; it is first exposure for the feed audience.
