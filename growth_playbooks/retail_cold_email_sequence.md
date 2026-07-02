@@ -25,7 +25,7 @@ Hi [Name],
 
 I've been following [Store Name] on Instagram — the [specific thing: product launch / event photo / store aesthetic] caught my attention.
 
-I'm Leo, founder of The Power Coffee. We make a functional coffee for people who take their mornings seriously: 11 ingredients, 175mg caffeine, 5g protein, no crash. $17.90 for 15 servings. Made in USA.
+I'm Leo, founder of The Power Coffee. We make a functional coffee for people who take their mornings seriously: 11 ingredients, 175mg caffeine, 5g protein, no crash. $18.90 for 15 servings. Made in USA.
 
 We've built a real following in Boston and our customer base overlaps directly with yours: performance-focused adults who read labels and want something that works.
 
@@ -67,7 +67,7 @@ One more note, then I'll leave you alone.
 
 The short version of why this might be worth 5 minutes of your time:
 
-- $17.90 retail, 11 functional ingredients, Made in USA — customers who already pay $5 for a Starbucks see the value immediately
+- $18.90 retail, 11 functional ingredients, Made in USA — customers who already pay $5 for a Starbucks see the value immediately
 - It's an add-to-coffee formula, not a replacement — zero friction for the coffee drinkers already walking into your store
 - 4.9 stars from 112 verified buyers, all organic
 - The founder (me) is an Ironman 2026 athlete and has been drinking this product every day for 550 mornings
@@ -115,7 +115,7 @@ Leo, Founder — The Power Coffee
 ## Wholesale terms to have ready
 
 - **Consignment option:** Supply on consignment for first 30 days, no upfront cost to retailer
-- **Wholesale price:** ~$10-11/unit (retailer marks up to $17.90-$19.90)
+- **Wholesale price:** ~$11-12/unit (retailer marks up to $18.90-$22.00)
 - **Minimum first order:** 12 units
 - **Shelf life:** 12 months from production
 - **Materials provided:** POS card, product card with QR to website, sample sachets for staff

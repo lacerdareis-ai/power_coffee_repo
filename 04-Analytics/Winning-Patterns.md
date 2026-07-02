@@ -116,7 +116,7 @@
 |---|---|---|---|
 | 1 | **The Second Cup Test** | "Tomorrow morning: one scoop. See if you reach for a second cup by 10am." | Cold — self-verifiable dare, removes commitment frame |
 | 2 | **Day 3 Specificity** | "Day 1: skeptical. Day 2: still skeptical. Day 3: I stopped reaching for a second cup." | Warm / retargeting — neutralises the "what if it doesn't work" objection with a buyer's exact timeline |
-| 3 | **$1.19 Math** | "$1.19 a morning. In the coffee you're already making. Not a new routine — an upgraded one." | Any CTA — pre-empts price objection before it forms |
+| 3 | **$1.26 Math** | "$1.26 a morning. In the coffee you're already making. Not a new routine — an upgraded one." | Any CTA — pre-empts price objection before it forms |
 | 4 | **Under-built Coffee Reframe** | "Your coffee isn't too much. It's under-built." | Cold — eliminates "I already have a routine" friction in one line |
 | 5 | **The Smooth Word** | "Not a bigger spike. A smoother arc." | All content — replace "sustained energy" with "smooth energy"; replace "no crash" with "smooth through the afternoon" |
 | 6 | **112 Reviews at 4.9★** | "4.9 stars. 112 people. They didn't all get it wrong." | P5 + P6 — specificity ("112") is credibility; round numbers sound like marketing |

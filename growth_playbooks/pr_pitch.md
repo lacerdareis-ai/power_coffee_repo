@@ -21,7 +21,7 @@ A Brazilian immigrant in Boston is training for Ironman 2026, building a functio
 **Why it's news:** It's a specific, verifiable story with a race-day climax. Editors plan around events.
 
 **Angle 3 — The $1.19 Disruption Story**
-Every functional coffee brand charges $30+. The Power Coffee charges $17.90 because the founder doesn't pay agencies or influencers. That decision is built into the brand's identity. At $1.19/morning, he's pitching to the market that mushroom coffee left behind.
+Every functional coffee brand charges $30+. The Power Coffee charges $18.90 because the founder doesn't pay agencies or influencers. That decision is built into the brand's identity. At $1.26/morning, he's pitching to the market that mushroom coffee left behind.
 
 **Why it's news:** CPG pricing tension is a business story. Local founders disrupting national brands is a Boston story.
 
@@ -51,7 +51,7 @@ I'm a Brazilian immigrant in Boston building a functional coffee company called 
 
 The marketing department is an AI system I built myself. It generates content, reviews it, publishes it across six platforms, and rewrites its playbook weekly based on performance data. I haven't written a caption in months.
 
-The product: 11 functional ingredients, 175mg caffeine, 5g protein, no crash. $17.90 for 15 servings. Every competitor charges $28-42 for the same count. We don't because I don't have a marketing department to fund.
+The product: 11 functional ingredients, 175mg caffeine, 5g protein, no crash. $18.90 for 15 servings. Every competitor charges $28-42 for the same count. We don't because I don't have a marketing department to fund.
 
 I'm racing Ironman 2026 this [month/date] — training with the same product I sell. 550 consecutive mornings.
 
@@ -69,7 +69,7 @@ thepowercoffee.com | @powercoffee.ofc
 
 I'm a Brazilian immigrant building a functional coffee brand in Boston with zero outside capital, zero marketing team, and an AI system I built to run the whole operation while I train for Ironman.
 
-The story: $1.19/morning product competing against $30+ brands by eliminating every middleman. Real performance data from 550 consecutive mornings of founder use.
+The story: $1.26/morning product competing against $30+ brands by eliminating every middleman. Real performance data from 550 consecutive mornings of founder use.
 
 Happy to share the full story if it fits your audience. Not looking for promotion — looking for a real conversation about building lean.
 
