@@ -1,0 +1,177 @@
+{% comment %}
+  SECTION: Homepage Hero (Replacement)
+  Replaces the current "Eliminate Fatigue. Activate Clean All-Day Energy" hero.
+
+  HOW TO ADD:
+  Online Store → Themes → Edit code → Sections → New section (name: pc-hero)
+  Paste this file. Then in the theme editor, add "PC Hero" to the homepage above the fold.
+  Remove the old hero section from the template.
+
+  IMPORTANT BEFORE PUBLISHING:
+  - Verify the /products/power-coffee URL matches your actual product handle
+  - Replace the background image URL in .pc-hero style block below
+  - Kill the "A.I. science formula" line on the existing product page before launching this
+{% endcomment %}
+
+<section class="pc-hero">
+  <div class="pc-hero__inner">
+
+    <div class="pc-hero__eyebrow">
+      11 real ingredients. Real doses. Nothing hidden.
+    </div>
+
+    <h1 class="pc-hero__headline">
+      Your 10am crash<br>isn't caffeine wearing off.
+    </h1>
+
+    <p class="pc-hero__sub">
+      Caffeine's still in your system. What crashes is your blood sugar.
+      Power Coffee adds cinnamon, pea protein, and 9 more functional ingredients
+      to hold the floor. One scoop in the coffee you already make.
+    </p>
+
+    <div class="pc-hero__cta-block">
+      <a href="/products/power-coffee" class="pc-hero__cta">
+        Start for $1.19 a morning
+      </a>
+      <span class="pc-hero__cta-sub">$17.90 · 15 servings · free shipping</span>
+    </div>
+
+    <div class="pc-hero__trust">
+      <span class="pc-hero__trust-item">
+        <span class="pc-hero__stars">★★★★★</span> 4.9 from 112 verified buyers
+      </span>
+      <span class="pc-hero__trust-sep">·</span>
+      <span class="pc-hero__trust-item">Made in USA</span>
+      <span class="pc-hero__trust-sep">·</span>
+      <span class="pc-hero__trust-item">30-day guarantee</span>
+    </div>
+
+  </div>
+</section>
+
+<style>
+.pc-hero {
+  background: #171412;
+  color: #F7F0E0;
+  padding: 100px 24px 80px;
+  font-family: -apple-system, 'Helvetica Neue', sans-serif;
+  position: relative;
+  overflow: hidden;
+}
+
+.pc-hero__inner {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.pc-hero__eyebrow {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #D9A633;
+  margin-bottom: 28px;
+  padding: 6px 14px;
+  border: 1px solid rgba(217,166,51,0.3);
+  border-radius: 4px;
+}
+
+.pc-hero__headline {
+  font-size: clamp(36px, 6vw, 68px);
+  font-weight: 900;
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  color: #F7F0E0;
+  margin: 0 0 28px;
+}
+
+.pc-hero__sub {
+  font-size: clamp(16px, 2vw, 20px);
+  line-height: 1.65;
+  color: rgba(247,240,224,0.7);
+  max-width: 560px;
+  margin: 0 auto 40px;
+}
+
+.pc-hero__cta-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 36px;
+}
+
+.pc-hero__cta {
+  display: inline-block;
+  background: #D9A633;
+  color: #171412;
+  font-size: 18px;
+  font-weight: 800;
+  padding: 18px 44px;
+  border-radius: 8px;
+  text-decoration: none;
+  letter-spacing: 0.01em;
+  transition: opacity 0.18s;
+}
+
+.pc-hero__cta:hover {
+  opacity: 0.9;
+}
+
+.pc-hero__cta-sub {
+  font-size: 13px;
+  color: rgba(247,240,224,0.45);
+  letter-spacing: 0.04em;
+}
+
+.pc-hero__trust {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  font-size: 13px;
+  color: rgba(247,240,224,0.5);
+}
+
+.pc-hero__stars {
+  color: #D9A633;
+  letter-spacing: 1px;
+  margin-right: 4px;
+}
+
+.pc-hero__trust-sep {
+  color: rgba(247,240,224,0.2);
+}
+
+@media (max-width: 640px) {
+  .pc-hero {
+    padding: 72px 20px 60px;
+  }
+  .pc-hero__cta {
+    width: 100%;
+    text-align: center;
+    padding: 18px 24px;
+  }
+  .pc-hero__trust-sep {
+    display: none;
+  }
+  .pc-hero__trust {
+    flex-direction: column;
+    gap: 6px;
+  }
+}
+</style>
+
+{% schema %}
+{
+  "name": "PC Hero",
+  "tag": "section",
+  "settings": []
+}
+{% endschema %}
