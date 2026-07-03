@@ -1,0 +1,241 @@
+{
+  "week": "2026-W28",
+  "status": "pending",
+  "approved": false,
+  "vlog_arc": {
+    "theme": "Building in public means showing the week as it is, not as you wished it went.",
+    "beats": {
+      "mon": "Leo films his pre-dawn cup before training, camera on the kitchen counter, no ring light — 'This is what Monday actually looks like at 4:47am; the week starts here, not at the office.'",
+      "tue": "Standing outside the warehouse after a supplier call, Leo addresses one real operational friction that came up — 'The pipe broke today in a small way; I'm not going to pretend it didn't, here's how we're fixing it by Thursday.'",
+      "wed": "Leo holds up a printed customer review at his desk — 'This came in overnight; I want to read it to you exactly as she wrote it, because no copy I could write does what her words just did.'",
+      "thu": "Filming from a coffee shop mid-afternoon, Leo explains why he scheduled nothing creative today — 'Thursdays are for the work that nobody posts about; I cleared the backlog so Friday can actually move the brand forward.'",
+      "fri": "Leo films a short end-of-week walk outside — 'One thing worked better than expected, one thing didn't ship the way I planned; I'll tell you both, because that ratio is actually a good week.'",
+      "sat": "Kitchen table, Gabriel in the background doing homework — 'He asked me today what Power Coffee is for; I told him it's so people can show up fully, and he said that makes sense; that's the whole brief, actually.'",
+      "sun": "Leo films briefly after church, quiet and unhurried — 'Sunday is the only day I don't plan the brand; I think that's why Monday always starts with more clarity than Friday ended with — rest is part of the formula too.'"
+    }
+  },
+  "channels": {
+    "ig": [
+      {
+        "pillar": "prova",
+        "title": "Day 1 Skeptical. Day 7 Converted.",
+        "angle": "A real buyer's resistance arc told in 4 slides — hook the doubter by validating their doubt first, then let the timeline do the convincing.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Your 3pm Crash Isn't Tiredness",
+        "angle": "Reframe the afternoon slump as a blood-sugar event, not a sleep deficit — then reveal how functional coffee addresses the root cause energy drinks ignore.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Two Hours Before the World Wakes",
+        "angle": "Leo's pre-dawn routine — Ironman training, one cup, then fatherhood — shows that presence is a practice you prepare for, not a feeling that arrives.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Why Functional Coffee Beats a Supplement Stack",
+        "angle": "A carousel framework comparing stacking isolated supplements vs. one formulated cup — positions Power Coffee as the engineered solution, not the lazy alternative.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "The Ingredient That Survived Nuclear Fallout",
+        "angle": "Lead with the ginkgo biloba historical hook — the surprising survival claim drives curiosity through the carousel before the ingredient name ever appears.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "x": [
+      {
+        "pillar": "belief_shifting",
+        "title": "Energy Drinks Sell Stimulation. Coffee Sells Ritual.",
+        "angle": "A short thread reframing why the real competition isn't Red Bull vs. coffee — it's manufactured spikes vs. a sustainable morning architecture.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "I Build in Public. My Kids Watch.",
+        "angle": "A declarative post about Leo building Power Coffee with Gabriel and Helena aware of every setback — makes the stakes real and the mission human.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "$0.73 a Morning. No Crash. Do the Math.",
+        "angle": "Price-math thread that dismantles the 'too expensive' objection by stacking daily latte cost, supplement stack cost, and lost productivity against one number.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Three Ingredients Most Functional Coffees Skip",
+        "angle": "A punchy list thread teaching the formulation gaps in mainstream functional coffee — establishes Leo as the person who actually read the research.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "430 Mornings. Same Formula. Still Here.",
+        "angle": "Specific founder-use data framed as quiet proof — not a testimonial, not a pitch, just a number that earns trust through its own precision.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "li": [
+      {
+        "pillar": "pessoal",
+        "title": "I Spent Two Years Getting This Wrong",
+        "angle": "Founder-narrated formulation story with real personal stakes — what the early versions cost Leo in time and confidence, and what the iteration taught him about building anything.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The CPG Founder's Functional Ingredient Framework",
+        "angle": "A teach-from-experience post laying out Leo's three-filter system for selecting functional ingredients — credibility through process, not just outcome.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Wellness Products Fail Because of This One Assumption",
+        "angle": "Reframe the industry default of 'more is more' supplementation — argue that formulation for ritual adoption beats formulation for maximum dosage every time.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "A Review Stopped Me Mid-Scroll",
+        "angle": "Story-frame a real customer review — open with the moment Leo read it, let the buyer's words carry the proof, close with what it confirmed about the formula.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Building a CPG Brand With AI. Not Apologizing.",
+        "angle": "Declarative transparency post about using AI as a build partner — mirrors the highest-ER pattern, invites the LinkedIn builder audience into the real process.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "tg": [
+      {
+        "pillar": "autoridade",
+        "title": "Inside the Formula: What's Actually in It",
+        "angle": "A behind-the-label breakdown sent as an exclusive channel post — teaches subscribers what each ingredient does before anyone else sees the public carousel.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Unfiltered: Three Customer Messages This Week",
+        "angle": "Raw screenshots or paraphrased DMs shared with zero marketing language — proof delivered in the voice of real people, not a brand.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "What I Told My Kids About This Week",
+        "angle": "A short personal note from Leo about one real win and one real failure from the week — builds community by making the founder dimensionally human.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Why 'Natural Energy' Is a Broken Promise",
+        "angle": "A conversational take challenging the vague 'natural energy' claim most functional brands make — sets up why mechanism and formulation specificity matter.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The One Metric I Track Instead of Sales",
+        "angle": "Leo shares the leading indicator he actually monitors daily — teaches the community to think about brand health the way a builder does, not a marketer.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "blog": [
+      {
+        "pillar": "autoridade",
+        "title": "Functional Coffee vs. Supplements: The Full Comparison",
+        "angle": "A comprehensive framework post comparing bioavailability, habit adoption, and cost-per-dose — ranks in search while educating buyers who are mid-consideration.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "What Ginkgo Biloba Actually Does to Your Brain",
+        "angle": "Science-backed deep dive leading with the historical survival hook, ending with the mechanism — turns curiosity from social into durable organic traffic.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Why Your Afternoon Crash Is a Morning Problem",
+        "angle": "Reframe the 3pm slump as a breakfast-time blood-sugar decision — shift the reader's frame before introducing Power Coffee as the upstream solution.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Building Power Coffee: The Year-Two Honest Recap",
+        "angle": "Founder narrative post covering real milestones, real mistakes, and what faith and family look like when you're building something from scratch.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Real Results: 30-Day Power Coffee Customer Study",
+        "angle": "Aggregate customer feedback structured as a mini case study — timelines, recurring themes, and verbatim quotes that let proof speak in the buyer's own voice.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "em": [
+      {
+        "pillar": "prova",
+        "title": "Day 1 Skeptical. Day 3 Something Shifted.",
+        "angle": "Lead with the buyer resistance arc quote, walk the subscriber through the timeline, and close with a single low-friction CTA — mirrors the highest-converting copy pattern.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "You Don't Have an Energy Problem",
+        "angle": "Open by reframing the reader's crash as a formulation gap in their morning routine — dismantle the energy drink solution before offering the functional coffee alternative.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "What 430 Mornings Taught Me About Focus",
+        "angle": "A personal letter from Leo using the specific-number founder pattern — honest, non-salesy, and closes with what he hopes the reader feels after their first week.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The Three Ingredients Your Coffee Is Missing",
+        "angle": "Teach-first email that walks through the functional gap in standard coffee, names the ingredients with their mechanisms, and positions Power Coffee as the engineered answer.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "$0.73 a Morning: The Math Nobody Shows You",
+        "angle": "Price-objection email using the comparison math pattern — stack what subscribers already spend against the Power Coffee daily cost, let the number close the argument.",
+        "selected": false,
+        "is_theme": false
+      }
+    ]
+  }
+}
