@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [x] APPROVED
+- [ ] APPROVED
 
 ---
 
@@ -14,211 +14,208 @@
 
 **Cover Phrase:** YOUR COFFEE IS LYING TO YOU
 
-**HOOK (0–3s)**
-*Spoken:* "You've had three cups today — and you're still dragging."
-*On-screen text:* YOUR COFFEE IS LYING TO YOU
+**On-screen Hook (0-3s):**
+Spoken: "You've had three coffees today — and you're still dragging."
+On-screen text: "3 COFFEES. STILL CRASHING."
 
-**BODY (3–38s)**
-*Spoken:* "Here's the problem nobody talks about. Regular coffee gives you caffeine. That's it. One ingredient. And it burns out fast — usually in 45 minutes. So you pour another cup. Then another. By 2pm, you're wired and foggy at the same time. Sound familiar?
+**Body (3-38s):**
+Spoken: "Here's the problem. Regular coffee gives you a spike. Cortisol shoots up, adrenaline kicks in — and 45 minutes later, you're more tired than before you started. So you pour another cup. And another. And by 2pm, you're wired AND exhausted at the same time — jittery, foggy, running on fumes.
 
-What your coffee is missing is the stack around the caffeine. L-theanine to smooth the energy curve. Taurine to keep your neurons from overloading. Pea protein to stabilize your blood sugar so you don't crash hard. And matcha to extend the release.
+That's not an energy problem. That's a formula problem.
 
-That's not a supplement routine. That's one scoop. In your existing coffee. That's it."
+Your coffee is missing the ingredients that actually sustain focus. Matcha, for slow-release energy over 4 to 6 hours. Taurine, to keep your neurons from firing into chaos. Pea protein, to stabilize your blood sugar so the crash never comes. One scoop into your existing brew. That's the fix."
 
-*On-screen text progression:*
-— "Regular coffee: 1 ingredient"
-— "Power Coffee: 11 ingredients"
-— "Same cup. Different result."
+On-screen text progression:
+— "SPIKE → CRASH → REPEAT"
+— "WHAT'S MISSING: matcha · taurine · protein"
+— "ONE SCOOP. PROBLEM SOLVED."
 
-**CTA (38–45s)**
-*Spoken:* "Link in bio. Try it for a week. You'll stop reaching for the third cup."
-*On-screen text:* LINK IN BIO — FIRST BAG ON US
+**CTA (38-45s):**
+Spoken: "Link in bio. Try it for a week. You'll stop at one cup."
 
 **Engagement Prompt:**
-*Spoken + on-screen:* "How many cups are you actually drinking per day? Drop the number below."
+"What time does YOUR afternoon crash usually hit? Drop it in the comments — I'll tell you exactly why."
 
 ---
 
 ### Caption
+You're not addicted to coffee.
 
-Three cups and still crashing by 2pm.
+You're addicted to chasing the energy it never fully delivers.
 
-That's not a caffeine problem.
-That's a missing-ingredient problem.
+3 cups a day isn't a habit — it's a symptom. Your body is compensating for what regular coffee doesn't give you.
 
-Regular coffee gives you one tool — caffeine — and nothing to support it.
-No blood sugar stabilizer. No neuromodulator. No smooth energy release.
+Matcha. Taurine. Pea protein. Ginkgo.
 
-Power Coffee fixes the stack.
-11 ingredients. One scoop. Same ritual.
+11 ingredients. One scoop. No second cup needed.
 
-How many cups are you drinking daily? Drop your number below 👇
-
-Link in bio to try it.
+Link in bio → try it for 7 days.
 
 ---
 
 ### Hashtags
-
-#functionalcoffee #cleanenergy #morningroutine #biohacking #nootropics #coffeehacks #powercoffee #thefirstwin #focusfuel #energywithouthecrash
+#functionalcoffee #cleanenergy #morningroutine #afternooncrash #nootropics #biohacking #powercoffee #thefirstwin #focusfuel #highperformance #coffeeupgrade
 
 ---
 
 ## X.COM
 ### Post
 
-You're not tired because you need more caffeine.
-You're tired because your coffee is missing 10 other things.
+You're not tired because you didn't sleep enough.
+
+You're tired because your coffee burns out in 45 minutes and leaves your cortisol worse than before.
+
+That's a formula problem. Not a caffeine problem.
 
 ---
 
 ### Thread
 
 **Post 1:**
-You're not tired because you need more caffeine.
-You're tired because your coffee is missing 10 other things.
+Most people think their afternoon crash is a sleep problem.
+
+It's not. It's a coffee design problem. And it's fixable.
 
 **Post 2:**
-Regular coffee is one ingredient: caffeine.
-It spikes fast. Burns out in 45 minutes.
-So you drink another cup. Then another.
-By 2pm you're running on cortisol and willpower.
-Neither lasts.
+Regular coffee works like this: caffeine hits fast, cortisol spikes, adenosine gets suppressed — then it all collapses around the 60-minute mark.
+
+The crash isn't withdrawal. It's your nervous system settling a debt.
 
 **Post 3:**
-What actually sustains energy:
-— L-theanine: smooths the caffeine curve, no jitter spike
-— Taurine: neuromodulator, keeps your brain from overloading
-— Pea protein: stabilizes blood sugar = no hard crash
-— Matcha: slow-release caffeine over 4-6 hours
-These aren't exotic. They're just missing from your cup.
+What your coffee is missing:
+
+Matcha releases caffeine over 4-6 hours via L-theanine binding. No spike. No cliff.
+
+Taurine calms overactive neurons without sedation — volume control for your brain.
+
+Pea protein stabilizes blood sugar, which is half of what a "crash" actually is.
 
 **Post 4:**
-We built Power Coffee around this exact gap.
-Not a replacement. A booster.
-One scoop into whatever you already brew.
-11 ingredients. ~175mg caffeine. 5g protein. No sugar. No crash.
-Same ritual. Completely different result.
+We built all three of those into Power Coffee — alongside ginkgo, cinnamon, and 8 more functional ingredients.
+
+Not a replacement. A scoop into your existing brew.
+
+175mg caffeine. 5g protein. 11 total ingredients. No sugar. No crash.
 
 **Post 5:**
-If you're still on cup 3 by noon, something is wrong — and it's not your willpower.
-Try a different formula: [link]
+If you're still on your third cup by noon, your coffee formula is broken.
+
+Fix it: [link]
 
 ---
 
 ## LINKEDIN
 ### Post
 
-Most people think they have a caffeine problem.
+Most professionals I talk to drink 2 to 3 cups of coffee a day.
 
-They don't.
+Not because they love coffee that much. Because the first cup didn't hold.
 
-They have a missing-ingredient problem.
+That's not a caffeine tolerance problem. That's an ingredient gap.
 
-Regular coffee delivers one thing: caffeine. It spikes your cortisol, burns through in under an hour, and leaves you reaching for another cup before 10am.
+Regular coffee was never designed for a 9-hour workday. It was designed to wake you up — and it does that for about 45 minutes before cortisol spikes, blood sugar shifts, and focus starts to fragment.
 
-By 2pm, you're running on fumes and wondering why the third cup isn't working.
+The research on this is clear. Caffeine alone doesn't sustain cognitive performance. It initiates it.
 
-I spent two years building a formula around that exact problem.
+What sustains it: L-theanine from matcha slowing the energy curve. Taurine modulating neural overstimulation. Protein stabilizing blood glucose so you don't hit the wall.
 
-Not to replace coffee. To fix what's missing inside it.
+That's why I built Power Coffee with 11 functional ingredients instead of one.
 
-L-theanine for a smooth energy curve. Taurine to calm neural overstimulation. Pea protein to keep blood sugar steady. Matcha for a slow, extended release. Eleven ingredients total — in one scoop you add to whatever you already brew.
+Not to replace your coffee ritual. To fix what it was never built to do alone.
 
-The result isn't a jolt. It's a long, clean stretch of focus.
+We're 18 months in. The question I get most from other founders isn't about the formula — it's "why didn't someone make this sooner?"
 
-No second or third cup required.
+Honestly, I ask myself that too.
 
-I built The Power Coffee because I was the person drinking three cups and still crashing. I suspect I'm not alone.
-
-How many cups are you actually drinking before noon — and do you feel like it's working?
+What's the biggest productivity drain you deal with before noon? I'm curious whether it maps to what I hear from customers.
 
 ---
 
 ## TELEGRAM
 ### Message
 
-Monday question for you: how many cups of coffee does it take before you actually feel focused?
+Real talk — how many coffees are you on before noon?
 
-If the answer is more than one — that's the gap Power Coffee was built for. One scoop, same cup you already make, 11 ingredients your regular coffee doesn't have. Clean energy that actually holds through the afternoon. Link below if you want to try it this week. ☕
+Most of us are pouring a second or third cup not because we want more coffee, but because the first one stopped working. That's a formula problem, not a caffeine problem.
+
+One scoop of Power Coffee into your morning brew changes that. Matcha, taurine, pea protein — all the stuff regular coffee skips. No crash at 2pm. No fourth cup.
+
+If you've been curious, this week is a good time to try it. Link in the channel.
 
 ---
 
 ## SHOPIFY BLOG
 ### Title
-
-Why Your Coffee Stops Working by 10am (And the Ingredient Stack That Fixes It)
+Why Your Coffee Stops Working by 10am (And What the Research Says About Fixing It)
 
 ### Body
 
-## You Don't Have a Caffeine Problem
+## The Morning Energy Trap
 
-If you're on your third cup before noon and still dragging, the instinct is to blame your tolerance. But tolerance isn't usually the real issue. The real issue is that regular coffee delivers exactly one active ingredient — caffeine — and nothing to support it.
+You drink your first coffee at 7am. By 8:45, you're dialed in — emails moving, brain firing. Then somewhere around 10 or 10:30, the wheels come off. Focus softens. A second cup gets poured. Sound familiar?
 
-Caffeine spikes fast. It drives alertness by blocking adenosine receptors in the brain. But that effect is short-lived. Without a support system around it, most people feel the drop within 45 to 60 minutes.
+This isn't a caffeine tolerance issue. It's a design flaw in how regular coffee interacts with your physiology.
 
-So they pour another cup. Then another. By mid-afternoon, they're running on elevated cortisol and diminishing returns.
+## What Actually Happens When Caffeine Hits
 
-## What's Actually Missing From Your Cup
+Caffeine works by blocking adenosine receptors — the receptors responsible for making you feel sleepy. When caffeine clears those receptors, you feel alert. But it also triggers a cortisol spike, which is why the energy feels sharp but short.
 
-Functional coffee research points to several compounds that, combined with caffeine, extend and stabilize its effect:
+Once caffeine metabolizes — typically within 45 to 90 minutes for fast-processing individuals — adenosine floods back in. Your cortisol has already peaked and is now dropping. The result: a crash that can feel worse than before you had coffee at all.
 
-**L-Theanine** — Found naturally in green tea, L-theanine promotes calm alertness and smooths the caffeine curve. Studies show the combination improves sustained attention without the jitter spike of caffeine alone.
+## The Three Gaps Regular Coffee Leaves Open
 
-**Taurine** — A neuromodulator that helps regulate overstimulated neurons. Energy drinks use it for a reason — but usually alongside 40g of sugar that cancels the benefit.
+**1. No energy curve management.**
+Caffeine alone hits fast and leaves fast. Matcha-sourced caffeine, bound with L-theanine, releases over 4 to 6 hours. The energy curve flattens — no spike, no cliff.
 
-**Pea Protein** — Blood sugar instability is one of the primary causes of the mid-morning crash. Five grams of protein per serving helps stabilize the curve.
+**2. No neural stability layer.**
+Taurine acts as a neuromodulator, helping regulate overactive firing in the brain. At 2g per serving — the clinically studied dose — it supports sustained focus without sedation.
 
-**Matcha** — Unlike a direct caffeine hit, matcha delivers a slower, more extended release through its combination of caffeine and EGCG, sustaining energy over four to six hours.
+**3. No blood sugar anchor.**
+Much of what people call a "crash" is actually a blood sugar dip. Adding 5g of pea protein to your morning coffee slows glucose absorption and stabilizes the curve through mid-morning.
 
-## One Scoop Changes the Equation
+## One Scoop Changes the Formula
 
-Power Coffee combines all of these — eleven ingredients total — into a single scoop you add to whatever you already brew. No new routine. No extra products. Just a more complete formula in the same cup.
+Power Coffee doesn't replace your coffee ritual. It completes it. One scoop into your existing brew adds all three of those missing layers — plus ginkgo biloba, cinnamon, and 8 more clean functional ingredients.
 
-The goal isn't to eliminate coffee. It's to make the coffee you already drink actually work through your whole morning.
+No sugar. No dairy. No crash.
 
-If you're curious what a full week on the formula feels like, [try a bag here →](https://www.thepowercoffee.com). Results vary, but the stack speaks for itself.
+If your mornings are running on borrowed energy, [try Power Coffee for 7 days](https://www.thepowercoffee.com) and see what sustained focus actually feels like.
 
 ---
 
 ### Image Prompt
-
-A man in his early 40s at a clean home office desk, both hands wrapped around a dark ceramic mug, mid-morning light coming through a window to his left. A second empty mug sits pushed to the side — suggesting he used to need more. His expression is calm and focused, not strained. Warm espresso brown and cream tones. Shallow depth of field. Coffee bag slightly visible on the shelf behind him, out of focus. No text in frame. Shot at eye level. Negative space in upper third for editorial text overlay. Aspect ratio 16:9.
+A man in his early 40s sitting at a wood desk in a home office, elbows on the desk, hands wrapped around a dark ceramic mug, mid-morning light coming through a window to his left. Expression is calm and focused — in the zone, not straining. A black matte coffee bag sits on the corner of the desk, slightly out of focus. Warm espresso brown and cream tones. Shallow depth of field. Negative space in the upper third for potential text overlay. No text in frame. Photorealistic, lifestyle, not staged. Shot at eye level. Aspect ratio 16:9.
 
 ---
 
 ## EMAIL
 ### Subject Line
-
-Why cup #3 still isn't working
+Why your 2nd cup doesn't fix it
 
 ### Preview Text
-
-It's not your tolerance. Here's what your coffee is actually missing.
+The problem isn't how much coffee you drink. It's what's missing from it.
 
 ### Body
 
-Hey —
+You know the feeling.
 
-Quick Monday thought.
+First cup lands right. By 10am, it's already fading. You pour a second. It helps for 30 minutes, then takes the edge off the wrong things — sharper jitters, softer focus.
 
-If you're drinking two or three cups before noon and still feel like you're pushing through fog — that's not a caffeine tolerance problem. That's a formula problem.
+That's not a caffeine problem. That's a formula problem.
 
-Regular coffee gives you one tool: caffeine. It works fast, burns out fast, and leaves you chasing it all morning.
+Regular coffee was built to wake you up. That's it. It was never designed to carry you through a full morning of actual cognitive work.
 
-What stabilizes it? L-theanine. Taurine. A few grams of protein. Matcha for a slower release.
+What's missing: L-theanine from matcha to flatten the energy curve. Taurine to keep your focus from fragmenting when things get loud. Pea protein to stabilize blood sugar and kill the crash before it starts.
 
-That's exactly what's in every scoop of Power Coffee. Eleven ingredients. One scoop. Same cup you already make.
+That's exactly what one scoop of Power Coffee adds to your existing brew.
 
-No third cup required.
+Not a replacement. Not another pill. Just 11 ingredients working where your coffee leaves off.
 
-This week, try replacing that second cup with one scoop in your first. Give it five days and see what your afternoons feel like.
+Try it for a week.
 
-→ [Grab a bag here](https://www.thepowercoffee.com)
+→ [Get Power Coffee](https://www.thepowercoffee.com)
 
 — Leo
-
-*Not intended to diagnose, treat, cure, or prevent any disease. Results vary.*
 
 ---
 
@@ -236,47 +233,45 @@ cinematic_studio_3_0
 15
 
 ### Prompt
-
-A man in his late 30s sits at a clean home office desk in the early morning, hands wrapped around a dark ceramic mug. The camera begins with a slow push-in toward his face — he looks alert but tired, like someone midway through their second cup, checking the clock. Cut to a close-up of his hand reaching toward a matte black coffee bag on the desk, spooning powder into the mug. Final shot: he takes a sip, exhales slowly, and leans back with quiet confidence — a small but visible shift in energy. Warm golden morning window light, soft shadows. Handheld with slight natural stabilization. Color grade: warm cream and espresso brown tones, slightly muted. Mood: real, grounded, purposeful — not dramatic. No text overlays, no graphics, no product close-up as hero. The product is in the scene as part of the routine.
+A man in his late 30s sits at a clean home office desk in the early morning, both hands wrapped around a large ceramic mug, staring at a laptop screen with a look of low-grade frustration — not angry, just drained. The room has warm natural light coming through a window to his left. He sets the mug down, pauses, then opens a matte black bag on the desk beside him and spoons powder into the mug with quiet deliberateness. He lifts the mug again and takes a sip. His expression shifts — subtle, not dramatic — a quiet reset. Camera begins with a slow push-in toward his face from across the desk, then cuts to a close-up of the scoop going into the mug, then back to a medium shot of him at the desk, more settled. Handheld with gentle stabilization — lived-in, not shaky. Color grade: warm espresso and cream tones, soft shadows, no blown highlights. Mood: early morning, purposeful, quiet confidence. No text in frame. No product labels visible. Authentic, not over-produced.
 
 ---
 
 ## REELS — Founder Vlog Script
+**Beat:** The crash is not your fault — it's your formula
+**Duration:** 30-45s · **Setting:** Leo at his home desk or kitchen counter, facing camera, morning light, casual — t-shirt or hoodie, coffee mug in hand or on counter beside him
 
-**Beat:** Monday re-entry — surfacing the problem that Power Coffee was built to solve, through Leo's personal experience
-**Duration:** 30–45s · **Setting:** Leo at his kitchen counter or home office desk, camera at eye level, natural morning light, matte black bag visible but not centered
-
----
-
-**HOOK (0–3s, text on screen + spoken):**
-"I used to drink three cups of coffee before 10am."
-
-*On-screen text:* I DRANK 3 CUPS BEFORE 10AM
-
----
+**HOOK (0-3s, text on screen + spoken):**
+"You didn't sleep badly. Your coffee just stopped working."
 
 **BODY (speak exactly this):**
-"And I was still dragging by noon. Not because I needed more caffeine — I was already wired. I needed everything around the caffeine. L-theanine to smooth it. Taurine to hold the focus. Protein so my blood sugar wasn't tanking by 10:45. That's why I built this. Eleven ingredients. One scoop. I've been drinking it every morning for over 600 days. I haven't needed a second cup in months. Not because I'm disciplined. Because the formula is doing what regular coffee can't."
+"I used to think I needed more caffeine. Third cup by 10am, wondering why I still couldn't focus.
 
----
+Turns out the problem wasn't the amount. It was what was missing.
+
+Regular coffee spikes and drops. That's just how it works — cortisol up, adenosine rebounds, and you're chasing the energy instead of using it.
+
+When I started building this formula, I found three things that fix that: matcha for a slow 4-to-6 hour release, taurine to keep your brain from overloading, and protein to stop the blood sugar crash.
+
+I put all three — and 8 more ingredients — into one scoop.
+
+I haven't needed a second cup in over 18 months."
 
 **CTA (last 5s):**
-"Link's in my bio. Give it one week. Tell me if you still reach for cup number three."
+"Link in bio. Try it for 7 days and tell me what changes."
 
----
-
-**B-ROLL:** Close-up of scoop going into mug, hands wrapping around mug on desk, clock on wall or phone screen showing early morning time
+**B-ROLL:** close-up of scoop going into mug, Leo's desk setup with mug and open laptop, slow pour of coffee from above with steam rising
 
 **CAPTION:**
-3 cups before 10am and still crashing.
-Not a caffeine problem — a formula problem.
-This is why I built Power Coffee. 👇 Link in bio.
-#powercoffee #cleanenergy #morningroutine #biohacking #thefirstwin
+The second cup isn't the fix. The formula is.
+One scoop. 11 ingredients. No crash.
+Link in bio → try it for 7 days.
+#powercoffee #cleanenergy #morningroutine #functionalcoffee #thefirstwin
 
 **ON-SCREEN TEXT:**
-— [0–3s] I DRANK 3 CUPS BEFORE 10AM
-— [12s] 11 INGREDIENTS. ONE SCOOP.
-— [32s] 600+ DAYS. STILL GOING.
+— 0:00 → "YOUR COFFEE STOPPED WORKING"
+— 0:12 → "matcha · taurine · protein"
+— 0:35 → "link in bio — 7-day trial"
 
 ---
 
@@ -437,5 +432,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `instagram.mp4` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A man in his late 30s sits at a clean home office desk in the early morning, hands wrapped around a dark ceramic mug. The camera begins with a slow push-in toward his face \u2014 he looks alert but tired, like someone midway through their second cup, checking the clock. Cut to a close-up of his hand reaching toward a matte black coffee bag on the desk, spooning powder into the mug. Final shot: he takes a sip, exhales slowly, and leans back with quiet confidence \u2014 a small but visible shift in energy. Warm golden morning window light, soft shadows. Handheld with slight natural stabilization. Color grade: warm cream and espresso brown tones, slightly muted. Mood: real, grounded, purposeful \u2014 not dramatic. No text overlays, no graphics, no product close-up as hero. The product is in the scene as part of the routine.\n\n---", "text_overlay": "YOUR COFFEE IS LYING TO YOU"}, "carousel": [{"prompt": "A man in his late 30s sits at a clean home office desk in the early morning, hands wrapped around a dark ceramic mug. The camera begins with a slow push-in toward his face \u2014 he looks alert but tired, like someone midway through their second cup, checking the clock. Cut to a close-up of his hand reaching toward a matte black coffee bag on the desk, spooning powder into the mug. Final shot: he takes a sip, exhales slowly, and leans back with quiet confidence \u2014 a small but visible shift in energy. Warm golden morning window light, soft shadows. Handheld with slight natural stabilization. Color grade: warm cream and espresso brown tones, slightly muted. Mood: real, grounded, purposeful \u2014 not dramatic. No text overlays, no graphics, no product close-up as hero. The product is in the scene as part of the routine.\n\n---", "text_overlay": "YOUR COFFEE IS LYING TO YOU"}]}
+{"story": {"prompt": "A man in his late 30s sits at a clean home office desk in the early morning, both hands wrapped around a large ceramic mug, staring at a laptop screen with a look of low-grade frustration \u2014 not angry, just drained. The room has warm natural light coming through a window to his left. He sets the mug down, pauses, then opens a matte black bag on the desk beside him and spoons powder into the mug with quiet deliberateness. He lifts the mug again and takes a sip. His expression shifts \u2014 subtle, not dramatic \u2014 a quiet reset. Camera begins with a slow push-in toward his face from across the desk, then cuts to a close-up of the scoop going into the mug, then back to a medium shot of him at the desk, more settled. Handheld with gentle stabilization \u2014 lived-in, not shaky. Color grade: warm espresso and cream tones, soft shadows, no blown highlights. Mood: early morning, purposeful, quiet confidence. No text in frame. No product labels visible. Authentic, not over-produced.\n\n---", "text_overlay": "YOUR COFFEE IS LYING TO YOU"}, "carousel": [{"prompt": "A man in his late 30s sits at a clean home office desk in the early morning, both hands wrapped around a large ceramic mug, staring at a laptop screen with a look of low-grade frustration \u2014 not angry, just drained. The room has warm natural light coming through a window to his left. He sets the mug down, pauses, then opens a matte black bag on the desk beside him and spoons powder into the mug with quiet deliberateness. He lifts the mug again and takes a sip. His expression shifts \u2014 subtle, not dramatic \u2014 a quiet reset. Camera begins with a slow push-in toward his face from across the desk, then cuts to a close-up of the scoop going into the mug, then back to a medium shot of him at the desk, more settled. Handheld with gentle stabilization \u2014 lived-in, not shaky. Color grade: warm espresso and cream tones, soft shadows, no blown highlights. Mood: early morning, purposeful, quiet confidence. No text in frame. No product labels visible. Authentic, not over-produced.\n\n---", "text_overlay": "YOUR COFFEE IS LYING TO YOU"}]}
 ```
