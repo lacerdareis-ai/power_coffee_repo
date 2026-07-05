@@ -400,4 +400,25 @@ StartupCPG event photo: 344 reach (account high). This is structural, not except
 
 ---
 
+
+### LENS Update — Jun 29–Jul 3, 2026
+
+**Audience insights this week:**
+**1. Founder-proof specificity (610 days) pulls comments.**
+The Jul 1 Reel earned 2 comments — rare at this reach level. "610 days" is doing the heavy lifting. Vague claims ("I drink it every day") do not generate this. The number is the proof.
+
+**2. Ingredient-reveal Reels consistently hit 170+ reach.**
+Two consecutive weeks, two P2 Reels, both landing 170–174 reach. This is a reliable format-pillar combination. The hook structure — lead with the gap in regular coffee, then reveal the ingredient as the solution — is repeatable and should be protected.
+
+**3. Pipeline consistency is at an all-time high.**
+5/5 publish days. This did not happen before this week in the Sales Motor period. Consistent publishing is a prerequisite for compounding reach — the algorithm rewards accounts that show up. This week's infrastructure performance is the most important non-engagement metric in this report.
+
+**4. Multi-platform redundancy is functioning.**
+Even on days where Shopify failed (Jun 30) or WhatsApp crashed, X, LinkedIn, and Telegram published cleanly. Content did not go dark on any day. The separation of platform jobs means one failure doesn't cascade.
+
+**5. P3 + P2 as the week's engagement anchors.**
+The two posts with the highest real reach and ER are both rooted in proof — either ingredient science or founder lived experience. These are the brand's highest-trust pillars and they're performing accordingly.
+
+---
+
 <!-- LENS_APPEND_END -->

@@ -415,4 +415,45 @@ The pattern has fired twice (May 20, Jun 17). Both times it was pure founder/fam
 
 **4. Saves are the current gap — near zero everywhere (max 3).** Nothing is being bookmarked. Carousels (low reach anyway) should be re-pointed at save-value: ingredient checklists, "save this" reference framing. Until saves move, carousels are low-leverage.
 
+
+### LENS Update — Jun 29–Jul 3, 2026
+
+**Week-over-Week momentum:**
+| Metric | Jun 29–Jul 3, 2026 | Jun 22–Jun 26, 2026 | Δ |
+|--------|-----------|-----------|---|
+| Posts with analytics | 4 | 3 | +1 |
+| Days with publish | 5/5 | 1/5 | +4 |
+| Reels published | 2 | 2 | +0 |
+| Carousels published | 2 | 1 | +1 |
+| Avg Reach | 87 | 437 | **-80%** |
+| Avg ER | 21.23% | 5.04% | **+16.19 pp** |
+| Best Reach | 174 | 1164 | **-990** |
+| Best ER | 75.00% | 5.26% | **+69.74 pp** |
+
+**Interpretation:** The pipeline is dramatically more reliable — 5/5 publish days versus 1/5 the prior week is the single most important structural improvement of the Sales Motor to date. That said, reach collapsed hard: -80% on average, and the best single post this week (174) hit only 15% of the prior week's best (1,164). The ER gain is real but must be read with caution — elevated ER t
+
+**Patterns confirmed this week:**
+**1. Put Instagram back on Monday's platform list — P1 hooks belong on the highest-reach day.**
+Monday's Problem Hook pillar is specifically designed to intercept people who are already frustrated with their morning. That's Monday energy. Losing Monday Instagram is losing the week's best setup post. Fix the platform config, not the content.
+
+**2. Rewrite the Friday CTA hook using identity, not invitation.**
+"You've been meaning to try it. Here's your sign" is passive. Replace with a declarative identity frame — e.g., "The person who wins their morning before 6am doesn't wait for a sign. They make a decision." Lead with who the buyer becomes, close with the product. The Desire-Brand shift is: CTA posts sell the identity, use the product as the vehicle, not the other way around.
+
+**3. Fix or formally deprecate WhatsApp — decide this week.**
+The Puppeteer browser conflict has appeared in every single publish log this week. Make a binary call: schedule a fix sprint with a defined deadline, or remove WhatsApp from the active platform stack and redirect that energy. Four consecutive silent failures in a conversion channel is a decision that's being avoided, not a technical problem that's being solved.
+
+---
+
+**Updated baseline:**
+*Based on available analytics data across the Sales Motor period.*
+
+| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|--------|-------|-----------|-----------|--------------|--------|
+| Reels | 8+ | ~312 | ~6.1 | ~1.4 | ~5.8% |
+| Carousels | 6+ | ~94 | ~3.2 | ~0.6 | ~14.2% |
+
+**Note:** Carousel ER is structurally inflated by low-reach posts in the early days. Reels are the reach engine — consistently pulling 4–10x the reach of Carousels. Carousels drive saves and comments proportionally better when they do reach. The funnel logic holds: Reels for discovery, Carousels for depth and conversion intent.
+
+---
+
 <!-- LENS_APPEND_END -->
