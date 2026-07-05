@@ -45,3 +45,16 @@
 - ⚠️ `weekly_broadcast` — 3 errs, last run 151.0h ago
 - ⚠️ `weekly_plan` — 3 errs, last run 57.0h ago
 - 📄 `market.md` stale (30d) — refresh
+
+## 2026-07-05 self-review
+- ⚠️ `analytics` — 26 errs, last run 10.0h ago
+- ⚠️ `campaign` — 10 errs, last run 54.0h ago
+- ⚠️ `catchup` — 0 errs, last run 57.5h ago
+- ⚠️ `cta_story` — 22 errs, last run 7.0h ago
+- ⚠️ `generate` — 47 errs, last run 11.0h ago
+- ⚠️ `morning_brief` — 27 errs, last run 9.0h ago
+- ⚠️ `publish` — 85 errs, last run 12.0h ago
+- ⚠️ `qa_poller` — 544 errs, last run Noneh ago
+- ⚠️ `report` — 28 errs, last run 8.0h ago
+- ⚠️ `weekly_plan` — 1 errs, last run 55.9h ago
+- 📄 `market.md` stale (37d) — refresh
