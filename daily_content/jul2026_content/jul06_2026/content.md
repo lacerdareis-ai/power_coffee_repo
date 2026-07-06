@@ -12,44 +12,44 @@
 ## INSTAGRAM
 ### Reel Script
 
-**Cover Phrase:** YOUR COFFEE IS LYING TO YOU
+**Cover Phrase:** I BUILT THE COFFEE I COULDN'T BUY
 
 **On-screen Hook (0-3s):**
-Spoken: "You've had three coffees today — and you're still dragging."
-On-screen text: "3 COFFEES. STILL CRASHING."
+Spoken: "I was drinking three coffees a day and still crashing. So I built the one that doesn't."
+On-screen text: "I BUILT THE COFFEE I COULDN'T BUY"
 
 **Body (3-38s):**
-Spoken: "Here's the problem. Regular coffee gives you a spike. Cortisol shoots up, adrenaline kicks in — and 45 minutes later, you're more tired than before you started. So you pour another cup. And another. And by 2pm, you're wired AND exhausted at the same time — jittery, foggy, running on fumes.
+Spoken: "Two years ago I was the guy pouring a third cup at 2pm, wired and foggy at the same time. I looked for a coffee that fixed it and it didn't exist. So I made it.
 
-That's not an energy problem. That's a formula problem.
+I spent two years on the formula. I ran hundreds of AI simulations to test every ingredient ratio for energy, focus and taste. Not guessing. Testing. Eleven ingredients made the cut: real coffee, matcha for the slow release, taurine for calm focus, pea protein so the crash never shows up.
 
-Your coffee is missing the ingredients that actually sustain focus. Matcha, for slow-release energy over 4 to 6 hours. Taurine, to keep your neurons from firing into chaos. Pea protein, to stabilize your blood sugar so the crash never comes. One scoop into your existing brew. That's the fix."
+That became The Power Coffee. One scoop into the coffee you already brew. No new habit, no pill stack. Just the morning working the way it was supposed to."
 
 On-screen text progression:
-— "SPIKE → CRASH → REPEAT"
-— "WHAT'S MISSING: matcha · taurine · protein"
-— "ONE SCOOP. PROBLEM SOLVED."
+"2 YEARS. HUNDREDS OF SIMULATIONS."
+"11 INGREDIENTS MADE THE CUT"
+"ONE SCOOP. YOUR SAME CUP."
 
 **CTA (38-45s):**
-Spoken: "Link in bio. Try it for a week. You'll stop at one cup."
+Spoken: "It's called The Power Coffee. Link in bio. The first win of your day."
 
 **Engagement Prompt:**
-"What time does YOUR afternoon crash usually hit? Drop it in the comments — I'll tell you exactly why."
+"I answer every comment. Ask me anything about how it was built."
 
 ---
 
 ### Caption
-You're not addicted to coffee.
+I didn't start a coffee company because I love coffee.
 
-You're addicted to chasing the energy it never fully delivers.
+I started it because I was drinking three cups a day and still crashing, and nothing on the shelf fixed that.
 
-3 cups a day isn't a habit — it's a symptom. Your body is compensating for what regular coffee doesn't give you.
+Two years of formulation. Hundreds of AI simulations to get the ratios right. 11 ingredients that earned their place: matcha, taurine, pea protein, ginkgo.
 
-Matcha. Taurine. Pea protein. Ginkgo.
+The result is The Power Coffee. One scoop into the cup you already make.
 
-11 ingredients. One scoop. No second cup needed.
+Link in bio. The first win of your day.
 
-Link in bio → try it for 7 days.
+Leo, Founder
 
 ---
 
