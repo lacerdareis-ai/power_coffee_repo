@@ -1,4 +1,4 @@
-# Power Coffee — Content for July 06, 2026
+i # Power Coffee — Content for July 06, 2026
 **Pillar:** P1 — PROBLEM HOOK | **Day:** Monday | **Image set:** B1 or B2
 
 ---
@@ -12,6 +12,7 @@
 ## INSTAGRAM
 ### Reel Script
 
+**Series:** Building Power Coffee — Ep. 1 (title: "Why I built a coffee company | The 3-cup problem")
 **Cover Phrase:** I BUILT THE COFFEE I COULDN'T BUY
 
 **On-screen Hook (0-3s):**
@@ -50,6 +51,7 @@ The result is The Power Coffee. One scoop into the cup you already make.
 Link in bio. The first win of your day.
 
 Leo, Founder
+Ep. 1 — Building Power Coffee
 
 ---
 
