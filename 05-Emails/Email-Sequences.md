@@ -60,7 +60,7 @@ Leo
 
 ### Email 3 — The Comparison (Day 4)
 
-**Subject:** $1.19 vs $5.75
+**Subject:** $1.26 vs $5.75
 **Preview:** The math your wallet will appreciate
 **Send:** 48 hours after Email 2
 

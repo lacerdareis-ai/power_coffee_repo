@@ -6,7 +6,7 @@ Power Coffee is becoming a **desire brand** (see brand.md → Desire-Brand Strat
 2. **Use buyer words — "smooth," "level," "no drop."** Drop clinical terms ("neuromodulator," "cerebral blood flow") from hooks; describe the *felt* experience.
 3. **Founder POV first.** Leo's standard/life is the aspiration — favor raw, unscripted founder Reels over polished explainers.
 4. **Drive the #FirstWin ritual + belonging** — invite UGC ("post your first win"); frame drinking it as joining the "wins their morning" club.
-5. **Price = democratization** when relevant: "elite morning, $1.19" vs $5 latte / $35 mushroom coffee.
+5. **Price = democratization** when relevant: "elite morning, $1.26" vs $5 latte / $35 mushroom coffee.
 6. **Stay in our lane:** discipline · performance · presence. Never "indulgent treat."
 
 ## ✍️ Anti-AI-Slop Writing Rules (apply to ALL copy — added 2026-07-01)
@@ -50,7 +50,7 @@ The week should build a purchase funnel, not just a content calendar:
 - **Wed:** P3 or P1 Reel → second Reel of the week. Repurpose from Mon shoot (different cut/angle) or film separately.
 - **Thu:** P5 Social Proof → real buyer language removes last objection before the Friday CTA.
 - **Fri:** P4 Ritual Reel → third Reel of the week. Morning ritual, pre-dawn, product in use. Ends with CTA.
-- **Daily CTA Story:** publishes automatically every day (`publish_cta_story`) — conversion layer on top of every content day. Drives to **Amazon** (amazon.com listing). Because the IG Graph API cannot attach tappable link stickers programmatically, the Amazon CTA + a scannable QR code are baked into the story image; Leo can also tap-add the native link sticker manually in-app for the swipe action.
+- **Daily CTA Story:** publishes automatically every day (`publish_cta_story`) — conversion layer on top of every content day. Drives to **Shopify** (thepowercoffee.com — switched from Amazon 2026-07-06: full margin + email capture feeds the Day-7 review and Day-14 reorder drips; account not eligible for Amazon Attribution). Because the IG Graph API cannot attach tappable link stickers programmatically, the CTA + a scannable QR code are baked into the story image (`CTA_STORY_URL` in .env); Leo can also tap-add the native link sticker manually in-app for the swipe action.
 
 **3-Reel week rule (updated Jun 2026):**
 Minimum 3 Reels per week on Instagram — Mon, Wed, Fri. If no video asset exists for a given day, skip that day's Instagram feed post entirely. Do not substitute a carousel or static for a Reel slot. One filming session (Sunday night) should produce all 3 Reels via different cuts.
@@ -308,7 +308,7 @@ The best hooks do ONE of these:
 - **Required habit:** Film or generate one Reel video every Sunday night. No video file = no Instagram Reel that week.
 
 **Price anchor correction (effective May 30, 2026):**
-- Price per serving is **$1.26** ($18.90 ÷ 15 servings). (Previously $1.19 at $17.90 — updated Jul 2026.)
+- Price per serving is **$1.26** ($18.90 ÷ 15 servings). (Previously $1.26 at $17.90 — updated Jul 2026.)
 - Update all future P6 content. Historical posts are not retroactively corrected.
 
 
