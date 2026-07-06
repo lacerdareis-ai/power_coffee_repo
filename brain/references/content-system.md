@@ -26,12 +26,14 @@ Adopt the writing-quality rules from the `no-ai-slop` skill. Keep our brand voic
 |---|--------|---------|---------------|
 | P1 | PROBLEM HOOK | Stop the scroll. Surface a pain point. | IG Reel, X post |
 | P2 | INGREDIENT SCIENCE | Educate one ingredient per post. Build trust. | IG Carousel, LinkedIn, X thread |
-| P3 | FOUNDER PROOF | Leo on camera or in first person. Authenticity. | IG Reel, LinkedIn, X |
+| P3 | FOUNDER PROOF | Leo on camera or in first person. Authenticity — always woven with a thread of brand, product, or company-creation story (see rule below). | IG Reel, LinkedIn, X |
 | P4 | RITUAL CONTENT | Morning routine, prep footage, day in the life | IG Reel/Story, X |
 | P5 | SOCIAL PROOF | Reviews, DMs, user photos, reactions | IG Story/Post, X |
 | P6 | DIRECT CTA | Offer, link, event, limited-time push | IG Story, X, LinkedIn |
 
 **Weekly rotation rule:** Minimum 1 post per pillar per week across combined platforms. No pillar gets more than 2 consecutive days.
+
+**Founder content rule (added 2026-07-06, per Leo):** Every P3 founder post must carry at least one concrete thread of (a) the brand — what The Power Coffee stands for and why it exists, (b) the product — the formula, an ingredient choice, or a design decision, or (c) the company creation — how Leo built it (the two years of formulation, the AI-designed formula, bootstrapping, real moments from the journey). Personal standard/discipline content alone is not enough; the founder story must always connect back to why the company and product exist. Still opens with identity/feeling per the Desire-Brand rules — the brand/product/creation thread is the substance, not the hook.
 
 ### Sales Conversion Sequence — LENS-Validated (updated Jun 2026)
 The week should build a purchase funnel, not just a content calendar:
