@@ -35,6 +35,14 @@ Adopt the writing-quality rules from the `no-ai-slop` skill. Keep our brand voic
 
 **Founder content rule (added 2026-07-06, per Leo):** Every P3 founder post must carry at least one concrete thread of (a) the brand — what The Power Coffee stands for and why it exists, (b) the product — the formula, an ingredient choice, or a design decision, or (c) the company creation — how Leo built it (the two years of formulation, the AI-designed formula, bootstrapping, real moments from the journey). Personal standard/discipline content alone is not enough; the founder story must always connect back to why the company and product exist. Still opens with identity/feeling per the Desire-Brand rules — the brand/product/creation thread is the substance, not the hook.
 
+**Founder series model — "Building Power Coffee" (added 2026-07-06, per Leo):** Modeled on Ross Mackay's "Building The Brand" series (youtube.com/@RossMackay1, ex-Daring Foods founder now building Cadence). The founder vlog is a numbered, continuous documentary series, not standalone reels:
+- **Episodic:** every founder vlog is "Building Power Coffee — Ep. N" (Ep. 1 = week of Jul 6, 2026). Viewers follow the build like a series; each week is one arc.
+- **Title formula:** business topic | personal thread — e.g. "How retail strategy actually works | Training with my wife" (Mackay Ep. 44).
+- **One business lesson + one personal thread per episode.** The lesson comes from something real that week (a decision, a number, a mistake, a partnership call). The personal thread (training, family, 4:50am discipline) grounds it.
+- **Radical transparency:** real numbers, real setbacks. Losses build more trust than wins.
+- **Product appears, never pitched:** on the desk, in the cup, inside the decision being discussed. Soft series CTA ("follow the build") except on P6 days.
+The daily generator enforces this via VLOG_SCRIPT_SPEC in weekly_plan_loader.py.
+
 ### Sales Conversion Sequence — LENS-Validated (updated Jun 2026)
 The week should build a purchase funnel, not just a content calendar:
 - **Mon:** P3 Founder Reel → builds reach and trust. Declarative hook. "I [action]. And I'm not [hiding]."
