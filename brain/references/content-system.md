@@ -95,6 +95,7 @@ Minimum 3 Reels per week on Instagram — Mon, Wed, Fri. If no video asset exist
 - **MANDATORY: always end every X post with thepowercoffee.com on the last line.** No exceptions.
 
 ### LinkedIn (Leo Lacerda personal)
+- **Imagery rule (Leo, 2026-07-07):** LinkedIn card backgrounds show the business being built (desk, laptop, packing station, shipping boxes, planning), not just coffee shots. Pool: `_brand_kit/backgrounds_linkedin/` (make_story.py prefers it, falls back to general backgrounds if empty). The product may appear as a prop, never the hero.
 
 **Three explicit objectives — every post serves one of them:**
 
