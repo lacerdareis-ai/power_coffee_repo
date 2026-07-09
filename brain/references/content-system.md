@@ -20,6 +20,17 @@ Adopt the writing-quality rules from the `no-ai-slop` skill. Keep our brand voic
 7. **Vary sentence and paragraph length.** No three identical-shape lines in a row.
 8. **Read it before it publishes.** If a line could sit on any brand's post, rewrite it so only Power Coffee could have said it.
 
+## Active Campaign — July 2026 (Jul 9–31)
+
+**Goal:** 100 packs sold in July.
+**Offer:** Buy 2 bags, get 1 free. **Code FOURTH** at thepowercoffee.com. Expires Jul 31.
+**Inject into:** all P6 CTAs, X posts, Telegram messages, LinkedIn buyer-invite posts, Shopify blog footers, email campaigns.
+**Angle:** Radical transparency — Leo sharing the goal publicly (highest-ER LENS format). Make the audience feel like they're part of hitting the number. "I set a goal. Here's your part."
+**Email sequence:** launch Jul 9, mid Jul 16, close Jul 28 — `email_campaign_july100.py`.
+**Do NOT inject into:** P2 ingredient science hooks or P3 founder proof hooks (don't let the offer dilute the trust-building content; only place it at the close/CTA moment of each piece).
+
+---
+
 ## 6 Content Pillars
 
 | # | Pillar | Purpose | Best Platform |

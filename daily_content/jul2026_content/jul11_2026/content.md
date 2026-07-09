@@ -45,7 +45,7 @@ Power Coffee tastes like coffee, because it is coffee. 11 real ingredients: prot
 
 First buyer review called it "rich, smooth, and perfectly flavored." She wasn't expecting that. Most people aren't.
 
-Raw flavor is the proof the formula is real.
+Raw flavor is the proof the formula is real. Buy 2, get 1 free — code FOURTH at checkout.
 
 thepowercoffee.com
 
@@ -68,7 +68,7 @@ One thing people don't expect: it doesn't taste like a supplement. The first buy
 
 No artificial sweeteners. No vanilla extract. No flavor masking. It tastes like what's actually in it, which is real coffee and 10 other functional ingredients.
 
-One bag. 15 servings. $18.90. Ships from Amazon, or subscribe and save at thepowercoffee.com.
+One bag. 15 servings. $18.90. Or buy 2 bags and get a third free — code FOURTH at thepowercoffee.com. Expires end of July.
 
 What's the one thing that's kept you from trying it? Genuinely want to know.
 
