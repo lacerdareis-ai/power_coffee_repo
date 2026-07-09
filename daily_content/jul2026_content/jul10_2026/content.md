@@ -36,8 +36,8 @@ The professional who has 8 minutes in the morning.
 
 **Slide 5:**
 **Two ways to start:**
-🛒 Amazon — order today, delivered this weekend
-🌐 thepowercoffee.com — subscribe and save
+1. Amazon - order today, delivered this weekend
+2. thepowercoffee.com - subscribe and save
 Both ship fast. One bag is all it takes to know.
 
 **Slide 6:**
@@ -279,7 +279,7 @@ const H = 1080;
 const GAP = 60;
 
 // SLIDE DATA - accent/bg/textColor must be quoted strings: "BLACK", "BROWN", "BROWN_L", "CREAM", "WHITE"
-const SLIDES = [{ id: 1, slideType: "hook", overline: "RISK-FREE TRIAL", headline: "You've Been\nCurious\nLong Enough.", subtext: "Here's how to try it  -  risk-free.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }, { id: 2, slideType: "teach", overline: "WHAT IT IS", headline: "One Scoop.\n11 Clean\nIngredients.", subtext: "Protein + nootropics + clean caffeine  -  in your existing morning cup. No new routine. No replacing what you love.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM", pills: ["PROTEIN", "NOOTROPICS", "CLEAN CAFFEINE", "11 INGREDIENTS"] }, { id: 3, slideType: "teach", overline: "WHAT YOU FEEL", headline: "Energy That\nActually\nHolds.", subtext: "Focus without the jitter spiral. No crash. No second cup. No midday rescue run to Starbucks.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 4, slideType: "teach", overline: "WHO IT'S FOR", headline: "Built For\nThe Person\nWho Shows Up.", subtext: "Not the biohacker with 14 supplements. The professional who has 8 minutes in the morning.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 5, slideType: "teach", overline: "TWO WAYS TO START", headline: "Order Today.\nDelivered\nThis Weekend.", subtext: "🛒 Amazon  -  order today, delivered this weekend. 🌐 thepowercoffee.com  -  subscribe and save. One bag is all it takes to know.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 6, slideType: "cta", isCTA: true, overline: "YOUR MOVE", headline: "One Bag.\nOne Week.\nOne Decision.", subtext: "If it doesn't change your morning, nothing will.\n\nLink in bio → @powercoffee.ofc → thepowercoffee.com", accent: "CREAM", bg: "BROWN", textColor: "WHITE" }
+const SLIDES = [{ id: 1, slideType: "hook", overline: "RISK-FREE TRIAL", headline: "You've Been\nCurious\nLong Enough.", subtext: "Here's how to try it  -  risk-free.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }, { id: 2, slideType: "teach", overline: "WHAT IT IS", headline: "One Scoop.\n11 Clean\nIngredients.", subtext: "Protein + nootropics + clean caffeine  -  in your existing morning cup. No new routine. No replacing what you love.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM", pills: ["PROTEIN", "NOOTROPICS", "CLEAN CAFFEINE", "11 INGREDIENTS"] }, { id: 3, slideType: "teach", overline: "WHAT YOU FEEL", headline: "Energy That\nActually\nHolds.", subtext: "Focus without the jitter spiral. No crash. No second cup. No midday rescue run to Starbucks.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 4, slideType: "teach", overline: "WHO IT'S FOR", headline: "Built For\nThe Person\nWho Shows Up.", subtext: "Not the biohacker with 14 supplements. The professional who has 8 minutes in the morning.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 5, slideType: "teach", overline: "TWO WAYS TO START", headline: "Order Today.\nDelivered\nThis Weekend.", subtext: "1. Amazon  -  order today, delivered this weekend. 2. thepowercoffee.com  -  subscribe and save. One bag is all it takes to know.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 6, slideType: "cta", isCTA: true, overline: "YOUR MOVE", headline: "One Bag.\nOne Week.\nOne Decision.", subtext: "If it doesn't change your morning, nothing will.\n\nLink in bio → @powercoffee.ofc → thepowercoffee.com", accent: "CREAM", bg: "BROWN", textColor: "WHITE" }
 ];
 
 // ── HELPERS ──────────────────────────────────────────────────
