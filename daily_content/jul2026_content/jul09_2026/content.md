@@ -12,20 +12,29 @@
 ## INSTAGRAM
 ### Story Copy
 
-**Frame 1 — Headline Story**
-THEY TRIED IT.
-THEY STAYED.
-*Real people. Real results. No crash.*
+**Frame 1 — Proof + stat (hard open)**
+"I DIDN'T EXPECT IT TO ACTUALLY WORK."
+*— Power Coffee customer, week 1*
+More than 70% of buyers report the same: steady energy, no 2pm crash.
 
-**Sticker:** Poll — "Sound like you?" → YES, THAT'S ME / NOT YET
+**Sticker:** Link → thepowercoffee.com ("SHOP NOW")
 
 ---
 
-**Frame 2 — Quote Pull**
-"I DIDN'T EXPECT IT TO ACTUALLY WORK."
-*— Power Coffee customer, week 1*
+**Frame 2 — Price gap, flat fact**
+STOP BUYING $30 COFFEE.
+Power Coffee: 11 ingredients. 15 mornings. $18.90.
+That's $1.26 a morning for energy that actually holds.
 
-**Sticker:** Quiz — "How many coffees do you drink before noon?" → 1 / 2 / 3+ (correct answer triggers: "There's a better way.")
+**Sticker:** Link → thepowercoffee.com ("GET YOURS — $18.90")
+
+---
+
+**Frame 3 — Close (identity push)**
+YOUR 2PM CRASH ISN'T MANDATORY.
+One scoop. Same cup. Tomorrow feels different.
+
+**Sticker:** Link → thepowercoffee.com ("ORDER TODAY") + countdown sticker to midnight
 
 ---
 
@@ -41,9 +50,9 @@ The pattern is always the same:
 → No crash by 2pm
 → "Why did I wait so long?"
 
-Try it once. The ritual will do the rest.
+15 mornings. $18.90. $1.26 a day for the version of you that doesn't crash.
 
-Link in bio.
+Link in bio. Order today.
 
 ### Hashtags
 
