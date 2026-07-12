@@ -33,6 +33,9 @@
 | Reel volume is the clearest view-growth lever | June: +4 reels vs May → views +48-49% MoM (8.8K), IG explicitly attributed growth to reel count. | At this account size, publishing more reels beats optimizing individual reels. Protect the 3-reel week minimum; a 4th reel (event/BTS quick cut) is the cheapest growth available. | Jul 7, 2026 (June recap) |
 | Discovery works, follow conversion is the bottleneck | June: 64% of 8.8K views from non-followers (+59% MoM) but only +21 followers (~0.24 followers per 100 views). | Reach is not the constraint anymore; the profile visit → follow step is. Series-native CTAs ("follow the build — Ep. N"), a pinned origin reel, and an episode-numbered grid give non-followers a reason to subscribe rather than just watch. | Jul 7, 2026 (June recap) |
 | Follower activity windows vs 4am publish gap | IG: followers most active Mon 12-3pm, Sat 12-3pm, Sun 6-9pm. Sales Motor publishes everything at 4:00am. | Posts sit 8+ hours before the audience wakes up; early-velocity signals (first-hour engagement) land in dead air. Test moving the IG feed/reel publish to ~12pm Mon-Fri while keeping 4am for X/LinkedIn/Telegram. | Jul 7, 2026 (June recap) |
+|---------|---------|--------------|------------|
+| Adversarial product framing as hook | "YOUR COFFEE IS LYING TO YOU" — Jul 6 Reel, 161 reach, 11.18% ER in 2 days | Positions the viewer's current behavior as a mistake they didn't know they were making. Creates immediate identity threat + curiosity gap without mentioning Power Coffee. Draws viewer in to resolve the dissonance. | Jul 6, 2026 |
+| Pain-first ingredient lead without naming ingredient | "Your coffee has caffeine. That's it. Here's what it's missing." — Jul 7 Carousel | Confirms the viewer's existing knowledge (caffeine — true), then opens a gap ("that's it") without naming the solution yet. Follows pain-first pattern but delays the ingredient reveal longer, increasing scroll-through to Slide 2. | Jul 7, 2026 |
 ### Template entries:
 - **Price anchor hook:** "$0.73 vs $5.75" — comparison to daily coffee shop spend
 - **Problem-first hook:** "Your coffee is failing you by 2pm" — names the pain immediately
@@ -109,6 +112,7 @@
 | Week 5 (Jun 7–12) | — | — | — | — | Instagram reach avg: ~46 (down from 86 carousel avg / 199 Reel avg). 3rd consecutive week no Reel published — pipeline asset failures (Jun 10 failed, Jun 12 no mp4). Top pipeline post: P5 "REAL PEOPLE. REAL RESULTS." 65 reach. Real-world event photos: 43–52 reach floor. Jun 9 matcha carousel 38 reach — negative product-category hook ("YOUR COFFEE IS MAKING YOU ANXIOUS") likely suppressed performance. X and LinkedIn fully healthy all week. |
 | Week 6 (Jun 15–Jun 19, 2026) | — | — | — | — | Reels 15x reach over carousels; adenosine hook strongest signal; 2 dry-run days + Instagram failures cost distribution |
 | Week 7 (Jun 29–Jul 3, 2026) | — | — | — | — | 5/5 publish days; P3 Reel (610 days) top ER; reach down 80% (recency effect); WhatsApp broken all week |
+| Week 8 (Jul 6–Jul 10, 2026) | — | — | — | — | 1 post with data; pipeline failed 4/5 days; P1 Reel 161 reach 11.18% ER; fix platform flags before Mon |
 
 ---
 
