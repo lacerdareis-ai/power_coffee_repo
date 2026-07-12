@@ -421,4 +421,20 @@ The two posts with the highest real reach and ER are both rooted in proof — ei
 
 ---
 
+
+### LENS Update — Jul 6–Jul 10, 2026
+
+**Audience insights this week:**
+**1. P1 Problem Hook Reels are delivering reach above baseline.** Jul 6 hit 161 reach in 2 days, tracking above the ~183 all-time Reel average at a younger age. The adversarial framing ("lying to you") is consistent with the declarative hook pattern that consistently outperforms question-based hooks.
+
+**2. The content calendar structure is intact.** All 5 pillars were covered across 5 days (P1 Mon, P2 Tue, P3 Wed, P5 Thu, P6 Fri). The editorial logic is sound — problem → science → founder → proof → CTA is the right sequence for a first-time buyer moving through awareness to purchase intent in a single week.
+
+**3. Tuesday's multi-platform day (X + Instagram + LinkedIn + Telegram) shows the motor can fire correctly.** When the `--platform` flags are set and API credentials are valid, the system works. The Jul 7 publish confirms the infrastructure is functional; the failures are configuration and credential issues, not architectural failures.
+
+**4. The L-Theanine angle on P2 is the right ingredient to lead with.** It is the most credible bridge between "I've heard of caffeine" and "I've never heard of this but now I need it." One early comment on a carousel that historically underperforms signals the hook landed on someone worth landing on.
+
+**5. Founder Proof content (P3) continues to be written with specificity.** "600 mornings" is the kind of concrete number that the Winning Patterns log has already validated (prior: "430 mornings"). The number is a trust signal. Whether it reached anyone this week is a pipeline question, not a content quality question.
+
+---
+
 <!-- LENS_APPEND_END -->

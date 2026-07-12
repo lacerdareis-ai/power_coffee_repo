@@ -23,7 +23,7 @@ Adopt the writing-quality rules from the `no-ai-slop` skill. Keep our brand voic
 ## Active Campaign — July 2026 (Jul 9–31)
 
 **Goal:** 100 packs sold in July.
-**Offer:** Buy 2 bags, get 1 free. **Code FOURTH** at thepowercoffee.com. Expires Jul 31.
+**Offer:** Buy 2 bags, get 1 free. **Code FOURTH** at thepowercoffee.com/pages/betterday. Expires Jul 31.
 **Inject into:** all P6 CTAs, X posts, Telegram messages, LinkedIn buyer-invite posts, Shopify blog footers, email campaigns.
 **Angle:** Radical transparency — Leo sharing the goal publicly (highest-ER LENS format). Make the audience feel like they're part of hitting the number. "I set a goal. Here's your part."
 **Email sequence:** launch Jul 9, mid Jul 16, close Jul 28 — `email_campaign_july100.py`.
@@ -103,7 +103,7 @@ Minimum 3 Reels per week on Instagram — Mon, Wed, Fri. If no video asset exist
 - **No hashtags** in main posts. Only in reply chains if at all.
 - **Visuals:** Pair 40% of posts with single image (product shot, ingredient chart, study abstract screenshot).
 - **Engagement:** 15 min/day replying to wellness/startup accounts. Every reply is a micro-ad.
-- **MANDATORY: always end every X post with thepowercoffee.com on the last line.** No exceptions.
+- **MANDATORY: always end every X post with thepowercoffee.com/pages/betterday on the last line.** No exceptions.
 
 ### LinkedIn (Leo Lacerda personal)
 - **Imagery rule (Leo, 2026-07-07):** LinkedIn card backgrounds show the business being built (desk, laptop, packing station, shipping boxes, planning), not just coffee shots. Pool: `_brand_kit/backgrounds_linkedin/` (make_story.py prefers it, falls back to general backgrounds if empty). The product may appear as a prop, never the hero.
@@ -284,9 +284,9 @@ The best hooks do ONE of these:
 
 ## Platform Rules — Mandatory (updated Jun 11, 2026)
 
-**X.com:** Every post MUST end with `thepowercoffee.com` on the final line. No exceptions. Single posts only — Threads platform disabled.
+**X.com:** Every post MUST end with `thepowercoffee.com/pages/betterday` on the final line. No exceptions. Single posts only — Threads platform disabled.
 
-**Telegram:** Every message MUST end with `→ thepowercoffee.com` on the final line. No exceptions.
+**Telegram:** Every message MUST end with `→ thepowercoffee.com/pages/betterday` on the final line. No exceptions.
 
 **Threads:** DISABLED. Do not generate Threads content.
 
@@ -475,6 +475,48 @@ The Puppeteer browser conflict has appeared in every single publish log this wee
 | Carousels | 6+ | ~94 | ~3.2 | ~0.6 | ~14.2% |
 
 **Note:** Carousel ER is structurally inflated by low-reach posts in the early days. Reels are the reach engine — consistently pulling 4–10x the reach of Carousels. Carousels drive saves and comments proportionally better when they do reach. The funnel logic holds: Reels for discovery, Carousels for depth and conversion intent.
+
+---
+
+
+### LENS Update — Jul 6–Jul 10, 2026
+
+**Week-over-Week momentum:**
+| Metric | Jul 6–Jul 10, 2026 | Jun 29–Jul 3, 2026 | Δ |
+|--------|--------------------|--------------------|---|
+| Posts with analytics | 1 | 5 | -4 |
+| Days with publish | 5/5 | 5/5 | +0 |
+| Reels published | 1 | 3 | -2 |
+| Carousels published | 0 | 2 | -2 |
+| Avg Reach | 161 | 111 | +45% |
+| Avg ER | 11.18% | 17.97% | -6.79 pp |
+| Best Reach | 161 | 208 | -47 |
+| Best ER | 11.18% | 75.00% | -63.82 pp |
+
+**Interpretation:**
+
+The headline number — 5/5 publish days — is technically accurate and functionally misleading. Content was written every day, but the pipeline delivered live posts on only 2 of 5 days across Instagram, and zero posts on Monday, Wednesday, and Friday on any platform. The prior week's 5-post analytics base makes this week's 1-post base a near-collapse of distribution, n
+
+**Patterns confirmed this week:**
+**1. Audit and fix the `--platform` flag configuration before Monday publish.** Every day that runs without explicit platform flags defaults to skipping. Set a standing configuration file or cron argument that includes Instagram, X, and LinkedIn as defaults for every weekday. The WhatsApp session needs re-auth (node whatsapp_sender.js --auth) and the Shopify API key needs rotation. Do this Sunday. Do not publish Monday until it is confirmed.
+
+**2. Move P3 Founder Proof from Story to Reel or Carousel on Wednesday.** Stories produce no lasting analytics and have near-zero reach beyond existing followers. The "600 mornings" specificity and Ironman/family context is exactly the content that the Winning Patterns log shows drives high ER when formatted as a feed Reel (May 20 Reel: 438 views, 279 reach, 3.94% ER — highest reach post in Sales Motor period). Publish it to the feed. Stories can be a secondary distribution, not the primary format.
+
+**3. Apply the Desire-Brand shift to the P6 CTA Carousel hook.** "You've been curious long enough" is rational-pull copy. The north star strategy calls for identity-first framing — not "here's what you get" but "here's who you become." Rewrite Slide 1 as: "The people who win their mornings don't stumble into it. They decide." Then the CTA is joining an identity, not buying a product. This is the Bold Snacks mechanic applied to the conversion moment: the purchase is a badge, not a transaction.
+
+---
+
+**Updated baseline:**
+*Based on all posts with confirmed analytics in the vault across the Sales Motor period.*
+
+| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|--------|-------|-----------|-----------|--------------|--------|
+| Reels | ~6 | ~183 | ~12 | ~1.5 | ~9.4% |
+| Carousels | ~5 | ~98 | ~4 | ~0.6 | ~6.1% |
+
+**Caveat:** Baseline calculated from confirmed data points across prior LENS reports. This week adds 1 Reel with analytics (161 reach, 18 engagements, 11.18% ER) — within normal Reel range. Carousel baseline is suppressed this week due to zero confirmed carousel analytics. Baseline will stabilize with more posts.
+
+**Key structural finding:** Reels consistently outperform Carousels on both reach and ER. Reels reach ~87% more people on average and generate ~54% higher ER. This gap is large enough to be directional.
 
 ---
 
