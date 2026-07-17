@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -183,30 +183,26 @@ A man in his early 40s at a clean home office desk, one hand resting on a keyboa
 
 ## EMAIL
 ### Subject Line
-Why 3 coffees still aren't enough
+Your 3pm crash isn't a caffeine problem
 
 ### Preview Text
-It's not how much you drink. It's what's in the cup.
+It's blood sugar. Here's what actually fixes it.
 
 ### Body
 
 Hey —
 
-You already know the feeling.
+Two coffees in. Still crashing by 3pm.
 
-Two cups in. Maybe three. Noon hits and the focus is gone. You're not tired-tired. You're that specific kind of drained where thinking takes effort and the afternoon feels longer than it should.
+That's not a caffeine problem. Caffeine wears off in a predictable curve. What you're feeling at 3pm is a blood sugar drop, the same mechanism that makes you want something sweet an hour after a big lunch.
 
-That's not a caffeine problem. That's a formula problem.
+Regular coffee doesn't touch that. It adds caffeine on top of a blood sugar spike, so the crash comes back harder every time you refill the cup.
 
-Regular coffee gives you one ingredient. Caffeine blocks the fatigue signal for a window — then exits your system, and the backlog hits all at once. It was never designed to carry your whole day.
+Power Coffee has cinnamon in the formula for exactly this: it slows the glucose spike so there's nothing to crash from. Matcha and taurine carry the energy without the jitters. One scoop, no second cup by 11am.
 
-Power Coffee adds what's missing: L-theanine to smooth the spike, taurine to steady your nervous system, matcha for a second slower release, and pea protein to keep your blood sugar stable so the energy actually lasts.
+$18.90 for 15 servings. $1.26 a morning.
 
-Same cup. One scoop. No crash.
-
-If you've been running on three coffees and still hitting a wall — the answer isn't cup four.
-
-**[Try Power Coffee for 7 days →](https://www.thepowercoffee.com)**
+**[Try Power Coffee →](https://www.thepowercoffee.com)**
 
 — Leo
 
