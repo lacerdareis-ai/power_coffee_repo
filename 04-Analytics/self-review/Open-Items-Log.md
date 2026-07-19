@@ -70,3 +70,7 @@
 - ⚠️ `report` — 36 errs, last run 8.0h ago
 - ⚠️ `review_drip` — 36 errs, last run 5.0h ago
 - 📄 `market.md` stale (44d) — refresh
+
+## 2026-07-19 self-review
+- ⚠️ `weekly_plan` — 1 errs, last run 57.0h ago
+- 📄 `market.md` stale (51d) — refresh

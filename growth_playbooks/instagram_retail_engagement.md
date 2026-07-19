@@ -57,6 +57,40 @@ This builds recognition before asking for anything.
 
 ---
 
+## Additional Local Market Accounts (found in @powercoffee.ofc following list, added Jul 15, 2026)
+
+**Markets:**
+- Cotuit Fresh Market (@cotuitfreshmarket)
+- The Clam Man | Fish Market (@theclammancapecod)
+- Days Market & Deli (@daysmarketanddeli)
+- Shortrounds Grab & Go Market (@shortroundsgrabandgo)
+- Edgartown Village Market (@edgartownvillagemarket)
+- Mashpee Fresh Market (@mashpeefreshmarket)
+- West Falmouth Market Café (@westfalmouthmarketcafe)
+- Wellfleet Marketplace (@wellfleet_marketplace)
+- Sixteen West Neighborhood Market (@sixteenwestmarket)
+
+**General Stores:**
+- LaBelle's General Store (@labellecapecod)
+- Chilmark General Store (@chilmarkgeneral)
+- 1856 Country Store (@1856countrystoreatcenterville)
+- Truro General Store (@truro_general_store)
+- Wild Harbor General Store (@wildharborgeneral)
+
+**Farms/Farmstands:**
+- Cape Cod Organic Farm (@capecodorganicfarm)
+- Island Alpaca Farm (@islandalpaca)
+- Chatham Bars Inn Farm (@chathambarsinnfarm)
+- Falmouth Farmers' Market (@falmouthfarmersmarket)
+- Sprout Farmstand (@sproutfarmstand)
+- Sweet Honey Farm (@sweet.honeyfarm)
+- Vineyard Farm (@vineyardfarm.ma)
+- Mid-Cape Farmstand (@midcape_farmstand)
+
+These are now part of the daily like rotation alongside the original 28-store list.
+
+---
+
 ## Week 2: Amplify — Share Their Content
 
 ### Daily Routine (10 min/day)
@@ -117,6 +151,24 @@ Hey! Noticed you're in [town]. Wanted to share something — we're doing a Cape 
 Thought of you immediately. Samples are on the way if you want to try it. 
 
 If not your thing, no worries — but wanted you to know about it.
+```
+
+### DM Template D: Open Your Doors (Fun Tone)
+```
+Hey [StoreName] 👋
+
+We know shop owners are busy busy busy, but if you've got 20 seconds, this one might be worth a read.
+
+I'm Leo, founder of Power Coffee here on the Cape. We're a small functional coffee brand (real ingredients, no crash) and we're on the hunt for a few local shops brave enough to open their doors to a new brand.
+
+No shelf commitment today, just a conversation. Samples are free either way.
+
+If you're in, reply here. If not, no hard feelings, I'll still be liking your posts. 🖤
+```
+
+**Shorter variant (first touch, lighter):**
+```
+Hey [StoreName], quick one (promise it's short): we're Power Coffee, a small local functional coffee brand, and we're asking a few shops on the Cape if they'd open their doors to something new. Worth a chat?
 ```
 
 ### DM Best Practices
