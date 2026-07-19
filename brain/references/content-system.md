@@ -290,6 +290,8 @@ The best hooks do ONE of these:
 
 **Threads:** DISABLED. Do not generate Threads content.
 
+**WhatsApp (Leo personal):** Founder reel scripts MUST always be sent to Leo via WhatsApp the day before filming. Format: bold section headers, bullet points, timestamp markers. No need to post publicly — this is Leo's personal brief. Send via `publish_whatsapp()` or `node whatsapp_sender.js`.
+
 ---
 
 <!-- LENS_APPEND_START -->

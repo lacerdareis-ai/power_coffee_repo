@@ -1,6 +1,6 @@
 # Weekly Plan — 2026-W30
 
-**Status:** PENDING  |  **Approved:** ⬜
+**Status:** PENDING  |  **Approved:** YES
 
 **Vlog theme:** The week I stopped explaining and started showing.
 
@@ -58,4 +58,4 @@
 ⬜ 2. [belief_shifting] **Your Crash Isn't A Caffeine Problem** — Pain-first email that reframes the 11am and 3pm crashes as blood-sugar events, not caffeine tolerance — positions Power Coffee as the structural fix, not just another cup.
 ⬜ 3. [autoridade] **3 Things To Check Before Buying Any Coffee** — Teaching email that gives subscribers a simple 3-point checklist for evaluating any functional coffee — builds authority and subtly demonstrates that Power Coffee passes every test.
 ⬜ 4. [pessoal] **What I Drink Before The Family Wakes Up** — Personal founder email: the 4am ritual, the Ironman training block, the formula in the cup — written as a letter, not a broadcast, for subscribers who came for the founder story.
-⬜ 5. [prova] **$0.73 Morning vs. $6 Latte. Do The Math.** — Price-math comparison email that reframes the cost objection with a 30-day calculation — disarms the price barrier and closes with a direct link to try the first bag.
+⬜ 5. [prova] **$1.26 Morning vs. $6 Latte. Do The Math.** — Price-math comparison email that reframes the cost objection with a 30-day calculation — disarms the price barrier and closes with a direct link to try the first bag.
