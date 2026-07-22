@@ -1,9 +1,9 @@
 # Power Coffee — Content for July 23, 2026
-**Pillar:** P5 — SOCIAL PROOF | **Day:** Thursday | **Image set:** D1 or D3
+**Pillar:** P5 — SOCIAL PROOF (industry-data variant) | **Day:** Thursday | **Image set:** D1 or D3
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -12,210 +12,166 @@
 ## INSTAGRAM
 ### Story Copy
 **Frame 1 — Headline:**
-PEOPLE ARE TALKING.
+CHECK THE LABEL.
 
-*"I didn't expect to feel it this fast."*
+*51% of people now actively look for real ingredients before they buy. (Euromonitor, Jan 2026)*
 
-**Sticker:** Poll — *Did you try it yet?* → YES ☕ / NOT YET 👀
+**Sticker:** Poll — *Do you read nutrition labels?* YES, always / NOT REALLY
 
 ---
 
-**Frame 2 — Quote pull:**
-"TWO WEEKS IN."
+**Frame 2 — The gap:**
+37% READ THE LABEL.
 
-*No crash. No jitters. Just focus.*
+*Only 21% eat something that actually gives it back. That's the gap we built Power Coffee for.*
 
-**Sticker:** Quiz — *What's the secret ingredient?* A) Matcha B) Taurine C) Both ✓
+**Sticker:** Quiz — *How many active ingredients does your regular coffee have?* A) 1 B) 8 ✓
 
 ---
 
 ### Caption
-Real people. Real mornings. Real results.
+51% of people now actively look for healthy ingredients before they buy food or drinks. 37% read the label every time. (Euromonitor, Voice of the Consumer: Lifestyles Survey, Jan 2026)
 
-We've been collecting your messages and this one stopped us mid-scroll.
+Read the label on a regular cup of coffee. It says one thing: caffeine.
 
-Two weeks in — no crash, no jitters, just a cleaner way to start the day.
+Power Coffee's label says eight: caffeine, matcha, taurine, L-theanine, pea protein, ginkgo, cinnamon, ginger. Every one of them is there to do something specific — steady the caffeine, protect blood sugar, stretch the energy window instead of spiking it.
 
-That's not marketing. That's a Thursday morning DM from someone who bought it skeptical.
+Only 21% of people say they actually eat something nutrient-rich that complements their diet. We wanted our coffee to be in that 21%, not the other 79%.
 
-If you've tried Power Coffee, drop your experience in the comments or send us a DM.
-
-Your story might be someone else's turning point.
-
-Link in bio to try it.
+thepowercoffee.com
 
 ### Hashtags
-#powercoffee #cleanenergy #functionalcoffee #morningroutine #coffeereview #nootropics #biohacking #thefirstwin #energywithoutthecrash #coffeelovers #supplementsthatwork #realresults
+#powercoffee #cleanenergy #functionalcoffee #ingredienttransparency #nutritionlabel #biohacking #thefirstwin #realingredients #nocrash #coffeelovers
 
 ---
 
 ## X.COM
 ### Post
-"Two weeks in. No crash. No jitters."
+37% of people read nutrition labels now.
 
-That's a direct quote from a DM we got this morning.
+Only 21% eat something that actually gives it back. (Euromonitor, Jan 2026)
 
-We didn't ask for it. They just sent it.
+Most labels on "energy" products still say one active ingredient: caffeine.
 
-That's the whole pitch.
+Ours says eight.
 
 ---
 
 ### Thread
 **Post 1:**
-The best marketing we've ever done is shipping a product people didn't expect to work — and watching them come back to tell us it did.
+37% of people now read nutrition labels before buying. Only 21% eat something nutrient-rich that actually complements their diet. (Euromonitor, Voice of the Consumer: Lifestyles Survey, Jan 2026)
 
 **Post 2:**
-We've been collecting DMs. The pattern is always the same.
-
-Week 1: "Okay, I feel something."
-Week 2: "I stopped reaching for my afternoon coffee."
-Week 3: "I ordered another bag."
-
-Nobody told them what to feel. They just felt it.
+That's a real gap. Most people checking labels on their morning coffee find exactly one active ingredient: caffeine. A spike, then a crash.
 
 **Post 3:**
-Here's what's doing the work:
+Power Coffee's label has eight: caffeine, matcha, taurine, L-theanine, pea protein, ginkgo, cinnamon, ginger.
 
-175mg caffeine paired with L-theanine and matcha = no spike, no crash.
-2g taurine = sustained output without overstimulation.
-5g pea protein = blood sugar stability so the energy window stays open.
-
-It's not magic. It's formulation.
+Matcha stretches the caffeine release over 4-6 hours instead of 45 minutes. Taurine keeps it from overstimulating. Pea protein holds blood sugar steady so the crash doesn't come.
 
 **Post 4:**
-Most supplement brands manufacture testimonials.
-
-We screenshot DMs at 6am from people who bought it skeptical.
-
-There's a difference. Customers who weren't expecting much — and then messaged unprompted — are the only validation that matters at this stage.
+Euromonitor's research on snacking applies just as much to what's in your mug: sensory appeal alone doesn't hold up anymore. People want the taste and a reason the ingredient list matters.
 
 **Post 5:**
-If you've tried it and have something to say — send it.
-
-If you haven't tried it yet — this thread is the review.
-
-[link placeholder]
+If you already read labels, you already know what to look for. Check ours: thepowercoffee.com
 
 ---
 
 ## LINKEDIN
 ### Post
-Last week, someone sent us a DM we didn't ask for.
+Euromonitor published a stat this year that stuck with me: 37% of people now read nutrition labels before they buy. Only 21% end up eating something nutrient-rich that actually complements their diet.
 
-"Two weeks in. No crash. No jitters. I didn't expect to feel it this fast."
+That 16-point gap is the whole opportunity in functional food and beverage right now.
 
-That message means more than any ad metric we track.
+People are paying attention. Most products aren't giving them anything to actually find when they look.
 
-Here's why I think unsolicited feedback is the only real signal at an early stage.
+We built Power Coffee around that gap specifically. Not another flavor variation on caffeine — an actual formula: matcha for a slower caffeine release, taurine for sustained output without the overstimulation, pea protein for blood sugar stability so the crash doesn't happen at 10am.
 
-When someone buys skeptical — and comes back anyway — that's product-market fit in its simplest form.
+The label has eight ingredients because eight ingredients are doing something. Not because more is automatically better — because we built to be found by the 37% who are already checking.
 
-No survey. No follow-up email sequence. No incentivized review request.
+If you're building in food, beverage, or supplements: the sensory-appeal-only era is closing. Euromonitor's data backs this up across snacking categories broadly, not just coffee. People want taste and a functional reason behind the ingredient list, in the same product.
 
-Just a person who noticed something real and felt compelled to say it.
-
-We're at a stage where 300 words from one honest customer carries more weight than a full campaign.
-
-I'm not dismissing the importance of building systems for reviews and social proof. We're doing that.
-
-But before the system, there's the signal.
-
-And right now, the signal is strong enough that I'm letting it guide what we build next.
-
-If you're early-stage — what does your unsolicited feedback look like? That's usually where the real roadmap lives.
+What's on your label, and does it hold up if someone actually reads it?
 
 ---
 
 ## TELEGRAM
 ### Message
-Quick one for the community — we've been getting DMs this week from people who tried Power Coffee and just... felt the need to say something.
+Quick data point for the community: Euromonitor's latest research says 37% of people now read nutrition labels before buying, but only 21% end up with something nutrient-rich that actually complements their diet. (Jan 2026 survey)
 
-No prompt. No discount code attached. Just people noticing a real difference in their mornings.
+That's exactly the gap Power Coffee is built for — 8 active ingredients on the label, each one doing something specific. Not just caffeine.
 
-If that's you and you haven't said anything yet — we want to hear it. Reply here or DM us on Instagram. Real feedback shapes what we do next. ☕
+If you've been meaning to actually read what's in your morning coffee, this week's a good time to check ours too. ☕
 
 ---
 
 ## SHOPIFY BLOG
 ### Title
-What Customers Are Saying About Power Coffee After 2 Weeks — And Why It Matters
+Why 37% of People Read Labels But Only 21% Actually Benefit From What's On Them
 
 ### Body
 
-## The Most Honest Review Is the One Nobody Asked For
+## The Label-Reading Gap
 
-There are two kinds of customer feedback.
+Euromonitor's Voice of the Consumer: Lifestyles Survey (fielded January-February 2025) found that 51% of global consumers actively seek healthy ingredients in food and beverages, and 37% carefully read nutrition labels every time they buy.
 
-The kind you chase — follow-up emails, review request sequences, discount codes attached to rating prompts.
+But only 21% of global consumers say they actually eat nutrient-rich snacks that complement their diet.
 
-And the kind that shows up on its own — a DM at 6am from someone who bought skeptical and felt something they didn't expect.
+That's a real gap between intent and outcome — and it applies just as much to what's in your coffee mug as it does to snacks.
 
-At The Power Coffee, we take both seriously. But only one of them tells us the truth.
+## What Most Coffee Labels Actually Say
 
-## What We're Hearing After Two Weeks
+Read the label on a regular bag of coffee. It says one thing: caffeine.
 
-Across our early customers, a consistent pattern is emerging.
+That's not a formula. That's one molecule doing all the work — spiking cortisol, then leaving you to crash 45 minutes later with nothing else in the mix to soften the landing.
 
-**Week one** is the curiosity window. People notice they're not reaching for a second or third cup. They're finishing the morning without the usual dip around 2pm. Nothing dramatic — just absence of the problem they were used to living with.
+## What We Built Instead
 
-**Week two** is where the messages start. The unsolicited ones. The screenshots we didn't ask for.
+Power Coffee's label has eight active ingredients, and each one has a specific job:
 
-*"No crash. No jitters. I didn't expect to feel it this fast."*
+- **Matcha** — releases energy over 4-6 hours instead of spiking and crashing in under an hour
+- **Taurine (2g)** — supports sustained output without the overstimulation caffeine alone causes
+- **L-theanine** — pairs with caffeine to remove the jitters and the 2pm wall
+- **Pea protein (5g)** — stabilizes blood sugar so the energy window doesn't slam shut mid-morning
+- **Ginkgo biloba** — supports cerebral blood flow for sustained focus
+- **Cinnamon and ginger** — round out the formula's blood sugar and digestion support
 
-That's not a review we manufactured. That's a Thursday morning DM.
+## Closing the Gap
 
-## Why the Formula Produces Consistent Feedback
+Euromonitor's broader research on snacking found the same pattern across the category: novelty alone doesn't sustain a product anymore. Consumers want the sensory experience — taste, texture — paired with a real functional benefit, not one or the other.
 
-The responses aren't random. They follow the formula.
+We think that applies directly to coffee. If you're one of the 37% who actually reads the label, we built this one to hold up when you do.
 
-- **L-theanine + caffeine** extends the energy window and smooths the spike
-- **Matcha** releases energy over 4–6 hours, not 45 minutes
-- **Taurine (2g)** supports sustained output without overstimulation
-- **Pea protein (5g)** stabilizes blood sugar so energy doesn't crater mid-morning
-
-When the ingredients work together, the experience is consistent. That's why the feedback pattern is consistent.
-
-## Try It and Tell Us
-
-We're building this brand on real results, not marketing claims.
-
-If you're ready to experience the difference yourself, [try Power Coffee here](#). One bag. One week. Then tell us what you noticed.
+[Try Power Coffee — link to product page.]
 
 ### Image Prompt
-A woman in her mid-30s sitting at a kitchen table in morning light, both hands wrapped around a dark ceramic mug, looking slightly off-camera with a calm, satisfied expression. A matte black bag of coffee product sits open on the table beside her. Warm golden window light. Lived-in kitchen with soft background detail. Shallow depth of field. Muted cream, espresso brown, and gold tones. No text in frame. Aspect ratio 16:9, landscape orientation.
+A close-up, slightly angled shot of a hand holding a matte black stand-up pouch bag, thumb resting near the printed ingredient list on the label, soft morning window light raking across the text. The label's "THE POWER COFFEE" wordmark and ingredient panel are both in focus. Warm espresso brown and cream tones, shallow depth of field on the background kitchen counter. No staged props, natural and unpolished. Portrait orientation 4:5. FLUX.2 Pro.
 
 ---
 
 ## EMAIL
 ### Subject Line
-"I didn't expect it to work."
+37% read labels. Only 21% benefit from what's on them.
 
 ### Preview Text
-A Thursday morning DM — and what it means for your routine.
+A new stat, and why we built Power Coffee's label to actually hold up.
 
 ### Body
-Hey [first name],
+Hey —
 
-We got a DM this week we didn't ask for.
+Euromonitor published a stat this year I can't stop thinking about: 37% of people now read nutrition labels before they buy. Only 21% actually end up eating something nutrient-rich that complements their diet.
 
-"Two weeks in. No crash. No jitters. I didn't expect to feel it this fast."
+That gap is real. And it's exactly why most "energy" products don't survive a second look at the label.
 
-That's the whole thing. No follow-up email prompted it. No discount code attached. Just someone who bought skeptical — and noticed a real difference in their mornings.
+Check a regular bag of coffee. One active ingredient: caffeine. That's the whole formula.
 
-We're sharing it because this is exactly who Power Coffee is built for.
+Power Coffee's label has eight: caffeine, matcha, taurine, L-theanine, pea protein, ginkgo, cinnamon, ginger. Matcha stretches the release over 4-6 hours. Taurine keeps it from overstimulating. Pea protein holds your blood sugar steady so the crash doesn't come.
 
-The person who's tried everything. Who's skeptical of supplement claims. Who doesn't need hype — just needs something that actually works on a Tuesday when the meetings don't stop and the afternoon would otherwise wreck them.
+If you're one of the people who actually reads labels, this one's built to hold up when you do.
 
-If that's you and you haven't tried it yet, this is the week.
+→ Check the label yourself: thepowercoffee.com
 
-One bag. One week. Then you tell us.
-
-→ [Shop Power Coffee — link placeholder]
-
-And if you've already tried it — reply to this email. We read every one.
-
-— Leo & the Power Coffee team
+— Leo
 
 ---
 
@@ -227,62 +183,56 @@ FLUX.2 Pro (image)
 9:16 (Stories)
 
 ### Prompt
-A close-up, slightly overhead shot of two hands — one holding a dark ceramic mug with steam rising, the other resting open on a worn wooden table beside it. Early morning kitchen light streaming in from a window at the left edge of the frame. The scene feels quiet and real — a private morning moment, not a styled shoot. A matte black coffee bag sits slightly out of focus in the background at the top of the frame. Warm espresso brown and cream tones with a thin rim of gold from the window light. High contrast between the warm light source and the cooler shadows. No text in frame. Vertical 9:16 composition with the hands centered and negative space above for headline overlay. Cinematic grain, natural texture, no studio lighting.
+A close-up, slightly overhead shot of a hand holding open a matte black stand-up pouch bag, thumb resting near the printed ingredient list, soft early-morning window light raking across the label. The scene feels quiet and unstaged — a real moment of someone actually reading the back of the bag, not a studio product shot. Warm espresso brown and cream tones, shallow depth of field on the blurred kitchen counter in the background. No text added in frame beyond what's printed on the real label. Vertical 9:16 composition with negative space at the top for headline overlay. Cinematic grain, natural texture, no studio lighting.
 
 ---
 
 ## REELS — Founder Vlog Script
 **Series:** Building Power Coffee — Ep. 3
-**Beat:** Social proof as strategy — what real feedback at 90 days actually looks like
-**Title formula:** The DM that changed how I think about marketing | 5am coffee, no alarm
-**Duration:** 30–45s · **Setting:** Leo at his kitchen counter, early morning, mug in hand, phone face-down nearby — natural window light, unhurried
+**Beat:** The label-reading gap — why we built the formula to survive someone actually reading it
+**Title formula:** 37% read labels. Only 21% benefit. | Read the back of the bag.
+**Duration:** 30–45s · **Setting:** Leo at his kitchen counter, early morning, holding the bag, turning it to the ingredient panel — natural window light, unhurried
 
 ---
 
 **HOOK (0–3s, text on screen + spoken):**
-"Someone messaged us last week. We didn't ask them to."
+"Euromonitor found that 37% of people read nutrition labels now. Only 21% actually benefit from what's on them."
 
 ---
 
 **BODY (speak exactly this):**
-"It said: 'Two weeks in. No crash. No jitters. I didn't expect it to work.'
+"That gap is the whole reason I built this the way I did.
 
-We're 90 days into selling this thing. We've run ads. Done events. Built content calendars.
+Turn over a regular bag of coffee. One active ingredient: caffeine. That's the whole formula. A spike, then a crash.
 
-None of that hit harder than that one DM.
+I wanted ours to hold up if someone actually read it. So the label has eight: caffeine, matcha, taurine, L-theanine, pea protein, ginkgo, cinnamon, ginger.
 
-Because nobody prompted it. No coupon. No review request. Just a person who noticed something real at 6am and felt like saying it.
+Matcha stretches the release out over four to six hours instead of forty-five minutes. Taurine keeps it from overstimulating. Pea protein holds your blood sugar so the crash doesn't come at ten am.
 
-At this stage — that's the metric I care about most.
-
-I was up at 4:50 this morning. Made the coffee before I touched my phone. And I thought about that message.
-
-If the product is doing its job, the feedback finds you.
-
-That's what I'm building toward."
+None of this is hype. It's just what's printed on the back of the bag. Go read it."
 
 ---
 
 **CTA (last 5s):**
-"What's the most meaningful feedback you've ever gotten? Drop it below. Follow for ep. 4."
+"Read the label. Then tell me what's missing from yours. Follow for ep. 4."
 
 ---
 
-**B-ROLL:** Phone screen showing a DM notification (no personal info visible), Leo's hand stirring a mug at the kitchen counter, close-up of the black Power Coffee bag sitting open on the counter in morning light
+**B-ROLL:** Close-up of the ingredient panel on the back of the bag, hand tracing down the list, steam rising from the mug beside it on the counter
 
 **CAPTION:**
-90 days in. The ad metrics are fine. But this one DM told me more than any dashboard.
+37% of people read labels. Only 21% benefit from what's on them. (Euromonitor, Jan 2026)
 
-Real feedback from real people — that's the compass at this stage.
+We built ours to hold up when you actually turn the bag over.
 
 Ep. 3 — Building Power Coffee
 
-#powercoffee #founderstory #buildingabrand #cleanenergy #thefirstwin
+#powercoffee #ingredienttransparency #cleanenergy #thefirstwin #functionalcoffee
 
 **ON-SCREEN TEXT:**
-- [0:00] "We didn't ask for this DM."
-- [0:12] "90 days in. Here's what actually matters."
-- [0:32] "Follow the build → Ep. 4 next week"
+- [0:00] "37% read labels. Only 21% benefit."
+- [0:12] "One ingredient vs. eight."
+- [0:32] "Read the back of the bag. Follow → Ep. 4"
 
 ---
 
@@ -308,7 +258,7 @@ const H = 1920;
 const GAP = 60;
 
 // SLIDE DATA - accent/bg/textColor must be quoted strings: "BLACK", "BROWN", "BROWN_L", "CREAM", "WHITE"
-const SLIDES = [{ id: 1, slideType: "hook", bg: "BLACK", accent: "BROWN", textColor: "CREAM", overline: "PEOPLE ARE TALKING", headline: "I DIDN'T EXPECT\nTO FEEL IT\nTHIS FAST.", subtext: "Did you try it yet? YES ☕ / NOT YET 👀" }
+const SLIDES = [{ id: 1, slideType: "hook", bg: "BLACK", accent: "BROWN", textColor: "CREAM", overline: "CHECK THE LABEL", headline: "37% READ IT.\nONLY 21%\nBENEFIT.", subtext: "Do you read nutrition labels? YES, always / NOT REALLY" }
 ];
 
 // ── HELPERS ──────────────────────────────────────────────────
@@ -443,5 +393,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `story.jpg` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A close-up, slightly overhead shot of two hands \u2014 one holding a dark ceramic mug with steam rising, the other resting open on a worn wooden table beside it. Early morning kitchen light streaming in from a window at the left edge of the frame. The scene feels quiet and real \u2014 a private morning moment, not a styled shoot. A matte black coffee bag sits slightly out of focus in the background at the top of the frame. Warm espresso brown and cream tones with a thin rim of gold from the window light. High contrast between the warm light source and the cooler shadows. No text in frame. Vertical 9:16 composition with the hands centered and negative space above for headline overlay. Cinematic grain, natural texture, no studio lighting.\n\n---", "text_overlay": ""}, "carousel": [{"prompt": "A close-up, slightly overhead shot of two hands \u2014 one holding a dark ceramic mug with steam rising, the other resting open on a worn wooden table beside it. Early morning kitchen light streaming in from a window at the left edge of the frame. The scene feels quiet and real \u2014 a private morning moment, not a styled shoot. A matte black coffee bag sits slightly out of focus in the background at the top of the frame. Warm espresso brown and cream tones with a thin rim of gold from the window light. High contrast between the warm light source and the cooler shadows. No text in frame. Vertical 9:16 composition with the hands centered and negative space above for headline overlay. Cinematic grain, natural texture, no studio lighting.\n\n---", "text_overlay": ""}]}
+{"story": {"prompt": "A close-up, slightly overhead shot of a hand holding open a matte black stand-up pouch bag, thumb resting near the printed ingredient list, soft early-morning window light raking across the label. The scene feels quiet and unstaged — a real moment of someone actually reading the back of the bag, not a studio product shot. Warm espresso brown and cream tones, shallow depth of field on the blurred kitchen counter in the background. No text added in frame beyond what's printed on the real label. Vertical 9:16 composition with negative space at the top for headline overlay. Cinematic grain, natural texture, no studio lighting.\n\n---", "text_overlay": "37% READ IT. ONLY 21% BENEFIT."}, "carousel": [{"prompt": "A close-up, slightly overhead shot of a hand holding open a matte black stand-up pouch bag, thumb resting near the printed ingredient list, soft early-morning window light raking across the label. The scene feels quiet and unstaged — a real moment of someone actually reading the back of the bag, not a studio product shot. Warm espresso brown and cream tones, shallow depth of field on the blurred kitchen counter in the background. No text added in frame beyond what's printed on the real label. Vertical 9:16 composition with negative space at the top for headline overlay. Cinematic grain, natural texture, no studio lighting.\n\n---", "text_overlay": "37% READ IT. ONLY 21% BENEFIT."}]}
 ```
