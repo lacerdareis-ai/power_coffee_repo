@@ -1,0 +1,241 @@
+{
+  "week": "2026-W31",
+  "status": "pending",
+  "approved": false,
+  "vlog_arc": {
+    "theme": "Consistency is the product — showing up when the system is still being built",
+    "beats": {
+      "mon": "Leo opens the week at 5am, formula in hand, and says directly to camera: this week I'm not chasing a viral moment — I'm proving that the system works when I show up anyway.",
+      "tue": "Leo shares one operational gap from last week that suppressed reach, names exactly what broke, and explains the fix he put in place this morning before the kids woke up.",
+      "wed": "Leo films himself reviewing a real customer message — reads it aloud, pauses, and talks about what it means to build something that actually changes someone's afternoon.",
+      "thu": "Leo walks through the ingredient shortlist decision for the next formula iteration — not a pitch, just a founder thinking out loud about why he cut one adaptogen he loved.",
+      "fri": "Leo closes his laptop at 4pm, picks up Gabriel and Helena, and tells camera: the goal was to be present at 4pm — the formula and the system both have to earn that.",
+      "sat": "Leo films a quiet Saturday morning training session, no music, no voiceover cuts, just him moving and then sitting down with a cup — letting the routine speak for itself.",
+      "sun": "Leo looks at next week's plan, names the one thing he is most uncertain about, and says: I'm publishing it anyway — building in public means the uncertainty ships too."
+    }
+  },
+  "channels": {
+    "ig": [
+      {
+        "pillar": "belief_shifting",
+        "title": "Your 3pm slump isn't laziness",
+        "angle": "Hook: you blame yourself every afternoon — payoff: reveal it's a blood-sugar architecture problem that functional coffee addresses before noon.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Day 1 skeptic. Day 7 convert.",
+        "angle": "Mirror the buyer's resistance arc beat by beat — skepticism on day one is validated, then resolved by day seven with a real customer quote and timestamp.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Two hours before the world wakes",
+        "angle": "Leo's 5am window — Ironman training, formula in hand, kids still asleep — shows what sustainable output actually looks like before the workday starts.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Why functional coffee beats a stack",
+        "angle": "Frame Power Coffee against the four-supplement morning ritual: same cognitive targets, one cup, a fraction of the cost per day — let the math close it.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "The tree that survived a nuclear blast",
+        "angle": "Lead with the Ginkgo biloba Hiroshima survival claim, hold the ingredient name until slide two, then connect its mechanism to the 11am fog your reader feels right now.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "x": [
+      {
+        "pillar": "belief_shifting",
+        "title": "Energy drinks sell volts. We sell clarity.",
+        "angle": "One sharp declarative that separates stimulant-spike culture from sustained cognitive output — positions Power Coffee without naming a competitor.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The functional coffee ingredient decision framework",
+        "angle": "A five-point thread Leo uses internally to decide which adaptogens earn a place in the formula — teaches the audience how to read any product label.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "I built this for the dad at hour ten",
+        "angle": "Declarative confession: Leo was losing the evening with his kids because caffeine crashed him by 4pm — the formula was a parenting solution before it was a product.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "$0.73 a morning. Real focus. No crash.",
+        "angle": "Price-math post that dismantles the premium objection by putting it next to the daily latte spend and a concrete cognitive output claim.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "More caffeine is not the answer",
+        "angle": "Reframe the cultural default — the crash is not a dosage problem, it's an ingredient architecture problem — and let the tension do the selling.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "li": [
+      {
+        "pillar": "pessoal",
+        "title": "I spent two years getting this wrong",
+        "angle": "Leo narrates the formulation failure arc — the blends that didn't work, what he learned from each iteration — because founder-narrated ingredient science drives 2x engagement on LinkedIn.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "How to read a functional coffee label",
+        "angle": "A practical framework post — five questions every founder or exec should ask before choosing a functional product — positions Leo as the category educator, not just a seller.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "The supplement stack is a UX problem",
+        "angle": "Reframe for the LinkedIn professional: managing five morning capsules is friction that compounds over time — one functional cup is a systems decision, not a health trend.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "A review stopped me mid-scroll",
+        "angle": "Open with a verbatim customer moment, unpack what specifically shifted for that buyer on day three, and connect it to the formulation decision that made it possible.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Why I co-created this formula with AI",
+        "angle": "Radical transparency post — Leo names the AI-assisted R&D process, refuses to apologize for it, and explains why it produced a more rigorous ingredient selection than traditional CPG.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "tg": [
+      {
+        "pillar": "pessoal",
+        "title": "Behind the week: what didn't ship",
+        "angle": "Leo shares one thing that failed in operations this week and what the fix looks like — radical transparency with the inner circle builds trust that no ad copy can manufacture.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "This week's numbers, unfiltered",
+        "angle": "Raw weekly metrics — reach, engagement rate, conversion — shared with context so the community understands what growth actually looks like at this stage.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Why I stopped optimizing copy first",
+        "angle": "Structural insight: consistent publishing outperforms brilliant copy when the pipeline has gaps — the lesson Leo is building the business around this quarter.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The adaptogens shortlist: what made the cut",
+        "angle": "Inside-channel exclusive — Leo walks through the three adaptogens that almost made the formula and why each was cut, teaching ingredient evaluation in real time.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "430 mornings. What I actually notice.",
+        "angle": "Specific, unmarketed personal data — the cognitive and physical patterns Leo has observed across 430 consecutive mornings with the formula, no claims, just observed patterns.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "blog": [
+      {
+        "pillar": "autoridade",
+        "title": "Functional coffee vs energy drinks: a clear breakdown",
+        "angle": "A definitive, SEO-anchored comparison that teaches the mechanism differences — stimulant spike vs adaptive output — and lets the science make the argument for switching.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Why Ginkgo biloba survived Hiroshima and your 11am",
+        "angle": "Lead with the historical survival claim, build to the neuroprotective mechanism, close with how it addresses the afternoon cognitive dip most professionals accept as normal.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Blood sugar is running your mornings, not caffeine",
+        "angle": "Reframe post: the crash is not a caffeine withdrawal problem — it is a glycemic architecture problem — and functional ingredients are the structural fix, not more espresso.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Building in public: Leo's formulation failure log",
+        "angle": "A candid narrative of the two-year formulation journey — the blends that failed, the pivot moments, the family stakes — showing the product as the output of real sacrifice.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "How to evaluate any functional coffee product",
+        "angle": "An evergreen buyer's framework — five criteria Leo uses — that educates the reader, builds category authority, and filters for the buyer who is ready for Power Coffee.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "em": [
+      {
+        "pillar": "prova",
+        "title": "Day 1 skeptical. Day 3 something shifted.",
+        "angle": "Open with the buyer resistance arc as the subject line payoff, use a real customer quote with a timeline, and close with a low-friction entry offer for first-time buyers.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Your afternoon crash has a different cause",
+        "angle": "Reframe email that names the blood-sugar mechanism behind the 3pm dip, positions the formula as the architectural fix, and creates urgency without discount dependency.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "What I told my kids I was building",
+        "angle": "A personal story email — the moment Leo explained Power Coffee to Gabriel and Helena — that grounds the brand in family stakes and makes the mission feel human.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The $0.73 morning: a cost-per-focus analysis",
+        "angle": "Price-math email that walks through the daily cost comparison against lattes and supplement stacks, framing Power Coffee as the highest-ROI cognitive tool in a founder's morning.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "We took Power Coffee to a real event",
+        "angle": "Recap email from the StartupCPG sampling moment — real faces, real reactions, real-time proof — that signals community authority and invites the reader into the growing movement.",
+        "selected": false,
+        "is_theme": false
+      }
+    ]
+  }
+}
