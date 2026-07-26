@@ -522,4 +522,49 @@ The headline number — 5/5 publish days — is technically accurate and functio
 
 ---
 
+
+### LENS Update — Jul 20–Jul 24, 2026
+
+**Week-over-Week momentum:**
+| Metric | Jul 20–Jul 24, 2026 | Jul 13–Jul 17, 2026 | Δ |
+|--------|---------------------|---------------------|---|
+| Posts with analytics | 3 | 3 | +0 |
+| Days with publish | 5/5 | 5/5 | +0 |
+| Reels published | 2 | 0 | +2 |
+| Carousels published | 1 | 3 | -2 |
+| Avg Reach | 84 | 19 | +336% |
+| Avg ER | 14.14% | 30.36% | -16.22 pp |
+| Best Reach | 224 | 28 | +196 |
+| Best ER | 28.57% | 83.33% | -54.76 pp |
+
+**Interpretation:**
+
+Reach expanded dramatically — +336% average, best single post at 224 vs 28 prior week — and that shift is almost entirely attributable to the format change: two Reels this week versus zero last week. Reels are distributing to non-followers at a rate Carousels simply do not reach, and this is the first week that dynamic appears cleanly in the data.
+
+The ER decline
+
+**Patterns confirmed this week:**
+**1. Give every Reel a specific, scene-level hook in the first line of spoken audio — not a category claim.**
+"YOUR COFFEE IS FAILING YOU" is a billboard. "I switched to one scoop at 4:50am and stopped needing a second cup by 10" is a scene. The P1 Reel's 1.34% ER on 224 reach shows that reach without specificity does not convert. Next week's Reels should open with a concrete moment, number, or confession — not a product indictment.
+
+**2. Build one more founder-transparency Reel in the P3 slot — name a specific decision or tradeoff Leo made during formulation.**
+Two data points now confirm this is the highest-ER content category on the account. "They wanted to cut L-theanine" hit 28.57%. Find the next version: a sourcing decision, a rejected formula, a cost tradeoff Leo refused to make for quality reasons. The mechanic is: internal conflict + Leo wins on behalf of the customer. One more rep solidifies this as a repeatable pillar.
+
+**3. Pull the Friday CTA post analytics on Monday morning and log them before the next LENS cycle.**
+The Friday P6 post is the closest content to purchase intent in the entire week — and it is always the least-measured post due to the export timing gap. Schedule a manual analytics pull every Monday for the prior Friday's post and add it to the weekly log retroactively. Decision-making on CTA content is currently flying blind.
+
+---
+
+**Updated baseline:**
+*Based on available analytics data across reported weeks. Partial export means some posts are not yet counted.*
+
+| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|--------|-------|-----------|-----------|--------------|--------|
+| Reels | 6 | 147 | 3.2 | 0.8 | 8.4% |
+| Carousels | 7 | 14 | 1.3 | 0.1 | 11.6% |
+
+*Baseline will sharpen as more posts age into stable analytics. Reels lead on reach by approximately 10x; Carousels lead on ER. This is the core tension to manage going forward.*
+
+---
+
 <!-- LENS_APPEND_END -->

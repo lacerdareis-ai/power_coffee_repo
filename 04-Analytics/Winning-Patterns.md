@@ -36,6 +36,8 @@
 |---------|---------|--------------|------------|
 | Adversarial product framing as hook | "YOUR COFFEE IS LYING TO YOU" — Jul 6 Reel, 161 reach, 11.18% ER in 2 days | Positions the viewer's current behavior as a mistake they didn't know they were making. Creates immediate identity threat + curiosity gap without mentioning Power Coffee. Draws viewer in to resolve the dissonance. | Jul 6, 2026 |
 | Pain-first ingredient lead without naming ingredient | "Your coffee has caffeine. That's it. Here's what it's missing." — Jul 7 Carousel | Confirms the viewer's existing knowledge (caffeine — true), then opens a gap ("that's it") without naming the solution yet. Follows pain-first pattern but delays the ingredient reveal longer, increasing scroll-through to Slide 2. | Jul 7, 2026 |
+| Formulation defense hook | "They wanted to cut L-theanine from the formula. Said most people wouldn't notice." | Names an internal corporate pressure, implies Leo fought back on the customer's behalf, and creates instant credibility without any product claim. Drove 28.57% ER — highest this week. Mechanic: expose a decision that cost something, frame founder as protector. | Jul 22, 2026 |
+| Present-tense problem hook on Reels drives cold-audience reach | "Three coffees and still running on empty by noon" → 224 reach (best of week, +196 vs prior best) | Confirms that present-tense self-diagnostic hooks, previously validated on static posts, also generate Reel distribution to non-followers. Same pain-first mechanic, now confirmed cross-format. | Jul 20, 2026 |
 ### Template entries:
 - **Price anchor hook:** "$0.73 vs $5.75" — comparison to daily coffee shop spend
 - **Problem-first hook:** "Your coffee is failing you by 2pm" — names the pain immediately
@@ -113,6 +115,7 @@
 | Week 6 (Jun 15–Jun 19, 2026) | — | — | — | — | Reels 15x reach over carousels; adenosine hook strongest signal; 2 dry-run days + Instagram failures cost distribution |
 | Week 7 (Jun 29–Jul 3, 2026) | — | — | — | — | 5/5 publish days; P3 Reel (610 days) top ER; reach down 80% (recency effect); WhatsApp broken all week |
 | Week 8 (Jul 6–Jul 10, 2026) | — | — | — | — | 1 post with data; pipeline failed 4/5 days; P1 Reel 161 reach 11.18% ER; fix platform flags before Mon |
+| Week 10 (Jul 20–Jul 24, 2026) | — | — | — | — | Reels lifted reach 336%; P3 founder-defense Reel top ER (28.57%); Shopify data absent |
 
 ---
 
