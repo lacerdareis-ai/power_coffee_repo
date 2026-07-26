@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -23,8 +23,8 @@
 *On-screen text overlays:* "2pm wall → another cup → can't sleep" → "Missing: protein, taurine, matcha" → "Same ritual. Better formula."
 
 **CTA (final 5s):**
-*Spoken:* "Link in bio. Try it for one week. Then tell me I'm wrong."
-*On-screen text:* LINK IN BIO — 1 WEEK TRIAL
+*Spoken:* "Head to thepowercoffee.com. Try it for one week. Then tell me I'm wrong."
+*On-screen text:* THEPOWERCOFFEE.COM — 1 WEEK TRIAL
 
 **Engagement Prompt:**
 "How many coffees are you drinking just to get through the day? Drop a number below 👇"
@@ -45,7 +45,7 @@ That's what's inside every scoop of Power Coffee.
 
 Same morning ritual. 11 ingredients. No crash.
 
-Link in bio — try it for 7 days.
+thepowercoffee.com — try it for 7 days.
 
 ---
 
