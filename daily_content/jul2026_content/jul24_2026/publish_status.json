@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-24",
+  "platforms": {
+    "x": {
+      "status": "ok",
+      "at": "2026-07-24 04:00",
+      "reason": "backfilled: noon dedup guard proves 4am ok"
+    },
+    "telegram": {
+      "status": "ok",
+      "at": "2026-07-24 04:00",
+      "reason": "backfilled: noon dedup guard proves 4am ok"
+    },
+    "linkedin": {
+      "status": "ok",
+      "at": "2026-07-24 04:00",
+      "reason": "backfilled: noon dedup guard proves 4am ok"
+    },
+    "instagram": {
+      "status": "ok",
+      "at": "2026-07-24 12:00"
+    }
+  }
+}

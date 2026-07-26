@@ -74,3 +74,6 @@
 ## 2026-07-19 self-review
 - ⚠️ `weekly_plan` — 1 errs, last run 57.0h ago
 - 📄 `market.md` stale (51d) — refresh
+
+## 2026-07-26 self-review
+- 📄 `market.md` stale (58d) — refresh

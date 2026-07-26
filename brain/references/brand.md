@@ -437,4 +437,25 @@ The two posts with the highest real reach and ER are both rooted in proof — ei
 
 ---
 
+
+### LENS Update — Jul 20–Jul 24, 2026
+
+**Audience insights this week:**
+**1. Reels are the reach engine — the data is now unambiguous.**
+Average reach jumped 336% week-over-week and the direct cause is the shift from 0 Reels to 2 Reels. The P1 Reel alone (224 reach) delivered more total reach than the entire prior week combined. If the goal is growing the top of the funnel, Reels are the only format doing that work right now.
+
+**2. Founder-proof + radical transparency is the highest-ER content category.**
+The P3 Reel's 28.57% ER reinforces what May 28 established. "They wanted to cut the ingredient — I refused" is a more sophisticated version of "I'm not hiding it." Both expose a decision, name a tension, and frame Leo as protecting the customer. This pattern now has two data points across different contexts. It is repeatable.
+
+**3. Present-tense problem hooks are driving Reel distribution.**
+"Three coffees and still running on empty by noon" follows the logged pattern (May 2026: "Two cups in. Still foggy." — #4 all-time). Both put the viewer inside their own pain immediately. The Jul 20 Reel found 224 people with that hook. The pattern is confirmed across months and formats.
+
+**4. Pipeline consistency is holding at 5/5 — this is underrated.**
+Two consecutive weeks of 5/5 publish days means the content machine is not the bottleneck. The gap is now entirely in distribution (platform reach) and engagement quality (hook-to-watch-time conversion). That is a better problem to have than missed publish days.
+
+**5. The P2 Carousel ER (12.50%) held reasonably on very low reach.**
+At 8 reach, this is too small a sample to draw conclusions, but it did not zero out. The "2pm crash isn't a willpower problem" framing is closer to pain-first than ingredient-first — consistent with the logged pattern that pain leads outperform ingredient leads.
+
+---
+
 <!-- LENS_APPEND_END -->

@@ -23,22 +23,24 @@ Poll — "Do you have a morning ritual?" · YES, locked in / Still building it
 ---
 
 ### Caption
-Day 1 of this routine felt like a experiment.
+They wanted to cut L-theanine from the formula. Said most people wouldn't notice.
 
-Day 300 feels like armor.
+I would've noticed. Give it a week without it and you would too.
 
-Every morning. Same scoop. Same mug. Same decision to show up before the world asks anything of me.
+L-theanine is why Power Coffee doesn't spike and crash. It pairs with the matcha caffeine, stretches the energy out, and kills the jitters and the 2pm wall.
 
-That's what Power Coffee became — not just a product, but the first win.
+Cutting it would've saved us money on every batch. It also would've made the product worse.
 
-Built it for me. Turns out a lot of you needed it too.
+This week: 4:50am starts, two-a-days on Tuesday, still running the company. I'm tired. The formula still works. I'm proof of that every morning.
 
-Link in bio to start yours.
+We don't cut ingredients to protect margin. We protect the product first.
+
+thepowercoffee.com
 
 ---
 
 ### Hashtags
-#powercoffee #thefirstwin #morningritual #founderstory #cleanenergy #functionalcoffee #ironmantraining #biohacking #disciplineiseverything #morningroutine #performancecoffee #buildingpublicly
+#powercoffee #founderproof #ltheanine #cleanenergy #functionalcoffee #nojitters #realingredients #formulafirst #founderstory #buildingpublicly
 
 ---
 
@@ -198,54 +200,44 @@ Pre-dawn kitchen scene, 4:50am atmosphere. A man's hands in the foreground scoop
 
 ---
 
-## REELS — Founder Vlog Script
+## REELS — Founder Vlog (as recorded)
 **Series:** Building Power Coffee — Ep. 3
-**Beat:** The cost of the morning ritual — what consistency actually required to build both the company and the training block at the same time
-**Title formula:** 300 mornings in | What the early wake-up actually costs
-**Duration:** 30–45s · **Setting:** Kitchen counter, early morning, mug in frame, soft lamp light only — handheld feel, slightly low angle, talking directly to phone propped against something
+**Beat:** Defending the formula — the ingredient we refused to cut when a cost-saving call would have gone unnoticed
+**Title formula:** They wanted to cut this ingredient | I said no
+**Format:** ~45s, five-beat AI-avatar founder read. On-screen word per beat over lab/factory/product cutaways: THEY → DIFFERENT → SAVED → EVERY → PRODUCT
+**Note:** Video file already recorded (`instagram.mp4`). This section documents what's actually in it — do not re-film against the old "300 mornings" brief above.
 
 ---
 
-**HOOK (0–3s, text on screen + spoken):**
-"I haven't missed a morning in 300 days. Here's what that actually cost me."
+**TRANSCRIPT (as recorded, via audio transcription):**
+"They wanted to drop all L-theanine from the formula. Said most customers wouldn't notice.
+
+I would notice. And after a week without it, so would you.
+
+L-theanine is what makes the caffeine in Power Coffee feel different from your regular cup. It's the reason there's no jitter, no 2pm wall. It pairs with the matcha caffeine and extends the energy window.
+
+Removing it would have saved us money. It also would have made the product mediocre.
+
+I've been up at 4:50 every morning this week for training, two-a-days on Tuesday. I'm tired. But the formula works. I'm living proof of that every single day.
+
+We're not cutting ingredients to protect margin. We're protecting the product first."
 
 ---
 
-**BODY (speak exactly this):**
-"People see the 4:50am and think it's discipline. It's not. It's math.
-
-I had training. I had a company to build. I had a family. There was no time slot that wasn't someone else's — except before 5am.
-
-So I protected it. Same scoop in the same mug. Same 15 minutes before anyone needed me.
-
-What it cost me: sleep debt in the early months. Social events I skipped. A lot of meals I didn't enjoy because I was too tired to care.
-
-What it gave me: two Ironman training blocks completed. Three hundred days of shipping work I'm proud of.
-
-I built Power Coffee inside that routine. Not as a product I wanted to sell — as a problem I needed to solve.
-
-The formula had to work at 4:50am when nothing else was going right. Still does."
-
----
-
-**CTA (last 5s):**
-"Follow the build. Drop a question below — I read all of them."
-
----
-
-**B-ROLL:** Hands scooping powder into mug under lamp light, running shoes by the front door at dark, phone screen showing 4:50am alarm going off on a nightstand
+**ON-SCREEN TEXT (per beat):**
+- "THEY" — laptop/typing shot
+- "DIFFERENT" — product bag + coffee mug shot
+- "SAVED" — factory/tablet shot
+- "EVERY" — drinking shot
+- "PRODUCT" — bag on display cube, arms crossed
 
 **CAPTION:**
-300 mornings. Same routine. Same scoop before 5am.
-I didn't build discipline — I built a system simple enough to survive the hard weeks.
-This is what it actually looks like from the inside.
-#powercoffee #buildingpublicly #founderstory #morningritual #thefirstwin
+They wanted to cut L-theanine from the formula. Said most people wouldn't notice.
+I would've noticed. So would you.
+Cutting it would've saved us money. It also would've made the product worse.
+We protect the product first.
+#powercoffee #founderproof #ltheanine #realingredients
 Ep. 3 — Building Power Coffee
-
-**ON-SCREEN TEXT:**
-- [0:00] "300 mornings. No breaks."
-- [0:12] "Training + company building at the same time"
-- [0:32] "The formula had to work at 4:50am"
 
 ---
 
