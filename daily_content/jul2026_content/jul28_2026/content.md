@@ -1,174 +1,147 @@
 # Power Coffee — Content for July 28, 2026
-**Pillar:** P2 — INGREDIENT SCIENCE | **Day:** Tuesday | **Image set:** A3 or C1
+**Pillar:** RETAIL PARTNER INVITE (B2B ad creative) | **Day:** Tuesday | **Image set:** New — wholesale invite
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
 ## INSTAGRAM
 ### Carousel Copy
+**Audience note:** This carousel is a B2B ad asset for local market / general store / farm-stand owners (Cape Cod & Martha's Vineyard first) — not the usual consumer feed audience. See `growth_playbooks/instagram_retail_engagement.md` for the target list.
 
 **Slide 1:**
-**Your coffee has one ingredient doing all the work.**
-Here's what the other 10 are for.
+**You don't carry what regular markets carry.**
+That's exactly why Power Coffee belongs on your shelf, not theirs.
 
 **Slide 2:**
-**Meet L-Theanine.**
-It's not caffeine. It doesn't stimulate you.
-It *shapes* how caffeine hits your brain.
-Found naturally in green tea — and in every scoop of Power Coffee.
+**Meet Power Coffee.**
+A one-scoop add-in, not a new SKU to explain.
+11 functional ingredients, 175mg clean caffeine, 5g protein. Made in the USA.
 
 **Slide 3:**
-**Here's what it actually does.**
-L-theanine promotes alpha brain waves — the same state your brain enters during focused, calm work.
-Less noise. More signal.
-No drowsiness.
+**Same customers you already have.**
+Farm-stand and general-store shoppers already choose quality over convenience.
+This is the product they're looking for and can't find at the chain store.
 
 **Slide 4:**
-**Caffeine alone = sharp spike, sharp drop.**
-Caffeine + L-theanine = smooth ramp up, sustained plateau, clean landing.
-This is why matcha focus feels different from espresso focus.
-One is a sprint. The other is a pace.
+**Why trust it.**
+4.9 stars from 112+ verified buyers. Made in the USA.
+Built and run by a local founder — not a private-label import.
 
 **Slide 5:**
-**The research backs it.**
-Studies show the combination improves attention, reaction time, and working memory more than caffeine alone.
-The dose matters. We put it in at the right level — not as a token inclusion.
+**Store owner!? Try it before you decide anything.**
+We send a free sample box.
+If your customers like it, we talk terms. If not, no hard feelings.
 
 **Slide 6:**
-**Every scoop of Power Coffee contains L-theanine alongside 10 other functional ingredients.**
-Not hidden in a proprietary blend.
-Not listed last on the label.
-Built to work.
-
-**Slide 7:**
-**Want clean energy that actually lasts?**
-Start here.
-@powercoffee.ofc
-thepowercoffee.com/pages/betterday
+**Let's put Power Coffee on your counter.**
+DM @powercoffee.ofc or email info@thepowercoffee.com for a free sample box.
 
 ---
 
 ### Caption
-Your coffee is fighting against itself.
+Local market and general store owners — you already carry what regular markets don't. Power Coffee belongs on that same shelf.
 
-Caffeine spikes you. Then drops you.
-L-theanine is the ingredient that changes the shape of that curve.
+It's a one-scoop add-in: 11 functional ingredients, 175mg clean caffeine, 5g protein. Made in the USA. 4.9 stars from 112+ verified buyers.
 
-This is the science behind why Power Coffee hits different — and why the formula was built around combinations, not just doses.
+We start every store on consignment — no upfront order, no inventory risk. We send a free sample box and let your customers decide.
 
-Save this. Your morning routine is about to make more sense.
-
-Link in bio → thepowercoffee.com/pages/betterday
+DM us or email info@thepowercoffee.com to get it on your shelf.
 
 ---
 
 ### Hashtags
-#functionalcoffee #cleancaffeine #ltheanine #morningroutine #brainhealth #biohacking #powercoffee #thefirstwin #focusfuel #cleanenergy
+#capecodbusiness #generalstore #localmarket #farmstand #retailpartner #smallbusiness #wholesalecoffee #madeinusa #capecod #marthasvineyard
 
 ---
 
 ## X.COM
 ### Post
-Caffeine without L-theanine is a sprint with no finish line. Add it in the right ratio and the same 175mg becomes 4 hours of clean, directed focus. This is why formula matters.
+Run a local market or general store? Your shelf already skips the ordinary stuff. Power Coffee belongs there too — 4.9 stars, made in the USA, no-inventory-risk consignment to start. DM us for a free sample box.
 
 ---
 
 ### Thread
 
 **Post 1:**
-Caffeine is not the problem. The problem is caffeine with nothing managing it.
+If you run a local market or general store, this is for you. We want Power Coffee on your shelf — and we're going to make that an easy decision.
 
 **Post 2:**
-L-theanine is an amino acid found in green tea. It crosses the blood-brain barrier and promotes alpha wave activity — the brainwave state associated with focused calm. Not sleepy. Not wired. Dialed in.
+Power Coffee is a one-scoop add-in: 11 functional ingredients, 175mg clean caffeine, 5g protein, made in the USA. Not a new drink to explain to customers — just a better version of the coffee they already make.
 
 **Post 3:**
-A double-blind study published in Nutritional Neuroscience found that caffeine + L-theanine outperformed caffeine alone on attention, reaction time, and task accuracy. The combo does what neither does alone.
+4.9 stars from 112+ verified buyers. Built and run by a local founder, not a private-label import. Your customers already choose quality over convenience — that's exactly who this is for.
 
 **Post 4:**
-Most energy products load you with caffeine and call it a formula. We built Power Coffee around combinations — caffeine and L-theanine is one of 11 ingredient relationships we engineered to work together.
+Here's how it works: every store starts on consignment. No upfront order, no inventory risk, no pitch call required. We send a free sample box and let your customers decide.
 
 **Post 5:**
-If your coffee still has you crashing by 2pm, the issue isn't the caffeine amount. It's what's missing. Full ingredient breakdown at [thepowercoffee.com/pages/betterday]
+If that sounds like your shelf, DM us or email info@thepowercoffee.com.
 
 ---
 
 ## LINKEDIN
 ### Post
 
-Most people think caffeine is the active ingredient in their morning.
+We're inviting local markets and general stores to carry Power Coffee.
 
-It is. But it's also the problem.
+Not through a distributor. Directly.
 
-Caffeine alone spikes cortisol, creates a fast energy curve, and drops you somewhere between 10am and noon. You've felt this.
+Most stores like this already carry what the big chains don't — the honey without a corporate label, the coffee beans from a roaster three towns over. That's the shelf Power Coffee belongs on.
 
-L-theanine changes the shape of that curve.
+Here's how we're doing it: every store starts on consignment. No upfront order, no inventory risk. We send a free sample box, the store puts it out, and the customers decide.
 
-It's an amino acid found in green tea. It promotes alpha brain wave activity — the mental state associated with focused, alert calm.
+4.9 stars from 112+ verified buyers. Made in the USA. Built and run by a local founder, not a private-label import.
 
-Paired with caffeine at the right ratio, the research shows improved attention, sustained reaction time, and reduced task-switching errors. Not theoretical. Measured in controlled studies.
+If you own or know a store like this — a farm stand, a general store, a specialty market — I'd like to talk.
 
-When I was building the Power Coffee formula, this was one of the first combinations I investigated. It wasn't a trend ingredient. It was a mechanism.
-
-The difference between a supplement that works and one that gets returned is usually this: was it built around mechanisms, or marketing?
-
-What's the most underrated ingredient you've seen backed by real research?
+What's the best local store near you that still does things the old way?
 
 ---
 
 ## TELEGRAM
 ### Message
 
-Quick one for today — do you know why matcha focus feels different from regular coffee focus?
+Quick ask today — do you know a local market, general store, or farm stand that would carry Power Coffee?
 
-It's L-theanine. An amino acid that works *with* caffeine to smooth the energy curve and boost alpha brain waves — the state you're in during deep, clean work.
+We're inviting stores to stock it on consignment: no upfront order, no risk, just a free sample box to start.
 
-It's one of the reasons we built Power Coffee the way we did. Not just more caffeine. Better caffeine.
-
-Full breakdown just went live on Instagram if you want the science. Slide 3 is the one to save.
+If you've got a favorite local spot in mind, send them our way — DM @powercoffee.ofc or email info@thepowercoffee.com.
 
 ---
 
 ## SHOPIFY BLOG
 ### Title
-L-Theanine and Caffeine: Why This Combination Changes How Your Morning Coffee Hits
+Now Inviting Local Stores to Carry Power Coffee
 
 ### Body
 
-## What L-Theanine Actually Does
+## We're Looking for the Right Shelves
 
-Most people know caffeine. Very few know what's missing from it.
+Power Coffee started as a one-scoop add-in for people who take their mornings seriously. Now we're ready for the next step: getting it onto the shelves of local markets, general stores, and farm stands — the places that already carry what the chain stores don't.
 
-L-theanine is an amino acid found naturally in green tea leaves. It crosses the blood-brain barrier and promotes alpha wave activity in the brain — the same mental state associated with alert focus, reduced mental noise, and calm clarity. It doesn't sedate you. It doesn't stimulate you. It *shapes* how stimulation lands.
+## Why This, and Why Now
 
-On its own, it's subtle. Paired with caffeine, it becomes one of the most well-documented combinations in cognitive nutrition research.
+If you run a store like this, your customers already choose quality over convenience. They read labels. They ask where things are made. Power Coffee fits that shelf: 11 functional ingredients, 175mg of clean caffeine, 5 grams of protein, made in the USA — not a new drink to explain, just a better version of the coffee they're already making at home.
 
-## The Research Behind the Stack
+## How It Works
 
-A double-blind, placebo-controlled study published in *Nutritional Neuroscience* found that the combination of caffeine and L-theanine outperformed caffeine alone on measures of attention, reaction time, and working memory accuracy. Participants reported less mental fatigue and greater sustained focus across cognitive tasks.
+We start every store on consignment. That means no upfront order and no inventory risk on your end. We send a free sample box, you put it out, and your customers decide whether it's a fit. If it is, we talk terms. If it's not, no hard feelings.
 
-The mechanism is straightforward. Caffeine blocks adenosine receptors to reduce fatigue signals. L-theanine increases GABA activity and promotes alpha wave production — reducing the overstimulation and cortisol spike that makes standard coffee feel anxious or jittery.
+## Who We're Looking For
 
-## Why Most Coffees Don't Include It
+Local markets, general stores, farm stands, and specialty shops — particularly on Cape Cod and Martha's Vineyard to start. If that's you, or you know someone who runs a store like this, we'd like to hear from you.
 
-Because it costs more. Because it requires sourcing a second ingredient. Because a brand has to commit to a specific dose for the combination to work — not just list it on a label for marketing purposes.
+## Get in Touch
 
-Token inclusion is common in the supplement industry. Effective dosing is not.
-
-## What This Means for Your Morning
-
-If your current coffee routine still leaves you crashing before lunch, it's worth asking: what's in it beyond caffeine?
-
-Power Coffee was formulated around functional combinations like this — 11 ingredients working together, not in isolation. L-theanine is one of them, dosed to interact with the 175mg of caffeine per scoop.
-
-Explore the full formula at [thepowercoffee.com/pages/betterday] and see what a built coffee actually looks like.
+Email info@thepowercoffee.com or DM @powercoffee.ofc to request a free sample box. No pitch call required.
 
 ---
 
 ### Image Prompt
-A close-up of two ceramic mugs side by side on a worn wooden kitchen counter — one filled with dark black coffee, one with a slightly lighter, golden-toned brew. A single green tea leaf rests near the second mug. Warm morning window light from the left. Shallow depth of field, soft bokeh background of a lived-in kitchen. Muted cream, espresso brown, and gold tones. No text in frame. No product packaging. 4:5 portrait orientation.
+A rustic wooden general-store shelf inside a small local market, shot straight-on with minimal perspective. A stand-up pouch of Power Coffee sits on an open section of the shelf next to jars of local honey and jam, with bagged coffee beans visible in the softly blurred background. Warm interior lighting. Authentic, unstaged retail photography feel. No people in frame. Warm wood tones, cream, and espresso brown. 4:5 portrait orientation.
 
 ---
 
@@ -290,46 +263,45 @@ const GAP = 60;
 const SLIDES = [{
   id: 1,
   slideType: "hook",
-  overline: "POWER COFFEE",
-  headline: "Your coffee has\none ingredient\ndoing all the work.",
-  subtext: "Here's what the other 10 are for.",
+  overline: "FOR LOCAL MARKETS & GENERAL STORES",
+  headline: "You don't carry\nwhat regular\nmarkets carry.",
+  subtext: "That's exactly why Power Coffee belongs on your shelf, not theirs.",
   accent: "BROWN",
   bg: "BLACK",
   textColor: "CREAM"
 }, {
   id: 2,
   slideType: "teach",
-  overline: "INGREDIENT SCIENCE",
-  headline: "Meet\nL-Theanine.",
-  subtext: "It doesn't stimulate you  -  it shapes how caffeine hits your brain. Found naturally in green tea, and in every scoop of Power Coffee.",
+  overline: "MEET POWER COFFEE",
+  headline: "A one-scoop\nadd-in. Not a\nnew SKU to\nexplain.",
+  subtext: "11 functional ingredients, 175mg clean caffeine, 5g protein. Made in the USA.",
   accent: "BROWN_L",
   bg: "BLACK",
   textColor: "CREAM"
 }, {
   id: 3,
   slideType: "teach",
-  overline: "WHAT IT DOES",
-  headline: "Alpha brain waves.\nLess noise.\nMore signal.",
-  subtext: "L-theanine promotes the same calm, focused state your brain enters during deep work. No drowsiness. No crash.",
+  overline: "WHY IT FITS YOUR SHELF",
+  headline: "Same customers\nyou already have.",
+  subtext: "Farm-stand and general-store shoppers already choose quality over convenience. This is the product they're looking for and can't find at the chain store.",
   accent: "BROWN_L",
   bg: "BLACK",
   textColor: "CREAM"
 }, {
   id: 4,
   slideType: "teach",
-  overline: "THE DIFFERENCE",
-  headline: "Caffeine alone\nis a sprint.\nThis is\na pace.",
-  subtext: "Caffeine + L-theanine means a smooth ramp up, sustained plateau, and clean landing. It's why matcha focus feels different from espresso focus.",
-  pills: ["L-THEANINE", "SMOOTH ENERGY", "NO CRASH"],
+  overline: "WHY TRUST IT",
+  headline: "4.9 stars.\n112+ reviews.\nMade in the USA.",
+  subtext: "Built and run by a local founder — not a private-label import.",
   accent: "BROWN_L",
   bg: "BLACK",
   textColor: "CREAM"
 }, {
   id: 5,
   slideType: "teach",
-  overline: "THE RESEARCH",
-  headline: "Better attention.\nFaster reaction.\nStronger memory.",
-  subtext: "Studies show the caffeine + L-theanine combination outperforms caffeine alone. We dosed it at the right level  -  not as a token inclusion.",
+  overline: "HOW IT WORKS",
+  headline: "Try it before\nyou decide\nanything.",
+  subtext: "We send a free sample box. If your customers like it, we talk terms. If not, no hard feelings.",
   accent: "BROWN_L",
   bg: "BLACK",
   textColor: "CREAM"
@@ -337,9 +309,9 @@ const SLIDES = [{
   id: 6,
   slideType: "cta",
   isCTA: true,
-  overline: "START HERE",
-  headline: "Clean energy\nthat actually\nlasts.",
-  subtext: "@powercoffee.ofc\nthepowercoffee.com/pages/betterday",
+  overline: "BECOME A STOCKIST",
+  headline: "Let's put Power\nCoffee on your\ncounter.",
+  subtext: "DM @powercoffee.ofc or email info@thepowercoffee.com",
   accent: "CREAM",
   bg: "BROWN",
   textColor: "WHITE"
