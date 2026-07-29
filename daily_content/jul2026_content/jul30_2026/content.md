@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -21,22 +21,19 @@ REAL PEOPLE. REAL RESULTS.
 ---
 
 ### Caption
-They tried it skeptical.
-
-They came back converted.
-
-Every review we get says the same thing:
 "I didn't expect it to actually work."
 
-Clean energy. No crash. No jitters.
-Just a better morning — every morning.
+That's the review we get most. The second most common one?
 
-Real people. Real results. No smoke, no mirrors.
+"The 2pm crash just… stopped."
 
-Drop a ⚡ below if you want to see more reviews like this.
-Or DM us — we'll send you one to try.
+People come in skeptical — most have been burned by supplements that overpromise and do nothing by week one. Then a few mornings go by, and the wall that used to hit mid-afternoon doesn't show up. No jitters. No third cup to get through the day.
 
-Link in bio → thepowercoffee.com
+Not "life-changing." Just specific, honest, and a little surprised. That's the kind of feedback you can't fake.
+
+Drop a ⚡ if you want to see more, or DM us and we'll send you one to try.
+
+→ thepowercoffee.com
 
 ---
 
@@ -187,7 +184,7 @@ Try Power Coffee for one week. Keep everything else the same. Then pay attention
 ---
 
 ### Image Prompt
-A close-up of two hands wrapped around a dark ceramic mug on a wooden table, steam rising slowly. Warm kitchen morning light from a nearby window. A handwritten note or open notebook partially visible in the background, slightly out of focus. Matte black coffee bag resting on the table to the right, label turned slightly away from camera. Cream and espresso brown tones. Shallow depth of field. No text in frame. Aspect ratio 16:9, landscape.
+A candid, authentic portrait of a woman in her late 30s at her home-office desk mid-morning, mid-laugh during a video call, genuinely energized and present — sharp, clear-eyed, unhurried. Natural window light, lived-in real workspace (laptop, notebook, plant), warm neutral tones. Documentary lifestyle photography, shallow depth of field. NO coffee, mugs, cups, or product visible in frame. No text in frame. Aspect ratio 16:9, landscape.
 
 ---
 
@@ -199,7 +196,7 @@ FLUX.2 Pro (image)
 9:16 (Stories)
 
 ### Prompt
-A candid overhead shot of three people gathered around a small café table, one person sliding a matte black coffee bag toward the others, another reaching forward with genuine curiosity. Warm afternoon café light — amber and gold tones from pendant lamps overhead. Worn wooden table, ceramic cups, natural textures. The mood is discovery and shared excitement, unposed and real. Dark espresso browns, warm cream highlights, soft gold rim light. High contrast between the dark table surface and the warm overhead light. No text in frame. 9:16 vertical orientation. Cinematic grain, natural shadows, lifestyle photography feel. Shot from slightly above at a 45-degree angle.
+A candid vertical portrait of a real-looking man in his early 40s at his desk in the early afternoon, leaning back with a focused, satisfied half-smile — the look of someone whose energy hasn't crashed. Genuine, unposed, mid-thought. Warm afternoon window light, real lived-in workspace softly blurred behind him (monitor glow, notebook, plant). Dark neutral tones, warm cream highlights, soft rim light. Negative space in the upper 35% of the frame for a text overlay. NO coffee, mugs, cups, beans, or product anywhere in frame. No text rendered in the image. Cinematic grain, natural shadows, authentic lifestyle photography. 9:16 vertical orientation.
 
 ---
 
@@ -409,5 +406,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `story.jpg` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A candid overhead shot of three people gathered around a small caf\u00e9 table, one person sliding a matte black coffee bag toward the others, another reaching forward with genuine curiosity. Warm afternoon caf\u00e9 light \u2014 amber and gold tones from pendant lamps overhead. Worn wooden table, ceramic cups, natural textures. The mood is discovery and shared excitement, unposed and real. Dark espresso browns, warm cream highlights, soft gold rim light. High contrast between the dark table surface and the warm overhead light. No text in frame. 9:16 vertical orientation. Cinematic grain, natural shadows, lifestyle photography feel. Shot from slightly above at a 45-degree angle.\n\n---", "text_overlay": ""}, "carousel": [{"prompt": "A candid overhead shot of three people gathered around a small caf\u00e9 table, one person sliding a matte black coffee bag toward the others, another reaching forward with genuine curiosity. Warm afternoon caf\u00e9 light \u2014 amber and gold tones from pendant lamps overhead. Worn wooden table, ceramic cups, natural textures. The mood is discovery and shared excitement, unposed and real. Dark espresso browns, warm cream highlights, soft gold rim light. High contrast between the dark table surface and the warm overhead light. No text in frame. 9:16 vertical orientation. Cinematic grain, natural shadows, lifestyle photography feel. Shot from slightly above at a 45-degree angle.\n\n---", "text_overlay": ""}]}
+{"story": {"prompt": "A candid vertical portrait of a real-looking man in his early 40s at his desk in the early afternoon, leaning back with a focused, satisfied half-smile \u2014 the look of someone whose energy hasn't crashed. Genuine, unposed, mid-thought. Warm afternoon window light, real lived-in workspace softly blurred behind him (monitor glow, notebook, plant). Dark neutral tones, warm cream highlights, soft rim light. Negative space in the upper 35% of the frame for a text overlay. NO coffee, mugs, cups, beans, or product anywhere in frame. No text rendered in the image. Cinematic grain, natural shadows, authentic lifestyle photography. 9:16 vertical orientation.\n\n---", "text_overlay": ""}}
 ```
