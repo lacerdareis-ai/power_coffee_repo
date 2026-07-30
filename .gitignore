@@ -15,3 +15,6 @@ files.zip
 *.MP4
 *.mov
 *.MOV
+
+# Signed certification docs contain third-party PII (signer email/IP) — keep local only
+07-Project_info/certifications/
