@@ -1,153 +1,101 @@
-# August Landing Page + Offer — The Power Coffee
+# August Offer + Copy — The Power Coffee (ebook-led funnel)
 
-**Created:** 2026-07-31 · Replaces the expired "FOURTH / Buy 2 Get 1" promo · **Rule: total persona-first. Lead with the person and their 2pm crash. The product is the quiet answer. Ingredients and the certification are the receipt, never the pitch.**
+**Updated:** 2026-07-31 · **Change:** lead cold traffic with the FREE ebook lead magnet at `https://thepowercoffee.com/pages/10shakes`, not a direct buy. **Rule: total persona-first — lead with the person and their 2pm crash. The free recipes are the low-friction first step; the sale happens in the nurture.**
 
-Traffic: cold + retargeted paid social (Meta, amplifying the top Reels), organic IG, DTC link taps. Written so a cold visitor gets the full argument on one page.
+## Why ebook-first (the funnel logic)
+The data says a cold, skeptical micro-audience won't buy on first click — 15 link taps produced 0 sales in July. But "free recipes that fix your afternoon crash" is a near-zero-friction yes. So:
 
----
+**Cold traffic (paid social, organic IG)** → `/pages/10shakes` free ebook → **real opt-in email** → 4–5 email nurture sequence → purchase.
+**Warm / retargeting / high-intent** → the buy page (bundle offer).
+**Amazon** → direct sale (its own PPC funnel, runs in parallel).
 
-## PART 1 — The August Offer
-
-Keep it simple: one clear "most people pick this" option, a low-risk entry, and a ritual upgrade. Run the bundle as an **automatic cart discount** (no code to type = less friction); use UTM tags + optional channel codes for attribution, not as the thing the customer has to remember.
-
-| Tier | What they get | Price | Framing (persona-first) |
-|------|---------------|-------|--------------------------|
-| **Entry** | 1 bag (15 mornings) | **$18.90** | "Test it for two weeks." Low commitment, backed by the guarantee. |
-| **★ Most popular** — *The First Win Bundle* | 3 bags (45 mornings) | **$37.80** (3 for the price of 2) | "45 mornings to change your afternoons." Auto-applied. Removes reorder friction, the real driver of a first result. |
-| **Upgrade** — *The Power Morning Kit* | Bag + branded scoop + mug + 7-Day First Win card | **$31.90** | "Make it the ritual you keep." The habit/gift lever. ⚠️ Only turn on if the mug/scoop/card are ready to ship — otherwise launch without this tier and add it when fulfillment is set. |
-| Add-on at checkout | Monthly bag subscription, 15% off, cancel anytime | **$15.21/mo** | "Never run out mid-week." |
-
-**Risk reversal:** 30-day money-back guarantee (already live — keep it loud).
-**Honest urgency (no fake countdowns):** "August: first 100 orders ship free." Real, finite, and it doesn't erode trust like a resetting timer.
+Bonus: every opt-in is a **permissioned** email address — the thing the current 8,000 Gmail-contact "list" is not. This is how we build a real list *and* drive August sales at the same time.
 
 ---
 
-## PART 2 — Landing Page Copy (ready to paste)
+## PART 1 — The offers
+
+### Entry offer (the hook, cold traffic): FREE — "10 Power Coffee Shakes"
+- What: instant-download PDF, 10 two-minute shake recipes you blend with Power Coffee.
+- Price: free. Ask: just an email.
+- Job: capture the lead + warm them up. No purchase yet.
+
+### Conversion offer (nurture + retargeting + warm traffic): the purchase
+| Tier | Gets | Price | Persona framing |
+|------|------|-------|-----------------|
+| Entry | 1 bag (15 mornings) | **$18.90** | "Two weeks to feel the difference." |
+| ★ Most popular — *First Win Bundle* | 3 bags (45 mornings), auto-discount | **$37.80** (3 for 2) | "45 mornings to change your afternoons." |
+| Upgrade *(if fulfillable)* — *Power Morning Kit* | bag + scoop + mug + guide | **$31.90** | "Make it the ritual you keep." |
+| Checkout add-on | monthly bag subscription | **$15.21/mo** | "Never run out mid-week." |
+
+- **Guarantee:** 30-day money-back (keep loud).
+- **Honest urgency:** first-purchase nudge inside the nurture ("your welcome offer expires in 48h"), not a fake sitewide timer.
+
+⚠️ **Pricing inconsistency to fix:** the buy page shows **$18.90/bag**, the 10shakes page says **$15.99**. Pick one before driving traffic — mismatched prices kill trust.
+
+---
+
+## PART 2 — Opt-in landing copy for `/pages/10shakes` (persona-first)
 
 ### ABOVE THE FOLD
 
 **Headline (primary):**
-> Still crashing by 2pm?
+> Still crashing by 2pm? Start here. Free.
 
 **Subheadline:**
-> You have not had a lazy day. Your coffee just stopped carrying you. One scoop into the cup you already make, and the afternoon holds: steady energy and real focus, no jitters, no crash, no third cup to get through the day.
+> 10 two-minute shakes you blend into the coffee you already make. Steady energy, real focus, no jitters, no crash. Get the recipes free and feel the difference before you spend a cent.
 
-**Primary CTA button:**
-> Try it for one week
+**CTA button:**
+> Send me the 10 free recipes
 
-**Trust strip (directly under CTA):**
-> 4.9 out of 5 from 112 verified buyers · Illuminate Labs Certified, reviewed by an MD · 30-day money-back guarantee
+**Under CTA:**
+> Instant PDF. No spam, unsubscribe anytime, 100% free.
 
-*Headline alternatives (A/B):*
-- **A — "Still crashing by 2pm?"** — names the exact moment the persona feels the pain. Question format pulls them into their own day. *(recommended)*
-- **B — "The third cup isn't working. This does."** — names the failed behavior they already know, then promises the fix.
-- **C — "Your afternoon shouldn't fall apart at 2pm."** — leads with the outcome/stakes rather than the question.
+*Headline alternatives:*
+- **A — "Still crashing by 2pm? Start here. Free."** — names the exact pain, then removes all risk with "free." *(recommended)*
+- **B — "Beat the afternoon crash. 10 free recipes to start."** — outcome-led.
+- **C — "The third cup isn't working. These 10 shakes are free."** — names the failed behavior.
 
-*CTA alternatives:*
-- **A — "Try it for one week"** — low commitment, ties to the guarantee and the "first result in a week" story. *(recommended)*
-- **B — "Fix my afternoon"** — outcome-framed, first person.
+*CTA alternatives:* "Send me the 10 free recipes" *(recommended, specific + no-commitment)* · "Get my free recipes"
 
----
+### SUPPORTING BLOCKS (short, scannable)
 
-### SECTION 1 — THE PROBLEM (mirror their day back to them)
+**Why free recipes?**
+Because you have been burned by supplements that overpromise. So try the easiest version first. Blend one of these into your morning, notice the afternoon, and decide for yourself.
 
-**Header:** It's not you. It's what your coffee leaves out.
+**What you get:**
+- 10 recipes, each ready in under two minutes
+- Hot and iced options for every season
+- Built around clean, steady energy. Zero crash, zero jitters.
 
-You did everything right. You had the coffee. You had the second one. Maybe a third by 2. And you still hit the wall — foggy, restless, reaching for sugar or another cup just to finish the day.
+**Trust strip:**
+> 4.9/5 from 112 verified buyers · Illuminate Labs Certified, reviewed by an MD · Made in the USA
 
-That is not a willpower problem. Caffeine on its own hits fast, burns out fast, and drops you lower than where you started. The crash is baked in.
-
-So you drink more. And the cycle repeats tomorrow.
-
----
-
-### SECTION 2 — THE SHIFT (the product as the quiet answer, not a spec sheet)
-
-**Header:** One scoop changes how the whole day feels.
-
-Power Coffee is not another coffee to buy or a routine to learn. It is one scoop you stir into the coffee you already make every morning.
-
-What changes is the shape of the day: energy that ramps up smooth instead of spiking, focus that stays level through the afternoon, and no 2pm drop waiting to take you out. Same ritual. Completely different afternoon.
-
-> *"I haven't had an afternoon crash in three weeks. I was skeptical. I'm not anymore."* — verified buyer
+*(Place the Illuminate Labs Certified badge here.)*
 
 ---
 
-### SECTION 3 — HOW IT WORKS (remove friction, 3 steps)
+## PART 3 — Email nurture sequence (this is what turns free opt-ins into sales)
+The ebook alone makes zero sales. The sequence does. Outline (I can write all 5 in full next):
 
-**Header:** Nothing to learn. Nothing to give up.
+1. **Instant — "Here are your 10 shakes."** Deliver the PDF. One line on the persona problem it solves. No pitch.
+2. **Day 1 — "Why your coffee quits at 2pm."** The problem, empathetically. Introduce the one-scoop idea as the thing the recipes are built on. Soft link.
+3. **Day 3 — "You've been burned before. Good."** The trust email. Certification, MD review, 4.9/112, guarantee. First real offer + welcome discount.
+4. **Day 5 — the proof + offer.** Verified-buyer results, the First Win Bundle, guarantee. Clear CTA to buy.
+5. **Day 7 — "Your welcome offer expires tonight."** Honest urgency, recap, last call.
 
-1. **Scoop it in.** One scoop into your normal morning coffee, hot or iced.
-2. **Drink it like always.** Same cup, same routine. It blends clean, no chalk, no fight.
-3. **Notice the afternoon.** The wall that used to hit around 2 just… doesn't. Give it a week.
-
----
-
-### SECTION 4 — WHY YOU CAN TRUST IT (the receipt — proof, not the pitch)
-
-**Header:** You've been burned before. Good. So were we.
-
-The supplement aisle runs on big promises and blends you can't check. We went the other way.
-
-- **Independently certified.** Illuminate Labs Certified and reviewed for medical accuracy by a licensed MD. Not our word. Theirs.
-- **4.9 out of 5, 112 verified buyers, all organic.** No paid reviews, no influencer swaps.
-- **Made in the USA.** Clean label. No added sugar.
-- **Built by a founder who still drinks it every morning** — 600 days and counting.
-
-*[Place the Illuminate Labs Certified badge here.]*
+Then: anyone who opted in but didn't buy → retarget on Meta with the buy-page offer.
 
 ---
 
-### SECTION 5 — OBJECTIONS (answer the hesitation out loud)
-
-**"Is this just more caffeine?"**
-No. Caffeine alone is exactly what gives you the crash. This is what carries the energy past the spike so the afternoon doesn't collapse.
-
-**"Will it taste like a supplement?"**
-It disappears into your coffee. Hot or iced. If it doesn't taste like your normal cup, we'll refund you.
-
-**"What if it doesn't work for me?"**
-Then you pay nothing. 30-day money-back guarantee, no forms, no hassle. The only thing you're risking is one better week.
-
----
-
-### SECTION 6 — THE OFFER
-
-**Header:** Give your afternoons a real shot.
-
-- **1 bag — $18.90.** Two weeks to feel the difference.
-- **★ The First Win Bundle — 3 bags for the price of 2, $37.80.** 45 mornings. Enough time for the change to actually stick. *(Most people start here.)*
-- *(If live)* **The Power Morning Kit — $31.90.** The bag, the scoop, the mug, and a 7-day guide to build the ritual.
-
-**August: first 100 orders ship free.**
-
-**Primary CTA:** Start my first win
-
----
-
-### FINAL CTA (recap + risk reversal)
-
-**Header:** One scoop. Your coffee. A day that holds.
-
-You already make the coffee. This just makes it carry you all the way to 5. Backed by a 30-day guarantee, so the worst case is you find out it wasn't for you and pay nothing.
-
-**CTA button:** Try it for one week
-**Under button:** 4.9/5 · 112 verified buyers · Illuminate Labs Certified · 30-day money-back guarantee
-
----
-
-### META (SEO)
-- **Page title:** No-Crash Coffee Booster | One Scoop, Steady Energy Till 5 | The Power Coffee
-- **Meta description:** Still crashing by 2pm? One scoop into the coffee you already make. Steady energy and real focus, no jitters, no crash. Illuminate Labs Certified. 30-day guarantee.
-
----
-
-## Compliance notes (kept safe on purpose)
-- No disease/treatment claims. Energy/focus framed as experience + verified-buyer quotes, not medical claims.
-- Certification described factually ("independently certified, reviewed by an MD") — do not overstate it as an efficacy guarantee.
-- Kept off the three unverified specifics flagged in the cert file: **no "5g protein," no ingredient-count/mg numbers, no "vanilla-free" claim.** If Leo confirms the current panel, we can add verified figures later — but the persona-first version is stronger without them anyway.
+## Compliance + persona notes
+- No disease/treatment claims. Energy/focus framed as experience + verified-buyer quotes.
+- Certification stated factually, never as an efficacy guarantee.
+- Kept off the unverified specifics (no "5g protein," no ingredient/mg counts, no vanilla claim) per the cert file.
+- Every asset leads with the persona's problem, not the product or ingredients.
 
 ## Decisions for Leo
-1. **Is the Power Morning Kit ready to ship** (mug/scoop/card in hand)? If not, launch the two-tier version (bag + bundle) day one and add the kit when fulfillment is set.
-2. Run the **3-for-2 bundle as an automatic discount** (recommended, frictionless) vs. a code. Attribution rides on UTM tags + optional per-channel codes either way.
-3. Confirm the **"first 100 ship free"** mechanic is something you'll honor (it should be real).
+1. **Fix the $18.90 vs $15.99 price mismatch** before running traffic.
+2. Point August paid + organic cold traffic at **`/pages/10shakes`** (free ebook), not the buy page.
+3. Want the **full 5-email nurture sequence** written next? That is the piece that actually converts the opt-ins into the 100.
+4. Is the **Power Morning Kit** fulfillable, and confirm the welcome-discount you'll honor in the nurture.

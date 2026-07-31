@@ -57,11 +57,14 @@ Amazon is a search/intent channel and we already have 112 reviews at 4.9★. Thi
 4. **Review velocity:** hit "Request a Review" on every order, add a product insert card (QR to a how-to + review ask), and enroll in Vine if eligible. More reviews → better rank → cheaper organic sales.
 5. **Math:** ~$22/day at ~$0.60 CPC ≈ 35 clicks/day; at ~8–12% CVR (justified by 4.9★) ≈ 3–4 ad orders/day, plus organic halo as BSR climbs → ~60/month is credible.
 
-### Channel B — DTC / Shopify (target ~40 sales)
-Organic reach is dead, so DTC needs **paid traffic + a live offer + attribution.**
+### Channel B — DTC / Shopify (target ~40 sales) — *ebook-led funnel*
+Organic reach is dead and a cold micro-audience won't buy on first click (15 taps → 0 sales). So lead with a **free lead magnet**, capture a real opt-in, and let email nurture convert. Full copy: `august_landing_offer_copy.md`.
 
-1. **LAUNCH THE STARTER KIT** ($31.90, "Everything you need for your first win") — the AOV/gift/habit lever that's been sitting unlaunched. Show the value stack, "first 100 kits" scarcity, and the post-purchase subscription upsell ($15.21/mo). This is the DTC hero offer for August.
-2. **Meta/IG paid ads** ($15–20/day): prospecting + retargeting, using the **proven organic winners as the creative** — the founder-defense Reel (28.6% ER) and the present-tense 2pm-crash problem hook. Retarget IG engagers + site visitors. This replaces the dead organic reach.
+**Funnel:** cold traffic → **free ebook `/pages/10shakes`** → real opt-in email → 5-email nurture → purchase (First Win Bundle) → non-buyers retargeted on Meta. This also builds the permissioned list we don't currently have.
+
+1. **Free ebook as the entry offer** ("10 Power Coffee Shakes"). Near-zero friction; every download is a permissioned lead (unlike the cold Gmail-contacts file).
+2. **5-email nurture sequence** is the actual sales engine — deliver → problem → trust/cert → proof+offer → urgency. The Starter Kit / First Win Bundle is the conversion offer inside the nurture, not the cold ask.
+3. **Meta/IG paid ads** ($15–20/day) drive to the **free ebook** (much higher cold CVR than a $18.90 ask), using the **proven organic winners as creative** — the founder-defense Reel (28.6% ER) and the present-tense 2pm-crash hook. Retarget opt-ins/visitors with the buy offer.
 3. **Attribution — non-negotiable, do this first:** append `?utm_source=…` to every link (IG bio, story, ads, Amazon-vs-DTC) and issue **per-channel discount codes** (e.g. AUGIG, AUGX, AUGEMAIL) so every order is traceable. Fixes the flying-blind problem and lets us see the real converting channel by week 1.
 4. **Organic assist (free):** the daily content stays problem-led (persona-first rule), the certification story runs as the trust closer, and a coordinated "August launch" push in the first week. Pin the Starter Kit. Add the referral program (`referral_program.md`, "give $10 get $10") to squeeze word-of-mouth from early-August buyers.
 5. **Math:** ~$500 Meta spend + a live bundled offer at even a 1.5–2.5% landing-page CVR on paid clicks → ~40 orders is plausible; the Starter Kit's higher AOV also lifts revenue per order.
