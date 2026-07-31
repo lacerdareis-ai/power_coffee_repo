@@ -1,41 +1,41 @@
-# August Offer + Copy — The Power Coffee (ebook-led funnel)
+# August Offer + Copy — The Power Coffee (buy-page-led, ebook as a plus)
 
-**Updated:** 2026-07-31 · **Change:** lead cold traffic with the FREE ebook lead magnet at `https://thepowercoffee.com/pages/10shakes`, not a direct buy. **Rule: total persona-first — lead with the person and their 2pm crash. The free recipes are the low-friction first step; the sale happens in the nurture.**
+**Updated:** 2026-07-31 · **Direction (Leo):** send traffic to the **`/pages/betterday` buy page**; use the **`/pages/10shakes` free ebook as a PLUS** (a bonus with purchase + a fallback capture for non-buyers), not the primary entry.
 
-## Why ebook-first (the funnel logic)
-The data says a cold, skeptical micro-audience won't buy on first click — 15 link taps produced 0 sales in July. But "free recipes that fix your afternoon crash" is a near-zero-friction yes. So:
+## Funnel logic
+**Cold + warm traffic (paid social, organic IG)** → **`/pages/betterday` buy page** → purchase. The free "10 Shakes" ebook rides along as an offer sweetener ("every order includes the recipe book free") and as a soft fallback opt-in for people who aren't ready to buy yet.
+**Amazon** → direct sale (its own PPC funnel, in parallel).
 
-**Cold traffic (paid social, organic IG)** → `/pages/10shakes` free ebook → **real opt-in email** → 4–5 email nurture sequence → purchase.
-**Warm / retargeting / high-intent** → the buy page (bundle offer).
-**Amazon** → direct sale (its own PPC funnel, runs in parallel).
-
-Bonus: every opt-in is a **permissioned** email address — the thing the current 8,000 Gmail-contact "list" is not. This is how we build a real list *and* drive August sales at the same time.
+The ebook does two jobs as a *plus*: (1) raises the perceived value of the buy offer (free bonus with every bag), and (2) catches the email of a leaver so they enter the nurture/retargeting instead of vanishing — which also slowly builds a **permissioned** list (the 8,000 Gmail contacts are not that).
 
 ---
 
 ## PART 1 — The offers
 
-### Entry offer (the hook, cold traffic): FREE — "10 Power Coffee Shakes"
-- What: instant-download PDF, 10 two-minute shake recipes you blend with Power Coffee.
-- Price: free. Ask: just an email.
-- Job: capture the lead + warm them up. No purchase yet.
-
-### Conversion offer (nurture + retargeting + warm traffic): the purchase
+### Primary offer (buy page `/pages/betterday`): the purchase + free ebook bonus
+Real product prices (confirmed live in Shopify 2026-07-31):
 | Tier | Gets | Price | Persona framing |
 |------|------|-------|-----------------|
-| Entry | 1 bag (15 mornings) | **$18.90** | "Two weeks to feel the difference." |
-| ★ Most popular — *First Win Bundle* | 3 bags (45 mornings), auto-discount | **$37.80** (3 for 2) | "45 mornings to change your afternoons." |
+| Entry | The Power Coffee — 15-day pack | **$18.90** | "Two weeks to feel the difference." |
+| ★ Most popular | The Power Coffee — 45-day pack | **$49.90** | "45 mornings to change your afternoons." Best value per morning. |
 | Upgrade *(if fulfillable)* — *Power Morning Kit* | bag + scoop + mug + guide | **$31.90** | "Make it the ritual you keep." |
-| Checkout add-on | monthly bag subscription | **$15.21/mo** | "Never run out mid-week." |
+| Checkout add-on | monthly subscription | ~15% off | "Never run out mid-week." |
+
+**Every order includes the "10 Power Coffee Shakes" recipe book, free** ← this is the 10shakes-as-a-plus. Put it on the buy page as a bonus line item with a small value anchor ("a $12 recipe guide, yours free").
 
 - **Guarantee:** 30-day money-back (keep loud).
-- **Honest urgency:** first-purchase nudge inside the nurture ("your welcome offer expires in 48h"), not a fake sitewide timer.
+- **Honest urgency:** "August: first 100 orders ship free" — real and finite, no fake sitewide timer.
 
-⚠️ **Pricing inconsistency to fix:** the buy page shows **$18.90/bag**, the 10shakes page says **$15.99**. Pick one before driving traffic — mismatched prices kill trust.
+### Secondary use of 10shakes (fallback capture)
+For visitors who don't buy: a soft exit prompt / retargeting path to the **free ebook** at `/pages/10shakes`, which captures the email and drops them into the nurture. Not the headline, just the safety net.
+
+✅ **Price mismatch FIXED (2026-07-31):** the 10shakes "Retail Price" stat was $15.99; updated live to **$18.90** to match the real product. ⚠️ Still inconsistent: the 10shakes page shows **"4.5★"** while the brand uses **4.9★ (112 verified buyers)** everywhere else — recommend changing 4.5 → 4.9 for consistency (not done yet, wasn't part of the price ask).
 
 ---
 
-## PART 2 — Opt-in landing copy for `/pages/10shakes` (persona-first)
+## PART 2 — Persona-first copy (primary: `/pages/betterday` buy page; the hooks below double as the `/pages/10shakes` bonus-capture)
+
+> Primary destination is the **betterday buy page**. Lead with the same persona hooks below, then the offer + free-ebook bonus. The opt-in phrasing (e.g. "Send me the 10 free recipes") is for the secondary 10shakes fallback capture only — on the buy page the CTA is **"Start my first win"** / **"Try it for one week."**
 
 ### ABOVE THE FOLD
 
