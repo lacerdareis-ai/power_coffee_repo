@@ -7,202 +7,199 @@
 
 ---
 
----
-
 ## INSTAGRAM
 ### Reel Script
 
-**Cover Phrase:** YOUR COFFEE IS LYING TO YOU
+**Cover Phrase:** I MADE ALMOST NOTHING LAST MONTH
 
-**HOOK (0–3s):**
-*(On-screen text: "Why are you still crashing at 2pm?")*
-*(Spoken:)* "If you've had two cups of coffee and you're still dragging — your coffee isn't the problem. What's missing is."
+**HOOK (0-3s — spoken + on-screen text):**
+Spoken: "I made almost nothing in tracked sales last month."
+On-screen: "ALMOST ZERO TRACKED SALES. HERE'S WHY."
 
-**BODY (3–38s):**
-*(On-screen text: "The crash isn't caffeine. It's what caffeine does alone.")*
-Regular coffee spikes your cortisol, burns through fast, and leaves you worse than before you started. That's not an energy problem. That's a chemistry problem.
+**BODY (3-40s):**
+"It wasn't the product. I know that because every single person who actually tried it came back.
 
-*(On-screen text: "Your brain needs more than a caffeine spike.")*
-Your brain needs taurine to stay calm under load. Matcha to release energy over four hours instead of forty minutes. Protein to keep your blood sugar from cratering.
+The problem was simpler — and more embarrassing.
 
-*(On-screen text: "One scoop changes the whole equation.")*
-That's what Power Coffee is built for. Not to replace your coffee. To fix it.
+There was no real offer in front of anyone.
 
-**CTA (38–45s):**
-*(On-screen text: "Try it for 7 days. Link in bio.")*
-"Link in bio. One week. You'll know by Wednesday."
+No clear place to buy. No reason to click. No system pulling people in.
 
-**Engagement Prompt:**
-What time does your energy usually fall apart? Drop the hour in the comments — I want to see the pattern.
+I was building the formula for two years. The distribution? Zero days of work.
+
+That's the gap. And I'm fixing it this week — in public.
+
+The product is right here on my desk. It works. I use it every single morning.
+
+Now I'm putting it in front of people the right way for the first time."
+
+**CTA (40-45s):**
+"Follow along this week. I'm showing everything."
+
+**Engagement Prompt:** "Have you ever built something great and just... not told anyone about it? Comment YES — I want to know I'm not alone."
 
 ---
 
 ### Caption
 
-Your coffee wasn't designed for your day.
+I made almost nothing in tracked sales last month.
 
-It was designed to wake you up. That's it.
+Not because the product failed.
+Because there was no real offer in front of anyone.
 
-The crash, the fog, the 3rd cup that still isn't working — that's not a caffeine tolerance problem. That's a missing ingredient problem.
+Two years of formula work.
+Zero days building the engine to sell it.
 
-One scoop. Everything your coffee was already almost doing, done right.
+That's the honest gap.
+This week I'm fixing it in public — starting today.
 
-Link in bio → try it for 7 days.
+If you've ever built something great and forgot to actually sell it, follow along.
+This week is for you.
+
+Link in bio to try the product that started this whole problem. 👇
 
 ---
 
 ### Hashtags
 
-#functionalcoffee #cleanenergy #afternooncrash #morningroutine #coffeehack #biohacking #powercoffee #nocrash #focusfuel #energybooster #thefirstwin #highperformance
+#founderstory #buildinpublic #powercoffee #cleanenergy #entrepreneurlife #morningroutine #functionalcoffee #startupfounder
 
 ---
 
 ## X.COM
 ### Post
 
-You've had 3 cups of coffee today and you're still fogging out at 2pm.
+More coffee was never the fix for 2pm.
 
-That's not a caffeine problem. That's a formula problem. Your coffee is missing 4 things.
+The crash isn't a dosage problem. It's an architecture problem. You're missing the ingredients that make energy last.
+
+www.betterday.com
 
 ---
 
 ### Thread
 
 **Post 1:**
-3 coffees. Still crashing at 2pm. Still reaching for a 4th.
-
-That's not a willpower problem. Here's what's actually happening in your brain:
+More coffee was never the fix for 2pm. The crash isn't a dosage problem. It's an architecture problem.
 
 **Post 2:**
-Caffeine alone spikes cortisol fast and burns out faster.
-
-Without taurine to stabilize your neurons, without matcha to extend the energy curve, without protein to anchor your blood sugar — the crash is guaranteed. Every time.
+Plain caffeine spikes cortisol fast and burns out faster. By 2pm you're not under-caffeinated. You're missing the co-ingredients that extend and stabilize the signal.
 
 **Post 3:**
-Research on L-theanine + caffeine combos shows sustained focus vs. caffeine alone.
-
-Taurine at 2g improves neuromuscular function and reduces oxidative stress. Pea protein slows glucose absorption, flattening the spike-crash curve. These aren't exotic — they're just absent from your cup.
+L-theanine pairs with caffeine to smooth the release curve. Taurine buffers overstimulation. Pea protein stabilizes blood sugar so the crash never hits. None of those are in your third cup of coffee.
 
 **Post 4:**
-We built Power Coffee around this exact problem.
-
-Not to replace your coffee. To fix what your coffee can't do alone. One scoop into whatever you're already drinking. That's it.
+That's why Power Coffee exists. Not to replace your coffee. To fix what's missing from it. One scoop changes the architecture of your morning energy — all the way through 2pm.
 
 **Post 5:**
-If your afternoon looks like a slow collapse, that's the gap.
-
-Try it for a week: [thepowercoffee.com]
+If your afternoons keep falling apart, it's not a willpower problem.
+It's an ingredient problem.
+Fix it: www.betterday.com
 
 ---
 
 ## LINKEDIN
 ### Post
 
-Most people blame themselves for the 2pm crash.
+July is done.
 
-They think they didn't sleep enough. They think they need more caffeine. They think their focus is broken.
+Near-zero tracked sales. Two years of formula work. One month of silence.
 
-It's not any of those things.
+I sat with that number this morning at 5am and decided to stop explaining it away.
 
-Regular coffee was designed for one job: wake you up. It does that job in about 45 minutes. After that, you're on your own.
+The product isn't the problem. Everyone who has actually tried Power Coffee has come back for more.
 
-The problem isn't the person. It's the chemistry.
+The problem is distribution. The problem is attribution. The problem is that I spent two years becoming a formulator and almost no time becoming a marketer.
 
-What happens when you add taurine, matcha, and pea protein to that equation is not magic. It's just what the research already supports — sustained energy, flatter blood sugar curve, less cortisol noise.
+That's the honest reason.
 
-That's what Power Coffee was built to fix.
+This week I'm changing it in public. I'm putting a real offer in front of real people for the first time — not just sampling, not just posting, but a clean funnel with a clear reason to buy.
 
-Not with a new ritual. Not with a complicated stack. Just with a scoop added to what you're already drinking.
+I don't know if it will work on week one. But I know the gap is no longer invisible to me.
 
-I spent two years testing this formula because I felt that crash every single day and couldn't find a product that addressed the root cause.
+Building in public means owning the ugly months too.
 
-If you've built something because you needed it yourself, you already know how that motivation compounds.
-
-What problem did you start building because no one else had solved it yet?
+If you're an investor, a retail buyer, or a fellow founder who has been here — I'd genuinely like to hear how you navigated the gap between great product and first real traction.
 
 ---
 
 ## TELEGRAM
 ### Message
 
-Quick question for the group — what time does your energy usually fall apart?
+Hey — real talk to start the week.
 
-For most people it's somewhere between 1 and 3pm. And it's not because you didn't sleep enough. It's because coffee alone wasn't built to carry you that far.
-
-That's exactly the problem Power Coffee was made to solve. One scoop, same cup, completely different afternoon.
+July had near-zero tracked sales for Power Coffee. Not because the formula failed — because there was never a proper offer in front of anyone. That changes this week. Leo is building the sales engine in public, starting today. Watch the Reel, follow the journey, and if you've been waiting to try it, this is the week to do it.
 
 ---
 
 ## SHOPIFY BLOG
 ### Title
-Why You're Still Crashing at 2pm (And It's Not Your Fault)
+Why You're Still Crashing at 2pm (It's Not How Much Coffee You're Drinking)
 
 ### Body
 
-## The afternoon crash isn't a willpower problem
+## The Real Reason Your Afternoon Falls Apart
 
-If you've had two or three cups of coffee by noon and you're still hitting a wall at 2pm, you've probably blamed yourself. You need more sleep. You need less screen time. You need to cut carbs.
+You've already had two cups. Maybe three. And by 2pm, you're still hitting a wall — foggy, slow, reaching for something that won't actually help.
 
-But here's what the research actually shows: the problem isn't you. It's what your coffee is missing.
+Most people respond by pouring another coffee. It doesn't work. Here's why.
 
-## What caffeine alone does to your brain
+## It's Not a Dosage Problem. It's an Architecture Problem.
 
-Caffeine blocks adenosine receptors — the ones that signal tiredness — and triggers a cortisol spike that gets you moving. That works. For about 45 minutes to an hour. After that, the adenosine floods back in, cortisol dips, and blood sugar follows. That's the crash. It's not random and it's not your fault. It's chemistry.
+Plain caffeine does one thing: it spikes fast and drops faster. When it exits your system, it leaves cortisol elevated and blood sugar destabilized. That combination is what creates the crash — not the absence of more caffeine.
 
-## The four ingredients your cup is probably missing
+What your body actually needs in the afternoon isn't more stimulant. It needs the co-ingredients that extend and stabilize the energy signal your morning coffee started.
 
-**Taurine** acts as a neuromodulator — it calms overfired neurons without sedating you. At 2g per serving, it smooths the edges of a caffeine spike and supports sustained focus.
+## The Ingredients Your Coffee Is Missing
 
-**Matcha** contains L-theanine, which pairs with caffeine to extend the energy curve from 45 minutes to four to six hours. Less spike. No drop-off.
+**L-Theanine** — Found naturally in matcha, it pairs with caffeine to smooth the release curve. Instead of a spike and drop, you get a slower, steadier arc of focus.
 
-**Pea protein** slows glucose absorption and stabilizes blood sugar. That mid-afternoon fog is often just a blood sugar crash in disguise.
+**Taurine** — A neuromodulator that calms overactive neurons without sedating you. It acts like volume control for mental overstimulation. Most energy drinks include it. Your coffee doesn't.
 
-**Ginkgo biloba** supports cerebral blood flow — the kind of background-level cognitive function that determines whether your third meeting of the day feels as sharp as your first.
+**Pea Protein** — Five grams of protein stabilizes blood sugar after the caffeine spike. Stable blood sugar means no crash window at 2pm.
 
-## What changes when you fix the formula
+**Ginkgo Biloba** — Supports cerebral blood flow and has been studied for sustained cognitive performance during long work sessions.
 
-You don't need a fourth cup. You don't need an energy drink. You don't need a complicated supplement stack.
+## One Scoop Instead of One More Cup
 
-You need one scoop in the coffee you're already making.
+Power Coffee combines all of these into a single scoop you add to your existing morning routine. No new habit. No extra step. Just a different result from the same cup.
 
-Power Coffee was built specifically to solve the 2pm problem — not by replacing your routine, but by upgrading it.
+If your afternoons keep falling apart, the fix isn't more coffee. It's better-built coffee.
 
-[Try Power Coffee for one week and see what a full afternoon of clean energy actually feels like.](https://thepowercoffee.com)
+[Try the 15-day starter pack — free recipe book included →](https://thepowercoffee.com/collections/all)
 
 ---
 
 ### Image Prompt
 
-A man in his early 40s sitting at a home office desk in the mid-afternoon, both hands wrapped around a dark ceramic mug, looking slightly tired but present. Natural side light from a window to his left. Warm wood desk surface, second monitor in background showing a document. Coffee bag slightly out of focus on the shelf behind him. Muted espresso brown and cream tones. Shallow depth of field. Negative space in the upper left third for text overlay. No text in frame. Shot at eye level. Warm, honest, real — not staged. Aspect ratio 16:9, landscape orientation.
+A man in his early 40s sitting at a home office desk in the mid-afternoon, one hand on his keyboard, the other wrapped around a dark ceramic mug. He looks focused and calm — not drained. Warm natural side light from a window to his left. A black matte bag of coffee supplement visible on the shelf behind him, slightly out of focus. Warm cream, espresso brown, and muted gold tones. Shallow depth of field. Negative space in the upper left third for text overlay. No text in the image. Shot in portrait 4:5. Photorealistic, lifestyle editorial style. --ar 4:5
 
 ---
 
 ## EMAIL
 ### Subject Line
-Why 3 coffees still isn't enough
+Your 2pm crash has a name (and a fix)
 
 ### Preview Text
-The crash isn't your fault. Here's what your cup is actually missing.
+It's not how much coffee you drink. It's what's missing from it.
 
 ### Body
 
 Hey —
 
-You've probably done everything right today.
+It's Monday, which means the week is wide open and 2pm is coming.
 
-Good night's sleep. Two, maybe three coffees. And yet somewhere around 2pm, the wheels come off.
+You already know the feeling. Third cup in, still foggy. Still slow. Still wondering why the energy isn't there when you need it most.
 
-Here's what most people don't realize: that crash isn't about caffeine tolerance or sleep debt. It's about what caffeine does when it's working alone.
+Here's the honest answer: plain caffeine spikes fast and drops hard. By early afternoon, the crash isn't a focus problem — it's an ingredient architecture problem. Your coffee is missing the co-ingredients that make energy last: L-theanine to smooth the release, taurine to stabilize the signal, protein to hold your blood sugar steady.
 
-Caffeine spikes cortisol fast and burns out faster. Without taurine to calm the overstimulation, without matcha to extend the energy curve over four to six hours, without protein to hold your blood sugar steady — the crash is baked in. Every single time.
+That's exactly what Power Coffee was built to fix.
 
-Power Coffee was built to fix exactly that. Not by replacing what you're already drinking. By adding what it was always missing.
+The easiest way to start: grab the 15-day pack and we'll send you the free **10 Shakes Recipe Book** with it — 10 ways to build it into your morning without changing a thing about your routine.
 
-One scoop. Same cup. Different afternoon.
+30-day guarantee. No risk.
 
-If you've never tried it, this week is a good week to start.
-
-[Try Power Coffee — 7 days to feel the difference](https://thepowercoffee.com/products/power-coffee)
+[Start with the 15-day pack + free recipe book →](https://thepowercoffee.com/collections/all)
 
 — Leo
 
@@ -223,63 +220,64 @@ cinematic_studio_3_0
 
 ### Prompt
 
-A man in his early 40s seated at a clean home office desk, mid-afternoon. He sets down a dark ceramic mug slowly, leans back in his chair, and presses two fingers to his temple — the universal signal of a focus fade. Natural warm light from a window to his left casts soft shadows across the desk surface. A second monitor glows faintly in the background. Camera begins with a slow push-in from mid-shot to close-up on his face, then cuts to a low angle close-up of his hands wrapping around a matte black coffee bag on the desk corner. He picks it up with quiet intention. Cut back to his face — steady, composed, purposeful. Warm espresso and cream color grade. Handheld micro-drift for intimacy, not shaky. No text, no graphics, no product logo visible in frame. Mood: honest, relatable exhaustion giving way to quiet decision. Documentary realism, not advertisement polish.
+A man in his mid-30s sits alone at a minimal home office desk at 5am, a matte black bag of supplement powder open beside his keyboard. He picks it up, looks at it for a brief moment — honest, not performative — then sets it back down and opens his laptop. The mood is quiet ownership, not drama. Dawn light barely catching the window behind him, warm amber desk lamp as the key light. Slow, deliberate handheld push-in starting from the bag on the desk, landing on his face in soft focus. Color grade: warm cream shadows, deep espresso browns, a faint gold rim on the light source. Authentic and unhurried. No text, no graphics, no product labels readable in frame.
 
 ---
 
 ## REELS — Founder Vlog Script
-**Series:** Building Power Coffee — Ep. 4
-**Beat:** The moment I realized we were solving the wrong problem in our messaging
-**Title formula:** Why we were selling it wrong | The 4:50am reset
 
-**Duration:** 35–42s · **Setting:** Leo at kitchen counter, early morning, mug in hand, facing camera. Loose, unhurried. The Power Coffee bag sits open on the counter beside him, unprompted.
+**Series:** Building Power Coffee — Ep. 4
+**Beat:** Leo opens the week at 5am and owns the near-zero tracked sales, frames the week as fixing the offer in public.
+**Title formula:** Why I had near-zero sales in July | 5am honest Monday
+**Duration:** 30-45s · **Setting:** Leo at his desk at home, 5am, product bag in frame on the desk, dim warm lamp light, facing camera on a tripod or ring light at eye level. No ring light reflection if possible — aim for window or desk lamp feel.
 
 ---
 
-**HOOK (0–3s, text on screen + spoken):**
-*(On-screen text: "We were selling it wrong for 8 months.")*
-"For eight months we were leading with ingredients. Nobody cared."
+**HOOK (0-3s, text on screen + spoken):**
+"July tracked sales: almost zero. And I know exactly why."
 
 ---
 
 **BODY (speak exactly this):**
-"I kept writing posts about taurine and matcha and pea protein. I thought the formula would sell itself if people just understood it.
 
-Then I looked at which posts actually got saves. Not likes — saves.
+"It wasn't the product. Everyone who tried it wanted more.
 
-Every single one led with the crash. The fog. The third cup that does nothing.
+The problem was me. I spent two years perfecting the formula and almost no time building the engine to actually sell it.
 
-Not one ingredient post made the list.
+No clear offer. No real funnel. No reason for someone scrolling at midnight to click buy.
 
-That was August. That one insight changed how we write every piece of content.
+That's the gap.
 
-It sounds obvious now. But when you spend two years building a formula, you fall in love with the recipe. You forget nobody wakes up thinking about taurine.
+This bag right here — it works. I drink it every morning. Have for almost two years.
 
-They wake up thinking — I need to get through today.
+But a great product with no distribution is just a hobby.
 
-That's the problem we're actually solving.
+So this week, I'm fixing the offer in public. I'm showing what I build, what I change, and whether it actually moves the number.
 
-I made a cup at 4:50 this morning, same as every morning, and thought about that the whole run."
+No filter. Follow the build."
 
 ---
 
 **CTA (last 5s):**
-"Follow the build. And drop a question below — I read every one."
+"Follow along this week — every day I'm posting what I'm doing and what's happening. Ask me anything in the comments."
 
 ---
 
-**B-ROLL:** Leo scooping product into mug at kitchen counter, close-up of the open Power Coffee bag label, Leo stepping out the front door in running gear at dawn
+**B-ROLL:** Product bag on desk under warm lamp light, Leo's hand opening laptop at 5am darkness outside the window, Leo picking up the bag and setting it down — one deliberate motion
 
 **CAPTION:**
-We spent 8 months leading with ingredients. The data said: nobody cares.
-Here's what changed everything — and what it taught me about building in public.
+July: near-zero tracked sales.
+Not the product. The offer.
+Fixing it this week — in public.
+
+#buildinpublic #founderstory #powercoffee #cleanenergy #entrepreneurreality
+
 Ep. 4 — Building Power Coffee
-#buildingpowercoffee #founderstory #cpgfounder #cleanenergy #powercoffee
 
 **ON-SCREEN TEXT:**
-- 0–3s: *"We were selling it wrong for 8 months."*
-- 14s: *"I looked at which posts got saves. Not likes — saves."*
-- 28s: *"Nobody wakes up thinking about taurine."*
+- [0s] → "JULY TRACKED SALES: ALMOST ZERO"
+- [8s] → "THE PRODUCT WASN'T THE PROBLEM"
+- [28s] → "FIXING THE OFFER THIS WEEK — IN PUBLIC"
 
 ---
 
@@ -440,5 +438,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `instagram.mp4` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A man in his early 40s seated at a clean home office desk, mid-afternoon. He sets down a dark ceramic mug slowly, leans back in his chair, and presses two fingers to his temple \u2014 the universal signal of a focus fade. Natural warm light from a window to his left casts soft shadows across the desk surface. A second monitor glows faintly in the background. Camera begins with a slow push-in from mid-shot to close-up on his face, then cuts to a low angle close-up of his hands wrapping around a matte black coffee bag on the desk corner. He picks it up with quiet intention. Cut back to his face \u2014 steady, composed, purposeful. Warm espresso and cream color grade. Handheld micro-drift for intimacy, not shaky. No text, no graphics, no product logo visible in frame. Mood: honest, relatable exhaustion giving way to quiet decision. Documentary realism, not advertisement polish.\n\n---", "text_overlay": "YOUR COFFEE IS LYING TO YOU"}, "carousel": [{"prompt": "A man in his early 40s seated at a clean home office desk, mid-afternoon. He sets down a dark ceramic mug slowly, leans back in his chair, and presses two fingers to his temple \u2014 the universal signal of a focus fade. Natural warm light from a window to his left casts soft shadows across the desk surface. A second monitor glows faintly in the background. Camera begins with a slow push-in from mid-shot to close-up on his face, then cuts to a low angle close-up of his hands wrapping around a matte black coffee bag on the desk corner. He picks it up with quiet intention. Cut back to his face \u2014 steady, composed, purposeful. Warm espresso and cream color grade. Handheld micro-drift for intimacy, not shaky. No text, no graphics, no product logo visible in frame. Mood: honest, relatable exhaustion giving way to quiet decision. Documentary realism, not advertisement polish.\n\n---", "text_overlay": "YOUR COFFEE IS LYING TO YOU"}]}
+{"story": {"prompt": "A man in his mid-30s sits alone at a minimal home office desk at 5am, a matte black bag of supplement powder open beside his keyboard. He picks it up, looks at it for a brief moment \u2014 honest, not performative \u2014 then sets it back down and opens his laptop. The mood is quiet ownership, not drama. Dawn light barely catching the window behind him, warm amber desk lamp as the key light. Slow, deliberate handheld push-in starting from the bag on the desk, landing on his face in soft focus. Color grade: warm cream shadows, deep espresso browns, a faint gold rim on the light source. Authentic and unhurried. No text, no graphics, no product labels readable in frame.\n\n---", "text_overlay": "I MADE ALMOST NOTHING LAST MONTH"}, "carousel": [{"prompt": "A man in his mid-30s sits alone at a minimal home office desk at 5am, a matte black bag of supplement powder open beside his keyboard. He picks it up, looks at it for a brief moment \u2014 honest, not performative \u2014 then sets it back down and opens his laptop. The mood is quiet ownership, not drama. Dawn light barely catching the window behind him, warm amber desk lamp as the key light. Slow, deliberate handheld push-in starting from the bag on the desk, landing on his face in soft focus. Color grade: warm cream shadows, deep espresso browns, a faint gold rim on the light source. Authentic and unhurried. No text, no graphics, no product labels readable in frame.\n\n---", "text_overlay": "I MADE ALMOST NOTHING LAST MONTH"}]}
 ```
