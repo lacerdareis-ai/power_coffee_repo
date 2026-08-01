@@ -12,69 +12,61 @@
 ## INSTAGRAM
 ### Reel Script
 
-**Cover Phrase:** I MADE ALMOST NOTHING LAST MONTH
+**Cover Phrase:** YOUR 2PM CRASH IS A LIE
 
-**HOOK (0-3s):**
-Spoken: "I made almost nothing last month. And I know exactly why."
-On-screen text: I MADE ALMOST NOTHING LAST MONTH
+**HOOK (0-3s, spoken + on-screen text):**
+"Third coffee. Still crashing by 2pm."
+*On-screen text: THIRD COFFEE. STILL CRASHING.*
 
 **BODY (3-38s):**
-"Not because the product failed. Not because people tried it and walked away.
+"You know that feeling. The fog rolls in. You can't finish a thought. You start reaching for another cup — not because you want it, but because you have no idea what else to do.
 
-Because I never put a real offer in front of anyone.
+I know that exact crash. Because I lived it for years.
 
-I had a formula. I had the bags on my desk. I had people who tried it and came back.
+The problem isn't the amount of coffee you're drinking. It's what's missing from it. Regular coffee spikes fast and drops hard. There's nothing holding the energy up.
 
-But I was running invisible. No clear place to buy. No clear reason to buy today. No tracked path from curious to customer.
+So I spent two years building something that would. Clean, steady energy that holds through the afternoon — without the anxiety, without the crash, without the fourth cup.
 
-That is a distribution problem. That is an attribution problem. That is on me.
-
-So this week, I am fixing the offer in public. Real page. Real price. Real reason to start.
-
-If you have ever built something you believed in and still had nothing to show for it — this week is for you."
+I built it for myself. And this week, for the first time, I'm putting it in front of people exactly like you."
 
 **CTA (38-45s):**
-Spoken: "Follow the build. The link is in the caption."
-On-screen text: FIXING IT THIS WEEK — thepowercoffee.com/pages/betterday
+"The link is in my bio — thepowercoffee.com/pages/betterday. Try it this week."
 
 **Engagement Prompt:**
-"Have you ever had something good that just was not reaching people? Drop it in the comments — I want to hear it."
+"What time does your afternoon crash usually hit? Drop it in the comments."
 
 ---
 
 ### Caption
 
-I made almost nothing last month.
+Third coffee. Still foggy by 2pm.
 
-Not because the product is broken.
-Because I had no real offer in front of anyone.
+That was me for years. Not a caffeine problem. A missing-ingredient problem.
 
-No tracked path. No clear page. No reason to act today.
+Regular coffee spikes fast and drops hard. The crash isn't a character flaw. It's a design flaw.
 
-That is a distribution gap, not a product failure.
+I built the fix over two years, for myself first. This week I'm finally putting it in front of people who are in the same place I was.
 
-This week I am fixing it in public — the offer, the page, the engine.
+If your afternoon disappears before you're done with it, this is for you.
 
-If you are building something and the numbers do not match the effort, this week is for you.
+Try it: https://thepowercoffee.com/pages/betterday
 
-Start here: https://thepowercoffee.com/pages/betterday
-
-Have you ever had something real that just was not reaching people? Tell me below.
+What time does your crash hit? Tell me in the comments.
 
 ---
 
 ### Hashtags
 
-#buildingInPublic #founderlife #powercoffee #cleanenergy #morningroutine #entrepreneurreality #functionalcoffee #startupfounder
+#powercoffee #2pmcrash #afternoonslump #cleanenergy #functionalcoffee #nocrash #morningroutine #biohacking #focusandenergy #highperformance #cleanformula #coffeebooster
 
 ---
 
 ## X.COM
 ### Post
 
-More coffee was never the fix for 2pm.
+More coffee was never the fix for your 2pm crash.
 
-The crash is not a caffeine shortage. It is an architecture problem. What you put in the cup is the variable most people never touch.
+The crash is an ingredient problem, not a dosage one.
 
 https://thepowercoffee.com/pages/betterday
 
@@ -82,20 +74,21 @@ https://thepowercoffee.com/pages/betterday
 
 ### Thread
 
-Post 1:
-More coffee was never the fix for 2pm. The crash is not a caffeine shortage. It is an architecture problem.
+**Post 1:**
+More coffee was never the fix for the 2pm crash. The problem isn't the amount. It's the architecture.
 
-Post 2:
-Here is what actually happens at 2pm. Your cortisol drops. Your blood sugar has already spiked and fallen from whatever you ate at lunch. And the caffeine from your second cup has burned through without anything to sustain it. You feel it as fog. Your brain calls it fatigue. It is actually a gap in ingredients.
+**Post 2:**
+Regular coffee gives you one thing: caffeine. It spikes fast, burns through your adrenal system, and leaves you worse than before. The crash isn't a weakness. It's a predictable chemical outcome.
 
-Post 3:
-The ingredients that bridge that gap are not exotic. Steady-release energy from matcha. Amino support that helps calm the overclocked feeling without making you drowsy. A protein source that slows the blood sugar swing. These are not new ideas. They are just absent from most cups.
+**Post 3:**
+What changes the outcome is what surrounds the caffeine. Matcha extends the energy curve. Taurine helps your nervous system hold steady under load. A protein base keeps blood sugar from falling off a cliff at 2pm. The felt result: the afternoon stays usable.
 
-Post 4:
-Power Coffee is built around that gap. Not to replace your morning ritual. To make it hold longer. One scoop, same cup you already drink, and the 2pm wall moves or disappears entirely for most people who try it.
+**Post 4:**
+I rebuilt my afternoon by rebuilding what was in my cup. Not more caffeine. Different ingredients. One scoop added to the coffee you're already drinking. That's it.
 
-Post 5:
-If your afternoon is the part of the day that consistently falls apart, start here.
+**Post 5:**
+I built it for myself first. This week it goes live for everyone who recognizes that 2pm feeling.
+
 https://thepowercoffee.com/pages/betterday
 
 ---
@@ -103,110 +96,113 @@ https://thepowercoffee.com/pages/betterday
 ## LINKEDIN
 ### Post
 
-Two years of formula work. One month of near-zero tracked sales.
+Two years ago I was losing my afternoons the same way most people do.
 
-I spent July looking at numbers that did not match the effort. And I had to be honest with myself about why.
+Third coffee by 1pm. Useless by 2. The fog would roll in and whatever I had planned for the second half of the day would quietly disappear.
 
-The product was not the problem.
+I assumed I needed more caffeine. I was wrong.
 
-I had no real offer structured in front of anyone. No clear attribution path. No page built to convert. I was operating like someone waiting to be discovered.
+The crash wasn't a dosage problem. It was an ingredient-architecture problem. Regular coffee does one thing well and nothing after that.
 
-Distribution is a skill. I treated it as an afterthought.
+So I started building a fix. Not a product first — a solution to my own afternoon, formulated with the same rigor I'd apply to any serious business problem. Ingredient research, AI-assisted combinations, five formula versions, real-world testing.
 
-This month I am changing that in public. New offer page. Real tracking. A documented week of showing what fixing the engine actually looks like for a solo CPG founder at this stage.
+The formula has been ready for months. What wasn't ready was the distribution.
 
-The formula took two years to get right. The distribution fix starts today.
+The last month showed near-zero tracked sales. Not because the product doesn't work — every person who has tried it knows it does. But because a working product and a working engine are two different things.
 
-I am not sharing this to perform vulnerability. I am sharing it because I think a lot of founders are sitting on something real and calling the silence a product problem when it is actually a visibility problem.
+This week I'm fixing the engine in public. The offer goes live, the attribution is clean, and I'm documenting every step.
 
-If that is you right now, I want to hear about it.
+One month of honest numbers. Starting today.
 
-What is the gap between what you built and what the numbers say?
+What's the hardest gap you've had to own publicly while building something?
 
 ---
 
 ## TELEGRAM
 ### Message
 
-Opening the week with full honesty: July had near-zero tracked sales. Not because the product does not work. Because I never built a real path for people to find and buy it. That is on me, and I am fixing it this week in public. If you have been waiting for a clear way to start, this is it: https://thepowercoffee.com/pages/betterday
+Real talk for a Monday morning: the 2pm crash you keep hitting isn't a willpower problem and it isn't a coffee-volume problem.
+
+It's a what's-in-your-cup problem.
+
+I built something that changes the architecture of your afternoon. This week it's finally live and ready for you.
+
+Try it here: https://thepowercoffee.com/pages/betterday
 
 ---
 
 ## SHOPIFY BLOG
 ### Title
-
-The 2PM Crash Is Not a Caffeine Problem — Here Is What It Actually Is
+Why Your Third Coffee Still Leaves You Crashing at 2pm (And What Actually Fixes It)
 
 ### Body
 
-## Why Another Cup Does Not Fix It
+## The Crash Arrives on Schedule
 
-You are three hours past lunch. The meeting you need to be sharp for starts in thirty minutes. You reach for another coffee and you already know, somewhere in the back of your mind, that it probably will not do what you need it to do.
+It doesn't matter how disciplined your morning was. Somewhere around 2pm, it happens anyway. The fog settles in, the screen goes blurry at the edges, and whatever you had lined up for the second half of the day starts to feel very far away.
 
-That is not a coincidence. That is ingredient architecture.
+So you reach for another coffee.
 
-## What Is Actually Happening at 2PM
+And it helps for about twenty minutes.
 
-The afternoon wall is not a single event. It is the overlap of several things happening at once. Cortisol — the hormone that naturally helps you feel alert in the morning — follows a curve, and by early afternoon it is on its way down. Blood sugar, depending on what you had at lunch, may have already peaked and dropped. And the caffeine from your morning cup has a half-life that does not care about your calendar.
+## The Real Reason the Afternoon Falls Apart
 
-Adding more caffeine on top of that curve does not reset it. It layers stimulation onto a system that is already running on a deficit.
+The 2pm crash is not a caffeine-deficiency problem. It is a caffeine-only problem.
 
-## What the Cup Is Missing
+Regular coffee delivers one functional ingredient: caffeine. It spikes quickly, creates a sharp cortisol response, and then drops — usually right around midday. There is nothing in a standard cup of coffee to extend that energy curve, stabilize blood sugar, or help your nervous system manage the sustained cognitive load of a full workday.
 
-Sustained energy in the afternoon has less to do with how much caffeine you add and more to do with what is supporting it. Ingredients that help slow the energy release curve. Amino acids that support focus without adding more stimulation. A protein source that helps stabilize blood sugar rather than allowing it to swing.
+The crash is predictable. It is built into the formula.
 
-These are not complicated. They are just absent from most cups.
+## What a Better Architecture Looks Like
 
-## A Different Starting Point
+The functional difference comes from what surrounds the caffeine. Matcha, for example, releases energy over a much longer window. Taurine supports steady nervous system function under sustained mental effort. A protein base helps prevent the blood sugar drop that accelerates afternoon fatigue.
 
-Power Coffee was built around this specific gap. It fits into your existing routine — one scoop in whatever you already drink in the morning — and the formulation is designed to help the energy hold, not just spike.
+None of these are exotic interventions. They are ingredient decisions that change the shape of your energy across the day.
 
-If the 2pm wall is a consistent problem, the ingredient architecture in your cup is the most direct lever you have not tried yet.
+## One Scoop Changes the Shape of Your Afternoon
 
-Start with the Better Day bundle — the free 10 Shakes recipe book and a 15-day pack, backed by a 30-day guarantee.
+Power Coffee is designed to be added to the coffee you are already drinking. One scoop. The morning ritual stays the same. The afternoon does not.
 
-[Try the Better Day bundle](https://thepowercoffee.com/pages/betterday)
+If you recognize the 2pm crash, this is the lowest-friction way to change it.
 
----
+[Try the 15-day starter pack with a 30-day guarantee](https://thepowercoffee.com/pages/betterday)
 
 ### Image Prompt
 
-A man in his early 40s sitting at a home office desk in the late afternoon, one hand on his keyboard, the other pressing his fingers to his temple with eyes half-closed — the universal posture of the 2pm fog. Warm amber side light from a window behind him, long shadows across the desk. A matte black bag of coffee supplement is visible open on the desk corner, slightly out of focus. The room has warm wood tones and a second monitor in the background showing a spreadsheet. Mood is real and relatable, not dramatic. Negative space in upper third for headline overlay. No text in frame. Aspect ratio 16:9. Shot as if by a documentary photographer. Warm muted tones, film grain, authentic.
+A focused man in his early 40s sitting at a home office desk in warm afternoon light, one hand resting on a keyboard and the other wrapped around a ceramic mug. His posture is alert and engaged, not tense. A second monitor glows softly in the background. A matte black supplement bag sits open on the corner of the desk, slightly out of focus. Warm espresso-brown and cream tones. Natural side lighting from a window. Shallow depth of field. Negative space in the upper third for text overlay. No text in frame. Shot for a Shopify blog featured image, 16:9. --ar 16:9
 
 ---
 
 ## EMAIL
 ### Subject Line
-
-The 2pm crash — and the easiest fix
+Your 2pm crash has a fix
 
 ### Preview Text
-
-One month of near-zero tracked sales. Here is the honest reason, and what is changing.
+It's not the amount of coffee. It's what's missing from it.
 
 ### Body
 
-Hey,
+---
 
-Let me be straight with you to start the week.
+**The Power Coffee — Monday, August 3**
 
-July had near-zero tracked sales for Power Coffee. Not because the product stopped working. Because I never built a real, clear path for people to buy it. No structured offer. No attributed link. No reason to act today.
+---
 
-That is a founder problem. I am owning it.
+You already know the moment.
 
-This week I am fixing the engine in public — starting with the one thing most of you have told me is the reason you opened this email in the first place: the 2pm crash.
+It's 2pm. You've had two — maybe three — coffees. And you're still foggy. The afternoon you planned is quietly slipping. You're not lazy. You're not weak. You're running on an ingredient stack that was never designed to hold past noon.
 
-Not enough caffeine is not the issue. The architecture of what is in your cup is.
+Regular coffee does one thing: caffeine. No support structure. No extended energy curve. Just a spike and a drop, right on schedule.
 
-So here is the lowest-friction way to start.
+I built Power Coffee because I lived that exact crash for years. One scoop added to your morning cup changes the architecture of your whole day. Steady energy. Real focus. No second-half collapse.
 
-The Better Day bundle gets you a free 10 Shakes recipe book and a 15-day pack to try the formula for yourself. Thirty-day guarantee. No risk.
+The easiest way to start is the 15-day pack — and right now it comes with the free 10 Shakes recipe book so you have a full week of ways to use it. Backed by a 30-day guarantee.
 
-[Start with the Better Day bundle](https://thepowercoffee.com/pages/betterday)
+[Start here — 15-day pack + free recipe book](https://thepowercoffee.com/pages/betterday)
 
-This week matters. I hope you will follow along.
+One scoop. One week. Tell me what your 2pm looks like after.
 
-Leo
+— Leo
 
 ---
 
@@ -225,48 +221,65 @@ cinematic_studio_3_0
 
 ### Prompt
 
-A man in his mid-30s sits alone at a kitchen table at 5am, early dawn light barely breaking through the window behind him. He has a small notebook open and a matte black bag of coffee supplement on the table. He is not looking at the camera — he is looking at the notebook, jaw set, thinking. He picks up a pen, writes something, pauses. The camera does a slow, almost imperceptible push in toward his face, handheld with slight natural drift. His expression is calm but carries weight — the look of someone who has decided something. The room is dark except for a single warm lamp beside him and the blue pre-dawn glow at the window. Color grade: desaturated shadows, warm amber midtones, slightly crushed blacks. Mood: documentary, intimate, honest. No text in frame. No product as hero — the bag sits naturally on the table as part of the scene. Authentic, not produced.
+A man in his early 40s sits at a home office desk in warm afternoon light, elbows on the desk, rubbing his eyes with both hands — the unmistakable posture of someone hitting the wall at 2pm. A coffee mug sits to one side, mostly empty. He lowers his hands, looks at the desk for a beat, then slowly reaches for a matte black supplement bag, opens it, and adds one scoop to a fresh cup. His posture changes as he sits back — shoulders drop, breath settles, a quiet return to focus. Camera begins with a slow push-in on his face during the crash moment, then pulls back slightly to a medium shot as he adds the scoop, ending on a still frame of him back at the keyboard, calm and present. Warm espresso-brown and cream color grade. Late afternoon natural light through a window. Handheld with minimal drift — grounded, not shaky. No text overlays. No graphics. Authentic, not over-produced. Documentary warmth.
 
 ---
 
 ## REELS — Founder Vlog Script
 **Series:** Building Power Coffee — Ep. 4
-**Beat:** Leo opens the week at 5am and owns the near-zero tracked sales, frames the week as fixing the offer in public.
-**Title formula:** Why I had near-zero sales last month | 5am Monday and the decision to fix it
-**Duration:** 38s · **Setting:** Kitchen table, 5am, one warm lamp, notebook and the bag on the table in frame naturally
+**Beat:** Leo opens on the 2pm crash he used to hit himself (third coffee, useless by mid-afternoon), tells the viewer 'I was exactly where you are' before revealing he built the fix, then frames the week as finally putting it in front of people like them.
+**Title formula:** Why I stopped blaming the caffeine | The afternoon I decided to build something
+**Duration:** 35-42s · **Setting:** Leo at his desk or standing in his home office, natural light, the Power Coffee bag visible but not centered — sitting open on the desk as if mid-use
+
+---
 
 **HOOK (0-3s, text on screen + spoken):**
-"I made almost nothing last month. And I already know why."
+"Third coffee. Still useless by 2pm. I was exactly where you are."
+
+*On-screen text: THIRD COFFEE. STILL CRASHING.*
+
+---
 
 **BODY (speak exactly this):**
-"It is five in the morning. Monday. I have been sitting here for about twenty minutes looking at July's numbers.
 
-Near-zero tracked sales.
+"For years I blamed myself. Not enough sleep, not enough discipline, not enough caffeine. I kept adding more. It never worked.
 
-Not because the product does not work. I drink it every single day. I have people who come back for it. But there was no real offer in front of anyone. No clear page, no reason to act today, no attribution path so I could even see who was buying and from where.
+The crash wasn't a me problem. It was a missing-ingredient problem. Coffee alone doesn't hold past noon — there's nothing in it to extend the curve.
 
-That is not a product problem. That is me not doing the job of getting out of my own way.
+So I spent two years building a fix. Five formula versions. Real testing. This cup right here — this is what I built.
 
-So this week I am building the offer in public. I am going to show every step. What breaks, what works, what the numbers say.
+I've been drinking it every morning for over 600 days. The afternoon crash is gone.
 
-The bag is on the table. The week starts now."
+This week I'm finally putting it in front of people who are in the exact place I was. The offer goes live today.
+
+If you've been hitting that 2pm wall — this week's for you. Follow along."
+
+---
 
 **CTA (last 5s):**
-"Follow the build. Comment any question you have — I will answer this week."
+"Follow the build. Drop a comment if you know that crash. I read every one."
 
-**B-ROLL:** notebook open on the kitchen table with a pen resting on it, the matte black Power Coffee bag sitting naturally next to a ceramic mug mid-scoop, Leo's hands typing on a laptop in the low lamp light at dawn
+---
+
+**B-ROLL:** Leo adding a scoop to his cup at the desk, close-up of his hand steadying the mug while looking at his screen, wide shot of the home office with the Power Coffee bag open on the corner of the desk
 
 **CAPTION:**
-Near-zero tracked sales last month. Not the product — me.
-This week I fix the offer in public. Follow every step.
+Third coffee. Still crashing at 2pm. That was me for years.
+
+I built the fix. This week I'm putting it in front of people exactly like me.
+
+The offer goes live today — and the story behind it starts right here.
+
 https://thepowercoffee.com/pages/betterday
-#buildingInPublic #founderreality #powercoffee #cleanenergy #startupfounder
+
+#powercoffee #buildingpublicly #founderstory #cleanenergy #2pmcrash
+
 Ep. 4 — Building Power Coffee
 
 **ON-SCREEN TEXT:**
-- 0-3s: "I MADE ALMOST NOTHING LAST MONTH"
-- 12s: "NO REAL OFFER. NO ATTRIBUTION. NO PATH TO BUY."
-- 30s: "FIXING IT IN PUBLIC — THIS WEEK"
+- [0-3s] THIRD COFFEE. STILL CRASHING.
+- [10s] "the crash wasn't a me problem"
+- [28s] OFFER GOES LIVE THIS WEEK
 
 ---
 
@@ -427,5 +440,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `instagram.mp4` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A man in his mid-30s sits alone at a kitchen table at 5am, early dawn light barely breaking through the window behind him. He has a small notebook open and a matte black bag of coffee supplement on the table. He is not looking at the camera \u2014 he is looking at the notebook, jaw set, thinking. He picks up a pen, writes something, pauses. The camera does a slow, almost imperceptible push in toward his face, handheld with slight natural drift. His expression is calm but carries weight \u2014 the look of someone who has decided something. The room is dark except for a single warm lamp beside him and the blue pre-dawn glow at the window. Color grade: desaturated shadows, warm amber midtones, slightly crushed blacks. Mood: documentary, intimate, honest. No text in frame. No product as hero \u2014 the bag sits naturally on the table as part of the scene. Authentic, not produced.\n\n---", "text_overlay": "I MADE ALMOST NOTHING LAST MONTH"}, "carousel": [{"prompt": "A man in his mid-30s sits alone at a kitchen table at 5am, early dawn light barely breaking through the window behind him. He has a small notebook open and a matte black bag of coffee supplement on the table. He is not looking at the camera \u2014 he is looking at the notebook, jaw set, thinking. He picks up a pen, writes something, pauses. The camera does a slow, almost imperceptible push in toward his face, handheld with slight natural drift. His expression is calm but carries weight \u2014 the look of someone who has decided something. The room is dark except for a single warm lamp beside him and the blue pre-dawn glow at the window. Color grade: desaturated shadows, warm amber midtones, slightly crushed blacks. Mood: documentary, intimate, honest. No text in frame. No product as hero \u2014 the bag sits naturally on the table as part of the scene. Authentic, not produced.\n\n---", "text_overlay": "I MADE ALMOST NOTHING LAST MONTH"}]}
+{"story": {"prompt": "A man in his early 40s sits at a home office desk in warm afternoon light, elbows on the desk, rubbing his eyes with both hands \u2014 the unmistakable posture of someone hitting the wall at 2pm. A coffee mug sits to one side, mostly empty. He lowers his hands, looks at the desk for a beat, then slowly reaches for a matte black supplement bag, opens it, and adds one scoop to a fresh cup. His posture changes as he sits back \u2014 shoulders drop, breath settles, a quiet return to focus. Camera begins with a slow push-in on his face during the crash moment, then pulls back slightly to a medium shot as he adds the scoop, ending on a still frame of him back at the keyboard, calm and present. Warm espresso-brown and cream color grade. Late afternoon natural light through a window. Handheld with minimal drift \u2014 grounded, not shaky. No text overlays. No graphics. Authentic, not over-produced. Documentary warmth.\n\n---", "text_overlay": "YOUR 2PM CRASH IS A LIE"}, "carousel": [{"prompt": "A man in his early 40s sits at a home office desk in warm afternoon light, elbows on the desk, rubbing his eyes with both hands \u2014 the unmistakable posture of someone hitting the wall at 2pm. A coffee mug sits to one side, mostly empty. He lowers his hands, looks at the desk for a beat, then slowly reaches for a matte black supplement bag, opens it, and adds one scoop to a fresh cup. His posture changes as he sits back \u2014 shoulders drop, breath settles, a quiet return to focus. Camera begins with a slow push-in on his face during the crash moment, then pulls back slightly to a medium shot as he adds the scoop, ending on a still frame of him back at the keyboard, calm and present. Warm espresso-brown and cream color grade. Late afternoon natural light through a window. Handheld with minimal drift \u2014 grounded, not shaky. No text overlays. No graphics. Authentic, not over-produced. Documentary warmth.\n\n---", "text_overlay": "YOUR 2PM CRASH IS A LIE"}]}
 ```
