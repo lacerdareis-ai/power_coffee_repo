@@ -8,6 +8,7 @@ Power Coffee is becoming a **desire brand** (see brand.md → Desire-Brand Strat
 4. **Drive the #FirstWin ritual + belonging** — invite UGC ("post your first win"); frame drinking it as joining the "wins their morning" club.
 5. **Price = democratization** when relevant: "elite morning, $1.26" vs $5 latte / $35 mushroom coffee.
 6. **Stay in our lane:** discipline · performance · presence. Never "indulgent treat."
+7. **Client-focus + similarity story (added 2026-08-01, per Leo — the most important rule for reach).** Every piece must (a) open with a STRONG HOOK that names the *client's* lived experience (the 2pm crash, the third coffee that isn't working, the afternoon they lose), so the reader recognizes themselves in the first line, and (b) carry a STORY that engages the client through SIMILARITY — the reader sees their own situation mirrored. The similarity is the **shared problem with the customer** (same crash, same 4pm fog), NOT a founder-to-founder or business-journey angle. When the founder is the narrator, the bridge is "I was exactly where you are — same 2pm crash," never "if you've ever built something." The client is the hero; the founder and the product are in service of the client's story. If a hook or story would only resonate with other founders/marketers instead of the coffee customer, rewrite it.
 
 ## ✍️ Anti-AI-Slop Writing Rules (apply to ALL copy — added 2026-07-01)
 Adopt the writing-quality rules from the `no-ai-slop` skill. Keep our brand voice (calm high-performance mentor) — this is about quality, not adopting a different persona. Non-negotiables:
@@ -20,14 +21,27 @@ Adopt the writing-quality rules from the `no-ai-slop` skill. Keep our brand voic
 7. **Vary sentence and paragraph length.** No three identical-shape lines in a row.
 8. **Read it before it publishes.** If a line could sit on any brand's post, rewrite it so only Power Coffee could have said it.
 
-## Active Campaign — July 2026 (Jul 9–31)
+## ⚡ Persuasion Principles (apply to landing pages + CTA/offer copy — added 2026-08-07)
+Use these to dramatize value that is genuinely there. Honesty guardrails apply: real prices/scarcity/SKUs only, never fabricated.
+1. **Sell emotions, not features.** Lead with the felt outcome (steady, sharp, no crash), not mg/ingredients. Reinforces persona-first.
+2. **Framing.** Positive phrasing: "no crash" not "less crash"; "keep the recipes either way".
+3. **Affordability illusion.** Price in the smallest honest unit: "$1.26 a morning", not "$18.90 / 15 days".
+4. **Rule of 3.** Offer three tiers (15-day / 45-day / subscription), one flagged "most popular", never two.
+5. **Contrast.** Set the offer next to a pricier option: "$5 latte or $35 mushroom coffee vs $1.26 a morning".
+6. **Paradox of choice.** Max 3 options, one clearly recommended. No wall of variants.
+7. **Anchoring.** Show the REAL regular price struck through next to the offer price (no fake MSRP).
+8. **Endowment.** 30-day guarantee, "try it a week", free 10-Shakes book they get instantly, so they feel ownership before committing.
 
-**Goal:** 100 packs sold in July.
-**Offer:** Buy 2 bags, get 1 free. **Code FOURTH** at thepowercoffee.com/pages/betterday. Expires Jul 31.
-**Inject into:** all P6 CTAs, X posts, Telegram messages, LinkedIn buyer-invite posts, Shopify blog footers, email campaigns.
-**Angle:** Radical transparency — Leo sharing the goal publicly (highest-ER LENS format). Make the audience feel like they're part of hitting the number. "I set a goal. Here's your part."
-**Email sequence:** launch Jul 9, mid Jul 16, close Jul 28 — `email_campaign_july100.py`.
-**Do NOT inject into:** P2 ingredient science hooks or P3 founder proof hooks (don't let the offer dilute the trust-building content; only place it at the close/CTA moment of each piece).
+## Active Campaign — August 2026 (launch, from Aug 1)
+
+**Goal:** 100 sales in August (Amazon ~60 + DTC ~40). Full plan: `growth_playbooks/august_2026_100_sales_plan.md`.
+**Offer:** the 15-day pack ($18.90) or 45-day ($49.90) at thepowercoffee.com/pages/betterday, with the free "10 Power Coffee Shakes" recipe book as the bonus on every order. 30-day money-back guarantee.
+**Urgency:** first 100 August orders ship free. ⚠️ Confirm with Leo before running. **Code:** AUGIG (confirm value in Shopify).
+**Inject into:** all P6/cta CTAs, X post last lines, Telegram, LinkedIn buyer-invite posts, Shopify blog footers, email campaigns.
+**Angle:** persona-first (the 2pm crash, one scoop into the coffee you already make, burned by supplements before) plus radical transparency (July was near-zero tracked sales, Leo owns it and fixes the offer in public). Certification is the receipt, never the pitch.
+**Assets:** captioned UGC creator Reel at `daily_content/_brand_kit/ugc_august2026/ugc_julia_2pm_crash_9x16_captioned.mp4`. Email nurture: `growth_playbooks/august_email_nurture_sequence.md`. Meta ad set: `august_meta_ad_set.md`.
+**Do NOT inject into:** P2 ingredient science hooks or P3/pessoal founder proof hooks (don't let the offer dilute trust-building content; only place it at the close/CTA moment of each piece).
+**Claims guardrail:** no protein grams, no mg counts, no vanilla. "4.9 stars / 112 verified buyers" is the Amazon figure; reconcile the 4.5 shown on the 10shakes page.
 
 ---
 
@@ -65,6 +79,8 @@ The week should build a purchase funnel, not just a content calendar:
 
 **3-Reel week rule (updated Jun 2026):**
 Minimum 3 Reels per week on Instagram — Mon, Wed, Fri. If no video asset exists for a given day, skip that day's Instagram feed post entirely. Do not substitute a carousel or static for a Reel slot. One filming session (Sunday night) should produce all 3 Reels via different cuts.
+
+**Weekly UGC reel (added 2026-07-31):** Produce **1 creator-style UGC reel per week** and publish it as the **Wednesday** Reel (best time ~11:00-12:00, so the 2pm-crash message lands before the afternoon slump). Wednesday's Mon founder → UGC → Fri offer flow warms cold viewers before the CTA. Creation is the Higgsfield ugc-flow with Claude (SOP: `growth_playbooks/ugc_weekly_sop.md`); a Sunday-17:00 cron (`run_ugc_reminder.sh`) nudges it. Drop the captioned 9:16 mp4 as `instagram.mp4` in Wednesday's folder. It is an illustrative ad, never a fabricated testimonial.
 
 ---
 
@@ -564,6 +580,87 @@ The Friday P6 post is the closest content to purchase intent in the entire week 
 | Carousels | 7 | 14 | 1.3 | 0.1 | 11.6% |
 
 *Baseline will sharpen as more posts age into stable analytics. Reels lead on reach by approximately 10x; Carousels lead on ER. This is the core tension to manage going forward.*
+
+---
+
+
+### LENS Update — Jul 27–Jul 31, 2026
+
+**Week-over-Week momentum:**
+| Metric | Jul 27–Jul 31, 2026 | Jul 20–Jul 24, 2026 | Δ |
+|--------|---------------------|---------------------|---|
+| Posts with analytics | 1 | 4 | -3 |
+| Days with publish | 5/5 | 5/5 | +0 |
+| Reels published | 0 | 2 | -2 |
+| Carousels published | 1 | 2 | -1 |
+| Avg Reach | 6 | 69 | -91% |
+| Avg ER | 0.00% | 12.84% | -12.84 pp |
+| Best Reach | 6 | 224 | -218 |
+| Best ER | 0.00% | 33.33% | -33.33 pp |
+
+**Interpretation:** The headline numbers look catastrophic but are almost entirely a data-maturity problem, not a performance collapse — four of five posts were published within the final days of the export window and simply have not accumulated impressions yet. The one post with data (Jul 28, B2B carousel) is the worst possible test case: a wholesale-acquisition piece aimed at a retail-o
+
+**Patterns confirmed this week:**
+1. **Publish at least one Reel, and make it the Monday or Wednesday slot.** The algorithm rewards Reels with discovery-reach that Stories and Carousels cannot match. Use the P1 Problem Hook or P3 Founder Proof pillar — both have proven Reel performance in prior weeks. The "600 days" angle is strong enough for a Reel if a shot exists.
+
+2. **Move B2B / wholesale content off Instagram organic and onto LinkedIn.** Leo's personal LinkedIn profile is the correct distribution channel for the retail partner invite. If a B2B Instagram asset is needed, run it as a paid placement with a local-business audience targeting layer — never as an organic post to a consumer audience. Reclaim Tuesday's slot for a consumer-facing format.
+
+3. **Replace Story formats with Carousels for P3 and P5 pillars.** Social proof and founder proof are trust-builders that work through repeated exposure and searchability. A carousel stays on the profile, gets saved, and can be reshared. A Story disappears. If a Story is used, it should be additive (e.g., a CTA story layered on top of a same-day carousel), never the primary format for a high-value pillar.
+
+---
+
+**Updated baseline:**
+*Based on all analytics-confirmed data available across the Sales Motor period. Posts with zero confirmed analytics are excluded from averages to avoid distorting the baseline.*
+
+| Format | Posts (confirmed) | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|--------|-------------------|-----------|-----------|--------------|--------|
+| Reels | ~5 | ~180 | ~5.2 | ~1.4 | ~6.8% |
+| Carousels | ~6 | ~52 | ~1.8 | ~0.3 | ~5.1% |
+| Stories | Not indexed | — | — | — | — |
+
+**Note:** Baseline is approximated from prior LENS reports and available CSV data. Stories do not generate persistent analytics in the current export schema and cannot be baselined. Exact figures will sharpen as more weeks accumulate confirmed data.
+
+---
+
+
+### LENS Update — Aug 3–Aug 7, 2026
+
+**Week-over-Week momentum:**
+| Metric | Aug 3–Aug 7, 2026 | Jul 27–Jul 31, 2026 | Δ |
+|--------|-------------------|---------------------|---|
+| Posts with analytics | 3 | 2 | +1 |
+| Days with publish | 5/5 | 5/5 | +0 |
+| Reels published | 2 | 0 | +2 |
+| Carousels published | 1 | 2 | -1 |
+| Avg Reach | 145 | 8 | +1,712% |
+| Avg ER | 6.27% | 15.00% | −8.73 pp |
+| Best Reach | 313 | 10 | +303 |
+| Best ER | 12.50% | 30.00% | −17.50 pp |
+
+**Interpretation:**
+
+Reach exploded. A 1,712% increase in average reach is the single clearest signal this week — the shift from carousels to Reels is directly responsible. Reels get distributed; carousels, at this account size, do not. That is not an opinion; it is what the numbers say across both weeks.
+
+The ER drop from 15.00% to 6.27% is real but should not alarm. Last week's high ER
+
+**Patterns confirmed this week:**
+**1. Lead every Reel hook with a felt present-tense scene, not a correction.** Replace "You are not tired because you need more caffeine" with something like "3pm. Second coffee done. Still staring at the same sentence." Put the viewer inside the moment before explaining anything. The Aug 5 Reel won because it felt real; the Aug 4 Reel lost because it sounded explanatory.
+
+**2. Prioritize third-party creator footage for at least two of the five posts.** The Malik Reel (313 reach, 3 shares) beat every other post this week. Get another creator-filmed piece into Monday or Tuesday — the high-reach slots where the algorithm has the most runway to distribute before the week's content competes with itself.
+
+**3. Resolve the multi-platform distribution block before next Friday.** X and LinkedIn copy is being written and then siloed. If a technical or scheduling constraint is causing the skip, identify it and fix one platform this week — start with X, where the copy is already drafted and the format requires no additional creative. Dark platforms mean the Friday CTA post (P6) only reaches Instagram followers, which limits revenue correlation entirely.
+
+---
+
+**Updated baseline:**
+*Based on posts with confirmed analytics data across the Sales Motor period.*
+
+| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|--------|-------|-----------|-----------|--------------|--------|
+| Reels | 2 | 213 | 7.5 | 0 | 3.16% |
+| Carousels | 1 | 8 | 0 | 1 | 12.50% |
+
+**Baseline caveat:** This is a 3-post sample with a mismatched Aug 3 post ID noted above. The Carousel ER of 12.50% is one comment on a reach of 8 — statistically unreliable. Reels are the valid baseline at this stage. Revisit after 8–10 posts per format accumulate.
 
 ---
 

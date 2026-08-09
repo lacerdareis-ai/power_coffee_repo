@@ -458,4 +458,34 @@ At 8 reach, this is too small a sample to draw conclusions, but it did not zero 
 
 ---
 
+
+### LENS Update — Jul 27–Jul 31, 2026
+
+**Audience insights this week:**
+1. **Publishing discipline held at 5/5.** Every day had a confirmed publish confirmation with an Instagram post ID. This is not trivial — the motor is running even in a week with format and strategy noise. Consistency is the substrate everything else is built on.
+
+2. **Pillar rotation was maintained.** P1, B2B, P3, P5, and P6 across five days reflects intentional pillar sequencing rather than defaulting to the same content type repeatedly. The strategic awareness is present even if execution had gaps.
+
+3. **Founder Proof (Jul 29) hits a proven winning pattern.** The "600 days of drinking my own product" angle directly maps to the established pattern: *specificity + anti-marketing framing drives credibility.* Prior data shows this pillar outperforms when the day count is stated plainly. If this post's data matures well, it is the candidate most likely to be this week's best performer.
+
+4. **Friday CTA carousel (Jul 31) uses the right identity-led frame.** "YOUR BEST DAYS DON'T HAPPEN BY ACCIDENT" leads with outcome and identity, not ingredients — consistent with the Desire-Brand shift. This is the correct direction.
+
+---
+
+
+### LENS Update — Aug 3–Aug 7, 2026
+
+**Audience insights this week:**
+**1. Reels are the reach engine — confirmed.** Aug 5 pulled 313 reach in one day. Prior carousel posts at this account age were reaching 8–10. The format decision is settled: Reels drive distribution; everything else is supplementary.
+
+**2. Third-party creator footage outperforms direct brand video.** The Malik city-street Reel (313 reach, 14 likes, 3 shares) beat the UGC-Julia Reel (114 reach, 1 like) on every metric. Authenticity markers — a real person, a real location, no studio polish — are doing more work than scripted content right now.
+
+**3. Shares are appearing.** The Aug 5 post earned 3 shares on a 313-reach account. At this scale, that is a meaningful signal. Shares are the only organic amplification mechanism available; a 0.96% share rate (3/313) on a very young account is above expectation.
+
+**4. Publishing discipline held at 5/5.** Two consecutive weeks of full five-day cadence. No missed days, no late publishes visible in the confirmation files. The pipeline is reliable. This is the foundation everything else builds on.
+
+**5. P3 Founder Proof is the top pillar this week.** This matches the historical pattern in the Winning Patterns Log (May 20 Reel with Ironman/family angle was highest reach in the prior period). Real context, real stakes, real people on camera — this pillar consistently overperforms.
+
+---
+
 <!-- LENS_APPEND_END -->

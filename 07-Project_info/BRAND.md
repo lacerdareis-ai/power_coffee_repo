@@ -1,5 +1,16 @@
 # Brand — The Power Coffee
 
+## ⭐ CONTENT NORTH STAR (mandatory — applies to every piece of content)
+
+**Lead with the PERSONA and THEIR PROBLEM, never the product or its ingredients.** Customers do not care how many ingredients it has, the mg of caffeine, or the ingredient science. They care about solving their **energy and focus problems** — the 2pm crash, the third cup that isn't working, the afternoon fog, the day that falls apart by mid-afternoon.
+
+- **Hook** on the persona's real moment: the pain (drained, foggy, wired-but-tired) or the solved outcome (steady energy, real focus, a day that holds).
+- **Ingredients/specs are a receipt, not the pitch.** They may appear later as quiet supporting proof — NEVER as the headline, the opening line, or the point of the post.
+- Talk about the customer and their life, not about the brand and its formula.
+- **Visuals:** show the persona living the problem or the solved outcome (focused, energized, in flow) — not the product as hero, and never brewed coffee/mugs/beans (Power Coffee is a supplement/booster added to coffee, not coffee itself).
+
+This overrides any older section below that leads with product features or ingredient lists.
+
 ## Identity
 
 - **Name:** The Power Coffee
@@ -34,6 +45,21 @@
 - Faith-aligned values can be referenced subtly (purpose, discipline, service) without being preachy
 - Direct and practical — avoid fluff
 - Calm confidence over hype
+
+## Founder Hooks (use on P3 — Founder Proof pillar days)
+
+Curated first-person hook openers for founder-voice content — personal stakes/origin/confession, not generic guru-listicle framing. Fill in with Leo's real numbers/experience, don't leave brackets unfilled. Full 473-hook swipe file (all pillars, not just founder) lives in PC Brain → [[Viral Hooks Swipe File]] if these don't fit.
+
+- A tiny {thing} that changed my {what changed}. (e.g. "A tiny secret that changed my life.")
+- {Number} things I wish I knew when I started {Power Coffee / this routine / etc}
+- How I {result/outcome}
+- Nobody showed me how to {outcome}. Here are the {number} things I wish someone told me when I started out.
+- I {an achievement}. Recently, I {a bigger achievement}. Here's what I did.
+- I had {pain point} for {period}, and these are the things that actually helped me fix it.
+- If I had to start {X} from zero, here's what I'd do to {outcome} in less than {period}.
+- This is a day in my life as {role/founder}...
+- How much does Power Coffee actually make? Let's talk about it because transparency matters. Hi, I'm Leo...
+- Here's the 1st episode of "I made mistakes" — expensive ones, so you don't have to. (batch/formula/business mistakes)
 
 ## Compliance — FDA/FTC Guardrails
 

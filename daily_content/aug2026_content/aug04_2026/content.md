@@ -3,67 +3,18 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
 ---
 
 ## INSTAGRAM
-### Carousel Copy
-
-**Slide 1:**
-You hit 3pm and the fourth cup still does nothing.
-That is not a willpower problem. That is a caffeine problem.
-
----
-
-**Slide 2:**
-Here is what caffeine does alone.
-
-It blocks the signal that tells your brain you are tired. Energy spikes fast. You feel it. Then it wears off. The tired signal floods back, stronger than before. That is the crash. Another cup resets the clock by about forty minutes. Then it happens again.
-
----
-
-**Slide 3:**
-One scoop changes the equation.
-
-Add taurine and your brain does not get overstimulated when the caffeine kicks in. The sharpness is there. The edge is not.
-
----
-
-**Slide 4:**
-Add matcha.
-
-Matcha carries its own caffeine with a compound that slows absorption. Energy comes up gradually, stays level for hours, and does not drop off a cliff at 3pm. This is why green tea drinkers do not crash the way coffee drinkers do.
-
----
-
-**Slide 5:**
-Add thermogenic spices.
-
-Cinnamon and related spices support how your body uses what it is already burning. Less wasted energy. More of it available when you actually need it, mid-afternoon.
-
----
-
-**Slide 6:**
-The receipt.
-
-Natural caffeine. Taurine. Matcha. Ginkgo. Thermogenic spices. One scoop into the coffee you already make.
-
-Same ritual. A completely different afternoon.
-
----
-
-**Slide 7 (CTA):**
-Try the starting offer and get the free recipe book included.
-
-@powercoffee.ofc
-thepowercoffee.com/pages/betterday
-
-Save this post. Your 3pm self will remember it.
-
----
+### Reel Script (UGC creator video)
+**Asset:** ugc_julia_2pm_crash_9x16_captioned.mp4 (dropped as instagram.mp4). Captioned UGC creator reel, 9:16, 15s. Muted-autoplay friendly.
+**Spoken:** "Real talk. If you're on your third coffee before 2pm, that's not you. That's just caffeine. It spikes, then crashes. This is one scoop you add to your coffee. Independently certified. No crash. Try it a week."
+**Cover phrase:** THIRD COFFEE. STILL CRASHING.
+**Engagement prompt:** What time does your afternoon crash hit? Comment below.
 
 ### Caption
 You are not tired because you need more caffeine.

@@ -94,7 +94,7 @@ No protein to keep blood sugar stable. No taurine to protect the neurons from ov
 
 Most people solve this by drinking more coffee. That's not a solution. That's a dependency loop.
 
-When I built Power Coffee, I started with one question: what does sustained focus actually require at the ingredient level?
+When we built Power Coffee, we started with one question: what does sustained focus actually require at the ingredient level?
 
 The answer wasn't more caffeine. It was eleven specific ingredients working together — including things most coffee drinkers have never heard of.
 

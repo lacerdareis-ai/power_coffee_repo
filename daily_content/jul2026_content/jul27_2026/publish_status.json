@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-27",
+  "platforms": {
+    "x": {
+      "status": "ok",
+      "at": "2026-07-27 04:00"
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-07-27 12:00",
+      "reason": "disabled"
+    },
+    "telegram": {
+      "status": "ok",
+      "at": "2026-07-27 04:00"
+    },
+    "whatsapp": {
+      "status": "failed",
+      "at": "2026-07-27 04:00",
+      "error": "timeout \u2014 session may need re-auth (run: node whatsapp_sender.js --auth)"
+    },
+    "instagram": {
+      "status": "ok",
+      "at": "2026-07-27 12:00"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-07-27 12:00",
+      "reason": "no story.mp4 in today's folder"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-07-27 12:00",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "ok",
+      "at": "2026-07-27 04:00"
+    },
+    "shopify": {
+      "status": "skipped",
+      "at": "2026-07-27 12:00",
+      "reason": "not in --platform list"
+    },
+    "email": {
+      "status": "ok",
+      "at": "2026-07-27 04:00"
+    }
+  }
+}

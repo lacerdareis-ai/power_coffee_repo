@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -12,11 +12,11 @@
 ## INSTAGRAM
 ### Story Copy
 **Headline:**
-I DRINK MY OWN PRODUCT
+YOU HAVE TO TRY IT!
 
-**Subtext:** Every single day. Here's why that matters.
+**Subtext:** Seriously — one scoop and you'll get it.
 
-**Sticker suggestion:** Poll — "Would you trust a founder who doesn't use their own product?" YES / HARD NO
+**Sticker suggestion:** Poll — "Have you tried Power Coffee yet?" YES / NOT YET
 
 ---
 
@@ -33,7 +33,7 @@ The product has to work on me before it earns the right to work on you.
 
 That's the only standard I've kept from day one.
 
-→ Link in bio to try it.
+→ thepowercoffee.com
 
 ---
 
@@ -355,5 +355,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `story.jpg` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A man in his mid-30s standing alone in a dimly lit kitchen at 4:50am, holding a matte black coffee bag in one hand and a ceramic mug in the other. He is not looking at the camera \u2014 his gaze is downward, composed, purposeful. Warm tungsten lamp light from above. Blue-grey pre-dawn light bleeding in through a window behind him. The scene feels like a private ritual, not a performance. Espresso brown, deep black, and warm gold color palette. High contrast between the lit foreground and dark background. Product bag visible and legible but not centered. Negative space in upper 35% of frame for text overlay. No text rendered in the image. Cinematic grain. 9:16 vertical portrait orientation.\n\n---", "text_overlay": "I DRINK MY OWN PRODUCT"}, "carousel": [{"prompt": "A man in his mid-30s standing alone in a dimly lit kitchen at 4:50am, holding a matte black coffee bag in one hand and a ceramic mug in the other. He is not looking at the camera \u2014 his gaze is downward, composed, purposeful. Warm tungsten lamp light from above. Blue-grey pre-dawn light bleeding in through a window behind him. The scene feels like a private ritual, not a performance. Espresso brown, deep black, and warm gold color palette. High contrast between the lit foreground and dark background. Product bag visible and legible but not centered. Negative space in upper 35% of frame for text overlay. No text rendered in the image. Cinematic grain. 9:16 vertical portrait orientation.\n\n---", "text_overlay": "I DRINK MY OWN PRODUCT"}]}
+{"story": {"prompt": "A man in his mid-30s standing alone in a dimly lit kitchen at 4:50am, holding a matte black coffee bag in one hand and a ceramic mug in the other. He is not looking at the camera \u2014 his gaze is downward, composed, purposeful. Warm tungsten lamp light from above. Blue-grey pre-dawn light bleeding in through a window behind him. The scene feels like a private ritual, not a performance. Espresso brown, deep black, and warm gold color palette. High contrast between the lit foreground and dark background. Product bag visible and legible but not centered. Negative space in upper 35% of frame for text overlay. No text rendered in the image. Cinematic grain. 9:16 vertical portrait orientation.\n\n---", "text_overlay": "YOU HAVE TO TRY IT!"}, "carousel": [{"prompt": "A man in his mid-30s standing alone in a dimly lit kitchen at 4:50am, holding a matte black coffee bag in one hand and a ceramic mug in the other. He is not looking at the camera \u2014 his gaze is downward, composed, purposeful. Warm tungsten lamp light from above. Blue-grey pre-dawn light bleeding in through a window behind him. The scene feels like a private ritual, not a performance. Espresso brown, deep black, and warm gold color palette. High contrast between the lit foreground and dark background. Product bag visible and legible but not centered. Negative space in upper 35% of frame for text overlay. No text rendered in the image. Cinematic grain. 9:16 vertical portrait orientation.\n\n---", "text_overlay": "YOU HAVE TO TRY IT!"}]}
 ```

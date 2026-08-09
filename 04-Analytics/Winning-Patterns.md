@@ -38,6 +38,9 @@
 | Pain-first ingredient lead without naming ingredient | "Your coffee has caffeine. That's it. Here's what it's missing." — Jul 7 Carousel | Confirms the viewer's existing knowledge (caffeine — true), then opens a gap ("that's it") without naming the solution yet. Follows pain-first pattern but delays the ingredient reveal longer, increasing scroll-through to Slide 2. | Jul 7, 2026 |
 | Formulation defense hook | "They wanted to cut L-theanine from the formula. Said most people wouldn't notice." | Names an internal corporate pressure, implies Leo fought back on the customer's behalf, and creates instant credibility without any product claim. Drove 28.57% ER — highest this week. Mechanic: expose a decision that cost something, frame founder as protector. | Jul 22, 2026 |
 | Present-tense problem hook on Reels drives cold-audience reach | "Three coffees and still running on empty by noon" → 224 reach (best of week, +196 vs prior best) | Confirms that present-tense self-diagnostic hooks, previously validated on static posts, also generate Reel distribution to non-followers. Same pain-first mechanic, now confirmed cross-format. | Jul 20, 2026 |
+| *(none this week — insufficient data to confirm new entries)* | | | |
+| Third-party creator location footage > scripted brand video | Malik city-street Reel: 313 reach, 14 likes, 3 shares vs Julia UGC Reel: 114 reach, 1 like, 0 shares — same week, same format, same platform | Unpolished real-world footage carries authenticity signals the algorithm and the viewer both reward. The location removes the studio, the creator removes the brand, and the result reads as proof rather than promotion. | Aug 5, 2026 |
+| Shares as the early signal for content worth repeating | Aug 5 Reel earned 3 shares at 313 reach (0.96% share rate) — highest share count in the Sales Motor period | At sub-1,000 reach, shares are rare and meaningful. A post that earns shares before it has scale is a post the audience trusts enough to put their name on. Track shares as the leading indicator, not likes. | Aug 5, 2026 |
 ### Template entries:
 - **Price anchor hook:** "$0.73 vs $5.75" — comparison to daily coffee shop spend
 - **Problem-first hook:** "Your coffee is failing you by 2pm" — names the pain immediately
@@ -116,6 +119,8 @@
 | Week 7 (Jun 29–Jul 3, 2026) | — | — | — | — | 5/5 publish days; P3 Reel (610 days) top ER; reach down 80% (recency effect); WhatsApp broken all week |
 | Week 8 (Jul 6–Jul 10, 2026) | — | — | — | — | 1 post with data; pipeline failed 4/5 days; P1 Reel 161 reach 11.18% ER; fix platform flags before Mon |
 | Week 10 (Jul 20–Jul 24, 2026) | — | — | — | — | Reels lifted reach 336%; P3 founder-defense Reel top ER (28.57%); Shopify data absent |
+| Week 11 (Jul 27–Jul 31, 2026) | — | — | — | — | No Reels; 1/5 posts with data; B2B carousel on wrong channel; 4 posts pending maturity |
+| Week 6 (Aug 3–Aug 7, 2026) | — | — | — | — | Reels +1,712% reach; Malik P3 Reel top post (313 reach, 3 shares); ER compression expected at scale |
 
 ---
 
