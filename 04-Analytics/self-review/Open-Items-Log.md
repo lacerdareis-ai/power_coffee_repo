@@ -77,3 +77,13 @@
 
 ## 2026-07-26 self-review
 - 📄 `market.md` stale (58d) — refresh
+
+## 2026-08-09 self-review
+- ⚠️ `morning_brief` — 30 errs, last run 9.0h ago
+- ⚠️ `partner_dm` — 0 errs, last run 102.0h ago
+- ⚠️ `publish` — 31 errs, last run 4.0h ago
+- ⚠️ `qa_poller` — 24 errs, last run Noneh ago
+- ⚠️ `reorder_drip` — 60 errs, last run 4.8h ago
+- ⚠️ `review_drip` — 60 errs, last run 5.0h ago
+- ⚠️ `weekly_plan` — 1 errs, last run 57.0h ago
+- 📄 `market.md` stale (72d) — refresh

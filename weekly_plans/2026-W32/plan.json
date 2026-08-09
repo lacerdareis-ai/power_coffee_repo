@@ -1,0 +1,99 @@
+{
+  "week": "2026-W32",
+  "status": "confirmed",
+  "approved": true,
+  "campaign": "August launch — drive to /pages/betterday, free 10 Shakes ebook as the bonus. See growth_playbooks/august_2026_100_sales_plan.md, august_landing_offer_copy.md, august_meta_ad_set.md, august_email_nurture_sequence.md.",
+  "offer": {
+    "primary_url": "https://thepowercoffee.com/pages/betterday",
+    "bonus": "Free '10 Power Coffee Shakes' recipe book with every order (a $12 value).",
+    "entry_price": "$18.90 (15-day pack)",
+    "value_price": "$49.90 (45-day pack)",
+    "guarantee": "30-day money-back",
+    "urgency": "August: first 100 orders ship free (CONFIRM with Leo before it runs)",
+    "attribution_code": "AUGIG (confirm value in Shopify)",
+    "notes": "Offer + code + ship-free promise need Leo's confirmation. Certification is a receipt, never the pitch. No protein grams, no mg counts, no vanilla. 4.9 stars / 112 verified buyers is the Amazon figure; reconcile the 4.5 shown on the 10shakes page."
+  },
+  "vlog_arc": {
+    "theme": "August launch week — putting a real offer in front of people for the first time after a month of near-zero tracked sales. Own the gap, fix the engine in public.",
+    "beats": {
+      "mon": "Leo opens the week at 5am, formula on the desk, and says it straight: last month I sold almost nothing I could actually track. Not because the coffee failed, because I never put a real offer in front of anyone. This week I fix that in public.",
+      "tue": "Leo explains the one change that matters this month: a real starting offer, the 15-day pack plus the free recipe book, and why he stopped hiding the price. Product in the cup, not pitched.",
+      "wed": "Leo reacts to the first UGC video a creator made for the brand. He talks about hearing his own product described back to him by a stranger, and what 'one scoop into the coffee you already make' really means.",
+      "thu": "Leo reads a real customer review out loud, pauses, and connects it to why he paid to get the formula independently certified: he wanted proof he could stand behind, not louder claims.",
+      "fri": "Leo closes the laptop at 4pm to get the kids, then shares the week's real numbers with no spin (orders, ebook opt-ins) and names the first-100-ship-free push as his line in the sand.",
+      "sat": "A quiet Saturday training session, no music, then a cup at the desk. Leo reflects that a launch is not one big moment, it is showing up with an offer every single day.",
+      "sun": "Leo looks at next week's plan, names the one thing he is most uncertain about (will paid traffic convert), and commits to publishing the number either way."
+    }
+  },
+  "schedule": {
+    "mon": {
+      "ig": {"pillar": "pessoal", "title": "You know the 2pm crash. I lived it for years.", "angle": "Founder Reel 1, but the CLIENT is the hero. Strong hook on the client's own 2pm crash (third coffee, still foggy, the afternoon gone). Similarity bridge: 'I know that crash because I lived it for years before I built the fix', so the viewer sees themselves, not a founder journey. The launch is only the reason to act now (the real offer finally goes live this week), never the point. Product as the receipt. Cover phrase all caps. Engagement prompt asks about THEIR afternoon. CTA to betterday."},
+      "x": {"pillar": "belief_shifting", "title": "More coffee was never the fix for 2pm", "angle": "Sharp declarative that reframes the afternoon crash as an ingredient-architecture problem, not a dosage one. Sets the week's tension. Ends with the betterday URL on the last line."},
+      "li": {"pillar": "pessoal", "title": "Two years of formula, one month of zero tracked sales, and the honest reason", "angle": "Investor-facing building-in-public. The gap was distribution and attribution, not the product. What Leo is changing this month. Pitch the builder, not the product."},
+      "em": {"pillar": "prova", "title": "The 2pm crash, and the easiest way to start", "angle": "Monday branded HTML newsletter. Persona-first: name the afternoon crash, then offer the lowest-friction start, the free 10 Shakes recipe book plus the 15-day pack, 30-day guarantee. Real image and real link, never plain text."},
+      "vlog_beat": "Leo opens on the 2pm crash he used to hit himself (third coffee, useless by mid-afternoon), tells the viewer 'I was exactly where you are' before revealing he built the fix, then frames the week as finally putting it in front of people like them."
+    },
+    "tue": {
+      "ig": {"pillar": "autoridade", "title": "Why one scoop beats a fourth cup", "angle": "Ingredient carousel. Slide 1 is the afternoon-crash hook, not an ingredient name. Teach the spike-then-crash mechanic of caffeine working alone versus steady energy. Hold ingredient names until later slides as the receipt. Final slide CTA to betterday plus the free recipe book and a save prompt."},
+      "x": {"pillar": "pessoal", "title": "I built this for the version of me that was useless by 4pm", "angle": "Founder confession micro-story. The formula was an output and parenting fix before it was a product. Ends with the betterday URL."},
+      "vlog_beat": "Leo explains the one change that matters: a real starting offer plus the free recipe book, and why he stopped hiding the price."
+    },
+    "wed": {
+      "ig": {"pillar": "belief_shifting", "title": "One scoop, no crash (creator, street)", "angle": "UGC creator reel using a DIFFERENT creator than Tuesday (asset dropped as instagram.mp4 = ugc_malik, male creator on a city street holding the pouch). No filming needed. Client-first caption: the afternoon crash, one scoop into the coffee you already make, no jitters, no drop. CTA to betterday. Authentic street UGC (uncaptioned is fine for this style). Engagement prompt asks when their crash hits."},
+      "x": {"pillar": "belief_shifting", "title": "Energy drinks sell volts. This is about the afternoon holding.", "angle": "Contrarian take separating the stimulant spike from sustained output, without naming a competitor. Ends with the betterday URL."},
+      "li": {"pillar": "autoridade", "title": "How one founder runs a daily multi-channel content engine alone", "angle": "Wednesday systems post. Building-in-public look at running the whole publishing engine solo, positioned as founder credibility and capital efficiency. No tool names, no vanity metrics. Pitch the builder."},
+      "blog": {"pillar": "autoridade", "title": "Functional coffee vs a fourth cup: why your afternoon crashes", "angle": "SEO comparison anchored to the 2pm crash. Explain the spike-then-crash mechanism, let the science make the case, close with the 15-day starter offer and the free recipe book. Supports the week's paid and organic traffic."},
+      "vlog_beat": "Leo reacts to the first UGC video a creator made, on hearing his product described back to him and what one scoop really means."
+    },
+    "thu": {
+      "ig": {"pillar": "prova", "title": "Day 1 skeptic. Day 7 steady.", "angle": "Social proof graphic that mirrors the buyer's resistance arc. Use a genuine verified-buyer review (drop in a real one, do not invent). Certification and the 30-day guarantee appear as the receipt that removes the last objection before Friday's CTA."},
+      "x": {"pillar": "autoridade", "title": "The one thing I checked before I trusted my own product", "angle": "Authority post on independent certification, MD review, as a receipt not a pitch. Frames skepticism as the right instinct. Ends with the betterday URL."},
+      "vlog_beat": "Leo reads a real customer review out loud and connects it to why he paid for independent certification: proof he can stand behind."
+    },
+    "fri": {
+      "ig": {"pillar": "cta", "title": "August: the first 100 orders ship free", "angle": "Reel 3, ritual plus offer close. Morning ritual, one scoop into the coffee you already make, then the honest urgency: first 100 orders ship free this month, 15-day pack $18.90, free recipe book with every order, 30-day guarantee. Drives to betterday. This is the offer day."},
+      "x": {"pillar": "cta", "title": "First 100 August orders ship free", "angle": "Direct link post. 15 days for $18.90, recipe book included, 30-day guarantee. Ends with the betterday URL on the last line (mandatory)."},
+      "li": {"pillar": "pessoal", "title": "Launch week, the real numbers", "angle": "Building-in-public recap with the week's actual figures (orders, ebook opt-ins), no spin. Investor-facing: what a first real offer week actually looks like. Pitch the builder."},
+      "tg": {"pillar": "prova", "title": "This week's numbers, unfiltered", "angle": "Inner-circle drop: raw weekly metrics with context (reach, opt-ins, orders, spend) so the community sees what a launch week really looks like at this stage."},
+      "vlog_beat": "Leo shares the week's real numbers with no spin and names first-100-ship-free as his line in the sand."
+    },
+    "sat": {
+      "ig": {"pillar": "pessoal", "title": "Saturday, no music, just the routine", "angle": "Story-first behind-the-scenes. A quiet training session and a cup at the desk, letting the routine speak. Product as a prop, not pitched. Soft series follow prompt."},
+      "x": {"pillar": "pessoal", "title": "A launch is just showing up with an offer every day", "angle": "Weekend founder thought that reframes launching as consistency, not one viral moment. Ends with the betterday URL."},
+      "vlog_beat": "A quiet Saturday training session, then a cup at the desk, reflecting that a launch is showing up with an offer every single day."
+    },
+    "sun": {
+      "ig": {"pillar": "pessoal", "title": "Next week I find out if paid converts", "angle": "Mindset story plus the Sunday film session for next week's three Reels. Leo names the uncertainty going into the paid test and commits to publishing the result. Ends the week's arc."},
+      "x": {"pillar": "pessoal", "title": "I will publish the number either way", "angle": "Sunday reflection: next week is the paid-traffic test, and the result ships whether it works or not. Building in public means the uncertainty ships too. Ends with the betterday URL."},
+      "vlog_beat": "Leo looks at next week's plan, names what he is uncertain about (will paid convert), and commits to publishing the number either way."
+    }
+  },
+  "channels": {
+    "ig": [
+      {"pillar": "pessoal", "title": "I made almost nothing last month. Here is why.", "angle": "Founder Reel 1, launch week opener, radical transparency on the offer gap.", "selected": true, "is_theme": true},
+      {"pillar": "autoridade", "title": "Why one scoop beats a fourth cup", "angle": "Ingredient carousel, afternoon-crash hook first, ingredient names held as the receipt.", "selected": true, "is_theme": false},
+      {"pillar": "belief_shifting", "title": "It is not you. It is the caffeine.", "angle": "Reel 2, the ready-made captioned UGC creator video.", "selected": true, "is_theme": false},
+      {"pillar": "prova", "title": "Day 1 skeptic. Day 7 steady.", "angle": "Social proof graphic with a real verified-buyer review and the guarantee.", "selected": true, "is_theme": false},
+      {"pillar": "cta", "title": "August: the first 100 orders ship free", "angle": "Reel 3, ritual plus the offer close, drives to betterday.", "selected": true, "is_theme": false}
+    ],
+    "x": [
+      {"pillar": "belief_shifting", "title": "More coffee was never the fix for 2pm", "angle": "Reframe the crash as an ingredient-architecture problem.", "selected": true, "is_theme": false},
+      {"pillar": "pessoal", "title": "I built this for the version of me that was useless by 4pm", "angle": "Founder confession micro-story.", "selected": true, "is_theme": false},
+      {"pillar": "cta", "title": "First 100 August orders ship free", "angle": "Direct link post, 15 days for $18.90, recipe book included.", "selected": true, "is_theme": false}
+    ],
+    "li": [
+      {"pillar": "pessoal", "title": "Two years of formula, one month of zero tracked sales, and the honest reason", "angle": "Investor-facing building-in-public on the distribution and attribution gap.", "selected": true, "is_theme": true},
+      {"pillar": "autoridade", "title": "How one founder runs a daily multi-channel content engine alone", "angle": "Systems and capital-efficiency post, pitch the builder.", "selected": true, "is_theme": false},
+      {"pillar": "pessoal", "title": "Launch week, the real numbers", "angle": "Building-in-public recap with the week's actual figures.", "selected": true, "is_theme": false}
+    ],
+    "tg": [
+      {"pillar": "prova", "title": "This week's numbers, unfiltered", "angle": "Inner-circle raw weekly metrics with context.", "selected": true, "is_theme": false}
+    ],
+    "blog": [
+      {"pillar": "autoridade", "title": "Functional coffee vs a fourth cup: why your afternoon crashes", "angle": "SEO comparison anchored to the 2pm crash, closes with the starter offer and free recipe book.", "selected": true, "is_theme": false}
+    ],
+    "em": [
+      {"pillar": "prova", "title": "The 2pm crash, and the easiest way to start", "angle": "Monday branded HTML newsletter, persona-first, free ebook plus 15-day pack.", "selected": true, "is_theme": false}
+    ]
+  }
+}
