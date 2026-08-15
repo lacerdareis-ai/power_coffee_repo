@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-09",
+  "published_late": true,
+  "note": "Scheduled Aug 9 runs aborted: APPROVED unchecked in content.md. Instagram published manually 2026-08-10 06:41. Other platforms intentionally skipped to avoid double-posting on top of Aug 10 content.",
+  "platforms": {
+    "instagram": {
+      "status": "ok",
+      "at": "2026-08-10 06:41",
+      "post_id": "17904280944494779",
+      "media_type": "carousel",
+      "slides": 4
+    },
+    "x": {
+      "status": "skipped",
+      "at": "2026-08-10 06:41",
+      "reason": "catch-up publish, Instagram only"
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-08-10 06:41",
+      "reason": "disabled"
+    },
+    "telegram": {
+      "status": "skipped",
+      "at": "2026-08-10 06:41",
+      "reason": "catch-up publish, Instagram only"
+    },
+    "whatsapp": {
+      "status": "skipped",
+      "at": "2026-08-10 06:41",
+      "reason": "catch-up publish, Instagram only"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-08-10 06:41",
+      "reason": "no story.mp4 in folder"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-08-10 06:41",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "skipped",
+      "at": "2026-08-10 06:41",
+      "reason": "catch-up publish, Instagram only"
+    },
+    "shopify": {
+      "status": "skipped",
+      "at": "2026-08-10 06:41",
+      "reason": "not Tuesday or Thursday"
+    },
+    "email": {
+      "status": "skipped",
+      "at": "2026-08-10 06:41",
+      "reason": "newsletter only sends on Mondays"
+    }
+  }
+}

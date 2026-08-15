@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -14,23 +14,17 @@
 Single warm-toned lifestyle image matching prompt A4: a couple in their early 40s at a dining table on a relaxed Saturday morning, one person scrolling a phone, the other holding a mug and looking out the window. The white Power Coffee pouch (navy-blue left panel, "THE POWER COFFEE / ENERGY BOOST BLEND") sits open on the table between them, incidental to the scene. Warm golden morning light. No text in frame.
 
 ### Caption
-Saturday used to end at noon.
+The third cup of the day stopped working a long time ago.
 
-Not because the day was done. Because the energy was.
+More coffee isn't the fix when the coffee is the problem.
 
-You know that feeling. Morning runs smooth, then somewhere around 11am the fog settles in and the afternoon just disappears.
+One scoop, cold water, and it becomes coffee. No crash after.
 
-One small change to the morning ritual changed that for us.
-
-One scoop in the first cup. That is it.
-
-The day holds now. All of it.
-
-If your Saturdays have been running out of steam before lunch, this is where it starts:
-https://thepowercoffee.com/pages/betterday
+Shop direct: thepowercoffee.com/pages/betterday
+On Amazon: a.co/d/09Gmr1Sq
 
 ### Hashtags
-#morningritual #cleanenergy #saturdaymorning #functionalcoffee #nocrash #morningroutine #biohacking #sustainedenergy #powercoffee #thefirstwin #focusfuel #weekendwellness
+#thefirstwin #powercoffee #cleanenergy #coffeelovers #nocrash #functionalcoffee #dailygrind #focus
 
 ---
 

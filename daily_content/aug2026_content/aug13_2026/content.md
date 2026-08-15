@@ -23,22 +23,17 @@ Poll — "Have you tried it yet?" / YES, I'M A BELIEVER vs. NOT YET, TELL ME MOR
 ---
 
 ### Caption
-Someone sent this to us on a Tuesday afternoon.
+That three o'clock drop-off isn't willpower.
 
-"I made it to 4pm without reaching for a second cup. I didn't even notice until my coworker asked why I seemed so focused."
+It's what most coffee is built to do — spike hard, then leave you somewhere worse than it found you.
 
-That is the whole pitch.
+One scoop into water and it becomes coffee. 15 servings in a bag.
 
-Not the ingredients. Not the formula.
-
-The moment you realize your afternoon actually held.
-
-More real stories at https://thepowercoffee.com/pages/betterday
-
----
+Shop direct: thepowercoffee.com/pages/betterday
+On Amazon: a.co/d/09Gmr1Sq
 
 ### Hashtags
-#powercoffee #cleanenergy #nocrash #functionalcoffee #morningroutine #biohacking #afternoonenergy #coffeebooster #highperformance #focusfuel #realresults #energythatworks
+#thefirstwin #powercoffee #cleanenergy #afternooncrash #functionalcoffee #nooncrash #morningroutine #focus
 
 ---
 
