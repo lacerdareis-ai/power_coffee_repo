@@ -87,3 +87,14 @@
 - ⚠️ `review_drip` — 60 errs, last run 5.0h ago
 - ⚠️ `weekly_plan` — 1 errs, last run 57.0h ago
 - 📄 `market.md` stale (72d) — refresh
+
+## 2026-08-16 self-review
+- ⚠️ `media` — 22 errs, last run 10.5h ago
+- ⚠️ `morning_brief` — 34 errs, last run 9.0h ago
+- ⚠️ `publish` — 56 errs, last run 4.0h ago
+- ⚠️ `qa_poller` — 37 errs, last run Noneh ago
+- ⚠️ `reorder_drip` — 102 errs, last run 4.8h ago
+- ⚠️ `review` — 0 errs, last run 79.0h ago
+- ⚠️ `review_drip` — 102 errs, last run 5.0h ago
+- ⚠️ `weekly_plan` — 1 errs, last run 57.0h ago
+- 📄 `market.md` stale (79d) — refresh

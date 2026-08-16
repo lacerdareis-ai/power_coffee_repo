@@ -18,3 +18,12 @@ files.zip
 
 # Signed certification docs contain third-party PII (signer email/IP) — keep local only
 07-Project_info/certifications/
+
+# Comic source panels — 7-12MB PNGs, four per weekly episode. Only the composited
+# carousel_N.jpg slides are ever published; the panels are intermediates that were
+# adding ~50MB/week to the repo forever. Existing tracked panels are left in place;
+# run `git rm --cached <path>` if you want them out of the working tree too.
+panel_*.png
+
+# Intermediate h264 transcodes — the original mp4 is already ignored above
+*_h264.mp4

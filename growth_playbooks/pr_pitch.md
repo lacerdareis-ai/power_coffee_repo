@@ -89,3 +89,33 @@ Leo Lacerda, Founder — The Power Coffee
 ## Follow-up rule
 
 One follow-up 5 business days after initial pitch, then close the loop. Don't pitch the same person twice on the same story within 90 days. Pivot angle on second attempt.
+
+
+---
+
+## How editors actually decide (panel notes, 2026-08-14)
+
+Five rules straight from national food & beverage editors — The Kitchn, Delish, Good
+Housekeeping, Parents/Today.com, Modern Retail. Full notes and attribution caveat:
+`brain/references/earned-media.md`.
+
+1. **Cover stories, not products.** Arrive with the angle built and the headline
+   half-written. The three angles above are already story-shaped — lead with them, never
+   with the pouch.
+2. **Bucket into a trend.** A single SKU rarely earns a piece; roundups run constantly.
+   Pitch into functional coffee / no-crash energy / the afternoon slump, and name other
+   brands in the trend — editors said it helps them build the feature.
+3. **Relationships before news.** They remember founders who showed up personally, and
+   especially in person (Fancy Food, Expo West, farmers markets). Be a quotable source —
+   the AI-operated marketing angle makes Leo useful to editors even with nothing to launch.
+4. **Silence is not rejection.** A good pitch is filed into a "mental library" and pulled
+   months later for gift guides, awards and roundups. Since no outreach has happened yet
+   (see Status above), set expectations accordingly: track sends, don't rewrite the angle
+   after a week of quiet.
+5. **Discovery moved; trends expire in days.** TikTok leads, with Reddit and LinkedIn
+   founder journeys alongside. Pitch a trend early or skip it. This also raises the value
+   of the Monday founder reel — editors browse LinkedIn founder content for sources.
+
+**Immediate implication for this playbook:** the Ironman 2026 timing window above is a
+date-anchored hook, which is exactly what rule 2 asks for. Pitch it as part of a bigger
+endurance/functional-nutrition moment rather than as a product announcement.

@@ -1,11 +1,11 @@
-# Publish Confirmation — 2026-08-15 12:00
-
+# Publish Confirmation — 2026-08-15 19:05
+(DRY RUN)
 
 - ❌ **X**: skipped not in --platform list
 - ❌ **THREADS**: skipped disabled
 - ❌ **TELEGRAM**: skipped not in --platform list
 - ❌ **WHATSAPP**: skipped not in --platform list
-- ✅ **INSTAGRAM**: ok 17911103280445508
+- ❌ **INSTAGRAM**: skipped not in --platform list
 - ❌ **VIDEOSTORY**: skipped no story.mp4 in today's folder
 - ❌ **CTASTORY**: skipped dedicated daily job only
 - ❌ **LINKEDIN**: skipped not in --platform list

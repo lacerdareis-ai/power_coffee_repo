@@ -488,4 +488,20 @@ At 8 reach, this is too small a sample to draw conclusions, but it did not zero 
 
 ---
 
+
+### LENS Update — Aug 10–Aug 14, 2026
+
+**Audience insights this week:**
+**1. Reel distribution remains the account's reach ceiling driver.** The single Reel this week (Aug 13, reach 152) outperformed both Carousels combined (reach 32). Every week that includes 2 Reels has outperformed every week with 1 or fewer. This is not a coincidence — it is the algorithm's current preference for the account size.
+
+**2. Present-tense problem scene hooks are holding.** "That three o'clock drop-off isn't willpower" (Aug 13, top reach) and "You did not lose the afternoon because you are tired" (Aug 11, top like rate) both use the same structure: name the feeling the viewer is already experiencing, then immediately redirect blame. This pattern has now appeared in top performers across May, and again this week.
+
+**3. The pillar rotation is structurally sound.** P1 → P2 → P3 → P5 → P6 across five days is the correct sequence — problem, science, founder, proof, CTA. No pillar was doubled; no day was skipped creatively. The framework is not the issue.
+
+**4. Content volume consistency is holding at 5/5 publish days.** Two consecutive weeks of full five-day output is meaningful operational momentum. The Friday failure was an asset logistics error, not a pipeline breakdown — the content was written and queued.
+
+**5. Blame-deflection framing drives saves and likes.** Telling the audience "it was not your willpower" removes the shame barrier that prevents engagement. People save content that exonerates them. Both high-ER posts this week used this structure.
+
+---
+
 <!-- LENS_APPEND_END -->
