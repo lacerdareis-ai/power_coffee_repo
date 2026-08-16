@@ -7,7 +7,7 @@
     },
     "threads": {
       "status": "skipped",
-      "at": "2026-08-15 12:00",
+      "at": "2026-08-15 19:05",
       "reason": "disabled"
     },
     "telegram": {
@@ -25,12 +25,12 @@
     },
     "videostory": {
       "status": "skipped",
-      "at": "2026-08-15 12:00",
+      "at": "2026-08-15 19:05",
       "reason": "no story.mp4 in today's folder"
     },
     "ctastory": {
       "status": "skipped",
-      "at": "2026-08-15 12:00",
+      "at": "2026-08-15 19:05",
       "reason": "dedicated daily job only"
     },
     "linkedin": {
@@ -39,7 +39,7 @@
     },
     "shopify": {
       "status": "skipped",
-      "at": "2026-08-15 12:00",
+      "at": "2026-08-15 19:05",
       "reason": "not in --platform list"
     },
     "email": {

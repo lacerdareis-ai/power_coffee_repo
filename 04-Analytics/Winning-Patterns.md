@@ -41,6 +41,8 @@
 | *(none this week — insufficient data to confirm new entries)* | | | |
 | Third-party creator location footage > scripted brand video | Malik city-street Reel: 313 reach, 14 likes, 3 shares vs Julia UGC Reel: 114 reach, 1 like, 0 shares — same week, same format, same platform | Unpolished real-world footage carries authenticity signals the algorithm and the viewer both reward. The location removes the studio, the creator removes the brand, and the result reads as proof rather than promotion. | Aug 5, 2026 |
 | Shares as the early signal for content worth repeating | Aug 5 Reel earned 3 shares at 313 reach (0.96% share rate) — highest share count in the Sales Motor period | At sub-1,000 reach, shares are rare and meaningful. A post that earns shares before it has scale is a post the audience trusts enough to put their name on. Track shares as the leading indicator, not likes. | Aug 5, 2026 |
+| Blame-deflection + external redirect hook | "You did not lose the afternoon because you are tired." / "That three o'clock drop-off isn't willpower." | Removes viewer shame and assigns causality to the product category — opens the mind to a solution before the solution is named. Two separate posts this week, both top performers in their respective metrics (reach and ER). Structurally different from "present-tense problem scene" — the key move is the explicit exoneration. | Aug 10–13, 2026 |
+| Serialized content requires cold hooks, not continuation hooks | "Eisner Stories — Episode 4" landed at 28 reach, 3.57% ER — weakest post of the week | At sub-1,000 follower scale, no viewer knows what Episode 4 is. Every post must work as if it is the first post the viewer has ever seen. Serialized content titles punish small accounts. Reframe series posts with a standalone hook first; bury the episode number in the caption or slide 2. | Aug 10, 2026 |
 ### Template entries:
 - **Price anchor hook:** "$0.73 vs $5.75" — comparison to daily coffee shop spend
 - **Problem-first hook:** "Your coffee is failing you by 2pm" — names the pain immediately
@@ -121,6 +123,7 @@
 | Week 10 (Jul 20–Jul 24, 2026) | — | — | — | — | Reels lifted reach 336%; P3 founder-defense Reel top ER (28.57%); Shopify data absent |
 | Week 11 (Jul 27–Jul 31, 2026) | — | — | — | — | No Reels; 1/5 posts with data; B2B carousel on wrong channel; 4 posts pending maturity |
 | Week 6 (Aug 3–Aug 7, 2026) | — | — | — | — | Reels +1,712% reach; Malik P3 Reel top post (313 reach, 3 shares); ER compression expected at scale |
+| Week 14 (Aug 10–Aug 14, 2026) | — | — | — | — | Reach -44% on fewer Reels; blame-deflect hooks lead; Friday CTA missed — fix asset staging |
 
 ---
 

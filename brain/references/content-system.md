@@ -664,4 +664,44 @@ The ER drop from 15.00% to 6.27% is real but should not alarm. Last week's high 
 
 ---
 
+
+### LENS Update — Aug 10–Aug 14, 2026
+
+**Week-over-Week momentum:**
+| Metric | Aug 10–14, 2026 | Aug 3–7, 2026 | Δ |
+|--------|-----------------|---------------|---|
+| Posts with analytics | 3 | 4 | -1 |
+| Days with publish | 5/5 | 5/5 | +0 |
+| Reels published | 1 | 2 | -1 |
+| Carousels published | 2 | 2 | +0 |
+| Avg Reach | 61 | 110 | -44% |
+| Avg ER | 43.08% | 4.78% | +38.29 pp |
+| Best Reach | 152 | 313 | -161 |
+| Best ER | 125.00% | 12.50% | +112.50 pp |
+
+**Interpretation:** Momentum is mixed — distribution held (5/5 publish days again) but reach declined sharply, down 44% against the prior week. The most significant shift is the ER reversal: avg ER jumped from 4.78% to 43.08%, almost entirely driven by the Aug 11 P2 Carousel's anomalous 125% ER (5 likes on a reach of 4 — a micro-sample distortion, not a genuine signal). The reach decline is the honest
+
+**Patterns confirmed this week:**
+**1. Publish 2 Reels minimum — schedule Tuesday and Thursday as Reel days, non-negotiable.** Last week's single Reel explains the reach drop more than any other variable. Reels are the distribution mechanism for everything else. If asset production is the bottleneck, repurpose the strongest Carousel hook from this week (Aug 11's "You did not lose the afternoon because you are tired") as a Reel script — the creative is already validated.
+
+**2. Stage Friday's image asset by Thursday 6pm and verify in the folder before EOD.** Build a 60-second Thursday evening checklist: open the aug[X]_2026/ folder, confirm instagram.jpg or carousel_1.jpg is present, run a dry-run confirm. The Friday P6 CTA post is the week's highest-value conversion moment. It cannot miss again.
+
+**3. Apply the blame-deflection + present-tense scene structure to next week's P1 hook.** The two highest-performing posts this week both used it. Next week's Monday hook should open with the viewer inside a felt experience — not a question ("STILL CRASHING?") but a declaration ("You made it to noon. Your coffee didn't."). Declarative beats interrogative per the existing Winning Patterns log. Combine with the identity frame from the Desire-Brand strategy: not "your coffee failed" but "you deserved better than what your coffee gave you this morning."
+
+---
+
+**Updated baseline:**
+*Derived from all available analytics rows across both weeks. Rows with zero reach excluded from averages to prevent division errors.*
+
+| Format | Posts (with data) | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|--------|-------------------|-----------|-----------|--------------|--------|
+| Reels | 4 | 186 | 2.3 | 0.3 | 2.54% |
+| Carousels | 5 | 37 | 2.4 | 0.2 | 31.95%* |
+
+*Carousel ER is skewed by the Aug 11 micro-reach anomaly (reach = 4). Strip that post and carousel avg ER falls to approximately 3.9% — directionally in line with Reels. Treat the 31.95% figure as a data artifact, not a format conclusion.*
+
+**Honest baseline read:** Reels are the reach engine. Carousels show reasonable engagement-per-viewer but depend on Reels building the audience first. Neither format is underperforming — volume is simply too low to draw stable conclusions. The Sales Motor is not failing; it is still warming up.
+
+---
+
 <!-- LENS_APPEND_END -->
