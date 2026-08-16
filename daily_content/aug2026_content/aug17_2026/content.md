@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [x] APPROVED
+- [ ] APPROVED
 
 ---
 
@@ -12,172 +12,151 @@
 ## INSTAGRAM
 ### Reel Script
 
-**Cover Phrase:** YOUR MORNING RAN OUT
+**Cover Phrase:** STILL CRASHING BY 2PM?
 
-**HOOK (0-3s, spoken + on-screen text):**
-Spoken: "You did everything right this morning. Still crashed before lunch."
-On-screen: YOUR MORNING RAN OUT
+**HOOK (0–3s)**
+*Spoken:* "You made it to noon. Then the afternoon took you out."
+*On-screen text:* MADE IT TO NOON. LOST BY 2PM.
 
-**BODY (3-40s):**
-Spoken: "One coffee at six. Another at nine. By eleven you are staring at a screen, re-reading the same line. And you know what the problem is — it is not you. Regular coffee burns out in forty-five minutes. There is nothing behind it to hold the energy up. No buffer. No bridge. Just a spike and then nothing. We built Power Coffee for exactly that moment. One scoop into the coffee you already drink. You keep your routine. But now the energy holds — through the meeting, through the school pickup, through the thing you still have to finish at nine tonight. One scoop. Same cup. Different afternoon."
+**BODY (3–40s)**
+*Spoken:*
+"Three coffees in and you're still chasing focus. You're not tired because you didn't sleep enough. You're tired because regular coffee burns through your system in under an hour — spikes you, then drops you.
 
-**CTA (40-45s):**
-Spoken: "Try it for a week. thepowercoffee.com/pages/betterday"
-On-screen: thepowercoffee.com/pages/betterday
+That crash at 2pm? That's not a willpower problem. That's a formula problem.
 
-**Engagement Prompt:** Drop a time in the comments — what hour does your energy usually give out?
+What if your first cup in the morning was actually designed to carry you through the whole day — steady energy, no spike, no drop, no third cup that doesn't work anyway?
+
+One scoop into your morning coffee. That's it. Same ritual. Completely different afternoon."
+
+*On-screen text progression:*
+- "YOUR COFFEE BURNS OUT IN 45 MIN"
+- "THAT'S NOT YOU. THAT'S THE FORMULA."
+- "SAME RITUAL. DIFFERENT AFTERNOON."
+
+**CTA (40–45s)**
+*Spoken:* "Start your better day at thepowercoffee.com/pages/betterday"
+*On-screen text:* thepowercoffee.com/pages/betterday
+
+**Engagement Prompt:**
+What time does your afternoon usually fall apart? Drop the hour in the comments.
 
 ---
 
 ### Caption
 
-You did everything right this morning.
+Three coffees in. Still crashing by 2pm.
 
-Coffee at six. Another at nine. And by eleven you are re-reading the same paragraph.
+That is not a discipline problem. That is a formula problem.
 
-That is not a willpower problem. That is what regular coffee does — it spikes fast and drops you before noon.
+Regular coffee gives you a spike and a drop. Every time. The afternoon falls apart not because you are weak but because your morning ritual was never built to carry you through it.
 
-Power Coffee goes into the cup you already have. One scoop. The energy holds longer. The afternoon does not fall apart.
+One scoop into your existing coffee changes the whole day. Steady energy. Real focus. No crash.
 
-Try it for a week and tell us what time you stopped watching the clock.
-
-thepowercoffee.com/pages/betterday
+Try it for a week: thepowercoffee.com/pages/betterday
 
 ---
 
 ### Hashtags
 
-#morningcrash #cleanenergy #functionalcoffee #morningroutine #focusenergy #workfromhome #biohacking #powercoffee #afternoonslump #sustainableenergy #coffeeaddict #highperformance
+#cleanenergy #functionalcoffee #afternooncrash #morningroutine #nocrash #biohacking #powercoffee #thefirstwin #workfromhome #sustainedfocus #coffeeaddict #healthyhabits
 
 ---
 
 ## X.COM
 ### Post
 
-You did everything right this morning. Coffee at six. Another at nine. Crashed by eleven anyway. That is not you being weak. That is your coffee running out of runway.
+You did not run out of willpower at 2pm. Your coffee ran out. It was designed to. One scoop into your morning cup. The afternoon stops falling apart. thepowercoffee.com/pages/betterday
 
 ---
 
 ### Thread
 
-Post 1:
-You are not tired because you slept poorly. You are tired because your coffee peaked at 8am and it is now 11:07.
+**Post 1:**
+The 2pm crash is not a discipline problem. It is an engineering problem. And regular coffee made it worse on purpose.
 
-Post 2:
-Regular caffeine hits fast and exits fast. The spike is real. The drop is just as real. There is nothing behind it holding the energy level stable once the caffeine clears.
+**Post 2:**
+Standard coffee spikes adenosine blockade fast, peaks in 30-45 minutes, then drops you. Your body rebounds harder than baseline. That groggy, foggy 2pm feeling is not tiredness. It is the rebound.
 
-Post 3:
-Taurine helps buffer the overstimulation. Ginkgo supports steady blood flow to the brain. Matcha releases caffeine more slowly through L-theanine binding. Together they extend the arc of the energy, not just the peak.
+**Post 3:**
+The fix is not more caffeine. More caffeine at that dose without supporting ingredients extends the spike and deepens the eventual drop. The research is consistent on this. More is not better. Better is better.
 
-Post 4:
-Power Coffee goes into the cup you already make. Same ritual. One scoop added. The difference is what happens at 11am and 2pm when regular coffee has already bailed on you.
+**Post 4:**
+Power Coffee adds taurine and matcha alongside the caffeine. The release is slower. The floor stays higher. You do not spike to a peak and fall off a cliff. You ride a plateau through the afternoon.
 
-Post 5:
-If your mornings keep running out before your day does, start here: thepowercoffee.com/pages/betterday
+**Post 5:**
+One scoop into the coffee you already drink. Same ritual. Completely different afternoon. thepowercoffee.com/pages/betterday
 
 ---
 
 ## LINKEDIN
 ### Post
 
-You wake up early. You get ahead of the day. You make the coffee.
+I used to blame myself for losing the afternoon.
 
-By 11am you are already looking for the next cup.
+I told myself it was the schedule. Too many calls. Not enough sleep the night before.
 
-I was in the same cycle. Two coffees before nine, a third by noon, and still losing focus by early afternoon. I kept blaming my sleep or my schedule.
+Then I started tracking when it happened.
 
-Then I started looking at what the coffee was actually doing inside the window between cups.
+2:07pm. Almost every day. Same window. Same wall.
 
-Regular caffeine peaks fast. There is nothing behind it to keep the energy stable once it clears. No buffer ingredient. No gradual release. Just a spike, then a drop, then the hunt for another cup.
+It had nothing to do with discipline. It had everything to do with what I put in my cup at 6am.
 
-That problem is exactly why I built Power Coffee the way I did. The ingredients I chose were not about adding more caffeine. They were about extending and steadying the arc of the first cup.
+Regular coffee is fast-burn. It was engineered to spike you, not sustain you. By midday the spike is gone and your system is in rebound. You feel worse than if you had not had the coffee at all.
 
-One scoop into the coffee you already make. The morning holds. The afternoon holds too.
+That pattern is what made me spend two years building a different formula.
 
-I am curious — what time does your energy usually give out on a normal workday?
+Not a replacement. A booster. One scoop into the coffee you already make. Something that extends the curve instead of steepening the drop.
+
+Most people I talk to think the 2pm crash is inevitable. It is not. It is a solvable formula problem.
+
+What time does your afternoon usually fall apart? Curious if the 2pm window is universal or if I just have a very specific kind of tired.
 
 ---
 
 ## TELEGRAM
 ### Message
 
-Monday question for the group: what time does your first crash usually hit?
+Quick question for the group: what time does your afternoon actually fall apart?
 
-For most people we hear from it is somewhere between 10:30 and noon. Not 2pm — earlier. The second coffee is usually a patch, not a fix.
+Not when you think it should — when it actually does. For most people it is somewhere between 1:30 and 3. That window is not random. It is what regular coffee does to your system after the morning spike burns off.
 
-That is the exact problem Power Coffee was built for. One scoop into what you already drink. thepowercoffee.com/pages/betterday
+That is exactly the problem Power Coffee was built to fix. One scoop in your morning cup and the afternoon holds. Try it this week: thepowercoffee.com/pages/betterday
 
 ---
 
 ## SHOPIFY BLOG
 ### Title
-
-Why Your Morning Energy Runs Out Before Noon — And What to Do About It
+Why You Crash Every Afternoon — And Why Your Coffee Is the Reason
 
 ### Body
 
-## The Crash Starts Earlier Than You Think
+The 2pm crash has a reputation for being your fault. You stayed up too late. You did not eat enough. You are just not a high-energy person.
 
-Most people assume the energy crash happens at 2pm. In reality, for a lot of high-performing adults, the dip starts closer to 11am — sometimes earlier. You have already had two cups. You are on track. And then somewhere around the second meeting you notice you are reading the same line twice.
+None of that is accurate.
 
-This is not a sleep problem or a motivation problem. It is a caffeine delivery problem.
+## Your Coffee Has an Expiration Time
 
-## How Regular Coffee Works Against You
+Standard coffee delivers caffeine in a fast, concentrated wave. It blocks adenosine — the molecule responsible for making you feel sleepy — for roughly 45 to 90 minutes before the effect begins to taper. When that block lifts, adenosine floods back in. Your body does not return to baseline. It often swings below it. That is the crash. Not weakness. Chemistry.
 
-Caffeine from a standard cup of coffee absorbs quickly and peaks within 30 to 60 minutes. That peak is real and useful. The problem is what happens after. Once the caffeine clears, there is nothing holding the energy level stable. No buffer, no slow release, no second layer. Just a return to baseline — or below it, depending on how stressed your cortisol is running that morning.
+## Why More Coffee Does Not Fix It
 
-For people with demanding mornings, that drop can hit hard before noon.
+The reflex is to pour a third cup. But caffeine at that point, without anything to modulate the delivery or support the sustained response, typically extends the spike window by a smaller margin and makes the eventual drop steeper. It is not a solution. It is a delay.
 
-## What a Smarter Morning Cup Looks Like
+## What a Better Formula Actually Does
 
-The approach that works is not more caffeine. It is a more complete formula alongside the caffeine you already drink.
+The goal is not more caffeine. The goal is a longer, steadier energy curve with a higher floor. Ingredients like taurine and matcha-sourced caffeine, when combined, support a slower release and a more gradual taper. The afternoon does not disappear. It holds.
 
-Matcha contains L-theanine, which binds with caffeine and slows its release — spreading the energy over a longer window instead of front-loading it into a short spike. Taurine helps support focus without amplifying the overstimulated, wired feeling that too much caffeine alone can produce. Ginkgo biloba supports circulation and mental clarity during the hours when regular coffee has already worn off.
+## The One-Scoop Shift
 
-## One Scoop Into What You Already Make
+Power Coffee is not a coffee replacement. It is a booster — one scoop added to the morning cup you already make. Same ritual. The formula is designed to support sustained energy and focus through the afternoon without the spike-and-drop pattern that regular coffee produces.
 
-Power Coffee is a booster — not a coffee replacement. You keep your morning ritual exactly as it is. One scoop goes into the cup you are already making. The formula supports steadier, longer energy so the morning you built does not run out before the day does.
+The crash you experience every day is a formula problem. And formula problems have solutions.
 
-If your energy peaks before 10am and you are tired of chasing it, try it for a week: [Start Here](https://thepowercoffee.com/pages/betterday)
+If your afternoons have been falling apart on schedule, start here: [thepowercoffee.com/pages/betterday](https://thepowercoffee.com/pages/betterday)
 
 ### Image Prompt
 
-A man in his early 40s sitting at a home office desk, mid-morning, one hand resting on a keyboard, the other wrapped around a ceramic mug. He looks focused and calm, not strained. Warm natural window light from the left. A white stand-up pouch with a navy-blue left side panel sits on the desk shelf slightly out of focus behind him. Wood tones, cream walls. Shallow depth of field. No text in frame. Warm, grounded mood. 4:5 portrait orientation. Shot with a 35mm lens feel, natural grain.
-
----
-
-## EMAIL
-### Subject Line
-
-Your morning ran out before noon
-
-### Preview Text
-
-It is not you. Here is what is actually happening to your energy.
-
-### Body
-
-Hey —
-
-Let me describe a Monday morning.
-
-You are up early. Coffee made. Ahead of the emails before eight. You feel good.
-
-Then eleven hits and something shifts. Focus gets slippery. You refill the cup. It helps for twenty minutes and then it does not.
-
-Here is what is happening: regular caffeine peaks fast and drops fast. There is nothing behind it. No buffer. No second layer. Just a spike, then the slow slide back to zero — often before noon.
-
-That is the problem Power Coffee was built to solve.
-
-One scoop goes into the cup you already make. The formula supports steadier, longer energy without changing your routine or asking you to give up the coffee you love.
-
-You keep the ritual. The afternoon stops feeling like a collapse.
-
-If your mornings keep running out before your day does, this is the week to try it.
-
-[Try Power Coffee — one scoop, one week](https://thepowercoffee.com/pages/betterday)
-
-— Leo
+A man in his early 40s sitting at a clean home office desk in the mid-afternoon, natural side window light, one hand resting on a keyboard and the other wrapped around a ceramic mug. He looks composed and focused, not drained. A white stand-up pouch with a navy-blue left panel sits slightly out of focus on the shelf behind him. Warm wood tones, cream and espresso brown palette. Shallow depth of field. No text in frame. Shot from slightly above and to the side. Negative space in upper left for headline. Warm, documentary-style color grade. --ar 16:9
 
 ---
 
@@ -196,48 +175,75 @@ cinematic_studio_3_0
 
 ### Prompt
 
-A man in his early 40s sitting at a home office desk, mid-morning, staring at a laptop screen with a look of quiet frustration — not dramatic, just the familiar blankness of a focus gap. He slowly picks up a ceramic mug, takes a sip, sets it back down. Nothing changes. He leans back slightly and exhales. Then he reaches toward the desk, picks up a white stand-up pouch with a navy-blue left panel, turns it in his hand briefly, and looks back at the screen — this time leaning forward. Warm natural window light from the left side. Wood desk, cream walls, minimal clutter. Camera begins on a wide static shot, slowly pushes in to a medium close-up by the end. Handheld feel with very slight organic movement. Warm amber and cream color grade. Authentic, not over-produced. No text in frame. No mugs as hero shots — mug is an incidental prop. No graphics or overlays.
+Subject: A man in his early 40s, business casual, sitting at a minimal home office desk. He sets down a coffee mug, pauses, and stares at the screen — the expression is the recognizable blankness of an afternoon wall hitting mid-sentence. He rubs the back of his neck once, then slowly reaches forward and opens a tab. The energy is not dramatic; it is deeply familiar.
+
+Setting: Home office, mid-afternoon. Warm natural light coming in from a window to the left. Clean desk — laptop, mug, notepad. A white pouch with a navy-blue side panel visible on the shelf edge behind him, slightly out of focus.
+
+Lighting: Soft, directional natural window light. Warm golden undertone. No overhead fluorescent. Shadows are soft, not harsh.
+
+Camera movement: Slow push-in from mid-shot to close on the man's face as the recognition of the afternoon crash settles. Hold two beats. Then a subtle pull back to reveal the full desk scene.
+
+Mood: Honest and human. Not dramatic. The viewer should feel seen — this is their 2pm moment made visible.
+
+Color grade: Warm cream and espresso brown tones. Slightly desaturated but not cold. Cinematic, not over-produced.
+
+No text overlays. No graphics. No product as hero. Authentic lifestyle framing throughout.
 
 ---
 
 ## REELS — Founder Vlog Script
 **Series:** Building Power Coffee — Ep. 6
-**Beat:** The cost of the first real week of paid traffic — what the numbers actually said
-**Title formula:** What Our First Ad Week Cost Us | Monday 4:50am
-**Duration:** 30-45s · **Setting:** Home office desk, early morning, single lamp on, dim — shoot before sunrise
+**Beat:** The week I stopped apologizing for the product price — and what changed
+**Title formula:** Why I stopped discounting Power Coffee | 5am training week
+**Duration:** 30-45s · **Setting:** Kitchen counter, early morning, natural window light, Leo facing camera with a mug on the counter beside him and the white pouch visible in the background
 
-**HOOK (0-3s, text on screen + spoken):**
-"We spent money on ads last week. Here is exactly what came back."
+**HOOK (0–3s, text on screen + spoken):**
+"I almost ran a 20% off sale this week. Here is why I did not."
 
 **BODY (speak exactly this):**
-"Monday. 4:50am. I have the numbers in front of me and I want to be honest about them because I said I would be. We ran our first real paid push last week. Cost-per-click came in higher than I projected. Conversion held better than I expected. Net result — we did not lose money, but the margin was thin enough that I spent Sunday reworking the funnel. The lesson was not about the ad creative. It was about what happens after the click. The page has to do the work the ad cannot. I fixed three things on the product page yesterday. My coffee was sitting on the desk the whole time, same scoop I add every morning. I keep building. You should see what next week looks like."
+"Someone messaged me and said the price was the reason they had not tried it yet. My first move was to open a discount code.
+
+Then I stopped.
+
+Because if I train at 5am every day and I will not cut that short — why would I cut the thing I built to the same standard?
+
+We do not have filler ingredients. We do not have a proprietary blend that hides what is inside. The formula is clean and the label is transparent because I built it to be something I would actually use.
+
+I put a scoop in my cup this morning same as always. I made it to the afternoon. That is the proof.
+
+The price holds because the formula holds."
 
 **CTA (last 5s):**
-"Follow the build. Drop a question below — I read all of them. Ep. 6."
+"Follow the build — new episode every week. Drop a question in the comments and I will answer it in the next one."
 
-**B-ROLL:** laptop screen showing a spreadsheet at 4:50am with lamp glow, hand writing on a notebook next to the product pouch, wide shot of the desk from across the room in dim early light
+**B-ROLL:** Leo scooping powder into mug at kitchen counter at dawn, Leo lacing up training shoes by the front door, close shot of the white Power Coffee pouch label
 
 **CAPTION:**
-First real paid traffic week. The numbers were honest with me, so I am being honest with you.
-Higher CPC than planned. Better conversion than expected. Thin margin. Three page fixes on Sunday.
-This is what building actually looks like. Ep. 6 — Building Power Coffee
-#buildingpowercoffee #foundervlog #cpgfounder #startuplife #cleanenergy
+Episode 6 of building this in public.
+
+Almost ran a discount this week. Did not. Here is the reasoning.
+
+The formula does not have filler and the price does not either.
+
+#buildingpowercoffee #founderlife #cleanenergy #powercoffee #thefirstwin
+
+Ep. 6 — Building Power Coffee
 
 **ON-SCREEN TEXT:**
-- 0:00 — "We spent money on ads last week."
-- 0:12 — "The margin was thinner than I wanted."
-- 0:28 — "I fixed three things. Here is what I learned."
+- [0s] "I ALMOST DISCOUNTED THE PRODUCT THIS WEEK"
+- [8s] "THE FORMULA IS CLEAN. THE LABEL IS TRANSPARENT."
+- [32s] "THE PRICE HOLDS BECAUSE THE FORMULA HOLDS."
 
 ---
 
 ## SCIENCE NOTE — Founder Interview Prep (not for publishing)
-**Ingredient / mechanism:** Ginkgo Biloba Extract — flavonoid glycosides and terpene lactones acting on microvascular tone and platelet-activating factor
+**Ingredient / mechanism:** Taurine — osmolyte function and mitochondrial cytoprotection
 
-Ginkgo biloba standardized extract (typically 24% flavonoid glycosides and 6% terpene lactones) exerts its effects through two primary mechanisms. First, the terpene lactones — particularly ginkgolides A, B, and C — act as antagonists of platelet-activating factor (PAF), a phospholipid mediator that promotes platelet aggregation and vasoconstriction in cerebral microvessels. By attenuating PAF activity, ginkgolides help maintain microvascular patency and red blood cell deformability, supporting oxygen and glucose delivery to cortical tissue. Second, the flavonoid fraction (quercetin, kaempferol, and isorhamnetin glycosides) provides antioxidant activity that scavenges reactive oxygen species at the mitochondrial membrane, reducing oxidative load in neurons during periods of high metabolic demand. Power Coffee delivers 207mg of ginkgo extract per serving. The felt experience — cognitive clarity during demanding mid-morning hours — is consistent with these vascular and cytoprotective mechanisms rather than any stimulant action.
+Taurine is one of the most abundant free amino acids in human muscle and neural tissue, but its primary role is not as a conventional amino acid substrate for protein synthesis. It functions as an osmolyte — it regulates cell volume and ionic balance under conditions of metabolic stress, including the kind that sustained caffeine exposure and high cognitive load produce. At the mitochondrial level, taurine incorporates into mitochondrial tRNA as a modified wobble uridine (5-taurinomethyluridine), a modification required for efficient translation of mitochondrially encoded subunits of the electron transport chain, particularly complex I and complex IV. Deficiency in this modification is associated with impaired ATP synthesis and elevated reactive oxygen species. Power Coffee delivers 2.1g per 10g serving — within the range studied for exercise performance and antioxidant support. The EFSA has concluded taurine at this dose is safe in the context of energy formulations.
 
-**Reference:** Ahlemeyer B, Krieglstein J. Neuroprotective effects of Ginkgo biloba extract. Cell Mol Life Sci. 2003;60(9):1779-92. PMID: 14523549 [VERIFY CITATION]
+**Reference:** Schaffer SW, Jong CJ, Ramila KC, Azuma J. Physiological roles of taurine in heart and muscle. Journal of Biomedical Science, 2010;17(Suppl 1):S2. [VERIFY CITATION for mitochondrial tRNA modification detail — core finding is established; confirm specific subunit translation citation independently]
 
-**Interview angle:** Ginkgo may support the brain's ability to sustain blood flow and reduce oxidative stress during high-demand cognitive periods — it is not a stimulant but a vascular and cytoprotective support ingredient.
+**Interview angle:** Taurine supports mitochondrial efficiency and cell-volume regulation under stress — not a stimulant, but a physiological stabilizer that may help sustain output when caffeine is in the system.
 
 ---
 
@@ -398,5 +404,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `instagram.mp4` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A man in his early 40s sitting at a home office desk, mid-morning, staring at a laptop screen with a look of quiet frustration \u2014 not dramatic, just the familiar blankness of a focus gap. He slowly picks up a ceramic mug, takes a sip, sets it back down. Nothing changes. He leans back slightly and exhales. Then he reaches toward the desk, picks up a white stand-up pouch with a navy-blue left panel, turns it in his hand briefly, and looks back at the screen \u2014 this time leaning forward. Warm natural window light from the left side. Wood desk, cream walls, minimal clutter. Camera begins on a wide static shot, slowly pushes in to a medium close-up by the end. Handheld feel with very slight organic movement. Warm amber and cream color grade. Authentic, not over-produced. No text in frame. No mugs as hero shots \u2014 mug is an incidental prop. No graphics or overlays.\n\n---", "text_overlay": "YOUR MORNING RAN OUT"}, "carousel": [{"prompt": "A man in his early 40s sitting at a home office desk, mid-morning, staring at a laptop screen with a look of quiet frustration \u2014 not dramatic, just the familiar blankness of a focus gap. He slowly picks up a ceramic mug, takes a sip, sets it back down. Nothing changes. He leans back slightly and exhales. Then he reaches toward the desk, picks up a white stand-up pouch with a navy-blue left panel, turns it in his hand briefly, and looks back at the screen \u2014 this time leaning forward. Warm natural window light from the left side. Wood desk, cream walls, minimal clutter. Camera begins on a wide static shot, slowly pushes in to a medium close-up by the end. Handheld feel with very slight organic movement. Warm amber and cream color grade. Authentic, not over-produced. No text in frame. No mugs as hero shots \u2014 mug is an incidental prop. No graphics or overlays.\n\n---", "text_overlay": "YOUR MORNING RAN OUT"}]}
+{"story": {"prompt": "Subject: A man in his early 40s, business casual, sitting at a minimal home office desk. He sets down a coffee mug, pauses, and stares at the screen \u2014 the expression is the recognizable blankness of an afternoon wall hitting mid-sentence. He rubs the back of his neck once, then slowly reaches forward and opens a tab. The energy is not dramatic; it is deeply familiar.\n\nSetting: Home office, mid-afternoon. Warm natural light coming in from a window to the left. Clean desk \u2014 laptop, mug, notepad. A white pouch with a navy-blue side panel visible on the shelf edge behind him, slightly out of focus.\n\nLighting: Soft, directional natural window light. Warm golden undertone. No overhead fluorescent. Shadows are soft, not harsh.\n\nCamera movement: Slow push-in from mid-shot to close on the man's face as the recognition of the afternoon crash settles. Hold two beats. Then a subtle pull back to reveal the full desk scene.\n\nMood: Honest and human. Not dramatic. The viewer should feel seen \u2014 this is their 2pm moment made visible.\n\nColor grade: Warm cream and espresso brown tones. Slightly desaturated but not cold. Cinematic, not over-produced.\n\nNo text overlays. No graphics. No product as hero. Authentic lifestyle framing throughout.\n\n---", "text_overlay": "STILL CRASHING BY 2PM?"}, "carousel": [{"prompt": "Subject: A man in his early 40s, business casual, sitting at a minimal home office desk. He sets down a coffee mug, pauses, and stares at the screen \u2014 the expression is the recognizable blankness of an afternoon wall hitting mid-sentence. He rubs the back of his neck once, then slowly reaches forward and opens a tab. The energy is not dramatic; it is deeply familiar.\n\nSetting: Home office, mid-afternoon. Warm natural light coming in from a window to the left. Clean desk \u2014 laptop, mug, notepad. A white pouch with a navy-blue side panel visible on the shelf edge behind him, slightly out of focus.\n\nLighting: Soft, directional natural window light. Warm golden undertone. No overhead fluorescent. Shadows are soft, not harsh.\n\nCamera movement: Slow push-in from mid-shot to close on the man's face as the recognition of the afternoon crash settles. Hold two beats. Then a subtle pull back to reveal the full desk scene.\n\nMood: Honest and human. Not dramatic. The viewer should feel seen \u2014 this is their 2pm moment made visible.\n\nColor grade: Warm cream and espresso brown tones. Slightly desaturated but not cold. Cinematic, not over-produced.\n\nNo text overlays. No graphics. No product as hero. Authentic lifestyle framing throughout.\n\n---", "text_overlay": "STILL CRASHING BY 2PM?"}]}
 ```
