@@ -1,0 +1,241 @@
+{
+  "week": "2026-W35",
+  "status": "pending",
+  "approved": false,
+  "vlog_arc": {
+    "theme": "Show up before the world asks you to.",
+    "beats": {
+      "mon": "Leo films the 5am alarm going off, pours the first cup, and says simply: this week I want to show you what it actually looks like to build something before the noise starts.",
+      "tue": "Standing in the kitchen after a training session, Leo shares one thing that went wrong in last week's content pipeline and what he's changing — no spin, just the honest debrief.",
+      "wed": "Leo holds up the ingredient panel and explains, in one minute, why he chose Ginkgo biloba over a cheaper alternative two years ago and what he'd tell his past self now.",
+      "thu": "Quick reel from the desk: Leo reads a real buyer message aloud, pauses on the line 'day three, something shifted,' and says that sentence is exactly why he kept going when the early numbers were slow.",
+      "fri": "Leo walks through the week's content results — what landed, what didn't, one number he's proud of — framing it as a public ledger, not a highlight reel.",
+      "sat": "Weekend morning with the kids visible in the background: Leo makes two cups, one for him, one for his wife, and talks for thirty seconds about why presence after a hard week is the whole point.",
+      "sun": "Leo sits down, camera close, and says: next week I'm testing something new with the formula communication — I don't know if it'll work, but I'll show you either way."
+    }
+  },
+  "channels": {
+    "ig": [
+      {
+        "pillar": "belief_shifting",
+        "title": "Your 3pm crash isn't tiredness. It's blood sugar.",
+        "angle": "Hook viewers inside a pain they feel daily, then reframe the cause from caffeine to glycemic spike — positioning Power Coffee's functional formula as the real fix.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Day 1 skeptical. Day 7 something shifted.",
+        "angle": "A real buyer's three-day resistance arc told in three slides — validates doubt first, then delivers the progression, removing the 'what if it doesn't work immediately' objection before it forms.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Two hours before the world wakes up.",
+        "angle": "Leo's pre-dawn Ironman training reel — kids still asleep, coffee in hand — shows the real stakes behind the formula and earns trust through lived context, not claims.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Why most functional coffees fail by 10am.",
+        "angle": "A carousel framework breaking down the three formulation mistakes common in the category — positions Leo as the architect who solved what others missed.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "431 mornings. Same formula. Not for content.",
+        "angle": "Specific day-count plus anti-marketing framing turns founder daily use into the most credible proof point in the feed — specificity does what testimonials can't.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "x": [
+      {
+        "pillar": "belief_shifting",
+        "title": "Energy drinks replaced coffee. That was the mistake.",
+        "angle": "A punchy thread reframing the 2010s energy drink boom as a problem disguised as a solution — and why returning to coffee, done right, is the smarter bet.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The ingredient that survived a nuclear blast.",
+        "angle": "Lead with the Ginkgo biloba Hiroshima survival claim as the hook, then teach the cognitive mechanism — surprising history drives curiosity, science delivers the payoff.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Building Power Coffee in public. Week by week.",
+        "angle": "A transparent founder update tweet — what worked, what didn't, what Leo is fixing next — using radical honesty to build trust in real time.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "$0.73 a morning. No crash. Real focus.",
+        "angle": "Price math comparison that reframes the cost objection against daily latte spend before anyone asks — disarms hesitation with a single line of arithmetic.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Caffeine isn't your problem. Your formula is.",
+        "angle": "Short thread arguing that caffeine anxiety and crashes are formulation failures, not caffeine failures — reframes the villain and positions functional coffee as the resolution.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "li": [
+      {
+        "pillar": "pessoal",
+        "title": "I formulated this because I was the problem.",
+        "angle": "Leo narrates the two-year ingredient science journey through the lens of his own performance struggles — the mechanism-plus-personal-stakes combo that consistently leads LinkedIn engagement.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "What CPG founders get wrong about functional claims.",
+        "angle": "An industry POV post sharing three lessons from the StartupCPG sampling floor — positions Leo as a builder with earned field experience, not borrowed theory.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "A review stopped me mid-scroll last Tuesday.",
+        "angle": "Open with a specific buyer quote that mirrors reader resistance, then unpack why that progression — skeptical to converted over days — is the real proof mechanism in functional products.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "The blood sugar science nobody told you.",
+        "angle": "A data-backed breakdown of why the 11am cognitive dip is glycemic, not caffeine-related — leads with the problem, uses Power Coffee's formula as the evidence-grounded solution reveal.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Building a brand with AI. No apology.",
+        "angle": "Declarative post naming the expected objection and refusing to hedge — how Leo uses AI as a co-founder tool, what it does well, and where the human judgment lives.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "tg": [
+      {
+        "pillar": "pessoal",
+        "title": "This week in Leo's kitchen: what's brewing.",
+        "angle": "Behind-the-scenes voice note or short text update giving the community first access to the week's formulation thinking — makes subscribers feel like insiders, not an audience.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "A member shared this. It stopped me.",
+        "angle": "Surface a real community member's result or quote with Leo's candid reaction — social proof framed as a story, not a headline, so it lands rather than slides past.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "One framework for reading supplement labels faster.",
+        "angle": "A short teachable breakdown — three things to check before buying any functional product — that builds genuine authority and gives the community a useful tool they'll share.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Why 'more caffeine' is always the wrong answer.",
+        "angle": "A direct, conversational reframe that challenges the default energy playbook and explains the functional coffee logic in plain language — positioned as a community-first exclusive drop.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Faith, family, and a 5am alarm. Real talk.",
+        "angle": "Leo shares the values architecture behind the early mornings — not hustle culture, but intentional presence for Gabriel and Helena — building the human brand beneath the product brand.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "blog": [
+      {
+        "pillar": "autoridade",
+        "title": "Why functional coffee formulation starts with blood sugar.",
+        "angle": "A deep-dive framework post explaining the glycemic mechanism behind afternoon cognitive crashes — establishes Leo as the category educator and drives long-tail search traffic.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Ginkgo biloba: the science behind the survival story.",
+        "angle": "Start with the Hiroshima hook, then deliver a rigorous look at the cognitive research — surprising claim as the entry, ingredient science as the credible payoff.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Energy drinks vs functional coffee: a real comparison.",
+        "angle": "A structured, honest comparison of ingredient profiles, crash patterns, and cost — reframes the category decision without attacking competitors by name, positioning Power Coffee through logic.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "431 mornings: what I learned drinking my own formula.",
+        "angle": "Long-form founder narrative tracking the specific lessons, adjustments, and unexpected results across 14-plus months of daily personal use — proof through lived experience, not marketing.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Three things to check before buying functional coffee.",
+        "angle": "A buyer's guide framework that educates the market on what quality formulation actually looks like — builds trust by helping readers evaluate competitors fairly, knowing Power Coffee wins on the criteria.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "em": [
+      {
+        "pillar": "prova",
+        "title": "Day 1 skeptical. Here's what day 7 looked like.",
+        "angle": "Open with a buyer's resistance arc quote, let the progression do the selling — removes the 'what if it doesn't work for me' objection before the CTA ever appears.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Two cups in. Still foggy. Here's why.",
+        "angle": "Present-tense problem scene as the subject line pulls the reader inside their own pain, then the email body reframes the cause and introduces the functional formula as the structural fix.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The $0.73 morning: a math problem worth solving.",
+        "angle": "Price reframe email that walks through the true daily cost comparison against lattes and energy drinks — disarms the cost objection with arithmetic before the subscriber reaches the shop link.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "What I told my kids this morning before training.",
+        "angle": "A personal, low-key email from Leo about the pre-dawn routine and what presence actually means on a hard week — builds the human brand and earns loyalty that discounts never could.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "431 mornings. One formula. One honest report.",
+        "angle": "Founder daily-use proof email anchored in a specific number — what changed, what surprised Leo, what he'd tell someone on day one — specificity and anti-marketing tone drive credibility.",
+        "selected": false,
+        "is_theme": false
+      }
+    ]
+  }
+}
