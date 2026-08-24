@@ -12,6 +12,8 @@
 ## INSTAGRAM
 ### Reel Script
 
+**Asset:** ugc_tom_remotework_43.mp4, captioned via caption_ugc.py (dropped as instagram.mp4). Higgsfield video generation was unavailable (401 invalid credentials) — swapped in this unused UGC creator clip instead, which already matches the day's theme almost word for word: "Third coffee before noon and still foggy by two. That's not you. That's caffeine. One scoop into the coffee I already make. Clean focus no crash."
+
 **Cover Phrase:** STILL CRASHING AT 2PM?
 
 **Hook (0-3s, spoken + on-screen text):**
@@ -41,24 +43,19 @@ On-screen: thepowercoffee.com/pages/betterday
 
 ### Caption
 
-You did everything right this morning.
+Third coffee before noon and still foggy by two.
 
-And you still hit a wall at 2pm.
+That's not you. That's caffeine.
 
-The third coffee didn't save you. The energy drink didn't either. That's not a willpower problem. That's a formula problem.
+One scoop into the coffee you already make. Clean focus, no crash.
 
-Regular coffee spikes fast and burns out faster. Your afternoon pays the price.
-
-One scoop in your morning cup changes the whole equation. Same ritual. Steady energy through the part of the day that used to fall apart.
-
-Seven days. That's all it takes to feel the difference.
-
-thepowercoffee.com/pages/betterday
+Shop direct: thepowercoffee.com/pages/betterday
+On Amazon: a.co/d/09Gmr1Sq
 
 ---
 
 ### Hashtags
-#cleanenergy #afternooncrash #functionalcoffee #morningroutine #energyboost #nocrash #biohacking #thepowercoffee
+#thefirstwin #powercoffee #cleanenergy #afternooncrash #functionalcoffee #nocrash #remotework #focus
 
 ---
 
