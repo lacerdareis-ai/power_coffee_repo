@@ -53,20 +53,17 @@ thepowercoffee.com/pages/betterday
 ---
 
 ### Caption
-Your coffee is not failing you because the dose is wrong.
+The afternoon fog nobody schedules for.
 
-It is failing you because caffeine was never designed to carry the whole afternoon alone.
+It shows up at the same time every day and you plan around it like it's weather.
 
-Taurine is the piece most people are missing — and most coffee brands leave out entirely.
+One scoop, stir, and you've got coffee. Clean, no drop.
 
-Slide through to see how the pairing actually works.
-
-thepowercoffee.com/pages/betterday
-
----
+Shop direct: thepowercoffee.com/pages/betterday
+On Amazon: a.co/d/09Gmr1Sq
 
 ### Hashtags
-#functionalcoffee #cleanenergy #taurine #afternooncrash #morningroutine #nocrash #biohacking #powercoffee #cognitivefocus #coffeeandhealth #highperformance #betterday
+#thefirstwin #powercoffee #cleanenergy #brainfog #functionalcoffee #focus #morningroutine #nooncrash
 
 ---
 
