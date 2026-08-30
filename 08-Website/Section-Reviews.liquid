@@ -1,16 +1,27 @@
 {% comment %}
   SECTION: Social Proof / Reviews
-  Replaces placeholder testimonials on the homepage.
-  Add below the hero or price comparison section.
+  Replaces placeholder testimonials on the homepage ("Taste? Feelings?
+  Feature testimonials highlighting how..." — that's instruction text that
+  was never replaced with real content; it's what's live right now).
+
+  REWRITTEN 2026-08-27. Per Buyer-Intelligence.md's own scan, only ONE fully
+  public/verifiable review exists (Lauriete M., on the product page) — the
+  Luis D. quote is from a Go Global program interview, not a public review.
+  The "112 reviews / 4.9 stars" figure is real per Leo (2026-08-27): it's the
+  Amazon listing's review count, plus word-of-mouth WhatsApp sales that never
+  became public reviews. Because most of those 112 live on Amazon, this
+  section now links the count straight to the Amazon listing instead of just
+  stating it as unverifiable text — a cold visitor can go check it themselves,
+  which is more convincing than a number alone AND doesn't require us to
+  maintain a "112 reviews" claim on this page independent of its real source.
 
   HOW TO ADD:
   Online Store → Themes → Edit code → Sections → New section (name: pc-reviews)
   Paste this. Add to homepage template via theme editor.
 
-  UPDATE BEFORE PUBLISHING:
-  - Replace the three quoted testimonials with real buyer quotes pulled from your Google reviews
-  - The "112 reviews" and "4.9 stars" figures match brand.md — update if your count changes
-  - The Day 3 buyer quote ("I was really focused on Day 3") is from Luis D., Go Global interview
+  TO IMPROVE FURTHER: if you collect more public reviews (Google Business
+  Profile, a Shopify reviews app, etc.), add real quotes here and this comment
+  block can be deleted. Do not add a third quote/name that isn't sourced.
 {% endcomment %}
 
 <section class="pc-reviews" id="reviews">
@@ -18,7 +29,10 @@
 
     <div class="pc-reviews__header">
       <span class="pc-reviews__eyebrow">What buyers say</span>
-      <h2 class="pc-reviews__title">4.9 stars. 112 people.<br>They didn't all get it wrong.</h2>
+      <h2 class="pc-reviews__title">4.9 stars on Amazon.<br>Go read them yourself.</h2>
+      <p class="pc-reviews__subtitle">
+        We'd rather point you to the reviews than tell you what they say.
+      </p>
     </div>
 
     <div class="pc-reviews__grid">
@@ -44,29 +58,17 @@
         </p>
         <div class="pc-review__meta">
           <span class="pc-review__name">Luis D.</span>
-          <span class="pc-review__tag">Verified buyer</span>
-        </div>
-      </div>
-
-      <div class="pc-review">
-        <div class="pc-review__stars">★★★★★</div>
-        <p class="pc-review__body">
-          "I added it to my oat milk and it worked perfectly. The ritual makes it easy.
-          Energy feels more level — no sudden drop that pushes you toward another cup."
-        </p>
-        <div class="pc-review__meta">
-          <span class="pc-review__name">Luis D.</span>
-          <span class="pc-review__tag">Verified buyer</span>
+          <span class="pc-review__tag">Buyer interview</span>
         </div>
       </div>
 
     </div>
 
     <div class="pc-reviews__cta-row">
-      <a href="/products/power-coffee" class="pc-reviews__cta">
-        Try it for $1.26 a morning
+      <a href="https://a.co/d/09Gmr1Sq" target="_blank" rel="noopener" class="pc-reviews__cta">
+        Read the reviews on Amazon
       </a>
-      <a href="#" class="pc-reviews__all-link">Read all 112 reviews →</a>
+      <a href="/products/the-power-coffee-10-days-pack" class="pc-reviews__all-link">Or try it for $1.26 a morning →</a>
     </div>
 
   </div>
@@ -105,6 +107,12 @@
   font-weight: 800;
   line-height: 1.15;
   color: #F7F0E0;
+  margin: 0 0 14px;
+}
+
+.pc-reviews__subtitle {
+  font-size: 16px;
+  color: rgba(247,240,224,0.55);
   margin: 0;
 }
 
@@ -113,6 +121,9 @@
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 24px;
   margin-bottom: 48px;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .pc-review {

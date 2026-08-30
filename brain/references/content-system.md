@@ -10,6 +10,33 @@ Power Coffee is becoming a **desire brand** (see brand.md → Desire-Brand Strat
 6. **Stay in our lane:** discipline · performance · presence. Never "indulgent treat."
 7. **Client-focus + similarity story (added 2026-08-01, per Leo — the most important rule for reach).** Every piece must (a) open with a STRONG HOOK that names the *client's* lived experience (the 2pm crash, the third coffee that isn't working, the afternoon they lose), so the reader recognizes themselves in the first line, and (b) carry a STORY that engages the client through SIMILARITY — the reader sees their own situation mirrored. The similarity is the **shared problem with the customer** (same crash, same 4pm fog), NOT a founder-to-founder or business-journey angle. When the founder is the narrator, the bridge is "I was exactly where you are — same 2pm crash," never "if you've ever built something." The client is the hero; the founder and the product are in service of the client's story. If a hook or story would only resonate with other founders/marketers instead of the coffee customer, rewrite it.
 
+## 🔬 Certification Stamp — MANDATORY on every story (added 2026-08-17, per Leo)
+
+Every Instagram Story carries the **Illuminate Labs Certified** seal, top-right on a
+cream plate. Enforced in code, not left to judgement:
+
+- `make_story.py → render_story()` — the daily `story.jpg` (param `show_seal=True`)
+- `make_cta_story.py` — the 09:00 CTA story
+- shared helper: `make_story.paste_certification_seal()`
+
+**Why a cream plate:** the seal's "il" mark and ILLUMINATE LABS wordmark are black and
+disappear against our espresso backgrounds and dark photo scrims. Same reasoning as the
+QR's white quiet zone.
+
+**Two constraints that come with it:**
+1. The seal is Illuminate Labs' **registered trademark**. Valid only while the
+   certification is current — if it lapses, remove it from the renderers.
+2. The badge is a **receipt, not the pitch**. Persona-problem-first still governs: lead
+   with the customer's need to trust what they put in their body, and let "independently
+   certified, medically reviewed by an MD" be the quiet proof underneath. Never headline
+   the badge.
+
+Certified ground-truth figures (use these, not older content claims): caffeine ~175 mg ·
+taurine 2.1 g · ginkgo biloba 207 mg · thermogenic spices ~1.8 g per 10 g serving. Do NOT
+cite a pea-protein gram figure or "no vanilla" — neither is certified. Full detail and the
+open discrepancies: `07-Project_info/certifications/README_Illuminate_Labs_Certification.md`
+
+---
 ## ✍️ Anti-AI-Slop Writing Rules (apply to ALL copy — added 2026-07-01)
 Adopt the writing-quality rules from the `no-ai-slop` skill. Keep our brand voice (calm high-performance mentor) — this is about quality, not adopting a different persona. Non-negotiables:
 1. **No em-dashes.** Use a period, comma, semicolon, or parentheses instead.
@@ -701,6 +728,44 @@ The ER drop from 15.00% to 6.27% is real but should not alarm. Last week's high 
 *Carousel ER is skewed by the Aug 11 micro-reach anomaly (reach = 4). Strip that post and carousel avg ER falls to approximately 3.9% — directionally in line with Reels. Treat the 31.95% figure as a data artifact, not a format conclusion.*
 
 **Honest baseline read:** Reels are the reach engine. Carousels show reasonable engagement-per-viewer but depend on Reels building the audience first. Neither format is underperforming — volume is simply too low to draw stable conclusions. The Sales Motor is not failing; it is still warming up.
+
+---
+
+
+### LENS Update — Aug 17–Aug 21, 2026
+
+**Week-over-Week momentum:**
+| Metric | Aug 17–21, 2026 | Aug 10–14, 2026 | Δ |
+|--------|-----------------|-----------------|---|
+| Posts with analytics | 4 | 4 | +0 |
+| Days with publish | 5/5 | 5/5 | +0 |
+| Reels published | 2 | 2 | +0 |
+| Carousels published | 2 | 2 | +0 |
+| Avg Reach | 39 | 70 | **-44%** |
+| Avg ER | 6.59% | 33.77% | **-27.18 pp** |
+| Best Reach | 62 | 152 | -90 |
+| Best ER | 10.53% | 125.00% | -114.47 pp |
+
+**Interpretation:** Momentum is declining week-over-week on every quantitative measure — reach dropped nearly in half and engagement rate fell by more than 27 percentage points. The most alarming shift is best ER: the prior week's ceiling of 125% (almost certainly driven by a single breakout post with outsized saves or shares relative to its small reach) collapsed to 10.53%, meaning no post t
+
+**Patterns confirmed this week:**
+**1. Rotate the primary problem frame.** The 2pm crash has saturated this week's content. Next week, lead Monday with a morning-state hook ("You woke up with an agenda. By 9am it was gone.") or an identity hook ("The person who wins the morning doesn't get there with willpower alone.") — pull from the Desire-Brand strategy's identity territory rather than the problem territory. Reserve crash framing for one day only, not the anchor.
+
+**2. Engineer at least one save-worthy Carousel.** Structure Tuesday or Friday's Carousel explicitly as a reference piece — "The 3-ingredient morning stack and what each one actually does" or a scored "Morning energy audit" — something the audience pins to come back to. This directly addresses the zero-saves problem and is the highest-leverage single action for algorithm growth on this account right now.
+
+**3. Pre-drop Thursday's image asset by Wednesday night — make it a standing rule.** Thursday is the Social Proof pillar. It is the closest content the motor has to a conversion day. Build a one-line checklist into the weekly ops flow: Wednesday 9pm — confirm aug[XX]\_2026/ contains carousel\_1.jpg or instagram.jpg before sleeping. One file drop prevents a full publish failure.
+
+---
+
+**Updated baseline:**
+*Based on available analytics across the Sales Motor period. Rows reflect posts with data at export time.*
+
+| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|--------|-------|-----------|-----------|--------------|--------|
+| Reels | 8+ | ~97 | ~3.1 | ~1.4 | ~9.2% |
+| Carousels | 8+ | ~52 | ~1.8 | ~0.4 | ~6.1% |
+
+*Baseline note: Reels consistently outperform Carousels on both raw reach and ER in this account's history. The May 20 Ironman Reel (438 views, 279 reach, 3.94% ER) anchors the reach ceiling; the May 28 "I'm building with AI" Reel (10.19% ER, 7 comments) anchors the engagement ceiling. Both benchmarks remain unchallenged this week.*
 
 ---
 

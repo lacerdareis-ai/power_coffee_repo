@@ -43,22 +43,17 @@ What time does your afternoon usually fall apart? Drop the hour in the comments.
 ---
 
 ### Caption
+Two years to get this formula right.
 
-Three coffees in. Still crashing by 2pm.
+11 ingredients, one scoop, and nothing in the bag I can't explain to the person drinking it. That was the whole standard.
 
-That is not a discipline problem. That is a formula problem.
+Made in the USA. 15 servings a bag.
 
-Regular coffee gives you a spike and a drop. Every time. The afternoon falls apart not because you are weak but because your morning ritual was never built to carry you through it.
-
-One scoop into your existing coffee changes the whole day. Steady energy. Real focus. No crash.
-
-Try it for a week: thepowercoffee.com/pages/betterday
-
----
+Shop direct: thepowercoffee.com/pages/betterday
+On Amazon: a.co/d/09Gmr1Sq
 
 ### Hashtags
-
-#cleanenergy #functionalcoffee #afternooncrash #morningroutine #nocrash #biohacking #powercoffee #thefirstwin #workfromhome #sustainedfocus #coffeeaddict #healthyhabits
+#buildinginpublic #powercoffee #founderstory #cleanenergy #functionalcoffee #madeinusa #smallbusiness #thefirstwin
 
 ---
 

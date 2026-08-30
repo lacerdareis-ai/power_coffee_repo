@@ -3,9 +3,20 @@
   Add to Shopify: Online Store → Themes → Edit code → Sections → New section → paste this
   Then add to your homepage template via the theme editor.
 
-  DOSES: confirmed from brand documentation + research-backed formulation consult.
-  Verify against your physical product label before publishing.
-  Flagged items: [ confirm X ] means Leo should cross-check this value.
+  REWRITTEN 2026-08-27 — the previous version of this file stated doses that do
+  NOT match the Illuminate Labs certified panel (signed 2026-07-29): Ginkgo was
+  listed at 120mg (certified: 207mg), Pea Protein at "5,000mg" (not on the
+  certified panel — do not state a protein gram figure), and it included
+  L-Theanine and L-Carnitine, neither of which is on the certified ingredient
+  list. Every number below is the certified figure, per 10g serving. Ground
+  truth: 07-Project_info/certifications/README_Illuminate_Labs_Certification.md
+  Do not edit a dose here without checking that file first.
+
+  CORRECTED AGAIN 2026-08-27 — per Illuminate Labs' own correction: they
+  reviewed our declared formula against published research; they did not lab-
+  test a physical sample to measure these amounts. Never phrase this as
+  Illuminate Labs having produced/verified the numbers — the numbers are ours,
+  reviewed by them. See the same note in Section-Certification.liquid.
 {% endcomment %}
 
 <section class="pc-ingredients" id="ingredients">
@@ -15,177 +26,96 @@
       <span class="pc-ingredients__eyebrow">What's inside</span>
       <h2 class="pc-ingredients__title">Every ingredient. Every dose.<br>Nothing hidden.</h2>
       <p class="pc-ingredients__subtitle">
-        Most functional coffee brands don't show you the numbers.
-        We do. Every ingredient in Power Coffee is in there for a reason,
-        dosed to actually work.
+        Most functional coffee brands don't show you the numbers. We do —
+        and every dose below was independently reviewed by Illuminate Labs
+        against published safety and efficacy research, not just our own
+        copywriting.
       </p>
     </div>
 
     <div class="pc-ingredients__grid">
 
-      <!-- 1. Instant Coffee + Matcha (combined caffeine) -->
+      <!-- 1. Natural Caffeine (from soluble coffee + matcha) -->
       <div class="pc-ingredient">
         <div class="pc-ingredient__top">
           <span class="pc-ingredient__icon">☕</span>
           <div>
-            <span class="pc-ingredient__name">Instant Coffee</span>
-            <span class="pc-ingredient__dose">175mg total caffeine per serving</span>
+            <span class="pc-ingredient__name">Natural Caffeine</span>
+            <span class="pc-ingredient__dose">~175mg per serving</span>
           </div>
         </div>
         <p class="pc-ingredient__mechanism">
-          The base. 175mg of caffeine per serving (from instant coffee and matcha combined),
-          enough to anchor the formula without spiking cortisol. Add to your regular coffee
-          for a stronger morning, or use alone in hot water. Either way, the rest of the
-          formula does the work.
+          From soluble coffee and matcha combined. 175mg sits comfortably under
+          the European Food Safety Authority's single-dose safety threshold of
+          200mg — a normal amount, reviewed against the safety research, not a
+          mega-dose stacked to make you feel something fast.
         </p>
       </div>
 
-      <!-- 2. Matcha -->
-      <div class="pc-ingredient">
-        <div class="pc-ingredient__top">
-          <span class="pc-ingredient__icon">🍵</span>
-          <div>
-            <span class="pc-ingredient__name">Matcha Green Tea</span>
-            <span class="pc-ingredient__dose">600mg per serving</span>
-          </div>
-        </div>
-        <p class="pc-ingredient__mechanism">
-          Matcha releases caffeine slowly — no spike, no crash. Unlike coffee caffeine,
-          matcha's caffeine is bound to L-theanine in the leaf, which smooths the
-          stimulant arc and extends the hold by 2–3 hours.
-        </p>
-      </div>
-
-      <!-- 3. L-Theanine -->
-      <div class="pc-ingredient">
-        <div class="pc-ingredient__top">
-          <span class="pc-ingredient__icon">🧠</span>
-          <div>
-            <span class="pc-ingredient__name">L-Theanine</span>
-            <span class="pc-ingredient__dose">200mg per serving</span>
-          </div>
-        </div>
-        <p class="pc-ingredient__mechanism">
-          The "no jitter" ingredient. L-theanine creates alert calm — sharpness
-          without restlessness. Research shows the combination of L-theanine and
-          caffeine improves attention accuracy more than caffeine alone.
-          We add it separately on top of what matcha contributes naturally
-          so the dose is consistent, not batch-dependent.
-        </p>
-      </div>
-
-      <!-- 4. Taurine -->
+      <!-- 2. Taurine -->
       <div class="pc-ingredient">
         <div class="pc-ingredient__top">
           <span class="pc-ingredient__icon">⚡</span>
           <div>
             <span class="pc-ingredient__name">Taurine</span>
-            <span class="pc-ingredient__dose">2,000mg per serving</span>
+            <span class="pc-ingredient__dose">2.1g per serving</span>
           </div>
         </div>
         <p class="pc-ingredient__mechanism">
-          2,000mg — twice what Red Bull puts in a can. Taurine is a neuromodulator,
-          not a stimulant. It doesn't add energy; it changes the quality of it.
-          It supports mitochondrial function and reduces overstimulation,
-          which is why the energy holds without the edge.
+          Endurance research shows taurine improves performance at single doses
+          of 1–6g. Our 2.1g sits inside that range. This is the piece that's
+          supposed to keep the caffeine from being the whole story — steady
+          instead of spiked.
         </p>
       </div>
 
-      <!-- 5. Pea Protein -->
-      <div class="pc-ingredient">
-        <div class="pc-ingredient__top">
-          <span class="pc-ingredient__icon">💪</span>
-          <div>
-            <span class="pc-ingredient__name">Pea Protein</span>
-            <span class="pc-ingredient__dose">5,000mg (5g) per serving</span>
-          </div>
-        </div>
-        <p class="pc-ingredient__mechanism">
-          5 grams per scoop. Not for muscle — for blood sugar. Protein slows the
-          post-caffeine glucose drop that causes the 10am crash. Most functional coffees
-          don't do this. We consider it the most underrated ingredient in the formula.
-        </p>
-      </div>
-
-      <!-- 6. Cinnamon -->
-      <div class="pc-ingredient">
-        <div class="pc-ingredient__top">
-          <span class="pc-ingredient__icon">🌶️</span>
-          <div>
-            <span class="pc-ingredient__name">Cinnamon</span>
-            <span class="pc-ingredient__dose">500mg per serving</span>
-          </div>
-        </div>
-        <p class="pc-ingredient__mechanism">
-          Not for flavor. Research indicates cinnamon supports insulin sensitivity,
-          which stabilizes blood sugar after stimulant consumption. A steadier blood
-          sugar floor means a steadier focus floor. The 10am crash is a blood sugar
-          problem — cinnamon is part of the fix.
-        </p>
-      </div>
-
-      <!-- 7. Ginkgo Biloba -->
+      <!-- 3. Ginkgo Biloba Extract -->
       <div class="pc-ingredient">
         <div class="pc-ingredient__top">
           <span class="pc-ingredient__icon">🌿</span>
           <div>
-            <span class="pc-ingredient__name">Ginkgo Biloba</span>
-            <span class="pc-ingredient__dose">120mg per serving</span>
+            <span class="pc-ingredient__name">Ginkgo Biloba Extract</span>
+            <span class="pc-ingredient__dose">207mg per serving</span>
           </div>
         </div>
         <p class="pc-ingredient__mechanism">
-          Supports blood circulation to the brain. The tree that survived the Hiroshima
-          blast. Clinical research at 120mg associates ginkgo with improved short-term
-          memory and cognitive endurance during extended work sessions — not just
-          a morning effect.
+          A standardized extract, not a trace amount for the ingredient list.
+          Ginkgo is in the formula for what it does over the length of a
+          working day, not just the first ten minutes.
         </p>
       </div>
 
-      <!-- 8. Ginger -->
+      <!-- 4. Thermogenic Spices (cinnamon, ginger, black pepper) -->
       <div class="pc-ingredient">
         <div class="pc-ingredient__top">
-          <span class="pc-ingredient__icon">🫚</span>
+          <span class="pc-ingredient__icon">🌶️</span>
           <div>
-            <span class="pc-ingredient__name">Ginger Root</span>
-            <span class="pc-ingredient__dose">250mg per serving</span>
+            <span class="pc-ingredient__name">Thermogenic Spices</span>
+            <span class="pc-ingredient__dose">~1.8g per serving</span>
           </div>
         </div>
         <p class="pc-ingredient__mechanism">
-          Mildly thermogenic and anti-inflammatory. Supports digestion and reduces
-          the stomach sensitivity some people have from stimulants on an empty stomach.
-          Makes the formula work for people who can't do coffee without food.
+          Cinnamon, ginger, and black pepper extract. Not there for heat —
+          there for how the body processes everything else in the scoop.
         </p>
       </div>
-
-      <!-- 9. L-Carnitine -->
-      <div class="pc-ingredient">
-        <div class="pc-ingredient__top">
-          <span class="pc-ingredient__icon">🔋</span>
-          <div>
-            <span class="pc-ingredient__name">L-Carnitine</span>
-            <span class="pc-ingredient__dose">See label for exact dose</span>
-          </div>
-        </div>
-        <p class="pc-ingredient__mechanism">
-          Transports fatty acids into mitochondria for energy. Unlike stimulants,
-          L-carnitine works at the cellular level, supporting fat metabolism and
-          reducing mental fatigue during extended focus sessions. Used by endurance
-          athletes to maintain output when glycogen runs low.
-        </p>
-      </div>
-
-      {% comment %}
-        INGREDIENTS 10 + 11: Add your remaining 2 ingredients below once confirmed
-        from the physical product label. Candidates: black pepper/piperine, MCT powder, B12.
-        Use the block structure above.
-      {% endcomment %}
 
     </div><!-- /.pc-ingredients__grid -->
+
+    <div class="pc-ingredients__also">
+      <p class="pc-ingredients__also-label">Also in the formula</p>
+      <p class="pc-ingredients__also-body">
+        Pea protein (first on the ingredient list — no specific gram amount is
+        on the certified panel yet, so we don't state one), plus gum arabic,
+        xanthan gum, and sodium bicarbonate for texture, mixability, and
+        stability.
+      </p>
+    </div>
 
     <div class="pc-ingredients__footer">
       <div class="pc-ingredients__total">
         <span class="pc-ingredients__total-label">Total per serving:</span>
-        <span class="pc-ingredients__total-value">10g · 11 active ingredients · 0 fillers</span>
+        <span class="pc-ingredients__total-value">10g · 11 ingredients · 0 fillers</span>
       </div>
       <p class="pc-ingredients__disclaimer">
         These statements have not been evaluated by the Food and Drug Administration.
@@ -293,6 +223,30 @@
   font-size: 15px;
   line-height: 1.65;
   color: rgba(247,240,224,0.7);
+  margin: 0;
+}
+
+.pc-ingredients__also {
+  margin-top: 32px;
+  padding: 24px 28px;
+  background: rgba(247,240,224,0.04);
+  border: 1px solid rgba(247,240,224,0.08);
+  border-radius: 10px;
+}
+
+.pc-ingredients__also-label {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #D9A633;
+  margin: 0 0 8px;
+}
+
+.pc-ingredients__also-body {
+  font-size: 14px;
+  line-height: 1.65;
+  color: rgba(247,240,224,0.65);
   margin: 0;
 }
 

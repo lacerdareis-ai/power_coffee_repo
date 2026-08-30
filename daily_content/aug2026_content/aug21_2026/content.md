@@ -45,19 +45,17 @@ Follow @powercoffee.ofc for what is inside and why it works.
 ---
 
 ### Caption
-You have been blaming yourself for the 2pm crash.
+Coffee at four just buys another crash.
 
-It is not discipline. It is not sleep. It is what your coffee does not have.
+You already know how that hour ends. One scoop, cold water, and no shaky hands.
 
-One scoop into your morning cup.
-Same ritual. Different afternoon.
+15 servings in a bag.
 
-Try it at thepowercoffee.com/pages/betterday
-
----
+Shop direct: thepowercoffee.com/pages/betterday
+On Amazon: a.co/d/09Gmr1Sq
 
 ### Hashtags
-#cleanenergy #functionalcoffee #afternooncrash #morningroutine #noCrash #biohacking #powercoffee #thefirstwin #focusfuel #energyboost #highperformance #coffeeadditive
+#thefirstwin #powercoffee #cleanenergy #nojitters #functionalcoffee #afternoonslump #focus #dailygrind
 
 ---
 
