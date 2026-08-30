@@ -1,11 +1,11 @@
-# Publish Confirmation — 2026-08-25 12:00
+# Publish Confirmation — 2026-08-26 10:51
 
 
 - ❌ **X**: skipped not in --platform list
 - ❌ **THREADS**: skipped disabled
 - ❌ **TELEGRAM**: skipped not in --platform list
 - ❌ **WHATSAPP**: skipped not in --platform list
-- ⚠️ **INSTAGRAM**: manual Post manually from app: instagram.mp4 | video at https://files.catbox.moe/crcmhu.mp4
+- ✅ **INSTAGRAM**: ok 17929573575145686
 - ❌ **VIDEOSTORY**: skipped no story.mp4 in today's folder
 - ❌ **CTASTORY**: skipped dedicated daily job only
 - ❌ **LINKEDIN**: skipped not in --platform list

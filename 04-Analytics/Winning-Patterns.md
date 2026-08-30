@@ -43,6 +43,9 @@
 | Shares as the early signal for content worth repeating | Aug 5 Reel earned 3 shares at 313 reach (0.96% share rate) — highest share count in the Sales Motor period | At sub-1,000 reach, shares are rare and meaningful. A post that earns shares before it has scale is a post the audience trusts enough to put their name on. Track shares as the leading indicator, not likes. | Aug 5, 2026 |
 | Blame-deflection + external redirect hook | "You did not lose the afternoon because you are tired." / "That three o'clock drop-off isn't willpower." | Removes viewer shame and assigns causality to the product category — opens the mind to a solution before the solution is named. Two separate posts this week, both top performers in their respective metrics (reach and ER). Structurally different from "present-tense problem scene" — the key move is the explicit exoneration. | Aug 10–13, 2026 |
 | Serialized content requires cold hooks, not continuation hooks | "Eisner Stories — Episode 4" landed at 28 reach, 3.57% ER — weakest post of the week | At sub-1,000 follower scale, no viewer knows what Episode 4 is. Every post must work as if it is the first post the viewer has ever seen. Serialized content titles punish small accounts. Reframe series posts with a standalone hook first; bury the episode number in the caption or slide 2. | Aug 10, 2026 |
+| Time-specificity in founder hooks | "Two years to get this formula right." (Aug 17 Reel, 8.06% ER) | A number anchors the claim in reality and signals sacrifice — "two years" implies failure, iteration, and commitment. Outperforms vague founder credibility ("I built this for me") without requiring a full story in the hook. | Aug 17, 2026 |
+| Declarative place/time scene as Reel hook | "Two o'clock is where most days fall apart." (Aug 19, 5.00% ER, 1 day live) | Names a specific moment rather than a symptom — the viewer places themselves in the scene before the problem is even stated. Extends the declarative > question pattern into time-of-day framing. | Aug 19, 2026 |
+| Thematic monoculture degrades reach | Five posts on "2pm crash" in one week → Avg Reach dropped 44% WoW despite identical format mix | Repeating the same emotional territory across an entire week suppresses algorithmic distribution and likely drives audience fatigue. Rotate primary emotional frames week-to-week even when the product angle stays constant. | Aug 17–21, 2026 |
 ### Template entries:
 - **Price anchor hook:** "$0.73 vs $5.75" — comparison to daily coffee shop spend
 - **Problem-first hook:** "Your coffee is failing you by 2pm" — names the pain immediately
@@ -124,6 +127,7 @@
 | Week 11 (Jul 27–Jul 31, 2026) | — | — | — | — | No Reels; 1/5 posts with data; B2B carousel on wrong channel; 4 posts pending maturity |
 | Week 6 (Aug 3–Aug 7, 2026) | — | — | — | — | Reels +1,712% reach; Malik P3 Reel top post (313 reach, 3 shares); ER compression expected at scale |
 | Week 14 (Aug 10–Aug 14, 2026) | — | — | — | — | Reach -44% on fewer Reels; blame-deflect hooks lead; Friday CTA missed — fix asset staging |
+| Week 14 (Aug 17–21, 2026) | — | — | — | — | Crash theme saturated; Reel leads at 8% ER; zero saves; Thursday missed; rotate frame next week |
 
 ---
 

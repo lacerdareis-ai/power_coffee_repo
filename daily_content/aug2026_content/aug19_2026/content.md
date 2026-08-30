@@ -26,26 +26,17 @@ Option B: 3pm every time
 ---
 
 ### Caption
+Two o'clock is where most days fall apart.
 
-You are not lazy.
+Not because you're tired — because the thing you drank at 8am was never built to last that long.
 
-You are not undisciplined.
+One scoop, cold water, and it's coffee. Steady, not wired.
 
-You just hit the same wall I hit every day for two years before I figured out what was actually happening.
-
-The afternoon is not the enemy. The tool you used to get through it is.
-
-This is episode 7 of building this brand in public. The real numbers, the real mistakes, and what I drink while I work through them.
-
-Follow the build. thepowercoffee.com/pages/betterday for the product that started it.
-
-https://thepowercoffee.com/pages/betterday
-
----
+Shop direct: thepowercoffee.com/pages/betterday
+On Amazon: a.co/d/09Gmr1Sq
 
 ### Hashtags
-
-#functionalcoffee #cleanenergy #afternooncrash #morningroutine #founderstory #biohacking #powercoffee #nocrash #performancefuel #thefirstwin #buildingabrand #focusandflow
+#thefirstwin #powercoffee #cleanenergy #2pmcrash #functionalcoffee #focus #workfromhome #nooncrash
 
 ---
 

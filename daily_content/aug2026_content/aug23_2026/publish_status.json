@@ -1,51 +1,52 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-23",
   "platforms": {
     "x": {
       "status": "ok",
-      "at": "2026-08-26 04:00"
+      "at": "2026-08-23 04:00"
     },
     "threads": {
       "status": "skipped",
-      "at": "2026-08-26 12:00",
+      "at": "2026-08-23 04:00",
       "reason": "disabled"
     },
     "telegram": {
       "status": "ok",
-      "at": "2026-08-26 04:00"
+      "at": "2026-08-23 04:00"
     },
     "whatsapp": {
       "status": "failed",
-      "at": "2026-08-26 04:00",
+      "at": "2026-08-23 04:00",
       "error": "/Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175\n                throw new Error(`The browser is already running for ${launchAr"
     },
     "instagram": {
-      "status": "ok",
-      "at": "2026-08-26 10:24"
+      "status": "skipped",
+      "at": "2026-08-23 04:00",
+      "reason": "not in --platform list"
     },
     "videostory": {
       "status": "skipped",
-      "at": "2026-08-26 12:00",
-      "reason": "no story.mp4 in today's folder"
+      "at": "2026-08-23 04:00",
+      "reason": "not in --platform list"
     },
     "ctastory": {
       "status": "skipped",
-      "at": "2026-08-26 12:00",
+      "at": "2026-08-23 04:00",
       "reason": "dedicated daily job only"
     },
     "linkedin": {
       "status": "ok",
-      "at": "2026-08-26 04:00"
+      "at": "2026-08-23 04:00"
     },
     "shopify": {
       "status": "skipped",
-      "at": "2026-08-26 12:00",
-      "reason": "not in --platform list"
+      "at": "2026-08-23 04:00",
+      "reason": "not Tuesday or Thursday"
     },
     "email": {
       "status": "skipped",
-      "at": "2026-08-26 12:00",
-      "reason": "not in --platform list"
+      "at": "2026-08-23 04:00",
+      "reason": "not Saturday"
     }
   }
 }

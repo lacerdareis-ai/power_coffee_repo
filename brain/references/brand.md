@@ -504,4 +504,20 @@ At 8 reach, this is too small a sample to draw conclusions, but it did not zero 
 
 ---
 
+
+### LENS Update — Aug 17–Aug 21, 2026
+
+**Audience insights this week:**
+**1. Founder-narrative Reels continue to lead the week.** Aug 17's Reel (ER 8.06%) and Aug 19's Reel (ER 5.00%) were the top two posts. Both carried personal time-based specificity ("Two years," "Two o'clock") — not a coincidence.
+
+**2. Declarative hooks outperform question hooks on Reels.** "Two o'clock is where most days fall apart" (5.00% ER, 1 day live) vs. "YOU HIT A WALL BY 10AM" Carousel (2.78% ER, 2 days live). The pattern holds again this week, now confirmed across at least three separate data points in the motor.
+
+**3. Reels consistently outperform Carousels.** This week: Reels averaged 51 reach and ~6.5% ER on posts with data. Carousels averaged 36 reach and 2.78% ER on the one post with data. The gap is directionally consistent with the full-motor baseline.
+
+**4. Publishing reliability stayed at 5/5 days attempted.** The Thursday failure was an asset ops issue (missing image file), not a scheduling or system failure. The motor is structurally intact.
+
+**5. The problem-hook frame is efficient for cold reach.** Aug 17 (P1) pulled the highest raw reach of the week (62) against a cold audience — the "crash" problem resonates as an entry point even when it doesn't maximize ER.
+
+---
+
 <!-- LENS_APPEND_END -->

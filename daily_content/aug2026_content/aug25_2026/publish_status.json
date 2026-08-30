@@ -7,7 +7,7 @@
     },
     "threads": {
       "status": "skipped",
-      "at": "2026-08-25 12:00",
+      "at": "2026-08-26 10:51",
       "reason": "disabled"
     },
     "telegram": {
@@ -20,17 +20,17 @@
       "error": "/Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175\n                throw new Error(`The browser is already running for ${launchAr"
     },
     "instagram": {
-      "status": "manual",
-      "at": "2026-08-25 12:00"
+      "status": "ok",
+      "at": "2026-08-26 10:51"
     },
     "videostory": {
       "status": "skipped",
-      "at": "2026-08-25 12:00",
+      "at": "2026-08-26 10:51",
       "reason": "no story.mp4 in today's folder"
     },
     "ctastory": {
       "status": "skipped",
-      "at": "2026-08-25 12:00",
+      "at": "2026-08-26 10:51",
       "reason": "dedicated daily job only"
     },
     "linkedin": {
@@ -44,7 +44,7 @@
     },
     "email": {
       "status": "skipped",
-      "at": "2026-08-25 12:00",
+      "at": "2026-08-26 10:51",
       "reason": "not in --platform list"
     }
   }

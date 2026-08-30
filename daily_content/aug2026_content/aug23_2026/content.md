@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -26,14 +26,17 @@ THE FIRST WIN OF THE DAY. EVERY DAY.
 ---
 
 ### Caption
-New episode of Eisner Stories by Power Coffee — swipe through. Episode 6: "The Pitch."
+I built this for the afternoon I kept losing.
 
-Every Sunday, a different daily-life struggle. Same first win at the end of it.
+Not the morning — the morning was never the problem. It was the hour where the work was still there and I wasn't.
 
----
+One scoop into water, and it's coffee.
+
+Shop direct: thepowercoffee.com/pages/betterday
+On Amazon: a.co/d/09Gmr1Sq
 
 ### Hashtags
-#thefirstwin #powercoffee #comic #motivation #dailygrind #cleanenergy #noircomic #mondaymotivation
+#buildinginpublic #powercoffee #founderstory #cleanenergy #afternoonslump #functionalcoffee #smallbusiness #thefirstwin
 
 ---
 
