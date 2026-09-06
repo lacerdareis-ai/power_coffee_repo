@@ -520,4 +520,16 @@ At 8 reach, this is too small a sample to draw conclusions, but it did not zero 
 
 ---
 
+
+### LENS Update — Aug 31–Sep 4, 2026
+
+**Audience insights this week:**
+1. **The P2 hook concept is directionally sound.** "Your focus isn't gone — it's just unsupported" reframes audience pain without blame, aligns with the Desire-Brand identity play, and earned a save within its first day. The "unsupported" framing is softer than clinical language and closer to how real buyers talk to themselves at 3pm.
+
+2. **Social proof copy is on-strategy.** The Sep 3 "I finally have afternoons again" story copy uses a verified buyer's own words — specific, felt, non-clinical — which matches the instruction to lead with the felt word buyers actually use rather than ingredient lists. "Afternoons again" is as strong a desire statement as "smooth." This angle should move to a feed carousel or Reel, not stay confined to a Story.
+
+3. **The pipeline, when it fires, produces on-brand content.** Both confirmed pieces this week are correctly pillar-assigned, use appropriate voice (no emojis, no hype words, flowing paragraph captions per brand spec), and the hooks are problem-led rather than ingredient-led — consistent with the winning pattern established in May.
+
+---
+
 <!-- LENS_APPEND_END -->

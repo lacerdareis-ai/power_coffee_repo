@@ -46,6 +46,8 @@
 | Time-specificity in founder hooks | "Two years to get this formula right." (Aug 17 Reel, 8.06% ER) | A number anchors the claim in reality and signals sacrifice — "two years" implies failure, iteration, and commitment. Outperforms vague founder credibility ("I built this for me") without requiring a full story in the hook. | Aug 17, 2026 |
 | Declarative place/time scene as Reel hook | "Two o'clock is where most days fall apart." (Aug 19, 5.00% ER, 1 day live) | Names a specific moment rather than a symptom — the viewer places themselves in the scene before the problem is even stated. Extends the declarative > question pattern into time-of-day framing. | Aug 19, 2026 |
 | Thematic monoculture degrades reach | Five posts on "2pm crash" in one week → Avg Reach dropped 44% WoW despite identical format mix | Repeating the same emotional territory across an entire week suppresses algorithmic distribution and likely drives audience fatigue. Rotate primary emotional frames week-to-week even when the product angle stays constant. | Aug 17–21, 2026 |
+| Reframe-not-blame hook | "By 3PM, your focus isn't gone. It's just unsupported." | Removes self-blame from audience pain ("I'm lazy / weak") and repositions it as an external, solvable gap. Identity-protective framing lowers resistance before the product is introduced. Consistent with Desire-Brand shift: sell who you become, not what's wrong with you. | Sep 1, 2026 |
+| Buyer-language proof as Reel seed | "I finally have afternoons again." — verified buyer | Three words that describe the exact desire state (not the product, not the formula) — afternoons = presence, family, capacity. Quote sourced from real review. Can anchor a Story, a carousel slide, or a Reel open. The felt word beats any clinical claim. | Sep 3, 2026 |
 ### Template entries:
 - **Price anchor hook:** "$0.73 vs $5.75" — comparison to daily coffee shop spend
 - **Problem-first hook:** "Your coffee is failing you by 2pm" — names the pain immediately
@@ -128,6 +130,7 @@
 | Week 6 (Aug 3–Aug 7, 2026) | — | — | — | — | Reels +1,712% reach; Malik P3 Reel top post (313 reach, 3 shares); ER compression expected at scale |
 | Week 14 (Aug 10–Aug 14, 2026) | — | — | — | — | Reach -44% on fewer Reels; blame-deflect hooks lead; Friday CTA missed — fix asset staging |
 | Week 14 (Aug 17–21, 2026) | — | — | — | — | Crash theme saturated; Reel leads at 8% ER; zero saves; Thursday missed; rotate frame next week |
+| Week 14 (Aug 31–Sep 4, 2026) | — | — | — | — | Pipeline failed 3/5 days; 0 Reels; 1 carousel live; fix publish reliability before content |
 
 ---
 

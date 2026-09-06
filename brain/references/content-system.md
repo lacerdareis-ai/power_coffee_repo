@@ -59,6 +59,8 @@ Use these to dramatize value that is genuinely there. Honesty guardrails apply: 
 7. **Anchoring.** Show the REAL regular price struck through next to the offer price (no fake MSRP).
 8. **Endowment.** 30-day guarantee, "try it a week", free 10-Shakes book they get instantly, so they feel ownership before committing.
 
+**Email specifically:** see `brain/references/email-copywriting.md` (added 2026-09-01) for the email-only layer on top of this — subject line data, PAS/BAB/AIDA framework choice by list temperature, and deliverability guardrails for the newsletter and post-purchase drips.
+
 ## Active Campaign — August 2026 (launch, from Aug 1)
 
 **Goal:** 100 sales in August (Amazon ~60 + DTC ~40). Full plan: `growth_playbooks/august_2026_100_sales_plan.md`.
@@ -766,6 +768,44 @@ The ER drop from 15.00% to 6.27% is real but should not alarm. Last week's high 
 | Carousels | 8+ | ~52 | ~1.8 | ~0.4 | ~6.1% |
 
 *Baseline note: Reels consistently outperform Carousels on both raw reach and ER in this account's history. The May 20 Ironman Reel (438 views, 279 reach, 3.94% ER) anchors the reach ceiling; the May 28 "I'm building with AI" Reel (10.19% ER, 7 comments) anchors the engagement ceiling. Both benchmarks remain unchallenged this week.*
+
+---
+
+
+### LENS Update — Aug 31–Sep 4, 2026
+
+**Week-over-Week momentum:**
+| Metric | Aug 31–Sep 4, 2026 | Aug 24–Aug 28, 2026 | Δ |
+|--------|-----------|-----------|---|
+| Posts with analytics | 1 | 3 | -2 |
+| Days with publish | 2/5 | 5/5 | -3 |
+| Reels published | 0 | 2 | -2 |
+| Carousels published | 1 | 1 | +0 |
+| Avg Reach | 15 | 67 | -78% |
+| Avg ER | 0.00% | 2.19% | -2.19 pp |
+| Best Reach | 15 | 114 | -99 |
+| Best ER | 0.00% | 6.56% | -6.56 pp |
+
+**Interpretation:** Momentum collapsed this week — not because of content quality, but because the pipeline failed on 3 of 5 scheduled days. The -78% reach decline is almost entirely a volume and recency problem: with only one post live at export time and zero days of accumulation logged, the numbers reflect a data snapshot, not audience rejection. The most significant shift is publish reliability dropping from 
+
+**Patterns confirmed this week:**
+1. **Install a pipeline failure alert before Monday.** Every missing `publish_confirm.md` should trigger an immediate notification — not discovered retroactively by LENS seven days later. Three silent failures in one week is three lost days of compounding. Fix the detection layer first; content quality is irrelevant if the publish never fires.
+
+2. **Wednesday must be a Reel and it must be Leo on camera.** P3 Founder Proof in Reel format is the single highest-performing content type in the Sales Motor record. The Ironman/family Reel owns the best reach number. Schedule it, record it this weekend, and treat it as non-negotiable for the week. The "I finally have afternoons again" buyer quote is ready-made Reel script material — Leo reads the quote, then tells the 30-second story of what building this formula was actually about.
+
+3. **Move the "I finally have afternoons again" quote to a feed carousel next week.** It performed as Story copy but Story reach is untracked and ephemeral. Convert it: Slide 1 = the quote in large type on dark background, Slide 2 = the problem it describes (the 2pm collapse), Slide 3 = what changed (the formula context, ingredient as receipt not hook), Slide 4 = CTA. This is a ready-built P5 Social Proof carousel that requires no new writing — only design.
+
+---
+
+**Updated baseline:**
+> *Based on available analytics data across the Sales Motor period. Reels and Carousels separated.*
+
+| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|--------|-------|-----------|-----------|--------------|--------|
+| Reels | 2+ | ~200+ | — | — | ~4–10% |
+| Carousels | 3+ | ~40–67 | ~1–3 | ~0 | ~2–7% |
+
+> **Data caveat:** Full baseline requires the complete analytics CSV across all Sales Motor weeks. The data provided covers two comparison weeks only. These figures are directional. The Ironman/family Reel (May 20) at 438 views / 279 reach / 3.94% ER and the AI transparency Reel at 10.19% ER represent confirmed anchors. Carousel baseline reflects the current two-week window. A full export will sharpen this table.
 
 ---
 
