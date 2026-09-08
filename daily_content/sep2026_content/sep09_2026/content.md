@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -60,27 +60,15 @@ Post 5: If you are still losing your afternoons, this is where to start: https:/
 
 ## LINKEDIN
 ### Post
-I lost most of my afternoons for about two years.
+Six months ago I made a decision most founders wouldn't: I stopped hiring for marketing and built the operation myself, with AI doing the daily execution.
 
-Not because I was unfocused. Not because I was undisciplined. Because I was asking regular coffee to do something it was never designed to do.
+Content, scheduling, customer replies, weekly reporting — all of it runs without a marketing hire, without an agency retainer.
 
-I would be sharp at 8am, in flow by 9, and running on empty by 1:30.
+What surprised me wasn't the cost savings. It was how much clearer my own thinking got once I was the one setting the direction every single day instead of translating it through a team.
 
-I tried more coffee. It made it worse. The spike got higher and the crash came sooner.
+The tradeoff is real: I don't get to disappear for a week. The system needs a founder who's still paying attention, every day, making the calls.
 
-What I eventually understood is that the energy architecture of a day is built in the morning. If the foundation is only caffeine, the house falls by noon.
-
-That is what drove me to spend two years testing, failing, reformulating, and testing again.
-
-Not to launch a product. To solve my own afternoon.
-
-The product came after the problem was solved.
-
-I still use it every single morning. Not as the founder. As the first customer who needed it to work.
-
-If you are a founder, athlete, or parent who has written off your afternoons as a fixed cost, I would challenge that assumption.
-
-What is the one thing you have tried that actually moved the needle on sustained energy?
+If you're a solo operator wondering whether AI can actually replace a function instead of just assisting one — ask me. I've been running the experiment daily for months.
 
 ---
 
