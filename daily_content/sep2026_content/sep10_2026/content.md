@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -26,9 +26,9 @@ Not athletes. Not biohackers.
 
 Just people who showed up to a full day and needed their energy to do the same.
 
-If you have been on the fence, this is the only thing worth reading today.
+If you have been on the fence, start here instead: the free 10 Power Coffee Shakes recipe book. Ten ways to build the same afternoon these people found.
 
-thepowercoffee.com/pages/betterday
+thepowercoffee.com/pages/10shakes
 
 ---
 
@@ -52,7 +52,7 @@ Post 3: Sustained energy without a crash is not magic. It is what happens when c
 
 Post 4: People who switched from stacking three coffees, an energy drink, and a protein shake to one scoop in their morning cup report the same thing: the afternoon holds. The focus does not spike and drop. It just stays.
 
-Post 5: If you have been describing your day as "great until 2pm," that is the thread worth pulling. thepowercoffee.com/pages/betterday
+Post 5: If you have been describing your day as "great until 2pm," start with the free 10 Power Coffee Shakes recipe book. Ten ways to build the fix into your morning. thepowercoffee.com/pages/10shakes
 
 ---
 
@@ -84,7 +84,7 @@ Real talk — the best marketing Power Coffee has ever gotten came from someone 
 
 Not a paid post. Not an ad. Just a person who had the same afternoon everyone has, and then did not.
 
-If that sounds like your day, it is worth trying: thepowercoffee.com/pages/betterday
+If that sounds like your day, start free: grab the 10 Power Coffee Shakes recipe book, no cost, just your email. thepowercoffee.com/pages/10shakes
 
 ---
 
