@@ -61,6 +61,12 @@ Use these to dramatize value that is genuinely there. Honesty guardrails apply: 
 
 **Email specifically:** see `brain/references/email-copywriting.md` (added 2026-09-01) for the email-only layer on top of this — subject line data, PAS/BAB/AIDA framework choice by list temperature, and deliverability guardrails for the newsletter and post-purchase drips.
 
+**10 Shakes as the connection trigger (added 2026-09-09, per Leo):** For upcoming content, don't make every CTA a direct-buy ask. Use the free "10 Power Smart Energy Shakes" recipe ebook (thepowercoffee.com/pages/10shakes, email opt-in) as the low-commitment trigger that opens the relationship before the sale. Mechanics:
+- Swap the CTA on P1/P2/P4 (problem hook, ingredient science, ritual content) from "buy now" to "get the free recipe book" — a reciprocity/curiosity trigger, not a purchase ask. Save the direct-buy CTA for P6 and the close of P3 founder posts.
+- Frame it as value-first: "steal my 10 energy shake recipes" / "the shake I make before every long day, free" — not "sign up for our newsletter."
+- This builds the email list (nurture sequence already exists at `growth_playbooks/august_email_nurture_sequence.md`) so the direct-buy ask lands on a warmer audience later, instead of asking for the sale cold every time.
+- Still subject to the honesty guardrails above — it's a real free asset with real opt-in, not manufactured scarcity.
+
 ## Active Campaign — August 2026 (launch, from Aug 1)
 
 **Goal:** 100 sales in August (Amazon ~60 + DTC ~40). Full plan: `growth_playbooks/august_2026_100_sales_plan.md`.
