@@ -140,3 +140,17 @@
 - 📄 `bloom-flywheel.md` stale (27d) — refresh
 - 📄 `earned-media.md` stale (30d) — refresh
 - 📄 `market.md` stale (107d) — refresh
+
+## 2026-09-20 self-review
+- ⚠️ `competitor` — 31 errs, last run 6.0h ago
+- ⚠️ `cta_story` — 95 errs, last run 7.0h ago
+- ⚠️ `generate` — 63 errs, last run 11.0h ago
+- ⚠️ `publish` — 112 errs, last run 4.0h ago
+- ⚠️ `qa_poller` — 127 errs, last run Noneh ago
+- ⚠️ `reorder_drip` — 179 errs, last run 4.8h ago
+- ⚠️ `report` — 32 errs, last run 8.0h ago
+- ⚠️ `review` — 40 errs, last run 31.0h ago
+- ⚠️ `review_drip` — 179 errs, last run 5.0h ago
+- 📄 `bloom-flywheel.md` stale (34d) — refresh
+- 📄 `earned-media.md` stale (37d) — refresh
+- 📄 `market.md` stale (114d) — refresh
