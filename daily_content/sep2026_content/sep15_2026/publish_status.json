@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-15",
+  "platforms": {
+    "x": {
+      "status": "ok",
+      "at": "2026-09-15 04:20"
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-09-15 12:00",
+      "reason": "disabled"
+    },
+    "telegram": {
+      "status": "ok",
+      "at": "2026-09-15 04:20",
+      "message_id": 114
+    },
+    "whatsapp": {
+      "status": "failed",
+      "at": "2026-09-15 04:20",
+      "error": "/Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175\n                throw new Error(`The browser is already running for ${launchAr"
+    },
+    "instagram": {
+      "status": "ok",
+      "at": "2026-09-15 12:00",
+      "post_id": "18094093370439432"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-09-15 12:00",
+      "reason": "no story.mp4 in today's folder"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-09-15 12:00",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "ok",
+      "at": "2026-09-15 04:20",
+      "post_id": "urn:li:share:7505540968650072064"
+    },
+    "shopify": {
+      "status": "failed",
+      "at": "2026-09-15 04:20",
+      "error": "{'errors': '[API] Invalid API key or access token (unrecognized login or wrong password)'}"
+    },
+    "email": {
+      "status": "skipped",
+      "at": "2026-09-15 12:00",
+      "reason": "not in --platform list"
+    }
+  }
+}
