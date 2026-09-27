@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-25",
+  "platforms": {
+    "x": {
+      "status": "ok",
+      "at": "2026-09-25 16:23"
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-09-25 16:23",
+      "reason": "disabled"
+    },
+    "telegram": {
+      "status": "ok",
+      "at": "2026-09-25 16:23",
+      "message_id": 120
+    },
+    "whatsapp": {
+      "status": "failed",
+      "at": "2026-09-25 16:23",
+      "error": "/Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175\n                throw new Error(`The browser is already running for ${launchAr"
+    },
+    "instagram": {
+      "status": "ok",
+      "at": "2026-09-25 16:23",
+      "post_id": "17962271169205677"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-09-25 16:23",
+      "reason": "no story.mp4 in today's folder"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-09-25 16:23",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "failed",
+      "at": "2026-09-25 16:23",
+      "error": "{\"status\":401,\"serviceErrorCode\":65602,\"code\":\"EXPIRED_ACCESS_TOKEN\",\"message\":\"The token used in the request has expired\"}"
+    },
+    "shopify": {
+      "status": "skipped",
+      "at": "2026-09-25 16:23",
+      "reason": "not Tuesday or Thursday"
+    },
+    "email": {
+      "status": "skipped",
+      "at": "2026-09-25 16:23",
+      "reason": "not Saturday"
+    }
+  }
+}
