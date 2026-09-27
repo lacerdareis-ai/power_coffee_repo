@@ -1,121 +1,131 @@
 # Power Coffee — Content for September 28, 2026
-**Pillar:** P1 — PROBLEM HOOK | **Day:** Monday | **Image set:** B1 or B2
+**Pillar:** P8 — FUEL CHECK (REFERENCE CAROUSEL) | **Day:** Monday
+
+> **Swap note (2026-09-27):** this day was originally planned as a P1 Problem
+> Hook Reel ("Still Losing The Afternoon"). Replaced with the Fuel Check
+> carousel, then every other platform below (X.COM, LINKEDIN, TELEGRAM,
+> HIGGSFIELD, REELS — FOUNDER VLOG) rewritten to the same taurine/Red Bull
+> story so the day is cross-platform consistent. **Not** touched: SCIENCE
+> NOTE (general caffeine/adenosine prep material, not day-specific) and
+> FIGMA SCRIPTER (a generic empty-template tool, not content). A real data
+> fix landed along the way: taurine is **2.1g**, not the 2g figure
+> `brand.md`'s ingredient table uses — 2.1g is the Illuminate Labs certified
+> panel value, see `certifications/README_Illuminate_Labs_Certification.md`.
+> That correction is reflected everywhere above.
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
 ---
 
 ## INSTAGRAM
-### Reel Script
+### Carousel Copy
 
-**Cover Phrase:** STILL LOSING THE AFTERNOON
+**Format note:** "Fuel Check" — new weekly reference-carousel format (pilot,
+2026-09-27), built to answer the account's documented near-zero-saves gap
+(see `04-Analytics/Winning-Patterns.md` and
+`_brand_kit/swipe_file/README.md`). Navy/cream halftone-duotone photo system,
+mascot appears only on slides 1 and 5. Images already rendered:
+`carousel_1.jpg` through `carousel_6.jpg` in this folder (source:
+`_brand_kit/format_mockups/fuel_check/render_slide1_v2.py` +
+`render_fuel_check.py`).
 
-**Hook (0-3s — spoken + on-screen text):**
-Spoken: "Three coffees. You are still crashing at 2pm."
-On-screen: THREE COFFEES. STILL CRASHING.
+**Slide 1:**
+TAURINE IS IN RED BULL. BUT NOT WHY YOU THINK.
+*(save cue: "Save this — part 1 of 6")*
 
-**Body (3-40s — spoken):**
-"And the worst part is you know exactly when it is coming. Around 1:30 you start to feel it. The focus gets thin. The meeting gets harder. You are not tired, exactly. You are just... done.
+**Slide 2:**
+IT'S NOT THERE TO HYPE YOU UP. IT KEEPS YOU SMOOTH INSTEAD.
+*(source tag: Molecular Vision, 2012)*
 
-So you do what you always do. You reach for another cup. Or you push through and pay for it later with bad sleep and a worse tomorrow.
+**Slide 3:**
+THE NUMBERS. — Power Coffee vs. Red Bull vs. Black Coffee, per serving:
+Caffeine 175mg / 80mg / ~95mg · Taurine 2,100mg / 1,000mg / 0mg · Sugar 0g / 27g / 0g
+*(save cue: "Save this — your fuel cheat sheet"; 2.1g taurine is the Illuminate
+Labs certified figure — see certifications/README_Illuminate_Labs_Certification.md
+— not the 2g figure in brand.md's older ingredient table)*
 
-That cycle is not a willpower problem. It is a fuel problem.
+**Slide 4:**
+NO SPIKE. NO CRASH. JUST 4-6 HOURS OF CLEAN FOCUS.
 
-Your coffee is doing one thing — caffeine, fast spike, fast drop. It was never designed to carry you through a full day.
+**Slide 5:**
+STILL SHARP AT 2PM. THAT'S THE FIRST WIN, TWICE.
 
-One scoop in the morning changes the whole equation. Steady energy. No spike. No wall. No third cup.
-
-The link is in the caption. Try it for one week."
-
-**CTA (40-45s — spoken + on-screen text):**
-Spoken: "One week. One scoop. See what Monday feels like."
-On-screen: thepowercoffee.com/pages/betterday
-
-**Engagement Prompt:**
-What time do you usually lose the afternoon — drop a time in the comments.
+**Slide 6:**
+YOUR FIRST WIN STARTS HERE. — SHOP THEPOWERCOFFEE.COM
 
 ---
 
 ### Caption
 
-You know it is coming.
+New series: Fuel Check.
 
-Around 1:30 your focus starts to thin. By 2 you are running on nothing. By 3 you are just surviving the calendar.
+Once a week, we pull the real numbers so you don't have to.
 
-That is not a discipline problem. That is what happens when your morning fuel burns out too fast.
+First one: taurine. Yes — it's in Red Bull too. But not for the reason you'd think. Swipe through for what it's actually doing in your system (and the label numbers side by side, slide 3 — screenshot it).
 
-Regular coffee was not built to hold you through a full day. One scoop in your morning cup may change that.
+Still sharp at 2pm isn't luck. It's the fuel.
 
-Try it for one week.
 https://thepowercoffee.com/pages/betterday
-
-What time do you usually lose the afternoon? Drop it in the comments.
 
 ---
 
 ### Hashtags
 
-#afternooncrash #cleanenergy #functionalcoffee #morningroutine #nocrash #focusfuel #biohacking #powercoffee #workdayenergy #sustainedfocus #coffeeaddict #highperformance
+#fuelcheck #thefirstwin #powercoffee #taurine #cleanenergy #functionalcoffee #nocrash #labelcheck #coffeefacts #morningroutine #sustainedfocus #workdayenergy
 
 ---
 
 ## X.COM
 ### Post
 
-You already know the crash is coming. Around 1:30pm you start to feel it. That is not tiredness. That is your fuel running out. Your coffee was never designed to last all day.
+Taurine is in Red Bull too. Most people don't know why it's actually there — it isn't what gives you the buzz. It's what keeps the buzz from turning into jitters.
 
 ---
 
 ### Thread
 
 Post 1:
-You are not losing the afternoon because you are weak. You are losing it because your fuel has a four-hour shelf life.
+Taurine is in Red Bull too. Most people assume that makes it a stimulant. It isn't.
 
 Post 2:
-Regular coffee does one thing: floods your system with caffeine, spikes fast, drops hard. By 1:30pm the spike is gone. What is left is the cortisol hangover and a foggy second half of the day.
+Research shows taurine functions as a neuromodulator — it supports the nervous system's inhibitory response. It's the ingredient stopping the stimulants from overshooting, not adding to them.
 
 Post 3:
-The research on how caffeine is metabolized is well established. Half of it is cleared from your bloodstream within four to six hours. The second cup buys you time. It does not solve the underlying problem.
+The dose is what actually differs. Red Bull: 1g taurine, 27g sugar. Power Coffee: 2.1g taurine, 0g sugar. Same ingredient, different math.
 
 Post 4:
-What changes the afternoon is not more caffeine. It is supporting the caffeine with ingredients designed for sustained signaling and blood sugar stability so the energy curve flattens instead of spikes and craters.
+175mg of natural caffeine, comfortably under EFSA's 200mg single-dose safety threshold, paired with more than double the taurine of a standard energy drink can. That's the formula, not a marketing line.
 
 Post 5:
-One scoop in your morning coffee. That is the whole intervention. If your afternoons are still broken, it is worth a week to find out why. https://thepowercoffee.com/pages/betterday
+Full numbers, side by side: https://thepowercoffee.com/pages/betterday
 
 ---
 
 ## LINKEDIN
 ### Post
 
-By 2pm most days, I was sitting at my desk doing something I called working.
+A reviewer once asked me why I put "basically what's in Red Bull" into my own coffee.
 
-The tabs were open. The words were on the screen. But the focus was gone.
+Fair question. I have gotten it more than once.
 
-I kept treating it like a mental discipline problem. I tried timers, cold water, shorter meetings.
+Here is what I told them: taurine is not the ingredient people assume it is. It is not a stimulant. The research on it is fairly specific — it functions as a neuromodulator, meaning its role is to help regulate the nervous system's response to stimulation, not add to it.
 
-It was not a discipline problem.
+So when I formulated Power Coffee, I did not avoid it. I used more of it — 2.1g per serving, versus roughly 1g in a standard energy drink can. And I left out the 27g of sugar that usually comes along with it.
 
-It was a fuel problem. My morning coffee had done its job and clocked out around noon. Everything after that was just momentum running down.
+Most "clean energy" positioning skips the actual chemistry and goes straight to vibes. I would rather show the dose and let people check it themselves.
 
-I spent a long time thinking about what it would take to actually hold energy across a full workday without adding more caffeine, more cortisol, more junk.
-
-That became the formula I built.
-
-Not to sell a product. To solve a problem I had every single day.
-
-If you are a founder or executive who loses the second half of the day consistently, I am curious: have you ever treated it as a nutrition problem, or do you just push through?
+If you have ever had a customer or supplier push back on an ingredient because of where else it shows up, how did you handle explaining the difference?
 
 ---
 
 ## TELEGRAM
 ### Message
 
-Most people figure out sometime around 1:30pm that their morning coffee already ran out. Not tired exactly. Just done. The focus thins and the second half of the day costs twice the effort it should. One scoop in your morning cup is the change that holds the whole day together. If you want to try it: https://thepowercoffee.com/pages/betterday
+Quick one: taurine is in Red Bull too, but not for the reason most people think — it is not a stimulant, it is there to keep the stimulants from overshooting. Power Coffee uses 2.1g per serving (a little over double a Red Bull can), zero sugar. Full breakdown: https://thepowercoffee.com/pages/betterday
 
 ---
 
@@ -133,38 +143,38 @@ cinematic_studio_3_0
 15
 
 ### Prompt
-A man in his early 40s sitting at a clean home office desk in the mid-afternoon, both hands on the keyboard but not typing, staring at the monitor with the blank expression of someone whose focus has run completely dry. Natural light from a side window has shifted to a flat, grey-gold afternoon quality. The camera begins on a slow push-in toward his face, settling on a tight frame of his eyes and the subtle tension of exhaustion without sleep. He exhales, sits back slightly, and looks at his coffee mug on the desk — empty. The mood is quiet, real, and heavy with recognition. No over-production. Warm desaturated tones, cream and espresso brown in the room. Handheld micro-movement gives it a documentary quality. No text in frame. No product featured. The story is entirely in the man's face and the empty mug as an incidental detail.
+A close, handheld shot of a hand pouring a scoop of dark coffee powder into a plain white mug of steaming black coffee, morning light coming through a kitchen window, slow and unhurried. The camera holds on the scoop dissolving into the coffee, a small swirl of steam rising off the mug. No other products, cans, or brands in frame — Power Coffee only. Calm, confident mood: someone who already knows exactly what's in their cup, not selling anything. Warm, slightly desaturated tones, cream and espresso brown. No text baked into the shot — overlay text is added in post.
+
+*(Note, 2026-09-27: rewritten for Fuel Check — deliberately avoids generating any rival product/can in frame, since an AI render of a real competitor's trademarked packaging is a separate risk from the label-fabrication issue already found in `_brand_kit/images/`; the Red Bull comparison stays as on-screen text/caption, never as generated imagery.)*
 
 ---
 
 ## REELS — Founder Vlog Script
-**Series:** Building Power Coffee — Ep. 12
-**Beat:** The moment you realize what you are actually selling is not a product — it is a solved problem from your own day
-**Title formula:** Why I built this for 2pm | The afternoon that kept breaking
+**Series:** Building Power Coffee — Ep. 13
+**Beat:** Explaining a formulation decision people assume is a red flag (taurine) once they see the actual numbers
+**Title formula:** Taurine is in Red Bull too — here's why I still used it | The ingredient people assume is bad
 **Duration:** 30-45s · **Setting:** Leo at his desk or kitchen counter, mid-day, talking directly to camera, natural light, no production setup
 
 **HOOK (0-3s, text on screen + spoken):**
-"I used to lose the same two hours every single day."
+"Someone messaged me last week: 'isn't taurine just an energy drink thing?'"
 
 **BODY (speak exactly this):**
-"Always around 1:30, 2pm. I was sitting there, everything technically fine, and the focus was just gone. I kept blaming my schedule, my calendar, the meetings. Took me a while to realize it was the fuel. My morning coffee was doing its job for about four hours and then it was done. So I started asking: what would it take to actually hold the second half of the day? That question is what built this company. I am twelve episodes into this build and I am still drinking my own product every morning because that problem was real. The formula is on the desk right now. I made it for that 2pm moment. Nothing else."
+"Yeah. It is. It's also a neuromodulator, not a stimulant — the research on it is pretty clear, it's there to keep your nervous system from overshooting, not to hype you up. So when I built the formula, I didn't avoid it because of where people have seen it before. I used more of it. 2.1 grams a serving, a little over double what's in a standard energy drink can, and zero of the sugar that usually comes with it. I'd rather explain the actual chemistry than pretend the ingredient doesn't exist because of the company it's kept in other products."
 
 **CTA (last 5s):**
-"Follow the build. Drop a question in the comments if you want me to go deeper on anything."
+"Full numbers are on the site if you want to check my math yourself."
 
-**B-ROLL:** desk with a white Power Coffee pouch in the background, Leo looking at his phone mid-afternoon, wide shot of home office window with afternoon light coming through
+**B-ROLL:** close shot of the certified ingredient panel, Leo pouring a scoop into a mug, the Fuel Check comparison table (carousel slide 3) as a quick graphic insert
 
 **CAPTION:**
-Ep. 12 — I built this company because I kept losing the same two hours every day.
-Not tired. Just empty. The answer was a fuel problem, not a discipline problem.
-Follow along if you want to see how this gets built in public.
-#buildingpowercoffee #founderstory #cleanenergy #functionalcoffee #ep12
-Ep. 12 — Building Power Coffee
+Ep. 13 — "Isn't taurine just an energy drink thing?" Yeah. Here's why I used more of it, not less.
+#buildingpowercoffee #founderstory #taurine #fuelcheck #ep13
+Ep. 13 — Building Power Coffee
 
 **ON-SCREEN TEXT:**
-[0-3s] "I lost the same 2 hours every day."
-[12s] "It was a fuel problem."
-[35s] "12 episodes in. Still drinking it."
+[0-3s] "Isn't taurine just an energy drink thing?"
+[12s] "It's a neuromodulator, not a stimulant."
+[30s] "2.1g per serving. Zero sugar."
 
 ---
 

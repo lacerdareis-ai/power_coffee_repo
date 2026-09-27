@@ -65,7 +65,7 @@
 | 1 | Instant Coffee | ~1.5g | Base energy + ritual familiarity |
 | 2 | Matcha Green Tea | 600mg | Sustained energy, smooth arc (bound L-theanine) |
 | 3 | L-Theanine | 200mg | Alert calm — focus without the jitter |
-| 4 | Taurine | 2,000mg (2g) | Clean focus, neuromodulation (2× the Red Bull dose) |
+| 4 | Taurine | 2,100mg (2.1g) | Clean focus, neuromodulation (2× the Red Bull dose) |
 | 5 | Pea Protein | 5,000mg (5g) | Blood sugar stability, functional nutrition |
 | 6 | Cinnamon (Ceylon) | 500mg | Blood sugar regulation, insulin sensitivity |
 | 7 | Ginkgo Biloba (EGb 761) | 120mg | Cerebral blood flow, cognitive endurance |
@@ -87,7 +87,7 @@
 - "Matcha + L-Theanine: calm focus without spike — energy over 4-6 hours, not 45 minutes"
 - "Ginkgo Biloba: supports cerebral blood flow. Used for centuries. Now backed by research."
 - "Cinnamon: blood sugar stability changes focus quality, not just energy level"
-- "Taurine: neuromodulator, not a stimulant. Calms overstimulation. 2g per serving."
+- "Taurine: neuromodulator, not a stimulant. Calms overstimulation. 2.1g per serving."
 - "Pea protein: stabilizes blood sugar so energy doesn't spike and crash. 5g per scoop."
 
 ### Ingredient Hook Performance — LENS Data (May 4–22, 2026)
