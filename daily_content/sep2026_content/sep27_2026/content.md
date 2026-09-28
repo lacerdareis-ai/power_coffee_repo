@@ -3,7 +3,13 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
+
+> Approved 2026-09-28 by Leo's direct instruction ("publish today together
+> with sep_28") — this content was never ticked at the time (content and
+> images were verified clean earlier in the session but the box was never
+> checked), so the automated 4am gate correctly skipped it and it sat
+> unpublished for a day. Publishing now, one day late, per explicit request.
 
 ---
 
