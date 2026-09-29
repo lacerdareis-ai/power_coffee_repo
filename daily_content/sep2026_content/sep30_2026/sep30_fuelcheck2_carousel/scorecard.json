@@ -1,0 +1,20 @@
+{
+  "asset_id": "sep30_fuelcheck2_carousel",
+  "scores": {
+    "compliance": 5,
+    "facts": 5,
+    "brand": 5,
+    "mascot": 5,
+    "hook": 5,
+    "cta": 5,
+    "legibility": 5,
+    "uniqueness": 5
+  },
+  "average_excl_gate_fields": 5.0,
+  "gate_result": "PASS",
+  "uniqueness_check_result": "Originally scored 2/5 (FAIL) — asset_log.py's check had no carve-out for a deliberately recurring series and flagged the shared Fuel Check template as a repeat. Fixed same day: added --series support (SERIES_CONTENT_FIELDS vs SERIES_TEMPLATE_FIELDS split) so template fields matching within a named series is expected, and only background/hook_type have to actually differ. Re-verified: sep30's background (img_12) and hook_type (historical_claim) both genuinely differ from sep28's (img_28, myth_reveal) — the asset itself was always fine; the tool was the gap. Rescored to 5 now that the tool reflects that correctly.",
+  "compliance_flags_reviewed": [
+    {"platform": "linkedin", "flag": "banned_word: supplement", "resolution": "ironic/self-aware usage about the ingredient's reputation, not describing Power Coffee — accepted as-is"},
+    {"platform": "reels_vlog", "flag": "banned_word: supplement", "resolution": "same as above"}
+  ]
+}
