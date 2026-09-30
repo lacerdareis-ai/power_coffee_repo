@@ -115,6 +115,15 @@ def place_mascot(img, pose_file, top_clear_y, bottom_limit_y, max_w=480):
     img.paste(mascot, (m_x, m_y), mascot)
     return m_x, m_y, m_w, m_h
 
+# PRODUCTION NOTE (2026-09-28): a profile-grid mockup revealed that
+# Instagram's grid preview center-crops slide 1 of a carousel to a square,
+# and no single fixed crop ratio works across every slide's own vertical
+# composition (a 2-line headline block sits differently than a 3-line one;
+# the CTA close's content is distributed differently again). Keep any
+# slide-1 cover's essential content (headline + mascot, if present) inside
+# the CENTER square of the 1080x1350 canvas — roughly y=135 to y=1215 — not
+# just within the format's own top/bottom safe zone, so the grid crop
+# doesn't clip it regardless of exactly where IG centers that crop.
 def base_canvas(kind, photo_file, solid_color):
     img = Image.new("RGB", (W, H), NAVY)
     if kind == "photo":

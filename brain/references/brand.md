@@ -68,7 +68,7 @@
 | 4 | Taurine | 2,100mg (2.1g) | Clean focus, neuromodulation (2× the Red Bull dose) |
 | 5 | Pea Protein | 5,000mg (5g) | Blood sugar stability, functional nutrition |
 | 6 | Cinnamon (Ceylon) | 500mg | Blood sugar regulation, insulin sensitivity |
-| 7 | Ginkgo Biloba (EGb 761) | 120mg | Cerebral blood flow, cognitive endurance |
+| 7 | Ginkgo Biloba (EGb 761) | 207mg | Cerebral blood flow, cognitive endurance |
 | 8 | Ginger Root | 250mg | Thermogenic; empty-stomach tolerance |
 | 9 | L-Carnitine | ~0.5–2g (verify label) | Fat metabolism, mental energy |
 | 10–11 | **Verify on physical label** | ❓ | Candidates: black pepper/piperine, MCT powder, B12 |

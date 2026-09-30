@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-27",
+  "platforms": {
+    "x": {
+      "status": "ok",
+      "at": "2026-09-28 10:25"
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-09-28 10:25",
+      "reason": "disabled"
+    },
+    "telegram": {
+      "status": "ok",
+      "at": "2026-09-28 10:25",
+      "message_id": 123
+    },
+    "whatsapp": {
+      "status": "skipped",
+      "at": "2026-09-28 10:25",
+      "reason": "not in --platform list"
+    },
+    "instagram": {
+      "status": "ok",
+      "at": "2026-09-28 10:25",
+      "post_id": "18145747324569445"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-09-28 10:25",
+      "reason": "no story.mp4 in today's folder"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-09-28 10:25",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "skipped",
+      "at": "2026-09-28 10:25",
+      "reason": "not in --platform list"
+    },
+    "shopify": {
+      "status": "skipped",
+      "at": "2026-09-28 10:25",
+      "reason": "not in --platform list"
+    },
+    "email": {
+      "status": "skipped",
+      "at": "2026-09-28 10:25",
+      "reason": "not in --platform list"
+    }
+  }
+}

@@ -156,6 +156,52 @@ likely repeat this exact failure mode on any new pouch shot with visible
 small print. If regenerating, verify every line of on-pack text pixel-by-pixel
 before adding it back to rotation — don't just check the headline.
 
+**2026-09-28, audit completed** — 5 images (`img_01, 02, 04, 05, 06`) were
+never in `make_carousel.py`'s rotation so the original pass skipped them.
+Checked while sourcing Fuel Check #3's photos: `img_04` is genuinely clean
+(new addition to the safe pool). The other four are not — and two of them
+are a *worse* failure mode than gibberish: `img_01`/`img_06` render
+perfectly legible English that's simply **wrong** (calls the product a
+"Natural Supplement," a word brand.md bans, and lists "Caffeine | Protein |
+L-Theanine | Nootropics" instead of the real 11-ingredient formula).
+`img_02` is a full infographic stating **fabricated numbers as fact** —
+90mg caffeine instead of 175mg, a 4.15g protein figure that doesn't exist
+anywhere on the certified panel. Neither of those would be caught by
+scanning for "does this look garbled" — they look completely normal at a
+glance and are still wrong. **Full pool audit is now complete: 8 of 27
+images are verified clean — `img_04, 09, 12, 13, 14, 16, 24, 28`.**
+Everything else has a real, confirmed defect. Treat that as the entire
+usable pool until new photography is sourced.
+
+**2026-09-29 — `img_24` demoted, a third defect class.** Building the
+October "If I Try" batch surfaced a problem this audit's original pass
+didn't check for: `img_24`'s on-image pack is legible AND coherent as a
+label, but it's the **wrong pack** — a black pouch, "THE POWER COFFEE" in
+a different layout, not the real product's white/cream pouch with the
+navy stacked "POWER COFFEE" wordmark (correctly shown in `img_14`/`img_16`).
+Caught by Leo, not by this audit — worth remembering that "does the text
+read correctly" (this section's whole method so far) doesn't catch "is
+this actually the right product." Two crop attempts to frame the wrong
+pouch out of the shot both failed (one still showed a sliver of the label
+at the edge; the other, tight enough to fully exclude it, cut out the
+mug/adult presence entirely and needed a soft ~2.9x upscale from a source
+that's only 928×1152px). No crop fix existed. `img_24` stays listed above
+for the historical record but is no longer safe to use.
+
+**2026-09-29, same day — `img_29` added, a different fix strategy.**
+Rather than trying to patch `img_24` or find new real photography on short
+notice, generated a replacement scenario photo (same parent + kid +
+breakfast + mug scene) with the packaging problem designed out from the
+start: the prompt explicitly excluded any coffee bag, label, or logo from
+the frame, so there was nothing left for the generator to render
+incorrectly. Picked the stronger of 2 candidates, verified by viewing the
+actual rendered feed + Story output (not just the raw generation) before
+staging. **Usable pool: 8 — `img_04, 09, 12, 13, 14, 16, 28, 29`** — note
+`img_29` is a no-product-visible persona shot, same category as the other
+"no pack in frame" images this section already keeps for exactly this
+reason; it doesn't carry the brand-accuracy risk a pack shot does, so it
+doesn't need the same pixel-level label scrutiny the pack shots do.
+
 ## 5. What to add here going forward
 
 - Any post/Reel that becomes a new all-time or period high — one line, what
