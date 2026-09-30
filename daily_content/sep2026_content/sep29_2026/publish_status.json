@@ -1,53 +1,53 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "platforms": {
     "x": {
       "status": "ok",
-      "at": "2026-09-28 04:00"
+      "at": "2026-09-29 04:08"
     },
     "threads": {
       "status": "skipped",
-      "at": "2026-09-28 12:00",
+      "at": "2026-09-29 12:00",
       "reason": "disabled"
     },
     "telegram": {
-      "status": "ok",
-      "at": "2026-09-28 04:00",
-      "message_id": 122
+      "status": "failed",
+      "at": "2026-09-29 04:08",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     "whatsapp": {
       "status": "failed",
-      "at": "2026-09-28 04:00",
+      "at": "2026-09-29 04:08",
       "error": "/Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175\n                throw new Error(`The browser is already running for ${launchAr"
     },
     "instagram": {
       "status": "ok",
-      "at": "2026-09-28 10:23",
-      "post_id": "18071953286725805"
+      "at": "2026-09-29 12:00",
+      "post_id": "17900929143598068"
     },
     "videostory": {
       "status": "skipped",
-      "at": "2026-09-28 12:00",
+      "at": "2026-09-29 12:00",
       "reason": "no story.mp4 in today's folder"
     },
     "ctastory": {
       "status": "skipped",
-      "at": "2026-09-28 12:00",
+      "at": "2026-09-29 12:00",
       "reason": "dedicated daily job only"
     },
     "linkedin": {
       "status": "failed",
-      "at": "2026-09-28 04:00",
+      "at": "2026-09-29 04:08",
       "error": "{\"status\":401,\"serviceErrorCode\":65602,\"code\":\"EXPIRED_ACCESS_TOKEN\",\"message\":\"The token used in the request has expired\"}"
     },
     "shopify": {
-      "status": "skipped",
-      "at": "2026-09-28 12:00",
-      "reason": "not in --platform list"
+      "status": "failed",
+      "at": "2026-09-29 04:08",
+      "error": "{'errors': '[API] Invalid API key or access token (unrecognized login or wrong password)'}"
     },
     "email": {
       "status": "skipped",
-      "at": "2026-09-28 12:00",
+      "at": "2026-09-29 12:00",
       "reason": "not in --platform list"
     }
   }

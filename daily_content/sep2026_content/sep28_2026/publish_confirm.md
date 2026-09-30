@@ -1,4 +1,4 @@
-# Publish Confirmation — 2026-09-28 04:00
+# Publish Confirmation — 2026-09-28 12:00
 
 
 - ✅ **X**: ok 
@@ -6,12 +6,12 @@
 - ✅ **TELEGRAM**: ok 122
 - ❌ **WHATSAPP**: failed /Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175
                 throw new Error(`The browser is already running for ${launchAr
-- ❌ **INSTAGRAM**: skipped not in --platform list
-- ❌ **VIDEOSTORY**: skipped not in --platform list
+- ✅ **INSTAGRAM**: ok 18071953286725805
+- ❌ **VIDEOSTORY**: skipped no story.mp4 in today's folder
 - ❌ **CTASTORY**: skipped dedicated daily job only
 - ❌ **LINKEDIN**: failed {"status":401,"serviceErrorCode":65602,"code":"EXPIRED_ACCESS_TOKEN","message":"The token used in the request has expired"}
-- ❌ **SHOPIFY**: skipped not Tuesday or Thursday
-- ❌ **EMAIL**: skipped not Saturday
+- ❌ **SHOPIFY**: skipped not in --platform list
+- ❌ **EMAIL**: skipped not in --platform list
 
 ## Content Summary
 
