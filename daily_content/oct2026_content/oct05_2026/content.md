@@ -58,19 +58,37 @@ Post 6: So the real question isn't how much caffeine. It's what's riding alongsi
 
 ## LINKEDIN
 ### Post
-I spent longer than I'd like to admit believing caffeine gave me energy.
+Fifteen of our product photos had fake words on them. We shipped them anyway.
 
-It doesn't. It blocks a receptor.
+Not on purpose. That's the actual problem.
 
-Your brain builds up a molecule called adenosine all day — the more of it, the more tired you feel. Caffeine is close enough in shape to sit in that same receptor and block the signal. It doesn't remove the adenosine. It just stops you from reading it for a while.
+We build Power Coffee as a small, lean operation — I'm not going to pretend otherwise, that's the whole premise of this newsletter. Which means a lot of the product photography on our site and our socials was AI-generated. Faster, cheaper, and for a while, I thought, good enough.
 
-That's the whole reason a second cup never hits like the first. The adenosine kept building the entire time you were "awake" on the first one. By cup two, there's more of it waiting for the block to wear off — about 5 hours later, on average.
+Twenty-four images in rotation. A pack of coffee on a counter, someone scooping it into a mug, the usual DTC lifestyle shots.
 
-I didn't build Power Coffee to fight that mechanism harder. You can't out-caffeinate adenosine — it's still going to be there when the receptor clears. I built it to make sure something steadier is riding alongside the caffeine for when that happens: taurine, ginkgo, matcha, working on a different timeline than the caffeine spike.
+Fifteen of them had garbled fake text stitched onto the pack. Not obviously fake — the kind of fake that reads as "coffee packaging" at a glance and falls apart the second you actually look at the words. Letters that don't spell anything. A tagline that trails off into nonsense halfway through.
 
-Understanding the actual mechanism changed how I think about the whole category. Most energy products are still selling more of the thing that only delays the problem.
+They'd been live. On the actual site. For a while.
 
-What's the last thing you learned about your own body that changed how you build something?
+Here's the part that actually matters, though: finding the garbled text wasn't the hard part. Finding where it stopped being obvious was.
+
+Once we started actually auditing instead of skimming, two more image types turned up — ones that passed the first check cleanly, because the text was perfectly legible. It just said the wrong thing. One claimed an ingredient list that didn't match our actual formula. Another stated a caffeine number that wasn't ours. Nothing garbled. Nothing an eight-second glance would catch. Just quietly, confidently wrong.
+
+Out of twenty-four images, eight survived the full audit.
+
+We rebuilt around those eight. Built a whole visual system — Fuel Check, a weekly proof-carousel format; If I Try, a scenario series — specifically designed to work within real, verified photography instead of generating our way out of the constraint.
+
+And then it happened again, in a smaller way, a few weeks later. One more photo, built after the "verified" pool was supposedly locked, showing a parent and kid at breakfast. The pack on the table was legible, coherent, completely readable — and it was the wrong pack. Wrong color, wrong layout, not our product. It had already gone out for review and gotten a first approval before anyone caught it.
+
+Not an AI model problem. A trust problem. We'd built a real audit process, and it still had a blind spot, because the thing we were checking for — "does the text read correctly" — wasn't the same question as "is this actually the right product."
+
+The fix wasn't a smarter prompt. It was removing the thing that could be wrong from the frame entirely — a replacement photo built with no packaging visible at all, so there was nothing left to get wrong. And a harder rule going forward: legible is not the bar. Correct is the bar, and those are not the same check.
+
+If you're running lean and leaning on AI tooling anywhere customer-facing touches your brand — images, copy, anything with your name on it — the operator lesson isn't "don't use the tools." It's that "looks right at a glance" is a different bar than "is actually right," and the gap between those two bars is exactly where a small team gets burned, because nobody has the headcount to catch it except whoever happens to look closely that day.
+
+We got lucky that the person who looked closely was paying attention. That's not a system. We're building toward one.
+
+— Leo, building Power Coffee one real decision at a time.
 
 ---
 
