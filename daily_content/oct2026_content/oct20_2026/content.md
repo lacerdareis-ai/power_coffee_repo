@@ -47,6 +47,16 @@ as a standalone Story automatically).
 
 ---
 
+## LINKEDIN
+### Post
+Your email list's reputation isn't per-address. It's shared.
+
+One bad batch of non-opted-in addresses doesn't just risk itself — it risks the deliverability of everyone who actually signed up, because every inbox provider scores your whole sending domain as one thing.
+
+"Grow the list" and "protect the list" are not the same move.
+
+---
+
 ## Notes
 Logged as `ifitry_stilllosing`, series `if_i_try`. UTM-tagged per the
 October 100-sale goal — see `growth_playbooks/if_i_try_campaign.md`'s

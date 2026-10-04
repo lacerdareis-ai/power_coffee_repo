@@ -94,24 +94,11 @@ thepowercoffee.com/pages/betterday
 
 ## LINKEDIN
 ### Post
+We run our weekly email off one flat file. No segmentation, no per-send review — Saturday comes, everyone in the file gets the email.
 
-For a long time I thought losing the afternoon was just part of the deal.
+That's efficient. It's also unforgiving: there's no safety net between a bad edit to that file and real inboxes on the other end.
 
-Three coffees in and still slower by 1pm. Still reaching for something that was not working anymore.
-
-I built Power Coffee because I wanted to understand why that kept happening, not just mask it with another cup.
-
-The answer was not more caffeine. It was everything caffeine was not doing on its own.
-
-That is the whole premise: one scoop into your existing morning coffee, so the ritual you already have actually carries you through the day.
-
-We are running free shipping on first orders this week. No subscription required.
-
-If you know someone who runs on coffee and hits a wall every afternoon, this is the week to send them the link.
-
-thepowercoffee.com/pages/betterday
-
-What is the one part of your day that caffeine consistently fails you?
+Simple systems trade flexibility for forgiveness. Know which one you're buying.
 
 ---
 

@@ -1,0 +1,185 @@
+{
+  "_comment": "Maps calendar dates to The Operator content for the LinkedIn section of that day's content.md. Maintained by hand as new issues/posts are written — generate_content.py reads this and, when a date has an entry, replaces its generated LINKEDIN section with this text instead. No entry for a date = old pillar-rotation LinkedIn behavior, unchanged.",
+  "entries": {
+    "2026-10-05": {
+      "type": "edition",
+      "week_type": "operator",
+      "asset_id": "operator_issue01_edition",
+      "body": "Fifteen of our product photos had fake words on them. We shipped them anyway.\n\nNot on purpose. That's the actual problem.\n\nWe build Power Coffee as a small, lean operation — I'm not going to pretend otherwise, that's the whole premise of this newsletter. Which means a lot of the product photography on our site and our socials was AI-generated. Faster, cheaper, and for a while, I thought, good enough.\n\nTwenty-four images in rotation. A pack of coffee on a counter, someone scooping it into a mug, the usual DTC lifestyle shots.\n\nFifteen of them had garbled fake text stitched onto the pack. Not obviously fake — the kind of fake that reads as \"coffee packaging\" at a glance and falls apart the second you actually look at the words. Letters that don't spell anything. A tagline that trails off into nonsense halfway through.\n\nThey'd been live. On the actual site. For a while.\n\nHere's the part that actually matters, though: finding the garbled text wasn't the hard part. Finding where it stopped being obvious was.\n\nOnce we started actually auditing instead of skimming, two more image types turned up — ones that passed the first check cleanly, because the text was perfectly legible. It just said the wrong thing. One claimed an ingredient list that didn't match our actual formula. Another stated a caffeine number that wasn't ours. Nothing garbled. Nothing an eight-second glance would catch. Just quietly, confidently wrong.\n\nOut of twenty-four images, eight survived the full audit.\n\nWe rebuilt around those eight. Built a whole visual system — Fuel Check, a weekly proof-carousel format; If I Try, a scenario series — specifically designed to work within real, verified photography instead of generating our way out of the constraint.\n\nAnd then it happened again, in a smaller way, a few weeks later. One more photo, built after the \"verified\" pool was supposedly locked, showing a parent and kid at breakfast. The pack on the table was legible, coherent, completely readable — and it was the wrong pack. Wrong color, wrong layout, not our product. It had already gone out for review and gotten a first approval before anyone caught it.\n\nNot an AI model problem. A trust problem. We'd built a real audit process, and it still had a blind spot, because the thing we were checking for — \"does the text read correctly\" — wasn't the same question as \"is this actually the right product.\"\n\nThe fix wasn't a smarter prompt. It was removing the thing that could be wrong from the frame entirely — a replacement photo built with no packaging visible at all, so there was nothing left to get wrong. And a harder rule going forward: legible is not the bar. Correct is the bar, and those are not the same check.\n\nIf you're running lean and leaning on AI tooling anywhere customer-facing touches your brand — images, copy, anything with your name on it — the operator lesson isn't \"don't use the tools.\" It's that \"looks right at a glance\" is a different bar than \"is actually right,\" and the gap between those two bars is exactly where a small team gets burned, because nobody has the headcount to catch it except whoever happens to look closely that day.\n\nWe got lucky that the person who looked closely was paying attention. That's not a system. We're building toward one.\n\n— Leo, building Power Coffee one real decision at a time."
+    },
+    "2026-10-06": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue01_post02",
+      "body": "Twenty-four product photos. Fifteen looked fine and weren't.\n\nNot because the AI tool was bad. Because \"looks fine\" was never the right question to be asking."
+    },
+    "2026-10-07": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue01_post04",
+      "body": "The best fix I shipped this month wasn't a feature. It was a deletion.\n\nA product photo kept rendering our packaging slightly wrong, no matter how precisely I described it. So I stopped describing the packaging. Built the same scene with it out of frame entirely.\n\nNothing to get wrong is a more reliable fix than \"try to get it less wrong.\""
+    },
+    "2026-10-08": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue01_post06",
+      "body": "A photo can be completely legible and completely wrong at the same time.\n\nWe learned that the expensive way — a product image that read perfectly clean and showed the wrong product.\n\nLegible was never the bar. We just hadn't written down what the real bar was until it got crossed."
+    },
+    "2026-10-09": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue01_post01",
+      "body": "We caught fifteen AI-generated product photos with garbled fake text on the packaging. Obvious once you looked. Easy to catch.\n\nThe dangerous ones came after.\n\nTwo more photos passed that first check clean — because the text was perfectly legible. It just said the wrong thing. A wrong ingredient. A wrong number.\n\nGarbled text fails a glance test. Wrong-but-legible text passes it. If your QA process is \"does this look broken,\" you're only catching half the problem."
+    },
+    "2026-10-10": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue01_post07",
+      "body": "After the photo audit, we went from 24 usable product images to 8.\n\nThat's not a small cut for a lean team. It meant real constraints on what content we could build for weeks — fewer scenarios, more reused photos, harder creative problems.\n\nWe kept the 8 instead of patching the 16 we lost. A smaller, verified pool beats a bigger pool you can't fully trust. Even when the smaller pool costs you content you wanted to make."
+    },
+    "2026-10-12": {
+      "type": "edition",
+      "week_type": "performance",
+      "asset_id": "operator_issue02_edition",
+      "body": "I fired someone at 4:47pm on a Thursday. The time was the mistake.\n\nI didn't choose 4:47pm on purpose. That was just when the conversation finally happened — I'd been putting it off all day, and it caught up with me late.\n\nI've since learned that late afternoon is close to the worst possible window for a conversation like that. Not because of willpower. Because of a receptor.\n\nHere's the mechanism, and it's not complicated: your brain runs on a molecule called adenosine that builds up the longer you've been awake — it's the actual chemical signal behind feeling tired, foggy, short-fused. Caffeine doesn't remove that buildup. It blocks the receptor that reads it, for roughly as long as the caffeine stays in your system — about five hours, on average.\n\nSo if your last real coffee was late morning, the block is wearing off right around late afternoon. The adenosine was never gone. It was just muted. By 4:47pm, it's back, in full, exactly when a hard conversation needs you at your most controlled — not your most depleted.\n\nI'd scheduled the hardest decision of that week for the worst possible hour of my own day, and I didn't know it, because nobody schedules around a receptor. We schedule around calendars.\n\nThis isn't a caffeine pitch. It's an operator pitch: the thing you're protecting when you manage your energy isn't your energy. It's the quality of the decisions you make with it. A founder who's sharp at 10am and running on fumes at 4pm isn't one person all day — they're two different decision-makers, and most of us let the calendar pick which one handles the hard stuff.\n\nI changed one thing after that Thursday: anything consequential — a hard conversation, a pricing call, a hire or a fire — gets scheduled against my own curve now, not just against open calendar slots. Sometimes that means earlier. Sometimes it means a second, smaller dose of something steady later in the day instead of pushing through on willpower alone. The mechanism doesn't care which — it just means knowing where you actually are on it before you schedule something that matters.\n\nMost performance advice tells you to manage your time. The actual lever is managing when on your own curve the important decisions land.\n\n— Leo, building Power Coffee one real decision at a time."
+    },
+    "2026-10-13": {
+      "type": "post",
+      "week_type": "performance",
+      "asset_id": "operator_issue02_post02",
+      "body": "The afternoon crash isn't a willpower problem. It's a receptor clearing.\n\nCaffeine blocks your brain from reading a buildup signal called adenosine for a few hours. It doesn't remove the buildup. When the block wears off, the signal comes back — often stronger than before you started."
+    },
+    "2026-10-14": {
+      "type": "post",
+      "week_type": "performance",
+      "asset_id": "operator_issue02_post03",
+      "body": "You are not the same decision-maker at 10am and 4pm.\n\nSame person, same calendar, genuinely different capacity — and most of us let whatever's open on the calendar decide which version handles the hard call, instead of deciding on purpose.\n\nI scheduled the hardest conversation of a week for 4:47pm once, by accident. I've since started treating \"who's actually available right now\" as a real question, not just \"what's open.\""
+    },
+    "2026-10-15": {
+      "type": "post",
+      "week_type": "performance",
+      "asset_id": "operator_issue02_post04",
+      "body": "Sharp at 10am. Running on fumes at 4pm. Same person, same day — two different decision-makers.\n\nMost calendars don't know the difference. Yours should."
+    },
+    "2026-10-16": {
+      "type": "post",
+      "week_type": "performance",
+      "asset_id": "operator_issue02_post05",
+      "body": "Try this: look at your calendar for the last two weeks. Find every genuinely hard conversation — a hire, a fire, a hard no, a real negotiation. Check what hour each one actually happened at, not what hour you'd have picked on purpose.\n\nI did this after a Thursday I'd rather not repeat. Almost everything hard had drifted into late afternoon, because that's when the backlog finally cleared enough to deal with it. Not because it was the right hour. Because it was the only open one.\n\nThe fix isn't a new app. It's noticing the pattern once."
+    },
+    "2026-10-17": {
+      "type": "post",
+      "week_type": "performance",
+      "asset_id": "operator_issue02_post06",
+      "body": "\"Push through it\" is advice for a willpower problem.\n\nThe 4pm wall isn't a willpower problem. It's a receptor doing exactly what it's supposed to do, on schedule, whether or not your calendar agrees.\n\nYou can't will your way past a mechanism. You can only know where you are on it before you schedule something that actually matters."
+    },
+    "2026-10-19": {
+      "type": "edition",
+      "week_type": "operator",
+      "asset_id": "operator_issue03_edition",
+      "body": "Almost 500 new email addresses landed in one afternoon. Adding them was the easy call. Knowing which two not to was the one that mattered.\n\nGrowing the list felt like a pure win. It almost wasn't.\n\nWe run our weekly newsletter off one flat file — every address in it, one email, every Saturday. No segmentation, no per-send review step. Simple on purpose. Also unforgiving: there's no safety net between editing that file and real mail landing in real inboxes a few days later.\n\nSo when a list of roughly 490 new addresses showed up — some named local-business contacts I'd actually met, a much bigger batch of unnamed personal Gmail addresses from somewhere else — the instinct was obvious. More addresses. Add them. The list grows.\n\nHere's the part that's easy to skip in that moment: deliverability isn't scored per-address. It's scored in aggregate, by every major inbox provider, against your whole sending domain at once. Mass-adding people who never opted in doesn't just risk those 490 new addresses bouncing or getting marked spam — it risks the inbox placement of the other eight thousand real subscribers who actually signed up, because the whole list shares one sender reputation. A newsletter that's been landing in inboxes for months can start landing in spam folders because of a batch you added last week, for everyone, not just the new names.\n\n\"Grow the list\" feels like it only has an upside. It doesn't, if a meaningful slice of what you're adding doesn't actually want the email.\n\nWe flagged it before touching anything — not as a formality, as an actual \"are you sure, here's the real mechanism\" conversation. The answer was yes: real contacts, not a scraped list, add them. So we did. All but two. And those two weren't even a judgment call — one address was an automated bounce handler, not a person; the other was a different company's own unsubscribe address, a routing mistake rather than a contact. Everything else, 488 addresses, went in clean.\n\nList's at 8,498 now. Bigger, and still real.\n\nWhat actually changed afterward: \"should we grow the list\" and \"is it safe to add this batch right now\" used to be one decision. They're two, every time, from here on. Conflating them is exactly how a list that's been growing cleanly for months quietly turns into one that can't reliably reach anyone.\n\nThe lesson isn't \"don't grow your list.\" It's that growth and reputation pull in different directions more often than the first instinct admits — and the moment to notice that is before you hit save on the file, not after the next Saturday's open rate drops and you're trying to figure out why.\n\n— Leo, building Power Coffee one real decision at a time."
+    },
+    "2026-10-20": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue03_post01",
+      "body": "Your email list's reputation isn't per-address. It's shared.\n\nOne bad batch of non-opted-in addresses doesn't just risk itself — it risks the deliverability of everyone who actually signed up, because every inbox provider scores your whole sending domain as one thing.\n\n\"Grow the list\" and \"protect the list\" are not the same move."
+    },
+    "2026-10-21": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue03_post02",
+      "body": "Every list-growth decision is actually two decisions wearing one trenchcoat: is this list worth having, and is it safe to add right now.\n\nWe almost treated 490 new addresses as a single yes/no. It's two separate questions — and conflating them is exactly how a growing list quietly becomes an unsendable one."
+    },
+    "2026-10-22": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue03_post03",
+      "body": "Not every exclusion is a judgment call.\n\nOut of roughly 490 new addresses, two got flagged for removal — and neither one needed a debate. One was an automated bounce handler. One was another company's own unsubscribe address. Routing errors, not contacts.\n\nKnowing the difference between \"decide carefully\" and \"obviously not a person\" keeps you from treating easy calls like hard ones."
+    },
+    "2026-10-23": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue03_post04",
+      "body": "We run our weekly email off one flat file. No segmentation, no per-send review — Saturday comes, everyone in the file gets the email.\n\nThat's efficient. It's also unforgiving: there's no safety net between a bad edit to that file and real inboxes on the other end.\n\nSimple systems trade flexibility for forgiveness. Know which one you're buying."
+    },
+    "2026-10-24": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue03_post05",
+      "body": "Growing to 8,498 addresses felt like a milestone. It almost cost us the deliverability of the other 8,006.\n\nNot because the new addresses were bad people. Because \"more\" and \"safe\" pull in different directions more often than the first instinct admits.\n\nThe question before you hit save isn't \"will this grow the list.\" It's \"will this still be a list people open after I do.\""
+    },
+    "2026-10-26": {
+      "type": "edition",
+      "week_type": "performance",
+      "asset_id": "operator_issue04_edition",
+      "body": "I tried to launch three things in one week. One of them worked.\n\nNot because I ran out of time. Because I ran out of shape.\n\nThe plan looked fine on a calendar: ship the priority thing Monday through Wednesday, then use the back half of the week for the other two. On paper, same total hours either way. In practice, the first thing got real attention — rested mornings, full focus — and shipped clean. The other two got whatever was left after 9pm, after the tank was already empty. Both needed real rework days later. One of them twice.\n\nI used to think that was a willpower problem. Push harder, sleep less, it evens out. It doesn't, and there's a clean mechanism for why that isn't just a vibe.\n\nRegular caffeine hits fast and clears in about five hours. All stimulant, no shape — it spikes, it works, and then it's just gone, often sharper on the way down than you'd like. The research on pairing caffeine with L-theanine is specifically about what happens when you change the shape of that same input: studies on the combination show measurably steadier attention and fewer of the rough edges — tiredness, headaches — that show up with caffeine running alone. Not more stimulant. The same stimulant, shaped differently, held longer, landing softer.\n\nThat's exactly where my three-things week went wrong, and it had nothing to do with effort. I put the same total hours into the week either way. What changed was the shape — one sustained push on the thing that mattered, versus three things getting crammed into whatever hours were left, unshaped, back-loaded, no recovery between them.\n\nA hustle problem usually isn't a hustle problem. It's a shape problem wearing a hustle costume. The fix was never \"do less.\" It was: protect one thing at a time long enough for it to actually land clean, instead of spreading the same total effort so thin across three things that none of them get a real arc.\n\nI changed one thing after that week: nothing new gets stacked onto a launch until the thing already in motion has actually landed — shipped, checked, done — not just \"mostly there.\" Slower by the calendar. Fewer rework days by the month.\n\nMost performance advice tells you to manage your energy. The actual lever, most weeks, is managing the shape you put it into.\n\n— Leo, building Power Coffee one real decision at a time."
+    },
+    "2026-10-27": {
+      "type": "post",
+      "week_type": "performance",
+      "asset_id": "operator_issue04_post01",
+      "body": "Same total hours, two different weeks. One sustained push on one thing. Three things crammed into whatever was left after dark.\n\nSame effort. Completely different result.\n\nThe hours were never the variable. The shape was."
+    },
+    "2026-10-28": {
+      "type": "post",
+      "week_type": "performance",
+      "asset_id": "operator_issue04_post02",
+      "body": "\"I should push harder\" is usually \"I should stop stacking things\" wearing a different sentence.\n\nOne of those fixes a willpower problem. The other fixes a shape problem. Most weeks, it's the second one."
+    },
+    "2026-10-29": {
+      "type": "post",
+      "week_type": "performance",
+      "asset_id": "operator_issue04_post03",
+      "body": "Regular caffeine spikes fast and clears in about five hours — all stimulant, no shape. Research on pairing it with L-theanine points to something different: not more energy, the same energy held longer and landing softer.\n\nSame input. Different shape. That's the whole lever, in a cup or in a calendar."
+    },
+    "2026-10-30": {
+      "type": "post",
+      "week_type": "performance",
+      "asset_id": "operator_issue04_post04",
+      "body": "A stacked launch week doesn't cost you that week. It costs you the rework days that show up after — the thing that shipped rough because it never got a real arc in the first place.\n\nProtect one thing at a time long enough for it to actually land. Slower by the calendar, fewer redo days by the month."
+    },
+    "2026-10-31": {
+      "type": "post",
+      "week_type": "performance",
+      "asset_id": "operator_issue04_post05",
+      "body": "Most performance advice says manage your energy. The actual lever, most weeks, is managing the shape you put it into.\n\nOne sustained push beats three half-pushes stacked on top of each other — same hours, same effort, genuinely different outcome."
+    },
+    "2026-11-02": {
+      "type": "edition",
+      "week_type": "operator",
+      "asset_id": "operator_issue05_edition",
+      "body": "Our own automation erased a day of approved content overnight. We only found out because we went looking.\n\nNothing crashed. Nothing errored. The job did exactly what it was built to do.\n\nWe run a script that writes tomorrow's content automatically, unattended, at 5am — that's the whole point of it, one less thing to do by hand every morning. One morning, a routine check turned up a day that had already been approved — real images already staged, a real person having already signed off on the words next to them — now carrying a completely different, generic caption that had nothing to do with those images. The script hadn't failed. It had just done its one job, \"generate fresh content for tomorrow,\" without knowing tomorrow already had an answer.\n\nHere's the part that actually scared me, once I understood it: the script is version-controlled, but only the auto-generated version had ever been committed. The real one — the one a person had actually reviewed — existed in exactly one place: a conversation from earlier that hadn't been saved anywhere else. One commit in the history, not two. If that conversation hadn't still been sitting there, there was no path back. Approved work had quietly become unrecoverable, and nobody had decided that on purpose.\n\nThat's the actual failure, and it's not really a code bug. It's a confusion between two states that look identical to a script but mean completely different things to a person: nothing is here yet and something is here, and someone already said yes to it. Our pipeline had been treating both states the same way for months — generate either way — because nothing had ever forced the difference to matter. Until it did.\n\nThe fix wasn't making the generator smarter about merging or regenerating correctly. It was making it humbler: before doing any real work, check whether the target day already shows a signed-off approval or already has real files sitting in it. If either is true, stop, and print exactly why it stopped. A deliberate override exists for the rare case where regenerating really is the intent — but that has to be asked for, not assumed.\n\nThe broader lesson isn't really about this one script. Any system that writes into a space a person also works in needs a default, and the safe default is defer to whatever's already there, not assume I'm the only one touching this. That default doesn't show up for free. Somebody has to decide it's the rule and build it in on purpose — usually only after the first time it wasn't there and something real almost got lost because of it.\n\nWe got lucky. The conversation that saved us happened to still exist. That's not a system. That's luck wearing a system's clothes, which is exactly why the actual guard exists now.\n\n— Leo, building Power Coffee one real decision at a time."
+    },
+    "2026-11-03": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue05_post01",
+      "body": "We lost a day of approved content to our own automation overnight — not because the automation was broken, but because the approved version only ever existed in a conversation, never in version control.\n\nIf a human signs off on something, that approval needs to live somewhere durable. A conversation is not a backup."
+    },
+    "2026-11-04": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue05_post02",
+      "body": "\"Nothing's there yet\" and \"something's there and someone already said yes\" are two completely different states.\n\nOur content pipeline treated them identically for months — regenerate either way — until it quietly erased a day of approved work that happened to look, to the script, exactly like an empty one."
+    },
+    "2026-11-05": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue05_post03",
+      "body": "The fix for our overwrite bug wasn't a smarter generator. It was a dumber one: check first, skip if something's already there, print exactly why.\n\nA guard that skips and explains itself beats one that tries to merge or regenerate cleverly. When it trips, you want to know immediately — not debug a merge."
+    },
+    "2026-11-06": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue05_post04",
+      "body": "Any system that writes into space a person also works in should default to deferring to whatever that person already decided — not assuming it's the only one touching the file.\n\nThat default has to be designed in on purpose. It's never the one you get by accident."
+    },
+    "2026-11-07": {
+      "type": "post",
+      "week_type": "operator",
+      "asset_id": "operator_issue05_post05",
+      "body": "We found out our own automation had erased a day of approved work only because we went looking — not because anything alerted us.\n\nThe content survived because a conversation happened to still exist. That's not a system. That's luck wearing a system's clothes, which is exactly why the real guard exists now."
+    }
+  }
+}

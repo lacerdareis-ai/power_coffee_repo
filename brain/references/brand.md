@@ -532,4 +532,18 @@ At 8 reach, this is too small a sample to draw conclusions, but it did not zero 
 
 ---
 
+
+### LENS Update — Sep 28–Oct 2, 2026
+
+**Audience insights this week:**
+**1. "If I Try" series launched on schedule.** Thursday's single image (post 1 of 8) and Friday's AI-UGC Reel both confirmed live on Instagram. The consideration-stage funnel now has a dedicated 8-post arc for October — this is the first structured series in the Sales Motor, and the architecture is sound. No engagement data yet, but the execution discipline is real.
+
+**2. Carousel hook quality improved strategically.** Tuesday's hook — "You hit a wall at 2pm and blamed yourself. It was not discipline. It was missing one amino acid." — matches the proven **pain-first ingredient reveal** pattern (logged May 2026) almost exactly. The blame-to-cause reframe is clean and emotionally precise. If Tuesday's carousel performs, this hook becomes a template.
+
+**3. Monday's Taurine hook correctly uses the comparative anchor.** "Taurine is in Red Bull too. Most people don't know why it's actually there — it isn't what gives you the buzz." This is structurally aligned with the **surprising claim hook > direct ingredient name** pattern (10.53% ER on Ginkgo nuclear hook vs 2.22% on direct name). The Red Bull comparison is a known-product shortcut that earns attention before earning trust. Well-positioned.
+
+**4. Format diversification is real this week.** For the first time, the Sales Motor published a single-image consideration post AND the brand's first AI-generated UGC Reel in the same week. Even without analytics, the format portfolio is wider than any prior week. That breadth is a structural win regardless of individual performance.
+
+---
+
 <!-- LENS_APPEND_END -->

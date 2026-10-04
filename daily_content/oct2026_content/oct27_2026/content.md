@@ -41,6 +41,16 @@ as a standalone Story automatically).
 
 ---
 
+## LINKEDIN
+### Post
+Same total hours, two different weeks. One sustained push on one thing. Three things crammed into whatever was left after dark.
+
+Same effort. Completely different result.
+
+The hours were never the variable. The shape was.
+
+---
+
 ## Notes
 Closes out the October "If I Try" batch — this is the 8th and last of the
 verified-clean photo pool. Logged as `ifitry_simplicity`, series

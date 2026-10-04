@@ -50,23 +50,11 @@ Post 5: If Saturday afternoons have been feeling like a write-off, this is worth
 
 ## LINKEDIN
 ### Post
-Saturday used to be the day I caught up on lost energy.
+After the photo audit, we went from 24 usable product images to 8.
 
-Not recovered. Just caught up enough to feel present for maybe four or five hours before the afternoon went sideways.
+That's not a small cut for a lean team. It meant real constraints on what content we could build for weeks — fewer scenarios, more reused photos, harder creative problems.
 
-I was building Power Coffee partly to solve that.
-
-Not the workweek problem. The weekend one.
-
-Because the people at home deserve the same version of you that shows up at your best meetings. They rarely get it.
-
-The ritual I built — one scoop every morning, same cup, no extra step — was designed to make clean sustained energy a non-negotiable, not a weekday-only habit.
-
-Thirteen months in, the Saturday afternoons look different.
-
-Still running, still building, still making breakfast with my kids. Without the crash that used to erase the second half of the day.
-
-If you are building something while also trying to show up at home — how do you protect that energy? Genuinely curious what people have found.
+We kept the 8 instead of patching the 16 we lost. A smaller, verified pool beats a bigger pool you can't fully trust. Even when the smaller pool costs you content you wanted to make.
 
 ---
 

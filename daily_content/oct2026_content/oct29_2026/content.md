@@ -65,25 +65,9 @@ Post 5: If your afternoon is still falling apart, start here: https://thepowerco
 
 ## LINKEDIN
 ### Post
-Someone sent me a message last Tuesday.
+Regular caffeine spikes fast and clears in about five hours — all stimulant, no shape. Research on pairing it with L-theanine points to something different: not more energy, the same energy held longer and landing softer.
 
-She said she had not felt the 2pm drag in three weeks.
-
-I read it twice.
-
-Not because it was the biggest review we have ever gotten. Because it was specific. She did not say "I have more energy." She said the afternoon just held together in a way it had not before.
-
-That specificity is the signal I have been chasing since we started this.
-
-I built Power Coffee because I was losing my own afternoons. Work was fine in the morning. By early afternoon, something had shifted. Not dramatic. Just slower. Less decisive. The kind of tired that does not respond to another cup.
-
-We formulated around that exact problem.
-
-When a stranger describes the solution back to you without knowing the brief — that is the confirmation that means the most.
-
-It is not the sale. It is the recognition.
-
-Has a customer ever described your product back to you in a way that stopped you cold?
+Same input. Different shape. That's the whole lever, in a cup or in a calendar.
 
 ---
 

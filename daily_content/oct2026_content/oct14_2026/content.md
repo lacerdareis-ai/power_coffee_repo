@@ -61,23 +61,11 @@ Post 5: Episode 13 of building this in public is up. If you want to try what I b
 
 ## LINKEDIN
 ### Post
-For most of my career, I thought losing the afternoon was part of the job.
+You are not the same decision-maker at 10am and 4pm.
 
-You push hard in the morning. You slow down by 2pm. You white-knuckle through the rest of it.
+Same person, same calendar, genuinely different capacity — and most of us let whatever's open on the calendar decide which version handles the hard call, instead of deciding on purpose.
 
-I was wrong about that.
-
-The problem was not my schedule or my discipline. It was my first cup of coffee doing one thing well and leaving me with nothing for the second half of the day.
-
-That realization is why The Power Coffee exists.
-
-I spent months testing formulations, not because I wanted to build a supplement brand, but because I wanted a morning cup that would actually hold through the whole day.
-
-Thirteen episodes into documenting this build in public, and that original problem is still the reason I show up.
-
-The product is the side effect. The real work was understanding why smart, disciplined people still lose their afternoons.
-
-Anyone else build something because you were the frustrated customer first?
+I scheduled the hardest conversation of a week for 4:47pm once, by accident. I've since started treating "who's actually available right now" as a real question, not just "what's open."
 
 ---
 

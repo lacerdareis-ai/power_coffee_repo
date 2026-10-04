@@ -41,6 +41,16 @@ as a standalone Story automatically).
 
 ---
 
+## LINKEDIN
+### Post
+A photo can be completely legible and completely wrong at the same time.
+
+We learned that the expensive way — a product image that read perfectly clean and showed the wrong product.
+
+Legible was never the bar. We just hadn't written down what the real bar was until it got crossed.
+
+---
+
 ## Notes — rebuilt 2026-09-29
 
 Original version used `img_24` (parent + kid at breakfast, a pouch visible

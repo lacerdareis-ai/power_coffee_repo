@@ -39,6 +39,14 @@ as a standalone Story automatically).
 
 ---
 
+## LINKEDIN
+### Post
+Sharp at 10am. Running on fumes at 4pm. Same person, same day — two different decision-makers.
+
+Most calendars don't know the difference. Yours should.
+
+---
+
 ## Notes
 Logged as `ifitry_bigmeeting`, series `if_i_try`. UTM-tagged per the
 October 100-sale goal — see `growth_playbooks/if_i_try_campaign.md`'s

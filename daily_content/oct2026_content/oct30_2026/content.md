@@ -88,26 +88,9 @@ thepowercoffee.com/pages/betterday
 
 ## LINKEDIN
 ### Post
+A stacked launch week doesn't cost you that week. It costs you the rework days that show up after — the thing that shipped rough because it never got a real arc in the first place.
 
-By 2pm, most people are already running on fumes.
-
-Not because they are undisciplined. Not because they need a fourth coffee.
-
-Because caffeine alone was never designed to carry you through an eight, ten, or twelve-hour day. It spikes. It clears. And whatever you were building before the crash has to wait.
-
-I built Power Coffee because I was living that same afternoon.
-
-Not the dramatic burnout version. The quiet one. The slower thinking, the re-reading the same paragraph, the meeting where I was present but not sharp.
-
-I wanted one thing I could add to my existing routine, not a new ritual, not a replacement, that would hold that window steady.
-
-That is what we ship.
-
-If you work with people who are fighting the afternoon crash and looking for a clean answer, I would love for you to pass this along.
-
-thepowercoffee.com/pages/betterday
-
-What does your 2pm usually look like?
+Protect one thing at a time long enough for it to actually land. Slower by the calendar, fewer redo days by the month.
 
 ---
 

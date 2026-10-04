@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-02",
+  "platforms": {
+    "x": {
+      "status": "failed",
+      "at": "2026-10-02 04:05",
+      "error": ""
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-10-02 12:00",
+      "reason": "disabled"
+    },
+    "telegram": {
+      "status": "failed",
+      "at": "2026-10-02 04:05",
+      "error": "{'ok': False, 'error_code': 400, 'description': 'Bad Request: message text is empty'}"
+    },
+    "whatsapp": {
+      "status": "failed",
+      "at": "2026-10-02 04:05",
+      "error": "Usage: node whatsapp_sender.js \"message\" | --auth"
+    },
+    "instagram": {
+      "status": "ok",
+      "at": "2026-10-02 12:00",
+      "post_id": "17995923467833501"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-10-02 12:00",
+      "reason": "no story.mp4 in today's folder"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-10-02 12:00",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "failed",
+      "at": "2026-10-02 04:05",
+      "error": "{\"status\":401,\"serviceErrorCode\":65602,\"code\":\"EXPIRED_ACCESS_TOKEN\",\"message\":\"The token used in the request has expired\"}"
+    },
+    "shopify": {
+      "status": "skipped",
+      "at": "2026-10-02 12:00",
+      "reason": "not in --platform list"
+    },
+    "email": {
+      "status": "skipped",
+      "at": "2026-10-02 12:00",
+      "reason": "not in --platform list"
+    }
+  }
+}

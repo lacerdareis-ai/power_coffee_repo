@@ -815,4 +815,43 @@ The ER drop from 15.00% to 6.27% is real but should not alarm. Last week's high 
 
 ---
 
+
+### LENS Update — Sep 28–Oct 2, 2026
+
+**Week-over-Week momentum:**
+| Metric | Sep 28–Oct 2, 2026 | Sep 21–Sep 25, 2026 | Δ |
+|--------|-------------------|---------------------|---|
+| Posts with analytics | — | 3 | -3 |
+| Days with publish | 4/5 | 5/5 | -1 |
+| Reels published | 0 | 0 | +0 |
+| Carousels published | 0 | 3 | -3 |
+| Avg Reach | 0 | 52 | -100% |
+| Avg ER | 0.00% | 3.27% | -3.27 pp |
+| Best Reach | 0 | 72 | -100% |
+| Best ER | 0.00% | 5.56% | -5.56 pp |
+
+**Interpretation:** The numbers look like a cliff-drop, but this is a data-maturity problem, not a content quality collapse. Every post this week is under 7 days old at export time — Instagram's cumulative reach and engagement figures are still accruing, so the 0s are artifacts of timing, not performance. The real signal embedded in this table is the one that *can* be read cleanly: **days with 
+
+**Patterns confirmed this week:**
+**1. Fix LinkedIn token before Monday publish.** Refresh the OAuth token this weekend. Schedule a 90-day calendar reminder for the next expiry. LinkedIn is the one platform where Leo's immigrant-founder-Ironman narrative lands with buyers who have actual purchasing authority. One re-authenticated token unlocks five days of missed reach immediately.
+
+**2. Front-load content production to Monday–Tuesday.** The data is clear: Thursday and Friday had empty message bodies, Wednesday had no publish_confirm at all. The production system degrades under week-end pressure. Batch-write Thursday and Friday copy by Tuesday EOD. The "If I Try" series (8 posts planned) should already be fully drafted — pull from the bank instead of producing same-day.
+
+**3. Anchor next week's carousel hook to the "blame reframe" structure.** Tuesday's "You blamed yourself. It wasn't discipline." hook is the strongest copy of the week and matches a proven pattern. Next week's P2 or P8 carousel should iterate on this: find the next crash/fog/slowdown moment the audience already feels, assign the real cause (ingredient or mechanism), and use that cause as the slide-two reveal. Do not lead with the ingredient name. The pain owns slide one.
+
+---
+
+**Updated baseline:**
+*Note: Only weeks with mature analytics are included. This week's posts are excluded pending data maturity. Prior weeks sourced from analytics CSV history.*
+
+| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|--------|-------|-----------|-----------|--------------|--------|
+| Reels | 2 | 200 | 5.5 | 3.5 | 5.25% |
+| Carousels | 9+ | 48 | 1.6 | 0.3 | 3.27% |
+| Single Image | 4+ | 42 | 1.0 | 0.1 | 2.80% |
+
+**Caveat:** Exact post counts and averages are approximations drawn from the running analytics record. The May 20 Reel (438 views, 279 reach, 3.94% ER) and the May 28 AI transparency Reel (10.19% ER) anchor the Reels row as the format leader by significant margin. Carousels are the volume backbone. Single image baseline is thin. The first AI-UGC Reel from Oct 2 will be the most important new data point in the next pull — it will either extend the Reels advantage or reveal a format ceiling for AI-generated content specifically.
+
+---
+
 <!-- LENS_APPEND_END -->

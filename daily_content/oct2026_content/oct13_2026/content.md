@@ -39,6 +39,14 @@ as a standalone Story automatically).
 
 ---
 
+## LINKEDIN
+### Post
+The afternoon crash isn't a willpower problem. It's a receptor clearing.
+
+Caffeine blocks your brain from reading a buildup signal called adenosine for a few hours. It doesn't remove the buildup. When the block wears off, the signal comes back — often stronger than before you started.
+
+---
+
 ## Notes
 Logged as `ifitry_outthedoor`, series `if_i_try`. UTM-tagged per the
 October 100-sale goal — see `growth_playbooks/if_i_try_campaign.md`'s

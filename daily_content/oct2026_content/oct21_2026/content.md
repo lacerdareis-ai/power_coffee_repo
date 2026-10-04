@@ -68,21 +68,9 @@ If your afternoon is where you keep losing, this is worth trying for a week. htt
 
 ## LINKEDIN
 ### Post
-By 2pm I was still at my desk.
+Every list-growth decision is actually two decisions wearing one trenchcoat: is this list worth having, and is it safe to add right now.
 
-But I was slower. Less sharp. The kind of tired where you re-read the same paragraph three times and it still does not land.
-
-I was also drinking three coffees a day and wondering why it was not enough.
-
-That question sent me down a long road.
-
-I started reading about what caffeine actually does and does not do on its own. I started asking what high performers were stacking it with. I spent months testing combinations before anything felt right.
-
-Power Coffee came from that search. Not from a lab. From a founder who was losing his afternoons and refused to accept that as normal.
-
-I still drink it every morning before anything else happens. Not because I built it. Because it is the only reason the day holds.
-
-If you are a professional who hits a wall mid-afternoon — I am curious what you have tried. What actually moved the needle for you?
+We almost treated 490 new addresses as a single yes/no. It's two separate questions — and conflating them is exactly how a growing list quietly becomes an unsendable one.
 
 ---
 

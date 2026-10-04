@@ -74,24 +74,9 @@ If your afternoons still belong to the crash, start here: https://thepowercoffee
 
 ## LINKEDIN
 ### Post
+"I should push harder" is usually "I should stop stacking things" wearing a different sentence.
 
-By 2pm on most days, I was technically still working.
-
-But I was slower. Less sharp. Rereading the same paragraph. Sitting in meetings and processing maybe half of what was said.
-
-I told myself it was normal. That focus just fades after lunch. That this was what high-output days cost.
-
-It took building this company to realize it was not inevitable.
-
-The crash I was living was a design flaw in my routine, not a personal limitation.
-
-When I started testing early versions of the formula, the first thing I noticed was not a surge. It was an absence. The 2pm wall simply did not arrive.
-
-That absence changed how I thought about everything — what I was building, and why the person who needed it most was always going to be someone exactly like me a year ago.
-
-I did not build Power Coffee for people who want more energy. I built it for people who are tired of losing the second half of their day.
-
-Are you still fighting the afternoon, or have you found something that actually holds?
+One of those fixes a willpower problem. The other fixes a shape problem. Most weeks, it's the second one.
 
 ---
 
