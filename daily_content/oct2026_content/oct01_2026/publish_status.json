@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-01",
+  "platforms": {
+    "x": {
+      "status": "failed",
+      "at": "2026-10-01 04:06",
+      "error": ""
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-10-01 12:00",
+      "reason": "disabled"
+    },
+    "telegram": {
+      "status": "failed",
+      "at": "2026-10-01 04:06",
+      "error": "{'ok': False, 'error_code': 400, 'description': 'Bad Request: message text is empty'}"
+    },
+    "whatsapp": {
+      "status": "failed",
+      "at": "2026-10-01 04:06",
+      "error": "Usage: node whatsapp_sender.js \"message\" | --auth"
+    },
+    "instagram": {
+      "status": "ok",
+      "at": "2026-10-01 12:00",
+      "post_id": "18282794470290478"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-10-01 12:00",
+      "reason": "no story.mp4 in today's folder"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-10-01 12:00",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "failed",
+      "at": "2026-10-01 04:06",
+      "error": "{\"status\":401,\"serviceErrorCode\":65602,\"code\":\"EXPIRED_ACCESS_TOKEN\",\"message\":\"The token used in the request has expired\"}"
+    },
+    "shopify": {
+      "status": "failed",
+      "at": "2026-10-01 04:06",
+      "error": "{'errors': '[API] Invalid API key or access token (unrecognized login or wrong password)'}"
+    },
+    "email": {
+      "status": "skipped",
+      "at": "2026-10-01 12:00",
+      "reason": "not in --platform list"
+    }
+  }
+}

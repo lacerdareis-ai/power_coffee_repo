@@ -42,6 +42,18 @@ Shop: thepowercoffee.com/pages/betterday?utm_source=instagram&utm_medium=organic
 
 ---
 
+## LINKEDIN
+### Post
+We caught fifteen AI-generated product photos with garbled fake text on the packaging. Obvious once you looked. Easy to catch.
+
+The dangerous ones came after.
+
+Two more photos passed that first check clean — because the text was perfectly legible. It just said the wrong thing. A wrong ingredient. A wrong number.
+
+Garbled text fails a glance test. Wrong-but-legible text passes it. If your QA process is "does this look broken," you're only catching half the problem.
+
+---
+
 ## Notes
 Second AI-generated UGC video (`ugc-review-video` pipeline, Seedance 2.5, 2-board/2-clip). Same
 real-product-photo angle-lock approach as Oct 2's video — pack reads correctly throughout,

@@ -169,3 +169,17 @@
 - 📄 `earned-media.md` stale (44d) — refresh
 - 📄 `email-copywriting.md` stale (26d) — refresh
 - 📄 `market.md` stale (121d) — refresh
+
+## 2026-10-04 self-review
+- ⚠️ `content_review` — 22 errs, last run 23.0h ago
+- ⚠️ `cta_story` — 97 errs, last run 7.0h ago
+- ⚠️ `generate` — 29 errs, last run 11.0h ago
+- ⚠️ `publish` — 273 errs, last run 3.9h ago
+- ⚠️ `qa_poller` — 607 errs, last run Noneh ago
+- ⚠️ `reorder_drip` — 185 errs, last run 4.8h ago
+- ⚠️ `report` — 56 errs, last run 8.0h ago
+- ⚠️ `review_drip` — 185 errs, last run 5.0h ago
+- 📄 `bloom-flywheel.md` stale (48d) — refresh
+- 📄 `earned-media.md` stale (51d) — refresh
+- 📄 `email-copywriting.md` stale (33d) — refresh
+- 📄 `market.md` stale (128d) — refresh

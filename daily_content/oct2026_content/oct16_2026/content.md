@@ -94,24 +94,11 @@ If you have been meaning to try it, the page is live now. No subscription requir
 
 ## LINKEDIN
 ### Post
+Try this: look at your calendar for the last two weeks. Find every genuinely hard conversation — a hire, a fire, a hard no, a real negotiation. Check what hour each one actually happened at, not what hour you'd have picked on purpose.
 
-By 2pm, I had already lost.
+I did this after a Thursday I'd rather not repeat. Almost everything hard had drifted into late afternoon, because that's when the backlog finally cleared enough to deal with it. Not because it was the right hour. Because it was the only open one.
 
-Not lost a deal or a meeting. Just lost my own edge. The sharpness I had at 8am was gone, and nothing I reached for brought it back.
-
-That feeling is what I built Power Coffee for.
-
-Not for founders. Not for people chasing optimization as a hobby. For anyone who shows up fully every morning and needs the afternoon to hold.
-
-The formula is straightforward: natural caffeine that releases steadily, taurine to sustain focus through the drop, ginkgo for circulation, thermogenic spices to extend the burn. One scoop into whatever you are already drinking.
-
-We built this starting in 2024. We tested five versions. We cut the ingredients that did not earn their place. What is in the bag now is what survived that process.
-
-If you are in the middle of a week that is asking a lot of you, this is a good week to try it.
-
-thepowercoffee.com/pages/betterday
-
-What does your 2pm usually look like — still sharp, or already in damage control mode?
+The fix isn't a new app. It's noticing the pattern once.
 
 ---
 

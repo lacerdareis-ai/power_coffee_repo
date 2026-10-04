@@ -63,23 +63,11 @@ Post 5: If your afternoon keeps falling apart, the fix is not a fourth coffee. I
 
 ## LINKEDIN
 ### Post
-By 2pm, I was usually still at my desk.
+The best fix I shipped this month wasn't a feature. It was a deletion.
 
-But I was not really working anymore.
+A product photo kept rendering our packaging slightly wrong, no matter how precisely I described it. So I stopped describing the packaging. Built the same scene with it out of frame entirely.
 
-I was reading the same sentence three times. Opening tabs and closing them. Functional in appearance. Gone in output.
-
-I blamed it on sleep. On stress. On the fact that I was building a company while training for an endurance race and raising a family.
-
-Turns out the problem was simpler than all of that.
-
-Three coffees a day was giving me three spikes and three crashes. Nothing in between was holding me up.
-
-That is what sent me down the formulation rabbit hole in the first place. Not a business idea. A personal problem I kept bumping into every single Wednesday afternoon.
-
-I built Power Coffee for the version of me that needed it most.
-
-If your 2pm looks anything like mine did, I would be curious what you have tried that actually worked.
+Nothing to get wrong is a more reliable fix than "try to get it less wrong."
 
 ---
 

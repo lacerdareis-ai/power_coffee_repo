@@ -50,25 +50,11 @@ Post 5: If your Saturday keeps falling apart mid-morning, the fix is simpler tha
 
 ## LINKEDIN
 ### Post
-Saturday morning used to be the day I caught up on everything the week broke.
+"Push through it" is advice for a willpower problem.
 
-By 10am I was already running on fumes.
+The 4pm wall isn't a willpower problem. It's a receptor doing exactly what it's supposed to do, on schedule, whether or not your calendar agrees.
 
-Not from the week — from the coffee itself. The spike was fast. The drop was faster.
-
-I spent two years testing ingredient combinations looking for a different shape of energy. Something that did not peak and crater.
-
-What I found: it was never about more caffeine. It was about what surrounds it.
-
-Taurine. Matcha. Thermogenic spices. Each one extending and smoothing what the caffeine starts.
-
-I drink it every morning now. Saturday included.
-
-The day holds differently when your energy does not quit at noon.
-
-Building a product around that insight — and watching it actually work for other people — is still the part of this that surprises me most.
-
-What was the one change that most shifted your mornings? I am genuinely curious.
+You can't will your way past a mechanism. You can only know where you are on it before you schedule something that actually matters.
 
 ---
 

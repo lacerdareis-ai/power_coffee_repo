@@ -43,6 +43,14 @@ automatically alongside the main post).
 
 ---
 
+## LINKEDIN
+### Post
+Twenty-four product photos. Fifteen looked fine and weren't.
+
+Not because the AI tool was bad. Because "looks fine" was never the right question to be asking.
+
+---
+
 ## Notes
 Third and closing execution of the "If I Try" series (see
 `growth_playbooks/if_i_try_campaign.md`). Logged in `asset_log.json` as

@@ -52,23 +52,11 @@ Post 5: If your weekends feel like recovery instead of a reset, this is the shif
 
 ## LINKEDIN
 ### Post
-I used to spend Saturday morning catching up on Friday.
+Growing to 8,498 addresses felt like a milestone. It almost cost us the deliverability of the other 8,006.
 
-Not on work. On myself. Still tired. Still slow. A cup of coffee that spiked and dropped before 9am.
+Not because the new addresses were bad people. Because "more" and "safe" pull in different directions more often than the first instinct admits.
 
-The weekend I wanted was there. I just could not access it.
-
-What changed was not a productivity hack or a new schedule.
-
-It was the first ritual of the morning. Intentional. Quiet. Before anything was asked of me.
-
-A scoop. Fifteen minutes. A cup that actually carried me through the morning instead of dropping me by 10.
-
-Small rituals compound. The mornings that hold become the weeks that hold.
-
-I built Power Coffee because I needed it on days like that — not just weekdays, not just before hard training, but on a Saturday when the only thing on the line was showing up for my family at full capacity.
-
-What does your Saturday morning look like before the day starts pulling on you?
+The question before you hit save isn't "will this grow the list." It's "will this still be a list people open after I do."
 
 ---
 

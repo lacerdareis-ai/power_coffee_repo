@@ -50,23 +50,9 @@ Post 5: If the weekend is still feeling like a debt you are paying back, try a d
 
 ## LINKEDIN
 ### Post
-I used to treat Saturday like a medical event.
+Most performance advice says manage your energy. The actual lever, most weeks, is managing the shape you put it into.
 
-Not rest. Recovery. The kind where you are horizontal by noon and calling it self-care.
-
-I thought that was just how weeks worked. You push hard from Monday through Friday, and then the weekend is the tax you pay.
-
-It took me a while to understand that the crash was not the week's fault.
-
-It was the gap in the morning routine — a fast spike, no anchor, and seven hours of chasing energy until the body finally quit.
-
-When I fixed the morning, the week stopped costing so much. The weekend became optional recovery instead of mandatory.
-
-That shift was not about discipline. I had plenty of that. It was about giving the routine the right inputs.
-
-Building Power Coffee started with that exact frustration. The week should not leave you empty for it.
-
-What does your Saturday morning actually feel like right now?
+One sustained push beats three half-pushes stacked on top of each other — same hours, same effort, genuinely different outcome.
 
 ---
 

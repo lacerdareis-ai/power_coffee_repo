@@ -64,26 +64,11 @@ Post 5: She is not the only one. If you are in the same loop — three coffees, 
 
 ## LINKEDIN
 ### Post
+Not every exclusion is a judgment call.
 
-Last week someone sent us a DM we did not ask for.
+Out of roughly 490 new addresses, two got flagged for removal — and neither one needed a debate. One was an automated bounce handler. One was another company's own unsubscribe address. Routing errors, not contacts.
 
-She is a remote worker. Two kids. Full calendar every day. She told us she had been running on three coffees by 1pm and still hitting a wall.
-
-She said one scoop changed that.
-
-Not the formula. Not the ingredient list. The afternoon. That is what changed.
-
-I started Power Coffee because I was in that same loop myself. The third cup that does not work. The 2pm that falls apart. The version of you that makes it to dinner but just barely.
-
-When someone tells you the thing you built solved their actual problem, you feel it differently than any sales number.
-
-We are still early. Small team, bootstrapped, building in public.
-
-But messages like that remind me why the product has to be right before the marketing gets loud.
-
-If you have ever sent a founder a message like that — know that they read it. And it matters more than you think.
-
-What is the clearest signal you have ever gotten that you were solving a real problem?
+Knowing the difference between "decide carefully" and "obviously not a person" keeps you from treating easy calls like hard ones.
 
 ---
 
