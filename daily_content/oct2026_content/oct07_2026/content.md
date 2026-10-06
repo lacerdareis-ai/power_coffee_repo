@@ -11,53 +11,52 @@
 
 ## INSTAGRAM
 ### Story Copy
-**HEADLINE:**
-STILL LOSING THE AFTERNOON?
+**HEADLINE:** YOU LOST THE AFTERNOON AGAIN.
 
-**Subtext:**
-I built this because I was you — three coffees in, running on empty by 2pm.
+**Subtext:** I built this because I was you — three coffees in and still fading by 2pm.
 
-**Sticker:**
-Poll — "Which hits you hardest?" / Option A: "2pm wall" / Option B: "Morning fog"
+**Sticker suggestion:** Poll — "Does your energy hold past 2pm?" / YES, somehow / Nope, every day
 
 ---
 
 ### Caption
-Three coffees.
+You know the feeling.
 
-Still crashing by 2.
+Third coffee. Still fading.
+Not because you need more caffeine.
+Because you were missing what goes with it.
 
-I was not tired. I was running on the wrong fuel.
+I built Power Coffee because I lived that crash.
+Same 2pm wall. Same brain fog on the calls that matter most.
 
-That was the moment I stopped looking for another coffee and started building something different.
-
-One scoop. Every morning. That is it.
+One scoop changed the ritual.
+Not the routine. The result.
 
 https://thepowercoffee.com/pages/betterday
 
 ---
 
 ### Hashtags
-#cleanenergy #afternooncrash #morningroutine #functionalcoffee #nocrash #biohacking #powercoffee #thefirstwin #focusfuel #highperformance #energyboost #coffeeritual
+#cleanenergy #morningroutine #nocrash #functionalcoffee #biohacking #coffeebooster #powercoffee #afternooncrash #focusfuel #highperformance #thefirstwin
 
 ---
 
 ## X.COM
 ### Post
-Three coffees and still losing the afternoon. That was not a caffeine problem. That was the thing I had to figure out before I built anything.
+You're not tired because you need more coffee. You're tired because your coffee isn't doing the full job. I spent two years fixing that.
 
 ---
 
 ### Thread
-Post 1: Three coffees. Still crashing by 2pm. I used to think it was a discipline problem. It was not. It was a fuel problem. And I was the guy who had to go figure it out.
+Post 1: The 2pm crash isn't a willpower problem. It's a formula problem. I know because I had it too — every single day, regardless of how many cups I'd had.
 
-Post 2: I started tracking the pattern. Coffee one hit. Coffee two barely registered. Coffee three made me anxious but not sharper. By 1:45pm I was functionally useless. Sound familiar?
+Post 2: Three cups of regular coffee by noon. Still fading before my most important calls. I kept blaming my sleep, my schedule, my discipline. It was none of those things.
 
-Post 3: The problem with caffeine alone is that it borrows energy from tomorrow. It blocks the signal that says you are tired. It does not actually build the capacity to sustain focus. Something else has to do that work.
+Post 3: Caffeine blocks adenosine — the signal that tells your brain it's tired. But when it clears, all that built-up adenosine hits at once. That's the crash. It's chemistry, not weakness. And caffeine alone can't stop it.
 
-Post 4: I spent months testing combinations — taurine for sustained output, matcha for a slower cleaner energy curve, ginkgo to support blood flow to the brain. One scoop into the coffee I was already drinking. Same ritual. Different result.
+Post 4: Two years of research, five formula versions, and hundreds of real-world tests later — I built what I needed. Steady energy that supports you through the afternoon without the rebound. That's Power Coffee. That's what I drink every morning before the 4:50am alarm matters.
 
-Post 5: If your afternoon keeps falling apart, the fix is not a fourth coffee. It is what is missing from the first one. Start here: https://thepowercoffee.com/pages/betterday
+Post 5: If your afternoon keeps falling apart, start here: https://thepowercoffee.com/pages/betterday
 
 ---
 
@@ -73,11 +72,9 @@ Nothing to get wrong is a more reliable fix than "try to get it less wrong."
 
 ## TELEGRAM
 ### Message
-Wednesday afternoon is the real test. Not Monday motivation, not Friday energy — Wednesday at 2pm when the day is only half over and the tank is already reading low.
+Real talk — the 2pm crash I kept blaming on bad sleep was actually a formula problem. Regular coffee spikes and clears. I built Power Coffee to fill the gap it leaves behind.
 
-That is exactly where I was when I started building this thing.
-
-If that hit close, grab a bag and run it for a week: https://thepowercoffee.com/pages/betterday
+If your afternoons keep falling apart no matter how your mornings start, this is worth trying: https://thepowercoffee.com/pages/betterday
 
 ---
 
@@ -89,61 +86,54 @@ FLUX.2 Pro (image)
 9:16 (Stories)
 
 ### Prompt
-A man in his late 30s sits alone at a minimal home desk in the late afternoon, forearms resting on the desk, looking directly into the camera with calm and steady focus. Warm amber light cuts in from a window to his left, casting long shadows across the desk surface. A white stand-up pouch with a navy-blue left panel sits on the desk beside a ceramic mug, slightly out of focus. The room behind him is dark at the edges, drawing all attention to his face and expression. Confident, grounded, no performance — the look of someone who figured something out. Shot tight from chest up, high contrast, warm gold and deep shadow tones. Vertical 9:16 frame. No text in frame. Negative space in upper third for headline overlay.
+A man in his late 30s sits at a minimal desk in a home office at mid-afternoon, golden side light cutting across the frame from a window on the left. He is leaning slightly forward, elbow on the desk, chin resting on his fist, eyes steady and alert — not tired, not performing. A single ceramic mug sits at the edge of the desk, barely in frame. The room is quiet and focused. Warm amber and deep brown tones. Shallow depth of field, background softly blurred. High contrast between the lit side of his face and the shadow. Leave the upper 30 percent of the frame as negative space for text overlay. No text visible anywhere in the image. Vertical 9:16 portrait composition. Photorealistic, natural, not staged.
 
 ---
 
 ## REELS — Founder Vlog Script
-**Series:** Building Power Coffee — Ep. 13
-**Beat:** The 2pm crash that started everything — personal origin retold as business truth
-**Title formula:** Why I built this at 2pm | Wednesday discipline
-**Duration:** 30-45s · **Setting:** Home desk, late afternoon light, product sitting naturally on desk corner, talking directly to camera
+**Series:** Building Power Coffee — Ep. 14
+**Beat:** One real decision from this week inside the build + the 4:50am training anchor that made it possible to stay clear-headed enough to make it
+**Title formula:** The call I almost did not take | 4:50am held again
+**Duration:** 30-45s · **Setting:** Home desk, natural morning light, travel mug of Power Coffee visible on desk to Leo's right — not centered, not pitched
 
 **HOOK (0-3s, text on screen + spoken):**
-"I had three coffees and I was still useless by 2pm."
+"I almost skipped a call that could change everything for this brand."
 
 **BODY (speak exactly this):**
-"That was not a productivity problem. That was a fuel problem. And I kept hitting it every single Wednesday.
+"It came in on a Thursday afternoon. A potential wholesale conversation — the kind I've been working toward for months. And I almost declined it because I had nothing left by 3pm. That's the honest version of last week.
 
-I was training for an endurance race. I was running a company. I was showing up for my family. And by 2pm I was gone.
+What I've been working on since I built this product is making sure that moment doesn't happen. I woke up at 4:50, trained, had my scoop, and by the time that call came in I was still in the same headspace as 7am. I took the call. It went well. I do not know where it goes from here but I was present for it.
 
-So I stopped looking for another coffee and started asking a different question: what is actually missing from the one I am already drinking?
-
-That question turned into a formulation. The formulation turned into a product. The product is sitting right here on my desk.
-
-Thirteen episodes in and I still drink it every morning. Not because I built it. Because it is the thing that actually solved the problem.
-
-That is where Power Coffee started. Not in a pitch deck. At 2pm on a Wednesday."
+That's the whole point. Not the product. The day holding together when it counts."
 
 **CTA (last 5s):**
-"Follow the build. Drop a question in the comments — I read every one."
+"Follow the build — drop a question in the comments and I'll answer it in the next episode."
 
-**B-ROLL:** Leo's hand placing the white navy-panel pouch on the desk corner, wide shot of the desk setup with afternoon light, close-up of Leo looking into camera mid-sentence
+**B-ROLL:** Leo at desk reviewing notes on laptop in morning light, Leo mixing a scoop into a travel mug in a quick low-angle kitchen shot, close-up of hands on a phone screen during a calendar notification
 
 **CAPTION:**
-Episode 13. The crash that started everything.
+Almost let fog make a decision for me last Thursday.
+The 4:50am routine is not about discipline for its own sake — it's about being present when it matters.
 
-Not a brand story. A Wednesday problem I kept running into until I built something that fixed it.
+Ep. 14 — Building Power Coffee
 
-https://thepowercoffee.com/pages/betterday
-
-#powercoffee #buildinginpublic #founderstory #cleanenergy #morningroutine
-
-Ep. 13 — Building Power Coffee
+#buildingpowercoffee #founderstory #cleanenergy #morningroutine #powercoffee
 
 **ON-SCREEN TEXT:**
-[0:00] "3 coffees. Still crashing." / [0:12] "I asked the wrong question for months." / [0:32] "This is where Power Coffee actually started."
+[0:00] "I almost skipped the call."
+[0:12] "Nothing left by 3pm."
+[0:32] "4:50am held it together."
 
 ---
 
 ## SCIENCE NOTE — Founder Interview Prep (not for publishing)
-**Ingredient / mechanism:** Ginkgo Biloba Extract — flavonoid glycosides and terpene lactones acting on microvascular perfusion and platelet-activating factor inhibition
+**Ingredient / mechanism:** Taurine — osmolyte function and mitochondrial membrane protection
 
-Ginkgo biloba standardized extract (typically 24% flavonoid glycosides, 6% terpene lactones) exerts two complementary effects relevant to sustained cognitive performance. First, the flavone and bioflavone fractions act as free-radical scavengers in neuronal tissue, reducing oxidative load during periods of high metabolic demand — the kind of demand a long work block or endurance training session places on the brain. Second, the terpene lactone fraction, primarily ginkgolides A and B, are potent antagonists of platelet-activating factor (PAF), a phospholipid mediator involved in platelet aggregation and vasoconstriction. By inhibiting PAF, ginkgolides support microvascular tone and peripheral blood flow, which translates mechanistically to better oxygen and glucose delivery to cortical tissue under sustained cognitive load. Power Coffee delivers 207mg of ginkgo extract per 10g serving — a dosage within the range studied in human cognitive trials.
+Taurine is a conditionally essential sulfonic amino acid present in Power Coffee at 2.1g per serving. Its primary mechanism in the context of sustained energy is not stimulation but cytoprotection at the cellular level. Taurine acts as an organic osmolyte, regulating intracellular volume and ionic homeostasis under conditions of metabolic stress. In mitochondria specifically, taurine is incorporated into taurine-modified uridines within mitochondrial tRNA — a modification required for efficient decoding of mitochondrial codons. Disruption of this modification, observed in taurine-deficient states, impairs mitochondrial protein synthesis and electron transport chain efficiency, reducing ATP output. Supplemental taurine at doses consistent with Power Coffee's formula has been associated in human trials with reduced markers of exercise-induced oxidative stress and improved mitochondrial respiration in skeletal muscle. This is why the felt experience is steadiness rather than stimulation — taurine is not adding energy, it is protecting the machinery that generates it.
 
-**Reference:** Birks J, Grimley Evans J. Ginkgo biloba for cognitive impairment and dementia. Cochrane Database Syst Rev. 2009;(1):CD003120. PMID: 19160216. [VERIFY CITATION for exact dosage alignment]
+**Reference:** Schaffer SW, Jong CJ, Ramila KC, Azuma J. Physiological roles of taurine in heart and muscle. J Biomed Sci. 2010;17 Suppl 1:S2. PMID: 20804583 [VERIFY CITATION for tRNA modification pathway specifics]
 
-**Interview angle:** Ginkgo may support the brain's access to fuel during sustained mental effort by helping maintain microvascular circulation — not a stimulant effect, but a vascular support mechanism that could explain the sustained focus profile some users report.
+**Interview angle:** Taurine at this dose may support the efficiency of your own mitochondrial energy production — it is less about adding a stimulant signal and more about protecting the cellular infrastructure that keeps output stable under sustained cognitive and physical load.
 
 ---
 
@@ -169,7 +159,7 @@ const H = 1920;
 const GAP = 60;
 
 // SLIDE DATA - accent/bg/textColor must be quoted strings: "BLACK", "BROWN", "BROWN_L", "CREAM", "WHITE"
-const SLIDES = [{ id: 1, slideType: "hook", bg: "BLACK", accent: "BROWN", textColor: "CREAM", overline: "THE 2PM PROBLEM", headline: "STILL LOSING\nTHE\nAFTERNOON?", subtext: "I built this because I was you  -  three coffees in, running on empty by 2pm.", poll: { question: "Which hits you hardest?", optionA: "2pm wall", optionB: "Morning fog" } }
+const SLIDES = [{ id: 1, slideType: "hook", overline: "ENERGY", headline: "YOU LOST THE\nAFTERNOON\nAGAIN.", subtext: "I built this because I was you  -  three coffees in and still fading by 2pm.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }
 ];
 
 // ── HELPERS ──────────────────────────────────────────────────
@@ -304,5 +294,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `story.jpg` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A man in his late 30s sits alone at a minimal home desk in the late afternoon, forearms resting on the desk, looking directly into the camera with calm and steady focus. Warm amber light cuts in from a window to his left, casting long shadows across the desk surface. A white stand-up pouch with a navy-blue left panel sits on the desk beside a ceramic mug, slightly out of focus. The room behind him is dark at the edges, drawing all attention to his face and expression. Confident, grounded, no performance \u2014 the look of someone who figured something out. Shot tight from chest up, high contrast, warm gold and deep shadow tones. Vertical 9:16 frame. No text in frame. Negative space in upper third for headline overlay.\n\n---", "text_overlay": "I had three coffees and I was still useless by 2pm."}, "carousel": [{"prompt": "A man in his late 30s sits alone at a minimal home desk in the late afternoon, forearms resting on the desk, looking directly into the camera with calm and steady focus. Warm amber light cuts in from a window to his left, casting long shadows across the desk surface. A white stand-up pouch with a navy-blue left panel sits on the desk beside a ceramic mug, slightly out of focus. The room behind him is dark at the edges, drawing all attention to his face and expression. Confident, grounded, no performance \u2014 the look of someone who figured something out. Shot tight from chest up, high contrast, warm gold and deep shadow tones. Vertical 9:16 frame. No text in frame. Negative space in upper third for headline overlay.\n\n---", "text_overlay": "I had three coffees and I was still useless by 2pm."}]}
+{"story": {"prompt": "A man in his late 30s sits at a minimal desk in a home office at mid-afternoon, golden side light cutting across the frame from a window on the left. He is leaning slightly forward, elbow on the desk, chin resting on his fist, eyes steady and alert \u2014 not tired, not performing. A single ceramic mug sits at the edge of the desk, barely in frame. The room is quiet and focused. Warm amber and deep brown tones. Shallow depth of field, background softly blurred. High contrast between the lit side of his face and the shadow. Leave the upper 30 percent of the frame as negative space for text overlay. No text visible anywhere in the image. Vertical 9:16 portrait composition. Photorealistic, natural, not staged.\n\n---", "text_overlay": "I almost skipped a call that could change everything for this brand."}, "carousel": [{"prompt": "A man in his late 30s sits at a minimal desk in a home office at mid-afternoon, golden side light cutting across the frame from a window on the left. He is leaning slightly forward, elbow on the desk, chin resting on his fist, eyes steady and alert \u2014 not tired, not performing. A single ceramic mug sits at the edge of the desk, barely in frame. The room is quiet and focused. Warm amber and deep brown tones. Shallow depth of field, background softly blurred. High contrast between the lit side of his face and the shadow. Leave the upper 30 percent of the frame as negative space for text overlay. No text visible anywhere in the image. Vertical 9:16 portrait composition. Photorealistic, natural, not staged.\n\n---", "text_overlay": "I almost skipped a call that could change everything for this brand."}]}
 ```
