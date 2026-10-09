@@ -3,7 +3,13 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
+<!-- Checked 2026-10-05 per Leo: "approve it and build out Oct 10 images too."
+     instagram.jpg built this session (navy/cream Register B, real AI photo +
+     halftone-duotone treatment, fixing the auto-generated Figma Scripter's
+     black background — standing rule violation, never shipped). Email section
+     (PT/EN bilingual, "E se 12 horas de trabalho..." hook) approved alongside it. -->
+
 
 ---
 
@@ -61,6 +67,32 @@ We kept the 8 instead of patching the 16 we lost. A smaller, verified pool beats
 ## TELEGRAM
 ### Message
 Happy Saturday. Quick note from the routine — Saturday mornings with one scoop hit different when you are not chasing your third coffee by 10am. The week ends, the ritual stays. Hope you have a good one out there.
+
+---
+
+## EMAIL
+### Subject Line
+E se 12 horas de trabalho não te esgotassem?
+
+### Preview Text
+Cafeína natural, taurina e matcha — sem pico-e-queda. (English below)
+
+### Body
+E se você trabalhasse 12 horas por dia e ainda terminasse com disposição e concentração?
+
+Não é sobre acordar mais cedo — você já faz isso. É sobre o que sobra de você às 6 da tarde, depois de um turno inteiro de pé, carregando peso, atendendo cliente, limpando, construindo — enquanto o café da manhã já parou de fazer efeito há horas.
+
+A maioria resolve isso com mais café. Um, dois, três no dia. Cada um dá uma força rápida e some. No fim, você está mais irritado, não mais forte.
+
+Power Coffee não substitui o seu café — é um scoop a mais, no café que você já toma. Cafeína natural (175mg), taurina, matcha e gengibre trabalhando juntos para ajudar a sustentar energia e foco ao longo do dia, sem o pico-e-queda de sempre.
+
+Não é promessa de super-herói. É só um apoio a mais pra quem já trabalha duro todos os dias e merece terminar com algo sobrando — não só cansaço.
+
+— — —
+
+In English: if a 12-hour shift is your normal day, you already know the coffee-coffee-coffee cycle doesn't fix the 6pm crash — it just delays it. Power Coffee is one scoop added to the coffee you already drink: natural caffeine (175mg), taurine, matcha and ginger working together to help sustain energy and focus through a long shift, without the usual spike-and-crash. Not a miracle. Just a little more left in the tank at the end of the day.
+
+[Experimente por uma semana · Try it for a week](https://thepowercoffee.com/pages/betterday)
 
 ---
 
