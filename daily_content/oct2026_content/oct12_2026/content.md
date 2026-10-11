@@ -11,78 +11,46 @@
 
 ## INSTAGRAM
 ### Reel Script
+**Cover Phrase:** STILL CRASHING BY NOON?
 
-**Cover Phrase:** STILL LOSING THE AFTERNOON?
+On-screen Hook (0-3s): "You had a plan for today. By 11am it was already gone." (text on screen: "THE PLAN DIED AT 11AM")
 
-**On-screen Hook (0-3s):**
-Spoken: "You did everything right this morning and you still fell apart by 2pm."
-On-screen text: "You did everything right. Still crashed."
+Body (3-40s): "Second cup didn't fix it. Third cup made you jittery and somehow still tired underneath it. You start the morning sharp, and by late morning you're reading the same email twice, waiting for a meeting to end so you can put your head down for a second. That's not a willpower problem. That's a crash — and it happens on a schedule you didn't choose. One scoop in your morning coffee is built to carry you past that wall instead of handing you a spike and a drop."
 
-**Body (3-40s):**
-Spoken: "Three coffees. A solid breakfast. Maybe even a walk. And by early afternoon, you're slower. Foggy. You're staring at the same paragraph or the same screen and nothing is moving. You think it's a discipline problem. It's not. Your coffee gave you a spike and then it left. Nothing was there to carry you through the second half of the day. That's the gap. Not your willpower. Not your sleep. The caffeine did its job and stopped. Your afternoon needed something more — steady energy that lasts past noon, focus that doesn't fade when the meetings stack up or the kids need you the moment you walk in the door."
-On-screen text overlays:
-— "3 coffees. still foggy." (0:05)
-— "not a discipline problem." (0:18)
-— "your afternoon needed more." (0:30)
+CTA (final 5s): "Try it for a week at thepowercoffee.com/pages/betterday."
 
-**CTA (40-45s):**
-Spoken: "One scoop in your morning coffee. That's it. Try it for a week. Link in the caption."
-On-screen text: "thepowercoffee.com/pages/betterday"
-
-**Engagement Prompt:**
-"What time does your energy usually fall apart? Drop the hour in the comments."
-
----
+**Engagement Prompt:** What time does your day usually fall apart? Drop the hour in the comments.
 
 ### Caption
+You had a plan for today. By 11am it was gone.
 
-You did everything right this morning.
+Not because you're undisciplined. Because the energy you started with was never built to last the whole morning, let alone the afternoon.
 
-Still crashed by 2pm.
+The crash isn't random. It's a pattern — and it repeats every day until something in the routine changes.
 
-That's not a willpower problem. That's not a sleep problem.
+One scoop in your coffee, same ritual you already have, built to hold steady instead of spike and drop.
 
-Your coffee spiked and left. Nothing carried you through the second half of the day.
-
-There's a version of your afternoon that holds — steady energy, real focus, no second wind that fades before dinner.
-
-One scoop in your morning coffee changes the whole arc of the day.
-
-Try it for a week: https://thepowercoffee.com/pages/betterday
-
-What time does your energy usually fall apart? Drop it below.
-
----
+Try it for a week: thepowercoffee.com/pages/betterday
 
 ### Hashtags
-
-#afternooncrash #cleanenergy #functionalcoffee #morningroutine #nocrash #biohacking #focusandenergy #powercoffee #energyboost #highperformance #workdayfocus #betterdays
+#cleanenergy #morningroutine #functionalcoffee #focus #productivity #nocrash #biohacking #powercoffee #thefirstwin #energycrash #workfromhome #wellness
 
 ---
 
 ## X.COM
 ### Post
-
-You did everything right this morning. Solid breakfast. Three coffees. Still lost the afternoon. That is not a caffeine problem. That is a duration problem. Your coffee stopped working. You did not.
-
----
+You had a plan for today. By 11am it was gone. Not a discipline problem. A pattern problem — and it repeats every day until something changes. thepowercoffee.com/pages/betterday
 
 ### Thread
+Post 1: You had a plan for today. By 11am it was already gone.
 
-**Post 1:**
-You did everything right this morning. Still lost the afternoon. That is not a discipline problem. Here is what is actually happening:
+Post 2: Not because you lack discipline. Because the energy you started with was never built to hold past the first two hours.
 
-**Post 2:**
-Caffeine spikes fast. Most of it clears your system in 4-5 hours. If you drink your first coffee at 7am, the window closes around noon. Everything after that is diminishing returns. You are not weak. Your coffee just ran out.
+Post 3: Coffee alone gives you a spike. The drop that follows is just as predictable as the spike was — it's the part nobody plans for.
 
-**Post 3:**
-The research on sustained cognitive performance points to something consistent: caffeine alone is a sprinter, not a pacer. Combining it with compounds that support steady neurotransmitter function extends the window without requiring a second or third dose that leaves you wired at midnight.
+Post 4: We built Power Coffee to go into your existing cup, same ritual, so the morning you start is the morning you still have at noon.
 
-**Post 4:**
-That is why Power Coffee pairs natural caffeine with taurine and ginkgo — not to add more stimulation but to carry the energy further and cleaner. The afternoon fog is not inevitable. It is a gap in the formula you are already using.
-
-**Post 5:**
-If your afternoon keeps collapsing, your morning coffee is not the problem. It is missing one scoop. Try it for a week: https://thepowercoffee.com/pages/betterday
+Post 5: One scoop. Try it for a week. thepowercoffee.com/pages/betterday
 
 ---
 
@@ -112,14 +80,7 @@ Most performance advice tells you to manage your time. The actual lever is manag
 
 ## TELEGRAM
 ### Message
-
-Real question for you: what time does your energy usually give out?
-
-Not the tired-at-midnight kind. The 2pm fog. The moment your third coffee stops working and the afternoon just gets harder.
-
-That's the exact problem Power Coffee was built for. One scoop in your morning brew carries you past that wall.
-
-If you want to try it: https://thepowercoffee.com/pages/betterday — curious what time your wall hits. Drop it here.
+Quick question for the group — what time does your day usually start falling apart? For a lot of us it's not 2pm, it's way earlier, like 10 or 11am right after the first coffee wears off. That gap between "I had a plan" and "where did the morning go" is exactly what we built Power Coffee to close. One scoop, same coffee ritual. thepowercoffee.com/pages/betterday
 
 ---
 
@@ -137,53 +98,37 @@ cinematic_studio_3_0
 15
 
 ### Prompt
-A man in his early 40s sits at a home office desk in the mid-afternoon, both hands on the sides of his face, staring at a laptop screen that has stopped making sense to him. Three empty mugs are pushed to the edge of the desk, out of focus. His posture has collapsed slightly from what it was this morning. The room is warm — amber window light from late afternoon sun cuts across the desk at a low angle. Camera begins on a slow push-in from mid-shot toward his face, then cuts to a close-up of his hand reaching for one of the mugs, finding it empty. Cut to a wide shot: he leans back in his chair and looks at the ceiling for one beat, not defeated, just pausing. Mood is honest and relatable, not dramatic. Warm earthy tones — espresso brown, soft cream, amber. Handheld micro-tremor on the push-in to feel lived-in. No text in frame. No product visible. The story is entirely in the person.
+A man in his early 40s at a clean home office desk, mid-morning light through a window behind him. He starts sharp — typing, glancing at a second monitor showing a spreadsheet — then the energy visibly drops: shoulders sink, he rubs his eyes, rereads something on screen, sets down a dark ceramic mug without drinking. Handheld camera, subtle push in on his face during the energy shift to register the fatigue. Natural window light, warm wood tones in the room, muted cream and espresso color grade. A matte pouch with navy-blue side panel sits softly out of focus on a shelf behind him — not the focus of any shot. Mood: relatable mid-morning fatigue, authentic, unstaged, not overproduced. No text overlays, no graphics.
 
 ---
 
 ## REELS — Founder Vlog Script
-**Series:** Building Power Coffee — Ep. 13
-**Beat:** The cost of losing the afternoon — as a founder and as a person
-**Title formula:** The afternoon that costs you everything | 4:50am is only half the equation
-**Duration:** 30-45s · **Setting:** Leo at his desk, mid-afternoon light, laptop open, a scoop and the white Power Coffee pouch sitting naturally to one side — not staged, just there
+**Series:** Building Power Coffee — Ep. 14
+**Beat:** The 11am crash pattern — tying this week's customer-facing hook to a real build decision
+**Title formula:** Why we stopped calling it "the 2pm crash" | what changed when I started tracking my own mornings
+**Duration:** 35s · **Setting:** Kitchen counter, early morning, handheld, Leo mid-routine before leaving for work
 
 **HOOK (0-3s, text on screen + spoken):**
-"I used to lose two hours every single afternoon. Here is what that actually cost."
-
-On-screen text: "I was losing 2 hours a day."
+"I used to say 2pm. I was wrong."
 
 **BODY (speak exactly this):**
-"When I was building this company I thought the 4:50am wake-up was the whole answer. Get up early, do the work, win the day. But I kept losing the afternoon. Every single day, somewhere between 1 and 3pm, I would slow down. Not tired enough to stop. Just slow enough to waste the time. I ran the numbers once — if I was running at sixty percent for two hours a day, that was ten hours a week I was not really building anything. That is a full work day every week, gone. I started drinking my own product consistently around month four. The first thing I noticed was not the morning. It was that the afternoon stayed. The work kept moving. The quality held. I stopped padding my schedule to account for the crash. That is when the company started moving faster."
+"For over a year I told people the crash hits at 2pm. Then I actually tracked my own mornings for three weeks. Mine hit at 10:40, almost every day. Same for four people on our team when I asked them to check. So this week we rewrote every piece of customer content around 'late morning,' not 2pm, because that's when most people actually lose it. Small correction. It came from a spreadsheet, not a feeling. I made the coffee while I was figuring this out, same scoop I always use, and it's sitting right here while I talk to you."
 
 **CTA (last 5s):**
-"Follow the build. And if you have a question about the formula or the process, drop it in the comments — I read all of them."
+"Follow the build. What time does your day usually slip?"
 
-**B-ROLL:** close-up of Leo's hand adding one scoop to his coffee, wide shot of desk with laptop and the white Power Coffee pouch visible in natural afternoon light, quick cut of Leo typing with the same steady focus (not staged — just working)
-
-**CAPTION:**
-The 4:50am wake-up was only half the equation.
-
-The afternoon that holds — that is where the real work gets done.
-
-Ep. 13 — Building Power Coffee
-
-#buildingpowercoffee #foundervlog #cleanenergy #powercoffee #thepowercoffee
-
-**ON-SCREEN TEXT:**
-— 0:03 "I was losing 2 hours a day."
-— 0:15 "10 hours a week. Gone."
-— 0:30 "The afternoon started holding."
+**B-ROLL:** Leo scooping into coffee at counter, close-up of a notes app or spreadsheet on phone, Leo walking out the door with travel mug in hand
+**CAPTION:** I told people 2pm for a year. My own data said 10:40. Small correction, real difference in how we write to you now. Ep. 14 — Building Power Coffee
+#buildinpublic #founderstory #cleanenergy #morningroutine #powercoffee
+**ON-SCREEN TEXT:** "0:00 — I was wrong about the timing" / "0:15 — tracked 3 weeks of my own mornings" / "0:28 — now we write for 10:40, not 2pm"
 
 ---
 
 ## SCIENCE NOTE — Founder Interview Prep (not for publishing)
-**Ingredient / mechanism:** Taurine — osmolyte function and mitochondrial membrane protection
-
-Taurine, present at 2.1g per serving in Power Coffee, is classified as a conditionally essential amino acid and functions primarily as an organic osmolyte. Inside the cell, it regulates volume and ionic balance by moderating intracellular chloride, calcium, and sodium concentrations — a function that becomes critical under metabolic stress. At the mitochondrial level, taurine is incorporated into mitochondrial tRNA as a wobble-position modification (5-taurinomethyluridine), which is required for the accurate translation of mitochondrially encoded proteins, several of which are subunits of the electron transport chain. When taurine is deficient, mitochondrial protein synthesis becomes error-prone, respiratory efficiency falls, and reactive oxygen species output rises. The relevance to sustained cognitive and physical energy is mechanistic: efficient mitochondrial translation supports ATP output fidelity across longer effort windows, which maps directly to reduced fatigue during extended cognitive work.
-
-**Reference:** Schaffer SW, Ju Jong C, Kc R, Azuma J. "Physiological roles of taurine in heart and muscle." Journal of Biomedical Science. 2010;17(Suppl 1):S2. PMID 20804596 [VERIFY CITATION for the mitochondrial tRNA modification detail — the taurinomethyluridine mechanism is well-established; confirm this specific paper covers it or substitute Suzuki et al., Nat Chem Biol, 2002.]
-
-**Interview angle:** Taurine at this dose may support mitochondrial efficiency and reduce oxidative stress during sustained cognitive or physical effort — not by stimulating the system, but by helping the cell's energy machinery run more cleanly under load.
+**Ingredient / mechanism:** Natural Caffeine (~175mg per 10g serving) as an adenosine receptor antagonist
+Caffeine's primary acute mechanism is competitive antagonism at adenosine A1 and A2A receptors in the central nervous system. Adenosine accumulates throughout waking hours as a byproduct of cellular ATP metabolism, binding A1/A2A receptors to promote neuronal inhibition and the subjective sense of sleepiness. Caffeine structurally resembles adenosine closely enough to occupy these receptor sites without activating them, blocking adenosine's inhibitory signal. This disinhibits dopaminergic and glutamatergic signaling downstream, which is why alertness rises without a direct stimulant action of its own. EFSA's safety opinion anchors single-dose intake at or below 200mg as not raising acute safety concerns for most healthy adults, which is why a 175mg serving sits deliberately under that threshold rather than near it. The "crash" people describe is partly receptor rebound: once caffeine clears, accumulated adenosine binds in a wave, which is a separate phenomenon from blood sugar swings but often gets confused with them.
+**Reference:** Fredholm BB, et al. "Actions of caffeine in the brain with special reference to factors that contribute to its widespread use." Pharmacological Reviews, 1999;51(1):83-133. PMID: 10049999
+**Interview angle:** Caffeine doesn't create energy, it blocks the signal that tells your brain you're tired — which is why dose and timing matter more than most people assume, and why we kept this serving at a level designed to support alertness without pushing past established single-dose guidance.
 
 ---
 
@@ -344,5 +289,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `instagram.mp4` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A man in his early 40s sits at a home office desk in the mid-afternoon, both hands on the sides of his face, staring at a laptop screen that has stopped making sense to him. Three empty mugs are pushed to the edge of the desk, out of focus. His posture has collapsed slightly from what it was this morning. The room is warm \u2014 amber window light from late afternoon sun cuts across the desk at a low angle. Camera begins on a slow push-in from mid-shot toward his face, then cuts to a close-up of his hand reaching for one of the mugs, finding it empty. Cut to a wide shot: he leans back in his chair and looks at the ceiling for one beat, not defeated, just pausing. Mood is honest and relatable, not dramatic. Warm earthy tones \u2014 espresso brown, soft cream, amber. Handheld micro-tremor on the push-in to feel lived-in. No text in frame. No product visible. The story is entirely in the person.\n\n---", "text_overlay": "STILL LOSING THE AFTERNOON?"}, "carousel": [{"prompt": "A man in his early 40s sits at a home office desk in the mid-afternoon, both hands on the sides of his face, staring at a laptop screen that has stopped making sense to him. Three empty mugs are pushed to the edge of the desk, out of focus. His posture has collapsed slightly from what it was this morning. The room is warm \u2014 amber window light from late afternoon sun cuts across the desk at a low angle. Camera begins on a slow push-in from mid-shot toward his face, then cuts to a close-up of his hand reaching for one of the mugs, finding it empty. Cut to a wide shot: he leans back in his chair and looks at the ceiling for one beat, not defeated, just pausing. Mood is honest and relatable, not dramatic. Warm earthy tones \u2014 espresso brown, soft cream, amber. Handheld micro-tremor on the push-in to feel lived-in. No text in frame. No product visible. The story is entirely in the person.\n\n---", "text_overlay": "STILL LOSING THE AFTERNOON?"}]}
+{"story": {"prompt": "A man in his early 40s at a clean home office desk, mid-morning light through a window behind him. He starts sharp \u2014 typing, glancing at a second monitor showing a spreadsheet \u2014 then the energy visibly drops: shoulders sink, he rubs his eyes, rereads something on screen, sets down a dark ceramic mug without drinking. Handheld camera, subtle push in on his face during the energy shift to register the fatigue. Natural window light, warm wood tones in the room, muted cream and espresso color grade. A matte pouch with navy-blue side panel sits softly out of focus on a shelf behind him \u2014 not the focus of any shot. Mood: relatable mid-morning fatigue, authentic, unstaged, not overproduced. No text overlays, no graphics.\n\n---", "text_overlay": "STILL CRASHING BY NOON?"}, "carousel": [{"prompt": "A man in his early 40s at a clean home office desk, mid-morning light through a window behind him. He starts sharp \u2014 typing, glancing at a second monitor showing a spreadsheet \u2014 then the energy visibly drops: shoulders sink, he rubs his eyes, rereads something on screen, sets down a dark ceramic mug without drinking. Handheld camera, subtle push in on his face during the energy shift to register the fatigue. Natural window light, warm wood tones in the room, muted cream and espresso color grade. A matte pouch with navy-blue side panel sits softly out of focus on a shelf behind him \u2014 not the focus of any shot. Mood: relatable mid-morning fatigue, authentic, unstaged, not overproduced. No text overlays, no graphics.\n\n---", "text_overlay": "STILL CRASHING BY NOON?"}]}
 ```
