@@ -1,0 +1,56 @@
+[
+ {
+  "n": "21",
+  "img": "fw-bg-quiz.jpg",
+  "pos": "60% 30%",
+  "eb": "Sound familiar?",
+  "t1": "Still losing",
+  "t2": "the afternoon?",
+  "sub": "Coffee gets you up. One scoop helps it keep you there.",
+  "cta": "Add one scoop \u00b7 $1.26 a morning"
+ },
+ {
+  "n": "22",
+  "img": "fw-bg-buy.jpg",
+  "pos": "30% 40%",
+  "eb": "Same ritual",
+  "t1": "Same coffee.",
+  "t2": "Steadier day.",
+  "sub": "Stir one scoop into the hot or iced coffee you already make.",
+  "cta": "Shop \u00b7 $18.90 for 15 mornings"
+ },
+ {
+  "n": "23",
+  "img": "fw-bg-manifesto.jpg",
+  "pos": "55% 45%",
+  "eb": "The Power Coffee",
+  "t1": "The first win",
+  "t2": "of your day.",
+  "sub": "One scoop. Your coffee. All day.",
+  "cta": "10% off your first order \u00b7 FIRST10",
+  "mascot": 2
+ },
+ {
+  "n": "24",
+  "img": "fw-blog-2.jpg",
+  "pos": "40% 45%",
+  "eb": "Free recipe ebook",
+  "t1": "Your shaker,",
+  "t2": "upgraded.",
+  "sub": "10 blender recipes, every one built on one scoop.",
+  "cta": "Get the free recipes \u2192",
+  "url": "thepowercoffee.com/pages/10shakes",
+  "mascot": 3
+ },
+ {
+  "n": "25",
+  "img": "fw-blog-4.jpg",
+  "pos": "70% 88%",
+  "eb": "Packed the night before",
+  "t1": "In the bag",
+  "t2": "before 6am.",
+  "sub": "15 mornings in one 5.5 oz pack. Scoop, stir, go.",
+  "cta": "Pack yours tonight \u2192",
+  "size": "125%"
+ }
+]

@@ -1,16 +1,17 @@
-# Publish Confirmation — 2026-10-04 12:00
+# Publish Confirmation — 2026-10-06 08:42
 
 
-- ❌ **X**: skipped not in --platform list
+- ✅ **X**: ok 
 - ❌ **THREADS**: skipped disabled
-- ❌ **TELEGRAM**: skipped not in --platform list
-- ❌ **WHATSAPP**: skipped not in --platform list
-- ❌ **INSTAGRAM**: failed carousel slide(s) never became fetchable after retries: ['carousel_1.jpg', 'carousel_2.jpg', 'carousel_3.jpg', 'carousel_4.jpg'] — aborted rather than publish a partial carousel
+- ✅ **TELEGRAM**: ok 125
+- ❌ **WHATSAPP**: failed /Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175
+                throw new Error(`The browser is already running for ${launchAr
+- ✅ **INSTAGRAM**: ok 18115659419007459
 - ❌ **VIDEOSTORY**: skipped no story.mp4 in today's folder
 - ❌ **CTASTORY**: skipped dedicated daily job only
-- ❌ **LINKEDIN**: skipped not in --platform list
-- ❌ **SHOPIFY**: skipped not in --platform list
-- ❌ **EMAIL**: skipped not in --platform list
+- ❌ **LINKEDIN**: failed {"status":401,"serviceErrorCode":65602,"code":"EXPIRED_ACCESS_TOKEN","message":"The token used in the request has expired"}
+- ❌ **SHOPIFY**: skipped not Tuesday or Thursday
+- ❌ **EMAIL**: skipped not Saturday
 
 ## Content Summary
 

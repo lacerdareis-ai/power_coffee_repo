@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-08",
+  "platforms": {
+    "x": {
+      "status": "failed",
+      "at": "2026-10-08 04:08",
+      "error": ""
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-10-08 12:00",
+      "reason": "disabled"
+    },
+    "telegram": {
+      "status": "failed",
+      "at": "2026-10-08 04:08",
+      "error": "HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=15)"
+    },
+    "whatsapp": {
+      "status": "failed",
+      "at": "2026-10-08 04:08",
+      "error": "Usage: node whatsapp_sender.js \"message\" | --auth"
+    },
+    "instagram": {
+      "status": "ok",
+      "at": "2026-10-08 12:00",
+      "post_id": "18093540230446212"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-10-08 12:00",
+      "reason": "no story.mp4 in today's folder"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-10-08 12:00",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "ok",
+      "at": "2026-10-08 04:08",
+      "post_id": "urn:li:share:7513875910958391296"
+    },
+    "shopify": {
+      "status": "failed",
+      "at": "2026-10-08 04:08",
+      "error": "{'errors': '[API] Invalid API key or access token (unrecognized login or wrong password)'}"
+    },
+    "email": {
+      "status": "skipped",
+      "at": "2026-10-08 12:00",
+      "reason": "not in --platform list"
+    }
+  }
+}

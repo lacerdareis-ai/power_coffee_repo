@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -11,23 +11,21 @@
 
 ## INSTAGRAM
 ### Visual Concept
-Single image matching prompt set A4: a couple in their early 40s at a dining table on a slow Saturday morning, one person scrolling a phone, the other holding a mug and looking out a window. The WHITE stand-up pouch with navy-blue left panel sits open on the table between them — a natural prop, not the focal point. Warm golden light. Wide shot with negative space at bottom for caption preview. No text in frame.
+7-slide carousel (carousel_1-7.jpg, 1080x1350, navy/cream): cover "10 shakes. One scoop." -> 5 slides with 2 recipes each from the free "10 Power Smart Energy Shakes" ebook (one scoop per recipe; Mocha + Chocolate Espresso badged extra caffeine) -> close "Get all 10 free" with the real pack + thepowercoffee.com/pages/10shakes. Replaces the original A4 single-image concept (never built). Original plan saved in the design skill output notes.
 
 ### Caption
-Saturday used to fall apart by noon.
+Your blender is about to become your favorite part of the morning.
 
-Not dramatic. Just that slow leak — the first cup wearing off, the second one doing nothing, the afternoon already feeling borrowed.
+10 shakes. Every one built around the same thing: one scoop of Power Coffee.
 
-One scoop into the morning changed the shape of the whole day.
+Banana and peanut butter for the classic. Cold brew and cocoa when you want it bold. Pistachio latte for the slow, cozy ones. Pineapple and mango when the afternoon needs something bright.
 
-Not a spike. Not a second wind. Just a steadier version of yourself from the first hour through the last errand.
+Two of them stack extra caffeine (the Mocha has cold brew, the Chocolate Espresso has a shot) so save those for the big days.
 
-That is the ritual. Quiet. Repeatable. Yours.
-
-Try it: https://thepowercoffee.com/pages/betterday
+Save this for tomorrow morning. Then grab all 10 as a free PDF at www.thepowercoffee.com (also on Amazon).
 
 ### Hashtags
-#morningroutine #cleanenergy #functionalcoffee #saturdaymorning #nocrash #powercoffee #biohacking #thefirstwin
+#smoothierecipes #coffeesmoothie #proteinshake #morningroutine #breakfastideas #powercoffee #thefirstwin
 
 ---
 
