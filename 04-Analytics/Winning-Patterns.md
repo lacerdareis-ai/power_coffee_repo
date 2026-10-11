@@ -50,6 +50,8 @@
 | Buyer-language proof as Reel seed | "I finally have afternoons again." — verified buyer | Three words that describe the exact desire state (not the product, not the formula) — afternoons = presence, family, capacity. Quote sourced from real review. Can anchor a Story, a carousel slide, or a Reel open. The felt word beats any clinical claim. | Sep 3, 2026 |
 | Blame reframe → amino acid reveal | "You hit a wall at 2pm and blamed yourself. It was not discipline. It was missing one amino acid." | Converts self-criticism (a felt emotion) into a solvable external cause. Removes shame, introduces the ingredient as relief rather than optimization. Extends the pain-first pattern with an identity-protective angle — audience feels seen, not sold. | Sep 29, 2026 |
 | Known-brand comparison to earn ingredient credibility | "Taurine is in Red Bull too. Most people don't know why it's actually there — it isn't what gives you the buzz." | Borrows the credibility of a category giant to legitimize an ingredient, then immediately differentiates by correcting the popular misconception. Audience already trusts Red Bull's formula; the hook hijacks that trust without endorsing the competitor. | Sep 28, 2026 |
+| Hook-quality mismatch across platforms costs reach | Same "caffeine blocks adenosine receptor" idea ran sharp on X/LinkedIn, soft ("Bad days? Good days?") on IG Reel — IG got 180 reach but only 0.56% ER | The platform with the most reach got the weakest version of the hook; strongest copy must go where the audience is biggest, not be reserved for text-first platforms | Oct 5, 2026 |
+| Radical-transparency "we shipped the mistake" framing as recurring LinkedIn throughline | "Fifteen of our product photos had fake words on them. We shipped them anyway." (Oct 5) repeated/escalated across Oct 6, 8, 9 posts | Multi-day confession arc (not just one-off) builds a credibility narrative over a week, consistent with anti-apology pattern already logged, but now proven to work as a *series*, not just a single post | Oct 5–9, 2026 |
 ### Template entries:
 - **Price anchor hook:** "$0.73 vs $5.75" — comparison to daily coffee shop spend
 - **Problem-first hook:** "Your coffee is failing you by 2pm" — names the pain immediately
@@ -134,6 +136,7 @@
 | Week 14 (Aug 17–21, 2026) | — | — | — | — | Crash theme saturated; Reel leads at 8% ER; zero saves; Thursday missed; rotate frame next week |
 | Week 14 (Aug 31–Sep 4, 2026) | — | — | — | — | Pipeline failed 3/5 days; 0 Reels; 1 carousel live; fix publish reliability before content |
 | Week 40 (Sep 28–Oct 2, 2026) | — | — | — | — | Pipeline failures dominated; If I Try series launched; analytics pending maturity. |
+| Week Oct 5–Oct 9, 2026 | — | — | — | — | Photo-integrity confession series (LinkedIn) + cereal-bowl morning-chaos hook (IG) carried the week; pipeline failures suppressed reach data |
 
 ---
 

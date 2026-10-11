@@ -4,6 +4,17 @@
 
 Functional coffee blend / performance-focused supplement beverage. Powder blend format.
 
+## ✅ Customer-facing facts (verified 2026-10-09 — use these in all public copy)
+
+- **Bag:** 5.5 oz (150 g), **15 servings → 10 g per scoop** (matches the pack label, Amazon listing and the Illuminate Labs certified panel, which is per 10 g serving).
+- **Per scoop (certified):** natural caffeine **~175 mg**, taurine **2.1 g**, ginkgo biloba **207 mg**, thermogenic spices **~1.8 g**.
+- **Do not state a protein gram figure** (not on the certified panel). No vitamins in the formula. No L-carnitine. L-theanine only naturally via matcha — never quote a mg figure.
+- **Prices:** 15-day pack **$18.90** ($1.26/morning); 45-day pack **$49.90** ($1.11/morning).
+- **Returns:** unopened bags within 30 days of delivery (Return & Refund Policy). Do NOT promise a money-back/satisfaction guarantee.
+- **Reviews:** Amazon listing shows 3.9★ from 5 reviews (2026-10-09) — never claim "4.9 stars / 112 verified buyers".
+- The per-15 g formula table below is batch math from the older 15 g / 10-serving format; scale ×⅔ for today's 10 g scoop and prefer the certified figures above.
+- **Codes:** FIRST10 = 10% off, once per customer. FREESHIPPING = free US shipping, one-time purchases.
+
 ## Active SKUs
 
 ### Original — Power Coffee v5.2
@@ -58,7 +69,8 @@ Functional coffee blend / performance-focused supplement beverage. Powder blend 
 
 | Channel | Price | Servings | Per Serving |
 |---------|-------|----------|-------------|
-| Current retail | $17.90/bag | 15 | $1.19 |
+| Current retail (15-day pack) | $18.90/bag | 15 | $1.26 |
+| 45-day pack (3 bags) | $49.90 | 45 | $1.11 |
 | Original profile (150g) | $15.99/bag | 10 | $1.59 |
 
 ## Usage Guidance

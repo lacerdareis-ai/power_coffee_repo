@@ -1,0 +1,12 @@
+[
+ {"n":"01","tag":"Morning ritual","t1":"Classic","t2":"Power Shake","desc":"Rich, creamy, the daily starter.","ing":["1 frozen banana","1 tbsp peanut butter","1 cup almond milk","1 scoop Power Coffee","Ice cubes"],"mascot":5},
+ {"n":"02","tag":"Bold boost","t1":"Mocha Madness","t2":"Smoothie","desc":"Bold, chocolatey, sweetened only by dates.","ing":["½ cup cold brew coffee","1 tbsp unsweetened cocoa","1 cup oat milk","2 dates, pitted","1 scoop Power Coffee","Ice cubes"],"extra":"Extra caffeine · contains cold brew"},
+ {"n":"03","tag":"Post-workout","t1":"Vanilla Focus","t2":"Shake","desc":"Smooth, vanilla, protein-forward.","ing":["1 frozen banana","1 scoop vanilla protein powder","1 cup almond milk","1 scoop Power Coffee"]},
+ {"n":"04","tag":"Cozy mornings","t1":"Pistachio","t2":"Power Latte","desc":"Creamy, slightly nutty, served warm.","ing":["1 cup hot oat milk","1 tbsp pistachio cream","1 scoop Power Coffee","Cinnamon to taste"]},
+ {"n":"05","tag":"Mid-morning","t1":"Berry Energy","t2":"Boost","desc":"Bright, tangy and filling.","ing":["½ cup frozen mixed berries","½ cup Greek yogurt","1 cup almond milk","1 scoop Power Coffee"],"mascot":2},
+ {"n":"06","tag":"Tropical","t1":"Coconut","t2":"Brain Fuel","desc":"Smooth tropical flavor, a hint of honey.","ing":["1 cup coconut milk","1 tbsp shredded coconut","1 tsp honey","1 scoop Power Coffee","Ice cubes"]},
+ {"n":"07","tag":"Afternoon pick-up","t1":"Tropical Wake-Up","t2":"Smoothie","desc":"Light, clean and refreshing.","ing":["½ cup pineapple","½ cup mango","1 cup coconut water","1 scoop Power Coffee"]},
+ {"n":"08","tag":"Power mode","t1":"Chocolate","t2":"Espresso Shake","desc":"Rich, robust, dessert-level flavor.","ing":["1 shot (1 oz) cold espresso","1 tbsp cacao nibs or cocoa","1 scoop Power Coffee","1 cup oat milk","Ice cubes"],"extra":"Extra caffeine · contains espresso"},
+ {"n":"09","tag":"Ultimate combo","t1":"Peanut Butter","t2":"Focus Bomb","desc":"Peanut butter, banana, one scoop.","ing":["1 banana","1 tbsp peanut butter","1 tsp flaxseed","1 cup almond milk","1 scoop Power Coffee"],"mascot":3},
+ {"n":"10","tag":"Green breakfast","t1":"Green Energy","t2":"Shake","desc":"Green, creamy, surprisingly good.","ing":["½ avocado","1 handful spinach","1 scoop vanilla protein powder","1 cup almond milk","1 scoop Power Coffee"]}
+]

@@ -42,3 +42,18 @@ the URL in the design is the visible reference for viewers.
 | story8.jpg | Proof — day 3 / day 5 experience |
 | story9.jpg | Simplicity — scoop, stir, done, win |
 | story10.jpg | Final CTA — "Try it today" |
+
+## Update 2026-10-09 — rotation is story_NN.jpg, one per day (9am launchd `ctastory`)
+
+`publish_cta_story()` cycles deterministically through every `story_<NN>.jpg` (underscore form only;
+`story11.jpg` / `story_amazon.jpg` are not in the pool).
+
+- **story_11 – story_20**: recipe series, one per recipe of the "10 Power Smart Energy Shakes" ebook
+  (one scoop each; 12 Mocha and 18 Chocolate Espresso carry an "Extra caffeine" badge). CTA →
+  thepowercoffee.com/pages/10shakes. Source: `_source_recipe_stories/build.py` + `recipes.json`
+  (HTML → headless Chrome, navy/cream register). Logged in the social-design asset log as series `recipe_story`.
+- **_retired/**: pulled from rotation because they state facts that no longer match the site —
+  story_06 ($1.19 / $17.90), story_10 ($17.90), story_05 ("5g Pea Protein", unconfirmed),
+  story_02 (cortisol / blood-sugar claims about regular coffee), story_08 (day-3/day-5 outcome promises).
+  Rebuild with current facts ($18.90, $1.26/serving) before putting any back.
+- **story_21 – story_25** (2026-10-10): photo CTA series in the same navy/cream design, using the website's lifestyle photos in original color (afternoon slump, desk focus, street walk, shaker, gym bag). Source: `_source_cta_v2/`. Logged as series `cta_story_v2`. story_25's gym-bag photo is AI-made; its pack label has a garbled "THE" up close, so it's kept small in frame.

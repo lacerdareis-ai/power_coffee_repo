@@ -2,54 +2,53 @@
   "date": "2026-10-04",
   "platforms": {
     "x": {
-      "status": "skipped",
-      "at": "2026-10-04 12:00",
-      "reason": "not in --platform list"
+      "status": "ok",
+      "at": "2026-10-06 08:42"
     },
     "threads": {
       "status": "skipped",
-      "at": "2026-10-04 12:00",
+      "at": "2026-10-06 08:42",
       "reason": "disabled"
     },
     "telegram": {
-      "status": "skipped",
-      "at": "2026-10-04 12:00",
-      "reason": "not in --platform list"
+      "status": "ok",
+      "at": "2026-10-06 08:42",
+      "message_id": 125
     },
     "whatsapp": {
-      "status": "skipped",
-      "at": "2026-10-04 12:00",
-      "reason": "not in --platform list"
+      "status": "failed",
+      "at": "2026-10-06 08:42",
+      "error": "/Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175\n                throw new Error(`The browser is already running for ${launchAr"
     },
     "instagram": {
-      "status": "failed",
-      "at": "2026-10-04 12:00",
-      "error": "carousel slide(s) never became fetchable after retries: ['carousel_1.jpg', 'carousel_2.jpg', 'carousel_3.jpg', 'carousel_4.jpg'] \u2014 aborted rather than publish a partial carousel"
+      "status": "ok",
+      "at": "2026-10-06 08:42",
+      "post_id": "18115659419007459"
     },
     "videostory": {
       "status": "skipped",
-      "at": "2026-10-04 12:00",
+      "at": "2026-10-06 08:42",
       "reason": "no story.mp4 in today's folder"
     },
     "ctastory": {
       "status": "skipped",
-      "at": "2026-10-04 12:00",
+      "at": "2026-10-06 08:42",
       "reason": "dedicated daily job only"
     },
     "linkedin": {
-      "status": "skipped",
-      "at": "2026-10-04 12:00",
-      "reason": "not in --platform list"
+      "status": "failed",
+      "at": "2026-10-06 08:42",
+      "error": "{\"status\":401,\"serviceErrorCode\":65602,\"code\":\"EXPIRED_ACCESS_TOKEN\",\"message\":\"The token used in the request has expired\"}"
     },
     "shopify": {
       "status": "skipped",
-      "at": "2026-10-04 12:00",
-      "reason": "not in --platform list"
+      "at": "2026-10-06 08:42",
+      "reason": "not Tuesday or Thursday"
     },
     "email": {
       "status": "skipped",
-      "at": "2026-10-04 12:00",
-      "reason": "not in --platform list"
+      "at": "2026-10-06 08:42",
+      "reason": "not Saturday"
     }
   }
 }

@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-10",
+  "platforms": {
+    "x": {
+      "status": "ok",
+      "at": "2026-10-10 04:00"
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-10-10 12:00",
+      "reason": "disabled"
+    },
+    "telegram": {
+      "status": "ok",
+      "at": "2026-10-10 04:00",
+      "message_id": 126
+    },
+    "whatsapp": {
+      "status": "failed",
+      "at": "2026-10-10 04:00",
+      "error": "/Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175\n                throw new Error(`The browser is already running for ${launchAr"
+    },
+    "instagram": {
+      "status": "ok",
+      "at": "2026-10-10 12:00",
+      "post_id": "18106274297269785"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-10-10 12:00",
+      "reason": "no story.mp4 in today's folder"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-10-10 12:00",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "ok",
+      "at": "2026-10-10 04:00",
+      "post_id": "urn:li:share:7514595737427464193"
+    },
+    "shopify": {
+      "status": "skipped",
+      "at": "2026-10-10 12:00",
+      "reason": "not in --platform list"
+    },
+    "email": {
+      "status": "failed",
+      "at": "2026-10-10 04:00",
+      "error": "resend broadcast: resend broadcast 403: {\"statusCode\":403,\"message\":\"You have reached your contacts quota. Please upgrade your plan to send more emails.\",\"name\":\"validation_error\"}"
+    }
+  }
+}

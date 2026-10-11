@@ -1,3 +1,5 @@
+> **Not the canonical brand source.** Since 2026-10-08 the pipeline reads `Sales_motor/07-Project_info/BRAND.md`, and weekly LENS learnings go to `07-Project_info/LENS_LEARNINGS.md`. This file is kept for reference only.
+
 # The Power Coffee — Brand Reference
 
 ## Identity
