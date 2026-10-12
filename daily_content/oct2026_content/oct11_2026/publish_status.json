@@ -7,7 +7,7 @@
     },
     "threads": {
       "status": "skipped",
-      "at": "2026-10-11 12:00",
+      "at": "2026-10-12 06:46",
       "reason": "disabled"
     },
     "telegram": {
@@ -22,17 +22,17 @@
     },
     "instagram": {
       "status": "failed",
-      "at": "2026-10-11 12:00",
-      "error": "HTTPSConnectionPool(host='graph.facebook.com', port=443): Max retries exceeded with url: /v23.0/17841473486022892/media (Caused by NameResolutionError(\"HTTPSConnection(host='graph.facebook.com', port="
+      "at": "2026-10-12 06:46",
+      "error": "carousel slide(s) never became fetchable after retries: ['carousel_1.jpg', 'carousel_2.jpg', 'carousel_3.jpg', 'carousel_4.jpg'] \u2014 aborted rather than publish a partial carousel"
     },
     "videostory": {
       "status": "skipped",
-      "at": "2026-10-11 12:00",
+      "at": "2026-10-12 06:46",
       "reason": "no story.mp4 in today's folder"
     },
     "ctastory": {
       "status": "skipped",
-      "at": "2026-10-11 12:00",
+      "at": "2026-10-12 06:46",
       "reason": "dedicated daily job only"
     },
     "linkedin": {
@@ -42,12 +42,12 @@
     },
     "shopify": {
       "status": "skipped",
-      "at": "2026-10-11 12:00",
+      "at": "2026-10-12 06:46",
       "reason": "not in --platform list"
     },
     "email": {
       "status": "skipped",
-      "at": "2026-10-11 12:00",
+      "at": "2026-10-12 06:46",
       "reason": "not in --platform list"
     }
   }

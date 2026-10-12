@@ -1,4 +1,4 @@
-# Publish Confirmation — 2026-10-11 12:00
+# Publish Confirmation — 2026-10-12 06:46
 
 
 - ✅ **X**: ok 
@@ -6,7 +6,7 @@
 - ✅ **TELEGRAM**: ok 127
 - ❌ **WHATSAPP**: failed /Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175
                 throw new Error(`The browser is already running for ${launchAr
-- ❌ **INSTAGRAM**: failed HTTPSConnectionPool(host='graph.facebook.com', port=443): Max retries exceeded with url: /v23.0/17841473486022892/media (Caused by NameResolutionError("HTTPSConnection(host='graph.facebook.com', port=
+- ❌ **INSTAGRAM**: failed carousel slide(s) never became fetchable after retries: ['carousel_1.jpg', 'carousel_2.jpg', 'carousel_3.jpg', 'carousel_4.jpg'] — aborted rather than publish a partial carousel
 - ❌ **VIDEOSTORY**: skipped no story.mp4 in today's folder
 - ❌ **CTASTORY**: skipped dedicated daily job only
 - ✅ **LINKEDIN**: ok urn:li:share:7514958000231501826
