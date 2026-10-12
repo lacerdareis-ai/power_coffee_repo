@@ -3,21 +3,15 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
 ---
 
 ## INSTAGRAM
-### Reel Script
-**Cover Phrase:** STILL CRASHING BY NOON?
-
-On-screen Hook (0-3s): "You had a plan for today. By 11am it was already gone." (text on screen: "THE PLAN DIED AT 11AM")
-
-Body (3-40s): "Second cup didn't fix it. Third cup made you jittery and somehow still tired underneath it. You start the morning sharp, and by late morning you're reading the same email twice, waiting for a meeting to end so you can put your head down for a second. That's not a willpower problem. That's a crash — and it happens on a schedule you didn't choose. One scoop in your morning coffee is built to carry you past that wall instead of handing you a spike and a drop."
-
-CTA (final 5s): "Try it for a week at thepowercoffee.com/pages/betterday."
+### Visual Concept
+Single feed image (instagram.jpg, 1080x1350, navy/cream): headline "THE PLAN DIED AT 11AM." over the afternoon-slump photo from the website, sub "Same coffee. One scoop. A steadier morning.", footer www.thepowercoffee.com + Amazon logo. Swapped in 2026-10-12 because the Reel video never generated (Higgsfield API: not_enough_credits).
 
 **Engagement Prompt:** What time does your day usually fall apart? Drop the hour in the comments.
 
@@ -30,7 +24,9 @@ The crash isn't random. It's a pattern — and it repeats every day until someth
 
 One scoop in your coffee, same ritual you already have, built to hold steady instead of spike and drop.
 
-Try it for a week: thepowercoffee.com/pages/betterday
+Try it for a week: www.thepowercoffee.com
+
+What time does your day usually fall apart? Drop the hour below.
 
 ### Hashtags
 #cleanenergy #morningroutine #functionalcoffee #focus #productivity #nocrash #biohacking #powercoffee #thefirstwin #energycrash #workfromhome #wellness
@@ -39,7 +35,7 @@ Try it for a week: thepowercoffee.com/pages/betterday
 
 ## X.COM
 ### Post
-You had a plan for today. By 11am it was gone. Not a discipline problem. A pattern problem — and it repeats every day until something changes. thepowercoffee.com/pages/betterday
+You had a plan for today. By 11am it was gone. Not a discipline problem. A pattern problem — and it repeats every day until something changes. www.thepowercoffee.com
 
 ### Thread
 Post 1: You had a plan for today. By 11am it was already gone.
@@ -50,37 +46,29 @@ Post 3: Coffee alone gives you a spike. The drop that follows is just as predict
 
 Post 4: We built Power Coffee to go into your existing cup, same ritual, so the morning you start is the morning you still have at noon.
 
-Post 5: One scoop. Try it for a week. thepowercoffee.com/pages/betterday
+Post 5: One scoop. Try it for a week. www.thepowercoffee.com
 
 ---
 
 ## LINKEDIN
 ### Post
-I fired someone at 4:47pm on a Thursday. The time was the mistake.
+"Push through it" is advice for a willpower problem. The late-morning fog usually isn't one.
 
-I didn't choose 4:47pm on purpose. That was just when the conversation finally happened — I'd been putting it off all day, and it caught up with me late.
+Here's the mechanism, and it's not complicated: a molecule called adenosine builds up the longer you've been awake — it's the chemical signal behind feeling tired, foggy, short-fused. Caffeine doesn't clear it. It blocks the receptor that reads it, for as long as the caffeine is active. When that block fades, the adenosine was never gone. It was just muted.
 
-I've since learned that late afternoon is close to the worst possible window for a conversation like that. Not because of willpower. Because of a receptor.
+So the hour your coffee wears off isn't random. It's predictable — and most of us schedule our hardest calls straight into it, because we plan around open calendar slots, not around our own energy curve.
 
-Here's the mechanism, and it's not complicated: your brain runs on a molecule called adenosine that builds up the longer you've been awake — it's the actual chemical signal behind feeling tired, foggy, short-fused. Caffeine doesn't remove that buildup. It blocks the receptor that reads it, for roughly as long as the caffeine stays in your system — about five hours, on average.
+The operator move isn't more caffeine or more grit. It's knowing where you are on the curve before you book the conversation that matters: hard decisions earlier, or a steadier source of energy later in the day instead of a second spike.
 
-So if your last real coffee was late morning, the block is wearing off right around late afternoon. The adenosine was never gone. It was just muted. By 4:47pm, it's back, in full, exactly when a hard conversation needs you at your most controlled — not your most depleted.
+Most performance advice tells you to manage your time. The real lever is deciding when on your own curve the important decisions land.
 
-I'd scheduled the hardest decision of that week for the worst possible hour of my own day, and I didn't know it, because nobody schedules around a receptor. We schedule around calendars.
-
-This isn't a caffeine pitch. It's an operator pitch: the thing you're protecting when you manage your energy isn't your energy. It's the quality of the decisions you make with it. A founder who's sharp at 10am and running on fumes at 4pm isn't one person all day — they're two different decision-makers, and most of us let the calendar pick which one handles the hard stuff.
-
-I changed one thing after that Thursday: anything consequential — a hard conversation, a pricing call, a hire or a fire — gets scheduled against my own curve now, not just against open calendar slots. Sometimes that means earlier. Sometimes it means a second, smaller dose of something steady later in the day instead of pushing through on willpower alone. The mechanism doesn't care which — it just means knowing where you actually are on it before you schedule something that matters.
-
-Most performance advice tells you to manage your time. The actual lever is managing when on your own curve the important decisions land.
-
-— Leo, building Power Coffee one real decision at a time.
+— Leo, building Power Coffee
 
 ---
 
 ## TELEGRAM
 ### Message
-Quick question for the group — what time does your day usually start falling apart? For a lot of us it's not 2pm, it's way earlier, like 10 or 11am right after the first coffee wears off. That gap between "I had a plan" and "where did the morning go" is exactly what we built Power Coffee to close. One scoop, same coffee ritual. thepowercoffee.com/pages/betterday
+Quick question for the group — what time does your day usually start falling apart? For a lot of us it's not 2pm, it's way earlier, like 10 or 11am right after the first coffee wears off. That gap between "I had a plan" and "where did the morning go" is exactly what we built Power Coffee to close. One scoop, same coffee ritual. www.thepowercoffee.com
 
 ---
 
@@ -109,10 +97,10 @@ A man in his early 40s at a clean home office desk, mid-morning light through a 
 **Duration:** 35s · **Setting:** Kitchen counter, early morning, handheld, Leo mid-routine before leaving for work
 
 **HOOK (0-3s, text on screen + spoken):**
-"I used to say 2pm. I was wrong."
+"I used to say 2pm. Mine comes earlier."
 
-**BODY (speak exactly this):**
-"For over a year I told people the crash hits at 2pm. Then I actually tracked my own mornings for three weeks. Mine hit at 10:40, almost every day. Same for four people on our team when I asked them to check. So this week we rewrote every piece of customer content around 'late morning,' not 2pm, because that's when most people actually lose it. Small correction. It came from a spreadsheet, not a feeling. I made the coffee while I was figuring this out, same scoop I always use, and it's sitting right here while I talk to you."
+**BODY (speak in your own words — only claims that are true for you):**
+"For a long time I said the crash hits at 2pm. When I paid attention to my own mornings, it came earlier — [Leo: your real time]. So we're starting to talk about 'late morning,' not just 2pm, because that's when a lot of people actually lose it. Small correction, but it changes how we explain the product. Same scoop I always use is right here while I talk to you."
 
 **CTA (last 5s):**
 "Follow the build. What time does your day usually slip?"
