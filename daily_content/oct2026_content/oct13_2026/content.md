@@ -10,32 +10,30 @@
 ## INSTAGRAM
 
 ### Feed post (`instagram.jpg`)
-Single image, real photo color, no mascot. Real photo (img_12 — a shaker
-bottle in motion, kitchen counter), navy header card.
+Single image, navy/cream design (rebuilt 2026-10-12): shaker-in-hand photo from the website in a framed card, no mascot.
 
 **On-image copy:**
 - Eyebrow: IF I TRY:
-- Headline: ONE SCOOP, SHAKEN ON MY WAY OUT.
+- Headline: ONE SCOOP, SHAKEN / ON MY WAY OUT.
 - Payoff line: This is what not skipping breakfast can look like.
+- Footer: www.thepowercoffee.com | Amazon logo
 
 ### Caption
 Some mornings there's no time for a bowl, a plate, or a sit-down anything.
 
 If I try shaking one scoop on my way out the door instead of skipping
-breakfast entirely — same rush, same two minutes I already have — this is
-what not skipping it can look like.
+breakfast entirely — same rush, same two minutes I already have — this is what the morning
+can look like when I don't skip it.
 
-Not a promise. Just what two minutes can look like.
+No big claims. Just two minutes that set up your day.
 
-Shop: thepowercoffee.com/pages/betterday?utm_source=instagram&utm_medium=organic&utm_campaign=ifitry_oct26&utm_content=outthedoor
+Shop: www.thepowercoffee.com/?utm_source=instagram&utm_medium=organic&utm_campaign=ifitry_oct26&utm_content=outthedoor
 
 ### Hashtags
 #ifitry #powercoffee #nomorningtime #functionalcoffee #cleanenergy #busymornings #realtalk
 
 ### Story (`story.jpg`)
-Same scenario, 9:16 Stories format, real photo color, bottom scrim for
-legibility. Post alongside the feed image (publisher.py posts `story.jpg`
-as a standalone Story automatically).
+Same scenario in the 9:16 navy/cream story design, button "Shop · $1.26 a morning", footer www.thepowercoffee.com | Amazon logo. Posts alongside the feed image.
 
 ---
 
