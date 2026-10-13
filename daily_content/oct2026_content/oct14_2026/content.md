@@ -11,51 +11,24 @@
 
 ## INSTAGRAM
 ### Story Copy
-**HEADLINE:**
-STILL LOSING THE AFTERNOON?
+STILL CRASHING AT 2PM?
 
-**Subtext:** I used to blame myself. It was not me.
+I used to think it was me. It wasn't.
 
-**Sticker:** Poll — "When does your energy die?"
-Option A: Before lunch
-Option B: That 2pm wall
-
----
-
-### Caption
-You hit the afternoon and something just goes quiet.
-
-Not tired. Not lazy. Just gone.
-
-I built Power Coffee because that was me. Every day, same wall, same excuses.
-
-One scoop changed the whole second half of my day.
-
-https://thepowercoffee.com/pages/betterday
-
----
-
-### Hashtags
-#cleanenergy #functionalcoffee #afternooncrash #morningroutine #nooncrash #biohacking #powercoffee #thefirstwin #focusfuel #highperformance #nocrash #energyboost
+Sticker: Poll — "Does your afternoon still fall apart?" Yes, every day / No, I fixed it
 
 ---
 
 ## X.COM
 ### Post
-I blamed my discipline every time I lost the afternoon. Then I fixed my morning and the afternoon fixed itself. That is the whole story.
-
----
+Two years ago I was on my third coffee by 10am and still foggy by 2pm. I thought that was just adulthood. It wasn't. It was a formula problem, not a discipline problem.
 
 ### Thread
-Post 1: For two years I thought 3pm brain fog was a character flaw. It was not. It was a formulation problem I had not solved yet.
-
-Post 2: Most mornings I was functional. Most afternoons I was not. Same sleep. Same workload. Same person. The variable was what I put in my first cup.
-
-Post 3: Regular coffee spikes fast and leaves fast. Without anything to steady the release, your body swings hard in the other direction. That is not weakness. That is chemistry.
-
-Post 4: I added taurine, matcha, ginkgo, and thermogenic spices to my morning cup. The afternoon did not disappear. But the wall did. Energy that actually holds through meetings, through the school pickup, through the next thing.
-
-Post 5: Episode 13 of building this in public is up. If you want to try what I built: https://thepowercoffee.com/pages/betterday
+Post 1: Two years ago I was on my third coffee by 10am and still crashing by 2pm. I thought that was just what being busy felt like.
+Post 2: Turns out the crash wasn't about effort or willpower. It was about what was missing from my cup, not what I was lacking as a person.
+Post 3: I spent two years testing formulas before I had one that got me through a full day without the 2pm wall. That part took longer than I expected.
+Post 4: That testing became Power Coffee. One scoop into the coffee I already drink, same ritual, no second routine to learn.
+Post 5: If 2pm still owns your day, try a week of it. https://thepowercoffee.com/pages/betterday
 
 ---
 
@@ -71,11 +44,7 @@ I scheduled the hardest conversation of a week for 4:47pm once, by accident. I'v
 
 ## TELEGRAM
 ### Message
-Episode 13 went up today. This one is honest about a week where the numbers were not what I wanted them to be, and what I am doing differently.
-
-If you have ever built something and had a bad week back-to-back, this one is for you. Same crash, different context.
-
-Full story in the reel. And if you want to try what I actually drink every morning: https://thepowercoffee.com/pages/betterday
+Quick one today. Two years ago I was running on three coffees a day and still hitting a wall by 2pm — and I genuinely thought that was just how it had to be. It wasn't. Took two years of testing to find out what was actually missing. If your afternoons still disappear on you, that's worth fixing before anything else.
 
 ---
 
@@ -87,65 +56,39 @@ FLUX.2 Pro (image)
 9:16 (Stories)
 
 ### Prompt
-A man in his late 30s sits at a plain wooden desk in the early morning, 5am blue-grey light coming through a single window behind him. He is looking directly into the camera lens with calm, tired-but-focused eyes — the look of someone who has been up before the rest of the world and has chosen it. A white stand-up pouch with a navy-blue left panel sits on the desk beside his elbow, slightly out of focus, incidental. His forearms are resting on the desk. A ceramic mug is within reach but not the focal point. The room is minimal — a notebook, a phone face-down. Warm lamplight mixes with the cold dawn from the window. High contrast between the warm desk glow and the cool blue background. Shallow depth of field. Subject fills the center third of the frame. Heavy negative space in the upper third for text overlay. No text in frame. Cinematic, documentary tone. Aspect ratio 9:16.
+A man in his mid-30s walking through a dim garage at dawn past a road bike, wearing cycling kit, holding a single travel mug in one hand, dawn light streaming through the open garage door behind him creating a strong silhouette and lens flare. Purposeful stride, face turned slightly away from camera, not posed. Deep shadows in foreground, warm golden light in background creating high contrast. Black, gold, and navy color tones. Shallow depth of field, cinematic documentary photography style, grain texture. Negative space in the upper third of the frame for text overlay. No text, no logos, no signage in image. --ar 9:16
 
 ---
 
 ## REELS — Founder Vlog Script
-**Series:** Building Power Coffee — Ep. 13
-**Beat:** A week where the sales numbers came in below target and what the decision was after
-**Title formula:** When the numbers are bad | The 4:50am that kept me honest
-**Duration:** 30-45s · **Setting:** Leo at his desk, early morning, single lamp on, the Power Coffee pouch visible on the desk — no ring light, no studio setup, raw and direct to camera
+**Series:** Building Power Coffee — Ep. 15
+**Beat:** The two-year formula testing grind, told through this week's Ironman training load
+**Title formula:** Why the formula took two years | 5am training block this week
+**Duration:** 35s · **Setting:** Garage at dawn, Leo in cycling kit, bike behind him, travel mug in hand
 
 **HOOK (0-3s, text on screen + spoken):**
-"Last week's numbers were not good. Here is what I did."
+"Two years. Five versions. One formula I'd actually trust."
 
 **BODY (speak exactly this):**
-"October was supposed to be a strong week. It was not. Orders came in below where I needed them, and I sat with that for about an hour on Saturday morning.
-
-Here is what I did not do: I did not change the product. I did not panic-discount. I did not post something desperate.
-
-I went back to the original problem. The 2pm wall. The third cup that does nothing. That is why this exists.
-
-I went through my customer messages. Every person who wrote in described the same afternoon. Same fog, same frustration.
-
-I made one scoop and started the next week's content from that single reminder.
-
-This product is real because the problem is real. Bad weeks are data. That is it.
-
-4:50am Tuesday. Same routine. Back to work."
+"This week I logged my longest training block yet for the Ironman, and it reminded me why I built this in the first place. I didn't start with a business plan. I started with my own 2pm crash, three coffees deep and still foggy. It took two years and five full versions before I had something I'd put my name on. I still mix it the same way, every morning, before I touch a bike or a laptop. Not because I run the company. Because it works."
 
 **CTA (last 5s):**
-"Follow the build. Drop a question in the comments — I read every one."
+"Follow along — I'm documenting the whole build. What should I cover next week?"
 
-**B-ROLL:** desk with the Power Coffee pouch and notebook at 5am, phone screen showing order dashboard (blurred numbers fine), Leo lacing up shoes in low hallway light before a pre-dawn run
+**B-ROLL:** Leo walking past the bike in the garage, close-up of hands mixing one scoop into a travel mug, Leo clipping into the bike and riding off down the driveway at dawn
 
-**CAPTION:**
-Ep. 13 — the week the numbers came in low and what happened next.
-Not every week is a win. The routine is what keeps you honest.
-Follow along if you are building something too.
-#buildingpowercoffee #founderstory #cleanenergy #morningroutine #nocrash
-Ep. 13 — Building Power Coffee
+**CAPTION:** Two years, five formula versions, one crash I was done living with. Documenting the real build, not the highlight reel. Ep. 15 — Building Power Coffee
+#buildinginpublic #founderstory #cleanenergy #morningroutine #powercoffee
 
-**ON-SCREEN TEXT:**
-0:00 — "Last week was a bad week."
-0:12 — "I went back to the original problem."
-0:35 — "4:50am. Back to work."
+**ON-SCREEN TEXT:** 0-3s: "2 years. 5 versions." / 15s: "Still mixed the same way every morning" / 30s: "Follow the build"
 
 ---
 
 ## SCIENCE NOTE — Founder Interview Prep (not for publishing)
-**Ingredient / mechanism:** Taurine — osmolytic and cytoprotective modulation under metabolic stress
-
-Taurine (2-aminoethanesulfonic acid) is the most abundant free amino acid in excitable tissues — skeletal muscle, cardiac muscle, and the central nervous system. Its primary mechanistic role is not stimulatory. Taurine functions as an osmolyte: it regulates intracellular water balance and cell volume under conditions of metabolic stress, including sustained cognitive effort and exercise-induced oxidative load.
-
-At the neuronal level, taurine acts as a partial agonist at GABA-A receptors and a ligand at glycine receptors, producing a mild inhibitory tone that attenuates excessive neuronal excitation without sedation. This is distinct from caffeine's mechanism (adenosine receptor antagonism). The two compounds are not redundant — caffeine removes the brake; taurine prevents the engine from overrevving.
-
-In the context of Power Coffee's formulation, the 2.1g per serving sits within the range studied for exercise performance and oxidative stress reduction in peer-reviewed trials.
-
-**Reference:** Schaffer SW, et al. "Physiological roles of taurine in heart and muscle." Journal of Biomedical Science. 2010;17(Suppl 1):S2. PMID: 20804616 [VERIFY CITATION for exact volume/page]
-
-**Interview angle:** Taurine in this formula supports the nervous system's ability to stay regulated under demand — it may help explain why the energy feels steadier rather than spiky.
+**Ingredient / mechanism:** Taurine as an osmolyte and cytoprotective modulator
+Taurine is one of the most abundant free amino acids in excitable tissue — skeletal muscle, heart, and brain — where it functions primarily as an organic osmolyte, regulating cell volume and intracellular calcium handling under metabolic stress. In the central nervous system, taurine modulates GABA-A and glycine receptor activity at low-affinity sites, which is distinct from acting as a classic inhibitory neurotransmitter itself; this has been proposed as a mechanism for its reported calming, non-sedating effect alongside stimulant caffeine. In mitochondria, taurine conjugates with tRNA to support efficient oxidative phosphorylation, and deficiency has been linked in animal models to impaired mitochondrial protein synthesis and increased oxidative stress. At 2.1g per serving, Power Coffee's dose sits within the range studied in sports-performance and cardiovascular literature, though effects vary by individual and taurine status.
+**Reference:** Ripps H, Shen W. "Review: Taurine: A "very essential" amino acid." Mol Vis. 2012;18:2673-2686. PMID: 23170060
+**Interview angle:** Taurine may help support a steadier, less jittery stimulant response when paired with caffeine — it doesn't cure fatigue or guarantee performance, but it's one of the more mechanistically studied aminos in the stack.
 
 ---
 
@@ -171,7 +114,7 @@ const H = 1920;
 const GAP = 60;
 
 // SLIDE DATA - accent/bg/textColor must be quoted strings: "BLACK", "BROWN", "BROWN_L", "CREAM", "WHITE"
-const SLIDES = [{ id: 1, slideType: "hook", overline: "ENERGY CRASH", headline: "STILL LOSING\nTHE\nAFTERNOON?", subtext: "I used to blame myself. It was not me.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }
+const SLIDES = [{ id: 1, slideType: "hook", overline: "THE 2PM CRASH", headline: "STILL CRASHING\nAT 2PM?", subtext: "I used to think it was me. It wasn't.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }
 ];
 
 // ── HELPERS ──────────────────────────────────────────────────
@@ -306,5 +249,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `story.jpg` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A man in his late 30s sits at a plain wooden desk in the early morning, 5am blue-grey light coming through a single window behind him. He is looking directly into the camera lens with calm, tired-but-focused eyes \u2014 the look of someone who has been up before the rest of the world and has chosen it. A white stand-up pouch with a navy-blue left panel sits on the desk beside his elbow, slightly out of focus, incidental. His forearms are resting on the desk. A ceramic mug is within reach but not the focal point. The room is minimal \u2014 a notebook, a phone face-down. Warm lamplight mixes with the cold dawn from the window. High contrast between the warm desk glow and the cool blue background. Shallow depth of field. Subject fills the center third of the frame. Heavy negative space in the upper third for text overlay. No text in frame. Cinematic, documentary tone. Aspect ratio 9:16.\n\n---", "text_overlay": "Last week's numbers were not good. Here is what I did."}, "carousel": [{"prompt": "A man in his late 30s sits at a plain wooden desk in the early morning, 5am blue-grey light coming through a single window behind him. He is looking directly into the camera lens with calm, tired-but-focused eyes \u2014 the look of someone who has been up before the rest of the world and has chosen it. A white stand-up pouch with a navy-blue left panel sits on the desk beside his elbow, slightly out of focus, incidental. His forearms are resting on the desk. A ceramic mug is within reach but not the focal point. The room is minimal \u2014 a notebook, a phone face-down. Warm lamplight mixes with the cold dawn from the window. High contrast between the warm desk glow and the cool blue background. Shallow depth of field. Subject fills the center third of the frame. Heavy negative space in the upper third for text overlay. No text in frame. Cinematic, documentary tone. Aspect ratio 9:16.\n\n---", "text_overlay": "Last week's numbers were not good. Here is what I did."}]}
+{"story": {"prompt": "A man in his mid-30s walking through a dim garage at dawn past a road bike, wearing cycling kit, holding a single travel mug in one hand, dawn light streaming through the open garage door behind him creating a strong silhouette and lens flare. Purposeful stride, face turned slightly away from camera, not posed. Deep shadows in foreground, warm golden light in background creating high contrast. Black, gold, and navy color tones. Shallow depth of field, cinematic documentary photography style, grain texture. Negative space in the upper third of the frame for text overlay. No text, no logos, no signage in image. --ar 9:16\n\n---", "text_overlay": "Two years. Five versions. One formula I'd actually trust."}, "carousel": [{"prompt": "A man in his mid-30s walking through a dim garage at dawn past a road bike, wearing cycling kit, holding a single travel mug in one hand, dawn light streaming through the open garage door behind him creating a strong silhouette and lens flare. Purposeful stride, face turned slightly away from camera, not posed. Deep shadows in foreground, warm golden light in background creating high contrast. Black, gold, and navy color tones. Shallow depth of field, cinematic documentary photography style, grain texture. Negative space in the upper third of the frame for text overlay. No text, no logos, no signage in image. --ar 9:16\n\n---", "text_overlay": "Two years. Five versions. One formula I'd actually trust."}]}
 ```
