@@ -52,17 +52,25 @@ Post 5: One scoop. Try it for a week. www.thepowercoffee.com
 
 ## LINKEDIN
 ### Post
-"Push through it" is advice for a willpower problem. The late-morning fog usually isn't one.
+I fired someone at 4:47pm on a Thursday. The time was the mistake.
 
-Here's the mechanism, and it's not complicated: a molecule called adenosine builds up the longer you've been awake — it's the chemical signal behind feeling tired, foggy, short-fused. Caffeine doesn't clear it. It blocks the receptor that reads it, for as long as the caffeine is active. When that block fades, the adenosine was never gone. It was just muted.
+I didn't choose 4:47pm on purpose. That was just when the conversation finally happened — I'd been putting it off all day, and it caught up with me late.
 
-So the hour your coffee wears off isn't random. It's predictable — and most of us schedule our hardest calls straight into it, because we plan around open calendar slots, not around our own energy curve.
+I've since learned that late afternoon is close to the worst possible window for a conversation like that. Not because of willpower. Because of a receptor.
 
-The operator move isn't more caffeine or more grit. It's knowing where you are on the curve before you book the conversation that matters: hard decisions earlier, or a steadier source of energy later in the day instead of a second spike.
+Here's the mechanism, and it's not complicated: your brain runs on a molecule called adenosine that builds up the longer you've been awake — it's the actual chemical signal behind feeling tired, foggy, short-fused. Caffeine doesn't remove that buildup. It blocks the receptor that reads it, for roughly as long as the caffeine stays in your system — about five hours, on average.
 
-Most performance advice tells you to manage your time. The real lever is deciding when on your own curve the important decisions land.
+So if your last real coffee was late morning, the block is wearing off right around late afternoon. The adenosine was never gone. It was just muted. By 4:47pm, it's back, in full, exactly when a hard conversation needs you at your most controlled — not your most depleted.
 
-— Leo, building Power Coffee
+I'd scheduled the hardest decision of that week for the worst possible hour of my own day, and I didn't know it, because nobody schedules around a receptor. We schedule around calendars.
+
+This isn't a caffeine pitch. It's an operator pitch: the thing you're protecting when you manage your energy isn't your energy. It's the quality of the decisions you make with it. A founder who's sharp at 10am and running on fumes at 4pm isn't one person all day — they're two different decision-makers, and most of us let the calendar pick which one handles the hard stuff.
+
+I changed one thing after that Thursday: anything consequential — a hard conversation, a pricing call, a hire or a fire — gets scheduled against my own curve now, not just against open calendar slots. Sometimes that means earlier. Sometimes it means a second, smaller dose of something steady later in the day instead of pushing through on willpower alone. The mechanism doesn't care which — it just means knowing where you actually are on it before you schedule something that matters.
+
+Most performance advice tells you to manage your time. The actual lever is managing when on your own curve the important decisions land.
+
+— Leo, building Power Coffee one real decision at a time.
 
 ---
 
