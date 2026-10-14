@@ -7,7 +7,7 @@
     },
     "threads": {
       "status": "skipped",
-      "at": "2026-10-12 06:46",
+      "at": "2026-10-12 06:51",
       "reason": "disabled"
     },
     "telegram": {
@@ -21,18 +21,18 @@
       "error": "/Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175\n                throw new Error(`The browser is already running for ${launchAr"
     },
     "instagram": {
-      "status": "failed",
-      "at": "2026-10-12 06:46",
-      "error": "carousel slide(s) never became fetchable after retries: ['carousel_1.jpg', 'carousel_2.jpg', 'carousel_3.jpg', 'carousel_4.jpg'] \u2014 aborted rather than publish a partial carousel"
+      "status": "ok",
+      "at": "2026-10-12 06:51",
+      "post_id": "18432196102145782"
     },
     "videostory": {
       "status": "skipped",
-      "at": "2026-10-12 06:46",
+      "at": "2026-10-12 06:51",
       "reason": "no story.mp4 in today's folder"
     },
     "ctastory": {
       "status": "skipped",
-      "at": "2026-10-12 06:46",
+      "at": "2026-10-12 06:51",
       "reason": "dedicated daily job only"
     },
     "linkedin": {
@@ -42,12 +42,12 @@
     },
     "shopify": {
       "status": "skipped",
-      "at": "2026-10-12 06:46",
+      "at": "2026-10-12 06:51",
       "reason": "not in --platform list"
     },
     "email": {
       "status": "skipped",
-      "at": "2026-10-12 06:46",
+      "at": "2026-10-12 06:51",
       "reason": "not in --platform list"
     }
   }

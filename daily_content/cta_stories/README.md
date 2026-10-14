@@ -57,3 +57,4 @@ the URL in the design is the visible reference for viewers.
   story_02 (cortisol / blood-sugar claims about regular coffee), story_08 (day-3/day-5 outcome promises).
   Rebuild with current facts ($18.90, $1.26/serving) before putting any back.
 - **story_21 – story_25** (2026-10-10): photo CTA series in the same navy/cream design, using the website's lifestyle photos in original color (afternoon slump, desk focus, street walk, shaker, gym bag). Source: `_source_cta_v2/`. Logged as series `cta_story_v2`. story_25's gym-bag photo is AI-made; its pack label has a garbled "THE" up close, so it's kept small in frame.
+- **2026-10-13:** old dark-design stories (story_01/03/04/09, story11, story_amazon, More Power Days.png, _retired/, figma_cta_stories.js) moved to ~/.Trash/cta_stories_old_2026-10-13. Rotation is now story_11–25 only (all navy/cream, www URL + Amazon logo).
