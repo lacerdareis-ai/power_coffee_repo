@@ -1,0 +1,241 @@
+{
+  "week": "2026-W43",
+  "status": "pending",
+  "approved": false,
+  "vlog_arc": {
+    "theme": "Protecting the first hour: how discipline, not willpower, wins the morning",
+    "beats": {
+      "mon": "Leo stands in his kitchen before sunrise and says the week's plan already feels fragile by 9am most days, so this week he's tracking what actually holds it together.",
+      "tue": "Leo walks through his literal morning stack on camera — not a lecture, just what he does in order and why each step exists.",
+      "wed": "Leo sits down, unscripted, and reads a real customer line out loud, then goes quiet for a second before explaining why it hit him.",
+      "thu": "Leo shares one number from the business this week, plain and unpolished, framed as learning in public rather than a milestone.",
+      "fri": "Leo talks about a moment training this week where discipline mattered more than motivation, and ties it back to why he built the brand.",
+      "sat": "Leo is with his family, half off-duty, reflecting briefly on why Saturdays are the proof the system is working, not a break from it.",
+      "sun": "Leo sits in stillness before the week resets, speaks briefly about faith and purpose grounding the discipline, then previews what's next."
+    }
+  },
+  "channels": {
+    "ig": [
+      {
+        "pillar": "belief_shifting",
+        "title": "The morning agenda that disappeared by 9am",
+        "angle": "Open on the identity hook of a plan lost before 9am, then show what protects it instead of willpower.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "3-ingredient morning stack, saveable reference",
+        "angle": "A carousel built to be pinned, breaking down what each piece of the stack actually does for the day.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Day in my life before anyone else wakes up",
+        "angle": "Unscripted founder reel on the quiet hour before family and work both need something from him.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Buyer quote: 'I have afternoons again'",
+        "angle": "Leo reads a real customer line on camera, then tells the short story behind why it mattered.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Upgrade your coffee, don't quit it",
+        "angle": "A direct contrast reel showing why replacing coffee creates friction and boosting it removes it.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "x": [
+      {
+        "pillar": "belief_shifting",
+        "title": "Energy drinks solve the wrong problem",
+        "angle": "A short thread arguing wired-but-tired isn't a caffeine problem, it's a crash problem, and crash is designable.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "430+ mornings on my own formula",
+        "angle": "A specificity-driven credibility post: the exact count, no claim bigger than the habit itself.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "What Ironman training taught me about mornings",
+        "angle": "Short personal post connecting early discipline in training to the discipline behind building the brand.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Why 'clean label' is now table stakes",
+        "angle": "A POV post on how the category shifted so fast that no-sugar-no-fillers stopped being a differentiator and became the entry fee.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "$0.73 versus your $6 habit, broken down",
+        "angle": "A simple cost-math post reframing the daily spend conversation before anyone can object on price.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "li": [
+      {
+        "pillar": "pessoal",
+        "title": "Two years formulating one functional coffee",
+        "angle": "Founder-narrated story of the real problem that started the formulation process, not a feature list.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The framework behind 'upgrade don't quit'",
+        "angle": "A teaching post on why adoption friction, not ingredient novelty, decides which functional products survive.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "A review stopped me mid-scroll this week",
+        "angle": "Story-framed social proof post opening on the moment a customer line caught Leo off guard, then the context.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "The afternoon slump is a design flaw",
+        "angle": "Reframe the 2-3pm crash as a predictable systems failure in how most people structure energy, not a willpower gap.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "What Mud\\Wtr got right about ritual",
+        "angle": "A neutral competitive-landscape post on why ritual-first brands win trust faster than ingredient-first ones, and where the gap still is.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "tg": [
+      {
+        "pillar": "prova",
+        "title": "This week's batch notes, unfiltered",
+        "angle": "Quick behind-the-scenes update on formulation or supply chain detail shared only with the inner list.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Sunday night before a new build week",
+        "angle": "A short personal note on how Leo resets before Monday, tying faith and discipline without preaching.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Why willpower was never the real lever",
+        "angle": "A direct message reframing morning discipline as a system you build, not a trait you either have or don't.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "How I read a nootropic label now",
+        "angle": "A teaching message giving subscribers a quick framework for separating marketing claims from real mechanism.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "The numbers behind last week's launch test",
+        "angle": "Transparent mini-report sharing a real metric from a recent test, framed as learning in public, not a brag.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "blog": [
+      {
+        "pillar": "autoridade",
+        "title": "The afternoon crash: a systems explanation",
+        "angle": "A long-form breakdown of why energy dips happen predictably and how to design around it instead of fighting it.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "What's actually in a functional coffee stack",
+        "angle": "An ingredient-transparency article that treats specs as supporting proof after establishing the real-life problem first.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Why I built Power Coffee during Ironman training",
+        "angle": "Origin story post connecting endurance training discipline to why the brand exists at all.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Quit coffee or upgrade it: a real comparison",
+        "angle": "A balanced look at ritual-replacement brands versus ritual-boosting brands and which actually reduces friction.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "A framework for evaluating any energy product",
+        "angle": "Give readers three questions to ask before buying any functional product, positioning Power Coffee as the answer to all three.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "em": [
+      {
+        "pillar": "pessoal",
+        "title": "The hour before my kids wake up",
+        "angle": "Personal story email opening on a quiet morning routine moment, tying it to why consistency matters more than intensity.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "A customer's three-day shift, in their words",
+        "angle": "Timeline-arc testimonial email: skeptical, still skeptical, then something shifted, used as the whole narrative.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "You don't have a caffeine problem",
+        "angle": "Reframe email arguing most energy complaints are actually crash-and-blood-sugar problems, not caffeine deficits.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "How high performers structure their mornings",
+        "angle": "A teaching email giving a simple framework high performers use to protect the first hours of the day.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "What $0.73 a day actually buys you",
+        "angle": "A value-math email breaking down the real cost comparison against daily coffee-shop spend.",
+        "selected": false,
+        "is_theme": false
+      }
+    ]
+  }
+}
