@@ -52,6 +52,8 @@
 | Known-brand comparison to earn ingredient credibility | "Taurine is in Red Bull too. Most people don't know why it's actually there — it isn't what gives you the buzz." | Borrows the credibility of a category giant to legitimize an ingredient, then immediately differentiates by correcting the popular misconception. Audience already trusts Red Bull's formula; the hook hijacks that trust without endorsing the competitor. | Sep 28, 2026 |
 | Hook-quality mismatch across platforms costs reach | Same "caffeine blocks adenosine receptor" idea ran sharp on X/LinkedIn, soft ("Bad days? Good days?") on IG Reel — IG got 180 reach but only 0.56% ER | The platform with the most reach got the weakest version of the hook; strongest copy must go where the audience is biggest, not be reserved for text-first platforms | Oct 5, 2026 |
 | Radical-transparency "we shipped the mistake" framing as recurring LinkedIn throughline | "Fifteen of our product photos had fake words on them. We shipped them anyway." (Oct 5) repeated/escalated across Oct 6, 8, 9 posts | Multi-day confession arc (not just one-off) builds a credibility narrative over a week, consistent with anti-apology pattern already logged, but now proven to work as a *series*, not just a single post | Oct 5–9, 2026 |
+| Present-tense collapse hook with exact time stamp | "You had a plan for today. By 11am it was gone." | Combines proven present-tense problem scene pattern with a specific clock-time collapse point — 21.74% ER, beat prior week's top post. Specificity of time appears to sharpen the "this is my exact day" recognition. | Oct 12, 2026 |
+| Decision-maker reframe for afternoon crash | "You are not the same decision-maker at 10am and 4pm. Same person, same calendar, genuinely different capacity." | Reframes the crash as a capacity/identity shift rather than a willpower or caffeine failure — avoids ingredient talk entirely, lands as insight not pitch. Used twice (LinkedIn Wed + Thu) without fatigue. | Oct 14–15, 2026 |
 ### Template entries:
 - **Price anchor hook:** "$0.73 vs $5.75" — comparison to daily coffee shop spend
 - **Problem-first hook:** "Your coffee is failing you by 2pm" — names the pain immediately
@@ -137,6 +139,7 @@
 | Week 14 (Aug 31–Sep 4, 2026) | — | — | — | — | Pipeline failed 3/5 days; 0 Reels; 1 carousel live; fix publish reliability before content |
 | Week 40 (Sep 28–Oct 2, 2026) | — | — | — | — | Pipeline failures dominated; If I Try series launched; analytics pending maturity. |
 | Week Oct 5–Oct 9, 2026 | — | — | — | — | Photo-integrity confession series (LinkedIn) + cereal-bowl morning-chaos hook (IG) carried the week; pipeline failures suppressed reach data |
+| Week X (Oct 12–Oct 16, 2026) | — | — | — | — | Present-tense collapse hooks ("By 11am it was gone") beat prior week's best ER; Reels gap and LinkedIn outages capped total reach |
 
 ---
 

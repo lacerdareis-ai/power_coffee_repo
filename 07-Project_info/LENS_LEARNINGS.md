@@ -4,56 +4,6 @@ Written by run_lens.py every Saturday. Loaded by generate_content.py and
 weekly_planner.py alongside BRAND.md. Do not edit by hand — the oldest week
 drops off automatically. Full history: Obsidian LENS reports.
 
-### LENS Update — Aug 17–Aug 21, 2026
-
-**Week-over-Week momentum:**
-| Metric | Aug 17–21, 2026 | Aug 10–14, 2026 | Δ |
-|--------|-----------------|-----------------|---|
-| Posts with analytics | 4 | 4 | +0 |
-| Days with publish | 5/5 | 5/5 | +0 |
-| Reels published | 2 | 2 | +0 |
-| Carousels published | 2 | 2 | +0 |
-| Avg Reach | 39 | 70 | **-44%** |
-| Avg ER | 6.59% | 33.77% | **-27.18 pp** |
-| Best Reach | 62 | 152 | -90 |
-| Best ER | 10.53% | 125.00% | -114.47 pp |
-
-**Interpretation:** Momentum is declining week-over-week on every quantitative measure — reach dropped nearly in half and engagement rate fell by more than 27 percentage points. The most alarming shift is best ER: the prior week's ceiling of 125% (almost certainly driven by a single breakout post with outsized saves or shares relative to its small reach) collapsed to 10.53%, meaning no post t
-
-**Patterns confirmed this week:**
-**1. Rotate the primary problem frame.** The 2pm crash has saturated this week's content. Next week, lead Monday with a morning-state hook ("You woke up with an agenda. By 9am it was gone.") or an identity hook ("The person who wins the morning doesn't get there with willpower alone.") — pull from the Desire-Brand strategy's identity territory rather than the problem territory. Reserve crash framing for one day only, not the anchor.
-
-**2. Engineer at least one save-worthy Carousel.** Structure Tuesday or Friday's Carousel explicitly as a reference piece — "The 3-ingredient morning stack and what each one actually does" or a scored "Morning energy audit" — something the audience pins to come back to. This directly addresses the zero-saves problem and is the highest-leverage single action for algorithm growth on this account right now.
-
-**3. Pre-drop Thursday's image asset by Wednesday night — make it a standing rule.** Thursday is the Social Proof pillar. It is the closest content the motor has to a conversion day. Build a one-line checklist into the weekly ops flow: Wednesday 9pm — confirm aug[XX]\_2026/ contains carousel\_1.jpg or instagram.jpg before sleeping. One file drop prevents a full publish failure.
-
----
-
-**Updated baseline:**
-*Based on available analytics across the Sales Motor period. Rows reflect posts with data at export time.*
-
-| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
-|--------|-------|-----------|-----------|--------------|--------|
-| Reels | 8+ | ~97 | ~3.1 | ~1.4 | ~9.2% |
-| Carousels | 8+ | ~52 | ~1.8 | ~0.4 | ~6.1% |
-
-*Baseline note: Reels consistently outperform Carousels on both raw reach and ER in this account's history. The May 20 Ironman Reel (438 views, 279 reach, 3.94% ER) anchors the reach ceiling; the May 28 "I'm building with AI" Reel (10.19% ER, 7 comments) anchors the engagement ceiling. Both benchmarks remain unchallenged this week.*
-
----
-
-**Audience insights this week:**
-**1. Founder-narrative Reels continue to lead the week.** Aug 17's Reel (ER 8.06%) and Aug 19's Reel (ER 5.00%) were the top two posts. Both carried personal time-based specificity ("Two years," "Two o'clock") — not a coincidence.
-
-**2. Declarative hooks outperform question hooks on Reels.** "Two o'clock is where most days fall apart" (5.00% ER, 1 day live) vs. "YOU HIT A WALL BY 10AM" Carousel (2.78% ER, 2 days live). The pattern holds again this week, now confirmed across at least three separate data points in the motor.
-
-**3. Reels consistently outperform Carousels.** This week: Reels averaged 51 reach and ~6.5% ER on posts with data. Carousels averaged 36 reach and 2.78% ER on the one post with data. The gap is directionally consistent with the full-motor baseline.
-
-**4. Publishing reliability stayed at 5/5 days attempted.** The Thursday failure was an asset ops issue (missing image file), not a scheduling or system failure. The motor is structurally intact.
-
-**5. The problem-hook frame is efficient for cold reach.** Aug 17 (P1) pulled the highest raw reach of the week (62) against a cold audience — the "crash" problem resonates as an entry point even when it doesn't maximize ER.
-
----
-
 ### LENS Update — Aug 31–Sep 4, 2026
 
 **Week-over-Week momentum:**
@@ -188,5 +138,47 @@ Momentum is mixed, not clearly building: reach is up but off a shrinking sample 
 - **LinkedIn founder-voice posts (photo-integrity confession angle) are the most consistent cross-week throughline** — Oct 5, 6, 8, 9 all ran a variant of "we shipped broken product photos" as a radical-transparency hook, echoing the May 28 "I'm not hiding it" pattern that hit 10.19% ER historically.
 - **Carousel format continues to beat Reels on ER** (8.00% vs 0.56–10.00% split this week, 8.14% vs 3.25% on baseline) — small but real signal that your audience saves/engages more with swipe-through storytelling than video.
 - **Episodic content (Eisner Stories Ep. 9)** is a retention mechanism worth tracking separately — it's the only post this week built on sequential narrative rather than single-post payoff.
+
+---
+
+### LENS Update — Oct 12–Oct 16, 2026
+
+**Week-over-Week momentum:**
+| Metric | Oct 12–Oct 16, 2026 | Oct 5–Oct 9, 2026 | Δ |
+|--------|-----------|-----------|---|
+| Posts with analytics | 4 | 5 | -1 |
+| Days with publish | 5/5 | 4/5 | +1 |
+| Reels published | 0 | 2 | -2 |
+| Carousels published | 1 | 1 | +0 |
+| Avg Reach | 18 | 62 | -70% |
+| Avg ER | 6.82% | 8.68% | -1.85 pp |
+| Best Reach | 23 | 180 | -157 |
+| Best ER | 21.74% | 20.00% | +1.74 pp |
+
+Momentum is **declining on volume/reach but holding on peak quality**. The single biggest shift is the disappearance of Reels (0 vs 2 last week) — Reels have historically been the reach driver (per the May 20 log entry at 279 reach), so losing that format explains most of the -70% average reach drop. ER dipped overall (-1.85pp) but the *best* post of the week (21.74%) actually beat last week's best (20.00%), m
+
+**Patterns confirmed this week:**
+1. **Reinstate at least 1–2 Reels this week** — baseline data shows Reels are the only format with 3-4x the reach of static posts; a zero-Reel week structurally caps total reach no matter how good the hooks are.
+2. **Pre-stage assets 48 hours ahead of P3 (Wed) and P6 (Fri) publish days** — both the Wed IG skip and recurring LinkedIn failures suggest a same-day asset/connection bottleneck; build in a buffer day for QA.
+3. **Double down on present-tense problem-scene hooks for P1 Monday posts** — "By 11am it was gone" format is now validated twice (this week's best + prior log entry) as the single most reliable ER driver; use this exact structural pattern ("[plan/routine] + specific time + collapse") for next P1 day.
+
+---
+
+**Updated baseline:**
+| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|---|---|---|---|---|---|
+| Single Image Post | 7 | 24 | 0.6 | 1.0 | 7.9% |
+| Carousel | 2 | 18 | 0.0 | 1.0 | 5.6% |
+| Reel | 0 (this week) | — | — | — | — |
+
+*Note: Reel baseline unavailable this week (none published); prior data (May 20) showed Reels as the strongest reach format — flagging as a gap, not a zero.*
+
+---
+
+**Audience insights this week:**
+- **P1 problem-hook copy is the strongest performer again**: Oct 12 post hit 21.74% ER — beating the entire prior week's best post (20.00% ER). The "plan died at 11am" framing is a clean persona-moment hook with zero product mention.
+- **Comments are showing up consistently** (1 per post, 4 of 4 posts) — low volume but 100% hit rate suggests the hooks are provoking a response, even at tiny reach.
+- **LinkedIn long-form founder voice continues** (Oct 14 "You are not the same decision-maker at 10am and 4pm") — on-brand, no ingredient-first language, aligns with North Star.
+- **Carousel/Eisner Stories episodic content maintained a pulse** (5.56% ER) despite being a narrative/brand-story format rather than direct problem-hook.
 
 ---

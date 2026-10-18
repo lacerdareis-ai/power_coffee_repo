@@ -1,4 +1,4 @@
-# Publish Confirmation — 2026-10-14 04:06
+# Publish Confirmation — 2026-10-14 12:00
 
 
 - ✅ **X**: ok 
@@ -6,12 +6,12 @@
 - ✅ **TELEGRAM**: ok 129
 - ❌ **WHATSAPP**: failed /Users/lacerdareis/power_coffee_bot/sales_motor/node_modules/puppeteer-core/lib/cjs/puppeteer/node/BrowserLauncher.js:175
                 throw new Error(`The browser is already running for ${launchAr
-- ❌ **INSTAGRAM**: skipped not in --platform list
-- ❌ **VIDEOSTORY**: skipped not in --platform list
+- ❌ **INSTAGRAM**: skipped Drop instagram.jpg / story.jpg / instagram.mp4 / carousel_1.jpg into oct14_2026/ and re-run
+- ❌ **VIDEOSTORY**: skipped no story.mp4 in today's folder
 - ❌ **CTASTORY**: skipped dedicated daily job only
 - ✅ **LINKEDIN**: ok urn:li:share:7516050190592589825
-- ❌ **SHOPIFY**: skipped not Tuesday or Thursday
-- ❌ **EMAIL**: skipped not Saturday
+- ❌ **SHOPIFY**: skipped not in --platform list
+- ❌ **EMAIL**: skipped not in --platform list
 
 ## Content Summary
 

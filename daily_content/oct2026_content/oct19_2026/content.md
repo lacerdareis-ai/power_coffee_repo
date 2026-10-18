@@ -3,13 +3,14 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
 ---
 
 ## INSTAGRAM
+**Format note (2026-10-17):** Single feed image (instagram.jpg, 1080x1350, navy/cream): headline "STILL LOSING THE AFTERNOON?" over a new afternoon-slump photo (_brand_kit/images/adhoc_oct19_afternoon_slump.png), sub "Keep your coffee. Add one scoop.", footer www.thepowercoffee.com + Amazon logo. Swapped in for the Reel because the video never generated (Higgsfield: not_enough_credits; 7.77 credits left, 15s video ≈105). Rendered with _brand_kit/format_mockups/problem_still/render_problem_still.py. Caption below is unchanged; the Reel script stays here for reference only.
 ### Reel Script
 
 **Cover Phrase:** STILL LOSING THE AFTERNOON?
@@ -29,7 +30,7 @@ That's the gap. Not your willpower. Not your sleep. The gap in what your coffee 
 
 One scoop into your morning cup. That's the fix. Clean energy that doesn't drop you halfway through your day.
 
-Try it for a week at thepowercoffee.com/pages/betterday."
+Try it for a week at www.thepowercoffee.com."
 
 On-screen text sequence:
 — YOU SHOWED UP.
@@ -37,7 +38,7 @@ On-screen text sequence:
 — ONE SCOOP. THE WHOLE DAY.
 
 **CTA (38-43s)**
-Spoken: "Link is thepowercoffee.com/pages/betterday. Try a week. See where your afternoon goes."
+Spoken: "Link is www.thepowercoffee.com. Try a week. See where your afternoon goes."
 
 **Engagement Prompt:**
 What time does your energy usually fall apart? Drop the hour in the comments.
@@ -62,7 +63,7 @@ Your cup gave you a spike and nothing to stand on afterward. The crash is not pe
 
 One scoop into your morning brew supports steady, clean energy through the hours that actually decide your day.
 
-Try a week: thepowercoffee.com/pages/betterday
+Try a week: www.thepowercoffee.com
 
 What time does your afternoon usually fall apart? Tell me in the comments.
 
@@ -89,10 +90,10 @@ That is not a you problem. That is a coffee problem. Your cup was never built to
 You had three coffees today. You are still fading by early afternoon. And somehow you are blaming your sleep.
 
 **Post 2:**
-Here is what is actually happening. Every cup of regular coffee gives you a cortisol-driven spike. It peaks fast. Then it drops. And it takes some of your baseline focus with it on the way down. The third cup is not fixing anything. It is just delaying the reckoning.
+Here is what it feels like. The first cup lands fast. Then it fades. The second and third cups feel like they do less each time, and the afternoon still shows up on schedule.
 
 **Post 3:**
-The research on caffeine tolerance is consistent: repeated dosing across a morning progressively narrows the response window. You get less from each cup, and the crash lands harder. After about 90 minutes, a standard dose is already working against you.
+More coffee is not the fix. Most of us already tried that. The third cup just pushes the slump back an hour.
 
 **Post 4:**
 This is why we built Power Coffee as a booster, not a replacement. You keep your morning cup. You add one scoop. What changes is the foundation underneath the caffeine — ingredients that support sustained, steady energy so the afternoon does not become a negotiation with yourself.
@@ -100,7 +101,7 @@ This is why we built Power Coffee as a booster, not a replacement. You keep your
 **Post 5:**
 One scoop. Your same cup. A different afternoon.
 
-thepowercoffee.com/pages/betterday
+www.thepowercoffee.com
 
 ---
 
@@ -137,7 +138,7 @@ Real question for the group — what time does your afternoon usually break down
 
 Not exhaustion. That thing where you are technically working but everything is just a little slower and heavier than it was three hours ago.
 
-That is the exact problem Power Coffee was built for. One scoop into your regular morning cup and the energy holds instead of dropping you mid-day. If you have not tried it yet: thepowercoffee.com/pages/betterday
+That is the exact problem Power Coffee was built for. One scoop into your regular morning cup, designed to help your energy hold steadier past lunch. If you have not tried it yet: www.thepowercoffee.com
 
 ---
 
