@@ -246,3 +246,26 @@
 - 📄 `earned-media.md` stale (65d) — refresh
 - 📄 `email-copywriting.md` stale (47d) — refresh
 - 📄 `market.md` stale (142d) — refresh
+
+## 2026-10-25 self-review
+- ⚠️ `boost_tracker` — 48 errs, last run 20.1h ago
+- ⚠️ `competitor` — 26 errs, last run 6.1h ago
+- ⚠️ `content_review` — 23 errs, last run 22.6h ago
+- ⚠️ `cta_story` — 164 errs, last run 7.1h ago
+- ⚠️ `dashboard` — 26 errs, last run 3.1h ago
+- ⚠️ `generate` — 32 errs, last run 10.9h ago
+- ⚠️ `media` — 63 errs, last run 10.6h ago
+- ⚠️ `morning_brief` — 27 errs, last run 8.6h ago
+- ⚠️ `obsidian` — 25 errs, last run 7.7h ago
+- ⚠️ `publish` — 233 errs, last run 4.1h ago
+- ⚠️ `qa_poller` — 832 errs, last run Noneh ago
+- ⚠️ `reorder_drip` — 159 errs, last run 4.5h ago
+- ⚠️ `report` — 100 errs, last run 7.9h ago
+- ⚠️ `review` — 23 errs, last run 7.1h ago
+- ⚠️ `review_drip` — 180 errs, last run 5.1h ago
+- ⚠️ `weekly_plan` — 0 errs, last run 55.2h ago
+- 📄 `bloom-flywheel.md` stale (69d) — refresh
+- 📄 `content-system.md` stale (22d) — refresh
+- 📄 `earned-media.md` stale (72d) — refresh
+- 📄 `email-copywriting.md` stale (54d) — refresh
+- 📄 `market.md` stale (149d) — refresh
