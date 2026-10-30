@@ -69,6 +69,7 @@ thepowercoffee.com/pages/betterday
 ---
 
 ## EMAIL
+> **2026-10-27 — this block is NOT sent.** `email_override.json` in this folder replaces it with the designed offer email "No tricks. 15% off your first bag." (code TREAT15, images email_*.jpg; preview: email_preview.html). Delete email_override.json to send the block below instead. The block below also knocks regular coffee ("spikes fast and lands hard"), says "The fix", and links to /pages/betterday.
 ### Subject Line
 Saturday shouldn't feel like this
 

@@ -1,0 +1,32 @@
+{
+  "subject": "No tricks. 15% off your first bag.",
+  "preview": "Our Halloween weekend treat ends Sunday night.",
+  "eyebrow": "Halloween weekend",
+  "headline": "Try it this weekend",
+  "paragraphs": [
+    "If you've been curious about Power Coffee, this is the weekend to try it.",
+    "It's one scoop in the coffee you already drink. You get about 175 mg of natural caffeine, 2.1 g of taurine, matcha and ginkgo, designed to support steady energy and focus through the afternoon.*",
+    "Take <b>15% off your first order</b> through Sunday night."
+  ],
+  "code": "TREAT15",
+  "code_terms": "First order only. Ends Sunday, Nov 1 at 11:59 pm ET.",
+  "cta_label": "Shop now and save 15%",
+  "cta_url": "https://www.thepowercoffee.com/discount/TREAT15?redirect=/products/the-power-coffee-30-servings",
+  "math": [
+    [
+      "45-serving bag",
+      "$49.90"
+    ],
+    [
+      "Your first order",
+      "15% off"
+    ]
+  ],
+  "math_note": "Under $1 a morning",
+  "images": {
+    "hero": "email_hero_offer.jpg",
+    "photo": "email_morning.jpg",
+    "footer": "email_brand_footer.jpg"
+  },
+  "_note": "Override for the Oct 31 2026 Saturday newsletter (offer_email.py). Needs discount TREAT15 live in Shopify before 4am Oct 31. Delete this file to fall back to the normal generated newsletter."
+}
