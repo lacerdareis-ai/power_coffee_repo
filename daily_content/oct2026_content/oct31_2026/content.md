@@ -11,23 +11,16 @@
 
 ## INSTAGRAM
 ### Caption
-**Visual concept:** A couple in their early 40s at a dining table on a Saturday morning — one person scrolling a phone, the other holding a mug with both hands, looking out the window. The white Power Coffee pouch (navy-blue left panel, "THE POWER COFFEE / ENERGY BOOST BLEND") sits open on the table between them, casual and unhurried. Warm golden light. Wide shot, negative space at bottom. No text in frame.
+New episode of Eisner Stories by Power Coffee — swipe through. Episode 12: "The Harbor."
 
-### Caption
-Saturday used to feel like recovery from the week.
+4 a.m. on the dock. Traps by noon. Then something came over the rail.
 
-Now it just feels like Saturday.
+Every week, a different daily-life struggle. Same first win at the end of it.
 
-One scoop in the morning changed the math. Not the weekend, not the sleep schedule — just what goes into the first cup. Steady energy through the errands, the kids' game, the afternoon project nobody else will finish.
-
-The week does not have to leave you empty for it.
-
-One ritual. Every morning. That is the whole system.
-
-thepowercoffee.com/pages/betterday
+www.thepowercoffee.com
 
 ### Hashtags
-#morningroutine #cleanenergy #functionalcoffee #saturdaymorning #nocrash #biohacking #powercoffee #thefirstwin #weekendenergy #coffeeritual
+#thefirstwin #powercoffee #eisnerstories #comic #noircomic #capecod #lobsterman #dailygrind #saturdaymorning
 
 ---
 
