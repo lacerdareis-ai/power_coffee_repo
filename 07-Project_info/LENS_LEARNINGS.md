@@ -4,52 +4,6 @@ Written by run_lens.py every Saturday. Loaded by generate_content.py and
 weekly_planner.py alongside BRAND.md. Do not edit by hand — the oldest week
 drops off automatically. Full history: Obsidian LENS reports.
 
-### LENS Update — Aug 31–Sep 4, 2026
-
-**Week-over-Week momentum:**
-| Metric | Aug 31–Sep 4, 2026 | Aug 24–Aug 28, 2026 | Δ |
-|--------|-----------|-----------|---|
-| Posts with analytics | 1 | 3 | -2 |
-| Days with publish | 2/5 | 5/5 | -3 |
-| Reels published | 0 | 2 | -2 |
-| Carousels published | 1 | 1 | +0 |
-| Avg Reach | 15 | 67 | -78% |
-| Avg ER | 0.00% | 2.19% | -2.19 pp |
-| Best Reach | 15 | 114 | -99 |
-| Best ER | 0.00% | 6.56% | -6.56 pp |
-
-**Interpretation:** Momentum collapsed this week — not because of content quality, but because the pipeline failed on 3 of 5 scheduled days. The -78% reach decline is almost entirely a volume and recency problem: with only one post live at export time and zero days of accumulation logged, the numbers reflect a data snapshot, not audience rejection. The most significant shift is publish reliability dropping from 
-
-**Patterns confirmed this week:**
-1. **Install a pipeline failure alert before Monday.** Every missing `publish_confirm.md` should trigger an immediate notification — not discovered retroactively by LENS seven days later. Three silent failures in one week is three lost days of compounding. Fix the detection layer first; content quality is irrelevant if the publish never fires.
-
-2. **Wednesday must be a Reel and it must be Leo on camera.** P3 Founder Proof in Reel format is the single highest-performing content type in the Sales Motor record. The Ironman/family Reel owns the best reach number. Schedule it, record it this weekend, and treat it as non-negotiable for the week. The "I finally have afternoons again" buyer quote is ready-made Reel script material — Leo reads the quote, then tells the 30-second story of what building this formula was actually about.
-
-3. **Move the "I finally have afternoons again" quote to a feed carousel next week.** It performed as Story copy but Story reach is untracked and ephemeral. Convert it: Slide 1 = the quote in large type on dark background, Slide 2 = the problem it describes (the 2pm collapse), Slide 3 = what changed (the formula context, ingredient as receipt not hook), Slide 4 = CTA. This is a ready-built P5 Social Proof carousel that requires no new writing — only design.
-
----
-
-**Updated baseline:**
-> *Based on available analytics data across the Sales Motor period. Reels and Carousels separated.*
-
-| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
-|--------|-------|-----------|-----------|--------------|--------|
-| Reels | 2+ | ~200+ | — | — | ~4–10% |
-| Carousels | 3+ | ~40–67 | ~1–3 | ~0 | ~2–7% |
-
-> **Data caveat:** Full baseline requires the complete analytics CSV across all Sales Motor weeks. The data provided covers two comparison weeks only. These figures are directional. The Ironman/family Reel (May 20) at 438 views / 279 reach / 3.94% ER and the AI transparency Reel at 10.19% ER represent confirmed anchors. Carousel baseline reflects the current two-week window. A full export will sharpen this table.
-
----
-
-**Audience insights this week:**
-1. **The P2 hook concept is directionally sound.** "Your focus isn't gone — it's just unsupported" reframes audience pain without blame, aligns with the Desire-Brand identity play, and earned a save within its first day. The "unsupported" framing is softer than clinical language and closer to how real buyers talk to themselves at 3pm.
-
-2. **Social proof copy is on-strategy.** The Sep 3 "I finally have afternoons again" story copy uses a verified buyer's own words — specific, felt, non-clinical — which matches the instruction to lead with the felt word buyers actually use rather than ingredient lists. "Afternoons again" is as strong a desire statement as "smooth." This angle should move to a feed carousel or Reel, not stay confined to a Story.
-
-3. **The pipeline, when it fires, produces on-brand content.** Both confirmed pieces this week are correctly pillar-assigned, use appropriate voice (no emojis, no hype words, flowing paragraph captions per brand spec), and the hooks are problem-led rather than ingredient-led — consistent with the winning pattern established in May.
-
----
-
 ### LENS Update — Sep 28–Oct 2, 2026
 
 **Week-over-Week momentum:**
@@ -180,5 +134,48 @@ Momentum is **declining on volume/reach but holding on peak quality**. The singl
 - **Comments are showing up consistently** (1 per post, 4 of 4 posts) — low volume but 100% hit rate suggests the hooks are provoking a response, even at tiny reach.
 - **LinkedIn long-form founder voice continues** (Oct 14 "You are not the same decision-maker at 10am and 4pm") — on-brand, no ingredient-first language, aligns with North Star.
 - **Carousel/Eisner Stories episodic content maintained a pulse** (5.56% ER) despite being a narrative/brand-story format rather than direct problem-hook.
+
+---
+
+### LENS Update — Oct 26–Oct 30, 2026
+
+**Week-over-Week momentum:**
+| Metric | Oct 26–Oct 30, 2026 | Oct 19–Oct 23, 2026 | Δ |
+|--------|-----------|-----------|---|
+| Posts with analytics | 1 | 3 | -2 |
+| Days with publish | 5/5 | 5/5 | +0 |
+| Reels published | 1 | 0 | +1 |
+| Carousels published | 0 | 2 | -2 |
+| Avg Reach | 40 | 15 | +173% |
+| Avg ER | 0.00% | 20.63% | -20.63 pp |
+| Best Reach | 40 | 31 | +9 |
+| Best ER | 0.00% | 33.33% | -33.33 pp |
+
+Momentum is **declining sharply**, not building — the reach increase is a mirage caused by having only one data point this week vs. three last week, and that one post landed **zero engagement** (0 likes, 0 saves, 0 comments on 40 reach). The metric that shifted most is ER, which collapsed from a strong 20.63% average to a dead 0.00% — this is a content/format signal, not just noise, since last week's best ER
+
+**Patterns confirmed this week:**
+1. **Fix the IG asset pipeline before Monday**: build a pre-flight checklist that confirms instagram.jpg/story.mp4/carousel files are dropped in the daily folder 24 hours ahead — 3 of 5 IG failures this week were missing/malformed assets, not platform issues.
+2. **Rotate the hook language**: "Still losing the afternoon" / "three coffees" ran near-verbatim Mon, Wed, Fri. Even strong hooks fatigue — pull fresh phrasing from the 473-hook swipe file for P1/P3/P6 instead of reusing the same scene three times in one week.
+3. **Add a platform-health check before the publish job runs**: Friday's simultaneous failure across X/Telegram/LinkedIn/Instagram points to a DNS/network issue upstream of the content — add a connectivity ping step so a bad network doesn't silently kill an entire day's CTA push.
+
+---
+
+**Updated baseline:**
+| Format | Posts | Avg Reach | Avg Likes | Avg Comments | Avg ER |
+|--------|-------|-----------|-----------|---------------|--------|
+| Reels | 2 | 160 | 2 | 0 | ~2.0% (wide variance: 3.94% May 20 vs 0.00% Oct 26) |
+| Carousels | 2 | 23 | ~2 | 0 | ~6.4% (10.53% ginkgo vs 2.22% protein) |
+| Feed image (single) | 1 | — | — | — | No analytics data this period |
+
+*Baseline sample size remains thin (5 total tracked posts across logged weeks) — treat all averages as directional, not statistically solid, until more weeks accumulate.*
+
+---
+
+**Audience insights this week:**
+- **Hook formula consistency**: "Three coffees, still losing the afternoon" / "willpower problem vs. foundation problem" ran across Mon, Wed, Fri — on-brand, persona-first, matches the North Star (leads with the 2pm crash moment, not the product). The problem is distribution broke, not the writing.
+- **LinkedIn reliability**: 4 of 5 days posted successfully to LinkedIn with zero failures — the most dependable channel this week, and copy there (launch-week rework angle, caffeine-vs-L-theanine mechanism explained in persona terms) stayed on-voice.
+- **X posting mostly held**: 3 of 5 days succeeded (Mon, Wed, Thu) before Friday's full outage.
+- **Pillar rotation is intact**: P1 → Consideration → P3 → P5 → P6 sequencing followed the content calendar correctly despite the technical chaos underneath it.
+- **Telegram held through midweek**: 2 of 5 days (Mon, Wed) before Thursday's timeout and Friday's outage.
 
 ---

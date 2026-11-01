@@ -13,7 +13,7 @@ Functional coffee blend / performance-focused supplement beverage. Powder blend 
 - **Returns:** unopened bags within 30 days of delivery (Return & Refund Policy). Do NOT promise a money-back/satisfaction guarantee.
 - **Reviews:** Amazon listing shows 3.9★ from 5 reviews (2026-10-09) — never claim "4.9 stars / 112 verified buyers".
 - The per-15 g formula table below is batch math from the older 15 g / 10-serving format; scale ×⅔ for today's 10 g scoop and prefer the certified figures above.
-- **Codes:** FIRST10 = 10% off, once per customer. FREESHIPPING = free US shipping, one-time purchases.
+- **Codes:** FIRST10 = free US shipping on the first order, once per customer (was 10% off until 2026-10-28; old code kept as FIRST10PCT, expired). FREESHIPPING = free US shipping, one-time purchases.
 
 ## Active SKUs
 

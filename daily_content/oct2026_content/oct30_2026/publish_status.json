@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-30",
+  "platforms": {
+    "x": {
+      "status": "failed",
+      "at": "2026-10-30 04:08",
+      "error": "\u001b[31mError: HTTP Error: Post \"https://api.x.com/2/tweets\": dial tcp: lookup api.x.com: no such host (cause: Post \"https://api.x.com/2/tweets\": dial tcp: lookup api.x.com: no such host)\u001b[0m"
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-10-30 12:00",
+      "reason": "disabled"
+    },
+    "telegram": {
+      "status": "failed",
+      "at": "2026-10-30 04:08",
+      "error": "HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8662283323:AAGXNLoRFq_PrUGcXywgd5Myn9qNROZO-kA/sendMessage (Caused by NameResolutionError(\"HTTPSConnection(ho"
+    },
+    "whatsapp": {
+      "status": "skipped",
+      "at": "2026-10-30 12:00",
+      "reason": "not in --platform list"
+    },
+    "instagram": {
+      "status": "failed",
+      "at": "2026-10-30 12:00",
+      "error": "carousel slide(s) never became fetchable after retries: ['carousel_4.jpg'] \u2014 aborted rather than publish a partial carousel"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-10-30 12:00",
+      "reason": "no story.mp4 in today's folder"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-10-30 12:00",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "failed",
+      "at": "2026-10-30 04:08",
+      "error": "HTTPSConnectionPool(host='api.linkedin.com', port=443): Max retries exceeded with url: /v2/ugcPosts (Caused by NameResolutionError(\"HTTPSConnection(host='api.linkedin.com', port=443): Failed to resolv"
+    },
+    "shopify": {
+      "status": "skipped",
+      "at": "2026-10-30 12:00",
+      "reason": "not in --platform list"
+    },
+    "email": {
+      "status": "skipped",
+      "at": "2026-10-30 12:00",
+      "reason": "not in --platform list"
+    }
+  }
+}
