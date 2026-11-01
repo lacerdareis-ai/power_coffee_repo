@@ -140,6 +140,7 @@
 | Week 40 (Sep 28–Oct 2, 2026) | — | — | — | — | Pipeline failures dominated; If I Try series launched; analytics pending maturity. |
 | Week Oct 5–Oct 9, 2026 | — | — | — | — | Photo-integrity confession series (LinkedIn) + cereal-bowl morning-chaos hook (IG) carried the week; pipeline failures suppressed reach data |
 | Week X (Oct 12–Oct 16, 2026) | — | — | — | — | Present-tense collapse hooks ("By 11am it was gone") beat prior week's best ER; Reels gap and LinkedIn outages capped total reach |
+| Week of Oct 26–Oct 30, 2026 | — | — | — | — | Pipeline collapse week: IG broken 4/5 days, Friday total outage, only trackable post scored 0.00% ER — can't judge content, only infrastructure. |
 
 ---
 

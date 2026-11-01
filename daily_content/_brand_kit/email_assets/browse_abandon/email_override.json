@@ -1,0 +1,32 @@
+{
+  "subject": "Still thinking it over?",
+  "preview": "15% off your first order of Power Coffee.",
+  "eyebrow": "Explore Power Coffee",
+  "headline": "Try it today",
+  "paragraphs": [
+    "If you're curious to try Power Coffee, we'll make it easy.",
+    "It's one scoop in the coffee you already drink. You get about 175 mg of natural caffeine, 2.1 g of taurine, matcha and ginkgo, designed to support steady energy and focus through the afternoon.*",
+    "Enjoy <b>15% off your first order</b>."
+  ],
+  "code": "FIRSTWIN15",
+  "code_terms": "First order only.",
+  "cta_label": "Shop now and save 15%",
+  "cta_url": "https://www.thepowercoffee.com/discount/FIRSTWIN15?redirect=/products/the-power-coffee-30-servings",
+  "math": [
+    [
+      "45-serving bag",
+      "$49.90"
+    ],
+    [
+      "Your first order",
+      "15% off"
+    ]
+  ],
+  "math_note": "Under $1 a morning",
+  "images": {
+    "hero": "email_hero_offer.jpg",
+    "photo": "email_morning.jpg",
+    "footer": "email_brand_footer.jpg"
+  },
+  "_note": "Browse-abandonment email for Shopify Marketing > Automations. Needs discount FIRSTWIN15 in Shopify."
+}

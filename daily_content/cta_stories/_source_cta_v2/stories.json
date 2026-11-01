@@ -7,7 +7,7 @@
   "t1": "Still losing",
   "t2": "the afternoon?",
   "sub": "Coffee gets you up. One scoop helps it keep you there.",
-  "cta": "Add one scoop \u00b7 $1.26 a morning"
+  "cta": "Add one scoop · $1.26 a morning"
  },
  {
   "n": "22",
@@ -17,7 +17,7 @@
   "t1": "Same coffee.",
   "t2": "Steadier day.",
   "sub": "Stir one scoop into the hot or iced coffee you already make.",
-  "cta": "Shop \u00b7 $18.90 for 15 mornings"
+  "cta": "Shop · $18.90 for 15 mornings"
  },
  {
   "n": "23",
@@ -27,7 +27,7 @@
   "t1": "The first win",
   "t2": "of your day.",
   "sub": "One scoop. Your coffee. All day.",
-  "cta": "10% off your first order \u00b7 FIRST10",
+  "cta": "Free shipping on your first order · FIRST10",
   "mascot": 2
  },
  {
@@ -38,7 +38,7 @@
   "t1": "Your shaker,",
   "t2": "upgraded.",
   "sub": "10 blender recipes, every one built on one scoop.",
-  "cta": "Get the free recipes \u2192",
+  "cta": "Get the free recipes →",
   "url": "thepowercoffee.com/pages/10shakes",
   "mascot": 3
  },
@@ -50,7 +50,18 @@
   "t1": "In the bag",
   "t2": "before 6am.",
   "sub": "15 mornings in one 5.5 oz pack. Scoop, stir, go.",
-  "cta": "Pack yours tonight \u2192",
+  "cta": "Pack yours tonight →",
   "size": "125%"
+ },
+ {
+  "n": "26",
+  "eb": "Subscribe & save",
+  "t1": "30 days boosted.",
+  "t2": "Save 10%.",
+  "sub": "2 bags every 30 days with free US shipping. $17.01 a bag instead of $18.90.",
+  "img": "fw-sub-2packs.jpg",
+  "pos": "50% 50%",
+  "cta": "Subscribe & save 10% →",
+  "url": "thepowercoffee.com"
  }
 ]
