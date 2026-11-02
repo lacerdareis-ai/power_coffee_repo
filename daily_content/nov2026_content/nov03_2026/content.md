@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -12,51 +12,50 @@
 ## INSTAGRAM
 ### Carousel Copy
 
-**Slide 1:** "You made it to 8am without checking your phone once."
+**Slide 1:** REAL CUSTOMERS. REAL MORNINGS. What people told us after making it part of their morning.
 
-**Slide 2:** That was the whole win on Saturday. Not a big one. Just a window, held open longer than usual, where you got to show up before the day asked anything of you.
+**Slide 2:** "I drank it before going for a run in the morning… I didn't feel the usual crash of energy mid-morning." — Renata Silvano
 
-**Slide 3:** Leo was there. So was his family. A few of you, too — latte in one hand, a scoop stirred in, standing around talking before anyone had to be anywhere.
+**Slide 3:** "I've been drinking it every morning and feeling great… It's already part of my daily routine." — Rita Batista
 
-**Slide 4:** No pitch. No lineup. Just people trading their version of the 2pm crash story, and a few saying their mornings have held a little longer since changing one thing about them.
+**Slide 4:** "The natural herbal aroma captivated me right away, and the taste… I'm speechless!" — Welma Santos
 
-**Slide 5:** "I drank it before going for a run in the morning... I didn't feel the usual crash of energy mid-morning." — Renata Silvano. Individual experiences. Results vary.
+**Slide 5:** ONE SCOOP. THE COFFEE YOU ALREADY DRINK. Free shipping on your first order · FIRST10
 
-**Slide 6:** We're doing this again next month. Send us a photo of your morning cup — we want to see how your version of this looks.
-
-**Slide 7:** Come find us next time. @powercoffee.ofc · thepowercoffee.com/pages/betterday
+**Slide 6:** YOUR TURN. FIRST WIN OF THE DAY. www.thepowercoffee.com · Also on Amazon
 
 ### Caption
 
-Saturday morning, a few of you showed up in person for the first time.
+We asked a few customers what their mornings look like now. These are their words, not ours.
 
-Not for a pitch. For coffee, for conversation, for the kind of morning that doesn't get wrecked by 11am.
+Renata, Rita and Welma, thank you for sharing.
 
-That's the whole project, honestly. Not selling energy. Building mornings that hold.
+What's your first win of the day? Tell us below.
 
-Send us a photo of your cup this week — we're building a wall of them.
+Free shipping on your first order with code FIRST10.
+www.thepowercoffee.com
 
-thepowercoffee.com/pages/betterday
+Individual experiences; results may vary. *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
 
 ### Hashtags
-#morningroutine #powercoffee #thefirstwin #cleanenergy #capecod #communityfirst #realpeople #nocrash #functionalcoffee #morningritual
+#powercoffee #thefirstwin #realcustomers #morningroutine #capecod #coffeeritual #functionalcoffee #morningritual
 
 ---
 
 ## X.COM
 ### Post
-Saturday, a handful of you showed up in person. Latte in hand, scoop stirred in, no pitch, just people comparing notes on their 2pm. That's the project. thepowercoffee.com/pages/betterday
+"I didn't feel the usual crash of energy mid-morning." Renata, a Power Coffee customer, after her morning run. Individual experiences vary. www.thepowercoffee.com
 
 ### Thread
-Post 1: We did a small Saturday morning meetup this weekend. No stage, no pitch deck. Just coffee and people.
+Post 1: We asked a few customers what their mornings look like now. Their words, not ours.
 
-Post 2: The conversation that kept repeating: "I used to need a third coffee by 1pm. I don't anymore." Different words, same shape, from three different people who don't know each other.
+Post 2: Renata: "I drank it before going for a run in the morning… I didn't feel the usual crash of energy mid-morning."
 
-Post 3: One told us flat out: "I didn't feel the usual crash of energy mid-morning." That's the whole thesis of this brand in one sentence from someone who didn't work here.
+Post 3: Rita: "I've been drinking it every morning and feeling great… It's already part of my daily routine."
 
-Post 4: We're not chasing reach this quarter. We're trying to build 50 people who actually show up. Saturday was evidence that's possible.
+Post 4: Welma: "The natural herbal aroma captivated me right away, and the taste… I'm speechless!"
 
-Post 5: Next one is next month. Send a photo of your morning cup this week, we want to see yours. thepowercoffee.com/pages/betterday
+Post 5: Individual experiences; results vary. Free shipping on your first order with FIRST10. www.thepowercoffee.com
 
 ---
 
@@ -71,46 +70,12 @@ If a human signs off on something, that approval needs to live somewhere durable
 ## TELEGRAM
 ### Message
 
-Saturday was a good one. A handful of you came out, grabbed a coffee, let us stir a scoop in, and just talked. No pitch, just people. If you weren't there, next one's in a month and we'll post details here first. Send me a photo of your morning cup this week, I want to see what yours looks like.
+We asked a few customers what their mornings look like now. Renata told us she didn't feel the usual mid-morning crash after her run, and Rita said it's already part of her daily routine. Their words, not ours (individual experiences vary). What's your first win of the day? Free shipping on your first order with FIRST10: www.thepowercoffee.com
 
 ---
 
-## HIGGSFIELD (Carousel Cover)
-### Model
-FLUX.2 Pro (image)
-
-### Aspect Ratio
-1:1 (feed carousel)
-
-### Prompt
-Three people at a cafe table on a bright Saturday morning, one person showing a small white stand-up pouch with a navy-blue left side panel to the others, candid laughter, natural unposed energy, warm cafe lighting with wood and brick textures in soft focus behind them, shot from slightly above at a casual angle, muted cream and espresso-brown tones with a touch of gold light, shallow depth of field, negative space in the upper third of the frame, no text in image, documentary lifestyle photography feel, not staged
-
----
-
-## REELS — Founder Vlog Script
-**Series:** Building Power Coffee — Ep. 18
-**Beat:** Saturday Power Morning recap — in-person community proof
-**Title formula:** What 12 strangers taught me about this brand | the Saturday I almost cancelled
-**Duration:** 35s · **Setting:** Walking shot outside the partner café, morning light, handheld
-
-**HOOK (0-3s, text on screen + spoken):**
-"I almost cancelled Saturday's meetup. Glad I didn't."
-
-**BODY (speak exactly this):**
-"Tuesday night I almost pulled the plug — small RSVP list, bad weather forecast. Twelve people showed up anyway. One woman told me she used to need three coffees to get through her workday. She said that's not true for her anymore. I didn't ask her to say that. She just said it, standing at the counter. That's the whole reason I started this. Not the ad numbers. That conversation. We're doing it again next month."
-
-**CTA (last 5s):**
-"Follow the build. Tell me the smallest thing that's told you your work is landing."
-
-**B-ROLL:** hands stirring a scoop into a to-go cup at the café counter, Leo talking with two customers near the entrance, wide shot of the small group standing outside the café in morning light
-**CAPTION:** Almost cancelled Saturday. Twelve people showed up and reminded me why I started this.
-Ep. 18 — Building Power Coffee
-#buildinpublic #founderjourney #powercoffee #capecod #communityfirst
-
-**ON-SCREEN TEXT:**
-0:00 "Almost cancelled this"
-0:12 "12 people showed up anyway"
-0:28 "Next one: next month"
+## NOTE (2026-11-02)
+The original version of this day described an in-person Saturday meetup that never happened (Leo confirmed). Rebuilt as a real-review social-proof carousel (homepage reviews: Renata Silvano, Rita Batista, Welma Santos). The old cover prompt, founder vlog script, Figma slides and media spec were removed; originals in _old_carousel/content.md.bak. Slides: _render_reviews.py.
 
 ---
 
@@ -124,163 +89,3 @@ Taurine is one of the most abundant free amino acids in excitable tissue (skelet
 **Interview angle:** Taurine doesn't create energy — it supports the cellular conditions that let the body use energy efficiently under stress. Framed as support, never as a stimulant replacement or guarantee.
 
 ---
-
-## FIGMA SCRIPTER
-```javascript
-// Power Coffee - CAROUSEL - Figma Scripter
-// Paste into: Plugins > Scripter > Run
-// Creates N slides (1080x1080 px each) as a row of frames
-
-// BRAND COLORS - use quoted string keys in SLIDES data
-const COLORS = {
-  BLACK:   { r: 0.07, g: 0.06, b: 0.05 },
-  BROWN:   { r: 0.48, g: 0.24, b: 0.12 },
-  BROWN_L: { r: 0.75, g: 0.48, b: 0.28 },
-  CREAM:   { r: 0.94, g: 0.91, b: 0.84 },
-  WHITE:   { r: 1,    g: 1,    b: 1    },
-  DARK_BG: { r: 0.10, g: 0.09, b: 0.08 },
-};
-function col(name) { return COLORS[name] || name; }
-
-const W = 1080;
-const H = 1080;
-const GAP = 60;
-
-// SLIDE DATA - accent/bg/textColor must be quoted strings: "BLACK", "BROWN", "BROWN_L", "CREAM", "WHITE"
-const SLIDES = [{ id: 1, slideType: "hook", overline: "THE WHOLE WIN", headline: "8am without\nchecking your\nphone once.", subtext: "That was Saturday.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }, { id: 2, slideType: "teach", overline: "WHAT HAPPENED", headline: "A window\nheld open\nlonger than\nusual.", subtext: "Before the day asked anything of you.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 3, slideType: "teach", overline: "WHO SHOWED UP", headline: "Leo. His\nfamily. A\nfew of you,\ntoo.", subtext: "Latte in one hand, a scoop stirred in.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 4, slideType: "teach", overline: "NO PITCH, NO LINEUP", headline: "Just the 2pm\ncrash story,\ntraded around.", subtext: "A few said their mornings have held a little longer.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 5, slideType: "teach", overline: "THE RESULT", headline: "No usual\nmid-morning\ncrash.", subtext: "\"I drank it before going for a run in the morning...\"  -  Renata Silvano. Individual experiences. Results vary.", pills: ["MORNING RUN", "NO CRASH", "RENATA SILVANO"], accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 6, slideType: "teach", overline: "SHOW US YOURS", headline: "Send a photo\nof your\nmorning cup.", subtext: "We're doing this again next month.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 7, slideType: "cta", isCTA: true, overline: "COME FIND US", headline: "Building mornings\nthat hold.", subtext: "@powercoffee.ofc · thepowercoffee.com/pages/betterday", accent: "CREAM", bg: "BROWN", textColor: "WHITE" }
-];
-
-// ── HELPERS ──────────────────────────────────────────────────
-function addRect(parent, x, y, w, h, color, opacity) {
-  if (opacity === undefined) { opacity = 1; }
-  var r = figma.createRectangle();
-  r.x = x; r.y = y; r.resize(w, h);
-  r.fills = [{ type: "SOLID", color: col(color), opacity: opacity }];
-  parent.appendChild(r);
-  return r;
-}
-
-// Font map — matches make_carousel.py (Pillow) rendering
-// Headlines/body → Georgia | Labels/pills/footer → Arial
-function _fontFor(weight) {
-  if (weight === "Black Italic" || weight === "Bold Italic") { return { family: "Georgia", style: "Bold Italic" }; }
-  if (weight === "Black" || weight === "Bold" && false)      { return { family: "Georgia", style: "Bold" }; }
-  if (weight === "Italic" || weight === "Regular Italic")    { return { family: "Georgia", style: "Italic" }; }
-  // Labels, overlines, pills, footer, counter use Arial
-  if (weight === "Bold")    { return { family: "Arial", style: "Bold" }; }
-  if (weight === "Regular") { return { family: "Georgia", style: "Regular" }; }
-  return { family: "Arial", style: weight };
-}
-
-async function addText(parent, txt, x, y, w, size, weight, color, align, lineH) {
-  if (align === undefined) { align = "LEFT"; }
-  if (lineH === undefined) { lineH = 1.05; }
-  var fn = _fontFor(weight);
-  await figma.loadFontAsync(fn);
-  var t = figma.createText();
-  t.fontName = fn;
-  t.characters = txt;
-  t.fontSize = size;
-  t.textAlignHorizontal = align;
-  t.fills = [{ type: "SOLID", color: col(color) }];
-  t.lineHeight = { unit: "PERCENT", value: lineH * 100 };
-  t.x = x; t.y = y;
-  t.resize(w, t.height);
-  parent.appendChild(t);
-  return t;
-}
-
-async function buildSlide(data, offsetX) {
-  var frame = figma.createFrame();
-  frame.name = "Slide " + data.id + " - " + data.slideType;
-  frame.resize(W, H);
-  frame.x = offsetX; frame.y = 0;
-  frame.fills = [{ type: "SOLID", color: col(data.bg) }];
-  frame.clipsContent = true;
-
-  for (var i = 0; i < 12; i++) {
-    var line = figma.createLine();
-    line.x = -100 + i * 110; line.y = 0;
-    line.resize(H * 1.5, 0);
-    line.rotation = -55;
-    line.strokes = [{ type: "SOLID", color: col(data.accent), opacity: 0.04 }];
-    line.strokeWeight = 40;
-    frame.appendChild(line);
-  }
-
-  await addText(frame, "0" + data.id, 64, 60, 120, 13, "Bold", "WHITE");
-  addRect(frame, 64, 85, 20, 2, data.accent);
-
-  if (data.overline) {
-    await addText(frame, data.overline, 64, 96, W - 128, 12, "Bold", "BROWN_L", "LEFT", 1.4);
-  }
-
-  if (data.pivotBar) { addRect(frame, 64, 148, 6, 260, data.accent); }
-
-  var hX; if (data.pivotBar) { hX = 90; } else { hX = 64; }
-  var hlColor; if (data.isCTA) { hlColor = "WHITE"; } else { hlColor = data.textColor; }
-  await addText(frame, data.headline, hX, 148, W - hX - 40, 128, "Black Italic", hlColor, "LEFT", 0.92);
-
-  var divY; if (data.isCTA) { divY = 740; } else { divY = 730; }
-  addRect(frame, 64, divY, W - 128, 2, data.accent, 0.6);
-
-  if (data.pills) {
-    var pillX = 64;
-    for (var j = 0; j < data.pills.length; j++) {
-      var pill = data.pills[j];
-      await figma.loadFontAsync({ family: "Arial", style: "Bold" });
-      var pf = figma.createFrame();
-      pf.resize(160, 36); pf.x = pillX; pf.y = divY + 20;
-      pf.fills = [{ type: "SOLID", color: col("BROWN"), opacity: 0.25 }];
-      pf.cornerRadius = 0;
-      frame.appendChild(pf);
-      var pt = figma.createText();
-      pt.fontName = { family: "Arial", style: "Bold" };
-      pt.characters = pill; pt.fontSize = 10;
-      pt.textAlignHorizontal = "CENTER";
-      pt.fills = [{ type: "SOLID", color: col("CREAM") }];
-      pt.letterSpacing = { unit: "PERCENT", value: 20 };
-      pt.resize(160, 36); pt.x = 0; pt.y = 12;
-      pf.appendChild(pt);
-      pillX += 172;
-    }
-  }
-
-  if (data.subtext) {
-    var subY; if (data.pills) { subY = divY + 70; } else { subY = divY + 24; }
-    await addText(frame, data.subtext, 64, subY, W - 128, 22, "Regular", { r: 0.85, g: 0.80, b: 0.72 }, "LEFT", 1.6);
-  }
-
-  addRect(frame, 64, H - 96, W - 128, 1, "BROWN_L", 0.3);
-  await addText(frame, "THE POWER COFFEE", 64, H - 78, 400, 11, "Bold", "BROWN_L", "LEFT", 1.4);
-  await addText(frame, "CLEAN ENERGY. REAL FOCUS.", W - 380, H - 78, 316, 10, "Regular", { r: 0.6, g: 0.55, b: 0.48 }, "RIGHT", 1.4);
-
-  if (data.isCTA) {
-    addRect(frame, 0, H - 180, W, 180, "BROWN");
-    await addText(frame, "POWER COFFEE", 64, H - 138, W - 128, 14, "Black", "WHITE", "LEFT", 1.2);
-    await addText(frame, "thepowercoffee.com", 64, H - 110, W - 128, 13, "Regular", { r: 1, g: 0.95, b: 0.88 }, "LEFT", 1.4);
-    await addText(frame, "@POWERCOFFEE.OFC", 64, H - 76, W - 128, 12, "Bold", "WHITE", "LEFT", 1.4);
-  }
-
-  figma.currentPage.appendChild(frame);
-  return frame;
-}
-
-async function main() {
-  var frames = [];
-  for (var i = 0; i < SLIDES.length; i++) {
-    var frame = await buildSlide(SLIDES[i], i * (W + GAP));
-    frames.push(frame);
-  }
-  figma.viewport.scrollAndZoomIntoView(frames);
-  figma.notify("Power Coffee - slides created!", { timeout: 4000 });
-}
-
-main();
-```
-
-> **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `carousel_1.jpg, carousel_2.jpg...` in today's folder.
-
-```media-spec
-{"story": {"prompt": "Three people at a cafe table on a bright Saturday morning, one person showing a small white stand-up pouch with a navy-blue left side panel to the others, candid laughter, natural unposed energy, warm cafe lighting with wood and brick textures in soft focus behind them, shot from slightly above at a casual angle, muted cream and espresso-brown tones with a touch of gold light, shallow depth of field, negative space in the upper third of the frame, no text in image, documentary lifestyle photography feel, not staged\n\n---", "text_overlay": "You made it to 8am without checking your phone once."}, "carousel": [{"prompt": "Three people at a cafe table on a bright Saturday morning, one person showing a small white stand-up pouch with a navy-blue left side panel to the others, candid laughter, natural unposed energy, warm cafe lighting with wood and brick textures in soft focus behind them, shot from slightly above at a casual angle, muted cream and espresso-brown tones with a touch of gold light, shallow depth of field, negative space in the upper third of the frame, no text in image, documentary lifestyle photography feel, not staged\n\n---", "text_overlay": "You made it to 8am without checking your phone once."}]}
-```
