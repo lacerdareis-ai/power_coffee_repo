@@ -1,0 +1,8 @@
+{
+  "label": "nov06_2026",
+  "message_id": "1438",
+  "content_path": "/Users/lacerdareis/Documents/Claude/ClaudeAI/The_Power_Coffee/Sales_motor/daily_content/nov2026_content/nov06_2026/content.md",
+  "score": 75,
+  "notes": "Scoring failed (Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CgkXxhGx4sjm7QjNF5NhM'}) \u2014 manual review recommended",
+  "created": "2026-11-05T17:01:26.784126"
+}
