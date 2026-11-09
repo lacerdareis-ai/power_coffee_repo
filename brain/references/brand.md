@@ -376,7 +376,7 @@ StartupCPG event photo: 344 reach (account high). This is structural, not except
 
 ## Visual Assets (Brand Kit)
 
-**Location:** `Sales_motor/daily_content/_brand_kit/`
+**Location:** `Sales_motor/00-Brand/brand_kit/`
 
 | File | Description | Use |
 |------|-------------|-----|

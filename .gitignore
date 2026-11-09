@@ -27,3 +27,6 @@ panel_*.png
 
 # Intermediate h264 transcodes — the original mp4 is already ignored above
 *_h264.mp4
+
+# Auto-generated approval dashboard (rewritten every 5 min by make_approval_index.py)
+CONTENT/✅ To Approve.md
