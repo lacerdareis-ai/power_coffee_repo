@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -31,7 +31,7 @@ www.thepowercoffee.com
 
 ## X.COM
 ### Post
-Renata told us she skipped her usual mid-morning crash after her run this week. One scoop in her regular coffee, nothing else changed. Individual experiences, results vary. Send us your morning cup. www.thepowercoffee.com
+Renata told us she skipped her usual mid-morning crash after her morning run. One scoop in her regular coffee, nothing else changed. Individual experiences, results vary. Send us your morning cup. www.thepowercoffee.com
 
 ### Thread
 Post 1: We don't pay for reviews. We just ask people to send us a photo of their morning cup. Here's why that matters more than any ad we could run.
@@ -60,7 +60,7 @@ Progress makes the motivation. Not the other way around.
 
 ## WHATSAPP
 ### Message
-Hey, quick one. We've been collecting real photos of people's morning cups this week, Renata's post-run coffee, Rita's daily routine, even Lucas being Lucas about it. If you've got a morning ritual with your scoop in it, send us a pic. We love featuring real mornings over anything staged. www.thepowercoffee.com
+Hey, quick one. We've been collecting real photos of people's morning cups this week, Renata's post-run coffee, Rita's daily routine. If you've got a morning ritual with your scoop in it, send us a pic. We love featuring real mornings over anything staged. www.thepowercoffee.com
 
 ---
 
