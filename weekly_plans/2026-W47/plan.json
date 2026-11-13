@@ -1,0 +1,241 @@
+{
+  "week": "2026-W47",
+  "status": "pending",
+  "approved": false,
+  "vlog_arc": {
+    "theme": "The discipline behind the scoop: what it actually takes to show up every day",
+    "beats": {
+      "mon": "Leo opens with a quiet morning shot, naming this week's theme: the gap between what people see and what building this daily actually costs.",
+      "tue": "He walks through packing Sunday's orders at the kitchen table, admitting the operation is still small and that's fine.",
+      "wed": "Leo talks through a mistake from an early batch and what changed in the formula process because of it.",
+      "thu": "He shows a slice of Ironman training before sunrise, connecting the same discipline to the business and to being present for his kids later.",
+      "fri": "Leo answers a real customer question from the week, naming them with permission and responding honestly, including the uncertain parts.",
+      "sat": "He's live at the partner café for Power Morning, scooping into a customer's latte and thanking people for showing up in person.",
+      "sun": "Leo closes the week with a calm reflection on faith, family, and why the ritual matters more than the hustle narrative."
+    }
+  },
+  "channels": {
+    "ig": [
+      {
+        "pillar": "prova",
+        "title": "The 2pm Wall, Reframed",
+        "angle": "Carousel opens on the blame spiral of an afternoon crash, then reveals the real cause isn't willpower on slide two.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Real Photo: Packing Sunday Orders",
+        "angle": "REAL PHOTO NEEDED: Leo packing weekend orders at the kitchen table, unpolished proof of how small this still is.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Upgrade Your Coffee, Don't Quit It",
+        "angle": "Most functional drinks ask you to replace your ritual; this post shows why that's the wrong fight to pick with your mornings.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Energy Drink vs Functional Coffee, Mapped",
+        "angle": "A simple side-by-side framework shows why artificial spikes and clean focus aren't the same category at all.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Saturday Power Morning Invite",
+        "angle": "REAL PHOTO NEEDED: Leo at the partner café scooping into a customer's latte, inviting followers to come say hi this weekend.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "x": [
+      {
+        "pillar": "prova",
+        "title": "430 Mornings, Still Drinking It",
+        "angle": "A specific daily-use number builds more trust than any claim, because nobody keeps a streak for content.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Red Bull Has It Too",
+        "angle": "Taurine's in energy drinks and in Power Coffee, but the reason it's there isn't the buzz most people assume.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Ritual vs Replacement Framework",
+        "angle": "A one-line framework for sorting every functional beverage on the market: does it ask you to quit coffee or upgrade it.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Mistake #1: The Batch That Failed",
+        "angle": "First entry in a running thread of expensive mistakes so founders building in public can skip them.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "$0.73 vs Your Starbucks Habit",
+        "angle": "A quick price-per-morning comparison disarms the cost objection before it even forms.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "li": [
+      {
+        "pillar": "autoridade",
+        "title": "Why I Stopped Chasing Mg Counts",
+        "angle": "A founder POV on why ingredient marketing misses the actual buyer problem of an afternoon that falls apart.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "I Spent Two Years on This Formula",
+        "angle": "A story-framed post on the real problem that started Power Coffee, not a headline pitch.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "A Review That Stopped Me Mid-Scroll",
+        "angle": "One customer's unscripted comment becomes the proof point, framed as a moment not a testimonial block.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Supplements Are Becoming a Routine Layer",
+        "angle": "An industry POV on why 'add to what you already do' is beating 'replace what you do' across wellness.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The Ironman Schedule Nobody Sees",
+        "angle": "A framework for stacking training, fatherhood, and a company build without burning out by 2pm.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "tg": [
+      {
+        "pillar": "pessoal",
+        "title": "What's Your 2pm Today?",
+        "angle": "A direct question inviting replies, no pitch, just community members naming their own afternoon moment.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Batch Certificate, Shared Honestly",
+        "angle": "A behind-the-curtain look at the Illuminate Labs certificate so the community sees what clean-label actually means.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "You Don't Have to Quit Coffee",
+        "angle": "A short note reframing the group's own early doubts about giving up their coffee habit to try something functional.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Saturday Power Morning, Who's In?",
+        "angle": "A casual invite to the café meetup with the MORNING15 code, framed as come say hi not come buy.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Ask Me Anything: Formula Edition",
+        "angle": "Leo opens the floor for direct ingredient or routine questions, positioning the group as the inside track.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "blog": [
+      {
+        "pillar": "autoridade",
+        "title": "The Upgrade vs Replace Framework",
+        "angle": "A teaching piece on how to evaluate any functional beverage by whether it fits your existing ritual or demands a new one.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "What Actually Causes the 2pm Crash",
+        "angle": "A deep dive into the real mechanisms behind afternoon fog, positioning ingredients as the quiet answer, not the headline.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Energy Drinks Were Never the Answer",
+        "angle": "A reframe piece explaining why artificial spikes solve the wrong problem for people who need to perform all day.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Building Power Coffee While Training for Ironman",
+        "angle": "A long-form look at how discipline in one area of life compounds into discipline everywhere else.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "How to Read a Supplement Label",
+        "angle": "A practical guide teaching readers what clean-label claims actually mean so they can evaluate any brand, not just ours.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "em": [
+      {
+        "pillar": "pessoal",
+        "title": "This Saturday, Come Say Hi",
+        "angle": "A personal invite from Leo to the Power Morning event, with the MORNING15 code tucked in as a detail not the headline.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "430 Days In, Here's What I Learned",
+        "angle": "A founder-voice recap of daily use lessons that reads like a journal entry, not a sales email.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "You're Not Failing at Discipline",
+        "angle": "An email reframing the reader's own 2pm crash guilt as a missing-mechanism problem, not a willpower one.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The Framework I Use to Plan My Day",
+        "angle": "A teaching email sharing Leo's actual routine structure, positioning the brand as a system not just a product.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "A Review That Made Me Pause",
+        "angle": "One real customer quote, unpacked with context, as the entire email's proof point.",
+        "selected": false,
+        "is_theme": false
+      }
+    ]
+  }
+}
