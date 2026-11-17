@@ -11,58 +11,60 @@
 
 ## INSTAGRAM
 ### Story Copy
-STILL ON YOUR THIRD CUP?
-
-Here's what 5am actually looks like at my house.
-
-Sticker: Poll — "Coffee #1, #2, or #3 right now?" (Options: Just started / Already on #2 / Lost count)
+STILL CRASHING AT 2PM?
+Same slump, different day — here's what's actually changing for me.
+Sticker: Poll — "Third cup today?" Yes / Not again
 
 ### Caption
-5:10am. Garage door open, bike waiting, legs still half asleep.
+2pm hits. The laptop's open, the to-do list isn't moving, and the third cup is sitting there not doing its job.
 
-This is the part nobody posts. Not the finish line. The part where you have to show up before you feel like it.
+I used to live that exact loop. Same crash, same second-guessing my own coffee.
 
-Same thing I tell people about the afternoon. You don't need a third cup to push through. You need one thing that actually carries you.
+What changed wasn't willpower. It was what I put in the cup before 6am even started — one scoop, same cup I already drink. That's it.
 
-Not intended to diagnose, treat, cure, or prevent any disease.
+Still showing up at 4:50am most days. Not because I'm special. Because the morning is the one part of the day I can control.
+
+How's your afternoon looking today? Tell me your 2pm.
+
+FDA disclaimer: These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
 
 ### Hashtags
-#morningroutine #founderlife #disciplineoverfeelings #buildinginpublic #cleanenergy #morningritual #capecod #showup #ironmantraining #realtalk
+#functionalcoffee #cleanenergy #afternoonslump #morningroutine #biohacking #powercoffee #thefirstwin #focusfuel #nocrash #coffeeroutine
 
 ---
 
 ## X.COM
 ### Post
-5:10am, garage door open, half the neighborhood still asleep. Nobody tells you that showing up before you feel like it is the whole job. Same rule applies at 2pm. One scoop, not a third cup.
+Third coffee of the day and you're still fading by 2pm. I lived that exact loop for years. What fixed it wasn't more coffee — it was fixing the first cup. Same mug I already drink.
 
 ### Thread
-Post 1: I used to think discipline was a mindset. Turns out it's just a garage door opening at the same time every day.
-Post 2: Year two of building this company, I still don't "feel ready" most mornings. I get up anyway. That's the actual skill nobody sells you.
-Post 3: Same thing happens to our customers at 2pm. They don't lack willpower. They lack a system that carries them through without a third cup.
-Post 4: That's the whole bet behind Power Coffee: one scoop in your existing coffee, built to carry the afternoon instead of patching it.
-Post 5: If your 2pm looks like my 5am feels, start here: https://thepowercoffee.com/pages/betterday
+Post 1: You're on your third coffee and still crashing by 2pm. I know that exact feeling — I lived it every afternoon before I built anything.
+Post 2: The instinct is to add a cup. Problem is the second or third one rarely holds — some days it costs you sleep too.
+Post 3: What actually changed things for me was the first cup, not the third. One scoop in my regular morning coffee, same ritual, different outcome by early afternoon.
+Post 4: I still get up at 4:50am most days. Not for the content. Because the one part of my day I can fully control is the morning — and that's where I fixed this first.
+Post 5: If your afternoon keeps falling apart, start with the morning cup, not another one. https://thepowercoffee.com/pages/betterday
 
 ---
 
 ## LINKEDIN
 ### Post
-5:10am. Garage door open. Bike in the driveway. I did not want to be there.
+I almost didn't make the 4:50am alarm this week.
 
-I've learned that most of what people call motivation is just a decision made the night before, repeated enough times that it stops feeling like a decision.
+Three nights of bad sleep, a supplier call that ran long, and a part of me said sleep in, you earned it.
 
-I see the same pattern in our customers. The 2pm crash isn't a willpower failure. It's a system failure — nothing in place to carry the afternoon, so they reach for a third cup and hope.
+I got up anyway. Not because I had some iron rule about it. Because I've learned that the first decision of my day sets the tone for every decision after it.
 
-Building Power Coffee taught me the fix is never "try harder." It's "build the thing that shows up for you before you have to decide."
+Building Power Coffee has taught me that discipline isn't about intensity. It's about consistency on the days you don't feel like it.
 
-That's as true for a training plan as it is for a formula.
+Same thing I hear from customers about their afternoons — the fix usually isn't trying harder at 2pm. It's what you set up at 6am.
 
-What's the one system you built that replaced willpower for you?
+What's the one habit you keep even on the days you don't want to?
 
 ---
 
 ## WHATSAPP
 ### Message
-Quick one from me this morning — garage door up at 5:10am, half asleep, bike waiting. Some days discipline just looks like showing up before you feel like it. Same logic applies to your afternoon: one scoop beats a third cup every time. Hope your Wednesday is a good one.
+Hey — quick one. What time does your energy actually drop today? For me it used to be 2pm, every single day, no matter how much coffee I drank. Curious what your slump looks like. Reply and tell me, I read every one.
 
 ---
 
@@ -74,40 +76,40 @@ FLUX.2 Pro (image)
 9:16 (Stories)
 
 ### Prompt
-Early dawn garage scene, cool blue-grey pre-sunrise light spilling through an open garage door onto a road bike leaning against the wall, a man's silhouette in cycling kit walking past mid-stride toward the light, motion blur on his back leg, warm interior lamp glow contrasting the cold morning outside, moody cinematic documentary photography, shallow depth of field, grainy film texture, high contrast between warm interior and cool exterior, vertical composition with open negative space in the upper third, no text, no logos
+A man in his mid-30s walking through a dim garage at dawn, early blue light mixing with a warm kitchen glow through an open doorway behind him, holding a single travel mug in one hand, dressed in running gear, purposeful stride, not looking at camera, road bike leaning against the wall, black and gold color tones, cinematic shallow depth of field, high contrast, negative space in the upper third of the frame, no text, no logos, photographic realism
 
 ---
 
 ## REELS — Founder Vlog Script
 **Series:** Building Power Coffee — Ep. 20
-**Beat:** The 5am discipline thread meets a real supplier number this week
-**Title formula:** Why I almost switched ginkgo suppliers over 3 cents | 5am training week
-**Duration:** 35s · **Setting:** Garage, bike against the wall, Leo in cycling kit, phone propped on a shelf
+**Beat:** The 2pm crash, mirrored through a founder's own loop
+**Title formula:** Why I stopped trying to fix the afternoon | 4:50am most days
+**Duration:** 30-45s · **Setting:** Kitchen counter at dawn, natural window light
 
 **HOOK (0-3s, text on screen + spoken):**
-"I almost switched suppliers over three cents a unit."
+"I used to hit a wall every single day at 2pm."
 
 **BODY (speak exactly this):**
-"This week our ginkgo supplier raised the price. Three cents a serving. Doesn't sound like much until you multiply it by every bag we ship. I spent two days getting quotes from two other suppliers, cheaper, but neither one had the same certificate of analysis we trust. I stayed. Paid the three cents. Some decisions aren't about the math, they're about what you're willing to protect. Same reason I'm out here at 5am before a ride I don't feel like doing. The easy version is never the one that holds up."
+"Same time, every day. Third coffee on the desk, still foggy, still behind. I spent a long time thinking the answer was trying harder in the afternoon. It wasn't. The one thing I could actually control was the morning — so that's where I started. Same cup I already drink, one scoop added before anything else happens. I'm still up most days around 4:50am. Not because I love mornings. Because it's the one part of the day nobody else touches yet."
 
 **CTA (last 5s):**
-"Follow the build. What's a three-cent decision you've made that was actually about something bigger?"
+"What's your 2pm look like? Comment below."
 
-**B-ROLL:** Leo wheeling bike out of garage, close on ginkgo supplier email/invoice on laptop screen (blurred numbers ok), hand scooping Power Coffee pouch into travel mug before the ride
+**B-ROLL:** hand spooning scoop into mug on kitchen counter, Leo walking out the door with travel mug in dawn light, quick shot of a clock or phone showing 2:00pm
 
-**CAPTION:** Three cents a serving. That's what almost moved us to a cheaper supplier this week. Here's why we didn't. Ep. 20 — Building Power Coffee
-#buildinginpublic #founderstory #supplychain #cleanenergy #capecod
+**CAPTION:** Same crash, same desk, every day at 2pm — until I stopped fighting the afternoon and fixed the morning instead. Still up most days before 5am. Tell me your 2pm.
+#buildingpowercoffee #founderjourney #morningroutine #cleanenergy #nocrash
+Ep. 20 — Building Power Coffee
 
-**ON-SCREEN TEXT:** 0:02 "3 cents a serving" / 0:15 "Cheaper ≠ better CoA" / 0:30 "We stayed."
+**ON-SCREEN TEXT:** 0:00 "2pm. Every day." / 0:15 "The fix wasn't more coffee" / 0:30 "4:50am. Most days."
 
 ---
 
 ## SCIENCE NOTE — Founder Interview Prep (not for publishing)
-**Ingredient / mechanism:** Ginkgo biloba extract — flavonoid glycosides and terpene lactones
-**Interview angle context:** 207mg per 10g serving
-Ginkgo biloba's standardized extracts are typically characterized by two active fractions: flavonoid glycosides (quercetin, kaempferol, isorhamnetin derivatives) and terpene lactones (ginkgolides A, B, C and bilobalide). The flavonoid glycosides act primarily as free-radical scavengers, reducing oxidative stress in vascular endothelial tissue. The terpene lactones, particularly the ginkgolides, are platelet-activating factor (PAF) antagonists, which is thought to contribute to improved microcirculatory blood flow. Bilobalide additionally appears to have a protective effect on mitochondrial function under metabolic stress. Clinically, standardized extracts (commonly EGb 761) dosed around 120-240mg/day have been studied for associations with cognitive performance and peripheral circulation in adults, though effect sizes in healthy (non-impaired) populations are modest and heterogeneous across trials.
-**Reference:** Kennedy DO, Scholey AB, Wesnes KA. "Modulation of cognition and mood following administration of single doses of Ginkgo biloba, ginseng, and a ginkgo/ginseng combination to healthy young adults." Physiol Behav. 2002;75(5):739-751. PMID: 12099852
-**Interview angle:** Ginkgo's role here is about supporting healthy circulation and reducing oxidative load, not a cognitive enhancer claim — results vary by individual and this isn't intended to diagnose, treat, cure, or prevent any disease.
+**Ingredient / mechanism:** Taurine as an osmolyte and cytoprotective modulator
+Taurine is a sulfonic beta-amino acid present at high concentration (2.1g per serving here) in excitable tissues — skeletal muscle, heart, retina, and CNS. It functions primarily as an organic osmolyte, regulating cell volume under osmotic stress, and as a modulator of intracellular calcium handling in cardiac and skeletal muscle, which is part of why it's studied in exercise contexts. Separately, taurine has documented antioxidant-adjacent cytoprotective roles — it conjugates with hypochlorous acid to form a less reactive compound, reducing oxidative damage without acting as a classical free-radical scavenger itself. Unlike caffeine, it does not act on adenosine receptors; its relevance to energy/focus claims is indirect, via cellular resilience rather than CNS stimulation. Dosing in sports nutrition literature commonly ranges 1-3g acutely.
+**Reference:** Ripps H, Shen W. "Review: Taurine: A "very essential" amino acid." Mol Vis. 2012;18:2673-2686. PMID: 23170060
+**Interview angle:** Taurine isn't a stimulant — it may support cellular resilience and fluid balance during physical exertion, which is why it's paired with caffeine rather than relied on alone for energy.
 
 ---
 
@@ -133,7 +135,7 @@ const H = 1920;
 const GAP = 60;
 
 // SLIDE DATA - accent/bg/textColor must be quoted strings: "BLACK", "BROWN", "BROWN_L", "CREAM", "WHITE"
-const SLIDES = [{ id: 1, slideType: "hook", overline: "STILL ON YOUR THIRD CUP", headline: "5AM LOOKS\nLIKE THIS\nAT MY HOUSE", subtext: "Garage door open, bike waiting, legs still half asleep. You don't need a third cup. You need one thing that actually carries you.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }
+const SLIDES = [{ id: 1, slideType: "hook", overline: "STILL CRASHING AT 2PM?", headline: "SAME SLUMP\nDIFFERENT DAY\nHERE'S WHAT\nCHANGED", subtext: "What changed wasn't willpower. It was what went in the cup before 6am even started  -  one scoop, same cup I already drink.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }
 ];
 
 // ── HELPERS ──────────────────────────────────────────────────
@@ -268,5 +270,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `story.jpg` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "Early dawn garage scene, cool blue-grey pre-sunrise light spilling through an open garage door onto a road bike leaning against the wall, a man's silhouette in cycling kit walking past mid-stride toward the light, motion blur on his back leg, warm interior lamp glow contrasting the cold morning outside, moody cinematic documentary photography, shallow depth of field, grainy film texture, high contrast between warm interior and cool exterior, vertical composition with open negative space in the upper third, no text, no logos\n\n---", "text_overlay": "I almost switched suppliers over three cents a unit."}, "carousel": [{"prompt": "Early dawn garage scene, cool blue-grey pre-sunrise light spilling through an open garage door onto a road bike leaning against the wall, a man's silhouette in cycling kit walking past mid-stride toward the light, motion blur on his back leg, warm interior lamp glow contrasting the cold morning outside, moody cinematic documentary photography, shallow depth of field, grainy film texture, high contrast between warm interior and cool exterior, vertical composition with open negative space in the upper third, no text, no logos\n\n---", "text_overlay": "I almost switched suppliers over three cents a unit."}]}
+{"story": {"prompt": "A man in his mid-30s walking through a dim garage at dawn, early blue light mixing with a warm kitchen glow through an open doorway behind him, holding a single travel mug in one hand, dressed in running gear, purposeful stride, not looking at camera, road bike leaning against the wall, black and gold color tones, cinematic shallow depth of field, high contrast, negative space in the upper third of the frame, no text, no logos, photographic realism\n\n---", "text_overlay": "I used to hit a wall every single day at 2pm."}, "carousel": [{"prompt": "A man in his mid-30s walking through a dim garage at dawn, early blue light mixing with a warm kitchen glow through an open doorway behind him, holding a single travel mug in one hand, dressed in running gear, purposeful stride, not looking at camera, road bike leaning against the wall, black and gold color tones, cinematic shallow depth of field, high contrast, negative space in the upper third of the frame, no text, no logos, photographic realism\n\n---", "text_overlay": "I used to hit a wall every single day at 2pm."}]}
 ```
