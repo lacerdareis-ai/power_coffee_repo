@@ -1,0 +1,11 @@
+{
+  "story.jpg": {
+    "source": "higgsfield-connector",
+    "prompt": "Candid vertical photo at a small neighborhood cafe on a crisp fall morning, Cape Cod light. A man behind a simple folding table handing a small paper cup to a woman mid-laugh, genuine unposed moment, other people blurred in the background holding their own coffee cups. Warm golden-hour light mixing with the cafe's interior glow. Muted cream, espresso brown, and gold color grading. Shallow depth of field, slightly grainy real-photo texture, not overly polished. Negative space kept quiet in the top 14% and bottom 25% of the frame for UI and text overlay. No text in image. Vertical 9:16 composition.\n\nvisual_style: UGC-phone\n\n---",
+    "overlay": "STILL LOSING THE AFTERNOON?",
+    "aspect": "9:16",
+    "at": "2026-11-18T09:35:53",
+    "background": "_sources/story_bg_higgsfield.png",
+    "headline": "STILL LOSING THE AFTERNOON?"
+  }
+}
