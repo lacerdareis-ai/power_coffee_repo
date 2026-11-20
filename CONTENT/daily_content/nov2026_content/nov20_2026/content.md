@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -13,41 +13,50 @@
 ### Carousel Copy
 
 **Slide 1:**
-STILL ADDING A SECOND CUP AT 3PM?
+ONE SCOOP. THAT'S THE WHOLE CHANGE.
+How Power Coffee fits into the morning you already have.
 
 **Slide 2:**
-Lunch happens. The slump happens. You know the move — reach for another coffee and hope.
+STEP 1: MAKE YOUR COFFEE.
+The one you already love. Same mug, same machine, same time.
 
 **Slide 3:**
-Most people say the same thing: the second cup doesn't fix it. Sometimes it just costs you sleep tonight for a problem that's already here today.
+STEP 2: ADD ONE SCOOP.
+Stir it in and drink it the way you always do. No new routine to learn.
 
 **Slide 4:**
-Here's the shift: keep the morning cup you already love. Add one scoop before you drink it. Skip the 3pm one.
+WHAT'S IN THE SCOOP.
+11 ingredients, including matcha, taurine, ginkgo biloba, Ceylon cinnamon and ginger. 0g sugar. Made in the USA.
 
 **Slide 5:**
-That's it. No new ritual, no second trip to the kitchen, no third coffee by Friday.
+$1.26 A CUP.
+15 servings in every $18.90 pack.
 
 **Slide 6:**
-This week only: use code MORNING15 for 15 percent off, one-time purchases, one use per customer.
+FIRST ORDER? 15% OFF.
+Use code MORNING15 at checkout. First order only, one use per customer.
 
 **Slide 7:**
-Try it this week. @powercoffee.ofc — thepowercoffee.com/pages/betterday
+THE FIRST WIN OF YOUR DAY.
+@powercoffee.ofc - thepowercoffee.com/pages/betterday
 
 ### Caption
-Lunch hits, the slump hits, and the first move is always the same: another coffee, hope it works.
+Friday question: what would it take to make next week's mornings easier?
 
-Most people already know the second cup doesn't really fix it. It just borrows against tonight's sleep for a problem that's happening right now.
+Not a new routine. Not another drink. Just one scoop in the coffee you already make.
 
-So keep your morning coffee. Add one scoop before you drink it. Skip the 3pm one.
+Step 1: brew your coffee. Step 2: add one scoop and stir. That's it.
 
-This week: MORNING15 gets you 15 percent off, one-time purchases only, one use per customer.
+11 ingredients, 0g sugar, $1.26 a cup.
+
+First order? MORNING15 gets you 15% off (first order only, one use per customer).
 
 Not intended to diagnose, treat, cure, or prevent any disease. Individual experiences. Results vary.
 
 thepowercoffee.com/pages/betterday
 
 ### Hashtags
-#afternoonslump #coffeecrash #morningroutine #cleanenergy #functionalcoffee #postlunchslump #realfocus #thefirstwin #powercoffee #biohacking
+#morningroutine #coffeeritual #functionalcoffee #cleanenergy #onescoop #coffeelovers #fridaymotivation #thefirstwin #powercoffee #madeinusa
 
 ---
 
