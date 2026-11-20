@@ -1,0 +1,241 @@
+{
+  "week": "2026-W48",
+  "status": "pending",
+  "approved": false,
+  "vlog_arc": {
+    "theme": "Building in public: the real work behind a Saturday morning win",
+    "beats": {
+      "mon": "Leo opens on a quiet Monday admitting last week's plan broke by mid-morning, setting up the week's real goal: showing up anyway.",
+      "tue": "A short clip from the packing table, hands moving through wholesale boxes, Leo explaining why he still does this part himself.",
+      "wed": "Leo shares one honest formulation mistake from early on and the specific change it forced into the current batch process.",
+      "thu": "A calm walkthrough of prepping for Saturday's Power Morning, naming the café partner and what the event actually looks like.",
+      "fri": "Leo reads a real customer message on camera, unscripted, explaining why it landed harder than any metric this week.",
+      "sat": "Live from the Power Morning event, real faces, real cups, Leo thanking people by name for showing up in person.",
+      "sun": "A quiet Sunday reflection tying faith, family, and the week's work together, setting intention for the week ahead without hype."
+    }
+  },
+  "channels": {
+    "ig": [
+      {
+        "pillar": "prova",
+        "title": "Plan Died At 11am Again",
+        "angle": "Open on the exact moment the afternoon fog won — then show the quiet fix that made 11am boring instead of brutal.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Real Photo: Packing Saturday's Orders",
+        "angle": "Behind-the-curtain look at Leo hand-packing wholesale boxes, proving the brand is still a kitchen-table operation.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Upgrade Your Coffee, Don't Quit It",
+        "angle": "Name the friction every 'quit coffee' ritual brand creates, then show how adding instead of replacing removes it entirely.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Why Afternoon Fog Isn't About Willpower",
+        "angle": "Teach the real mechanism behind the 2pm crash so readers stop blaming themselves and start fixing the actual cause.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Cereal Bowl, Still Foggy Carousel",
+        "angle": "A quiet morning scene of a half-eaten breakfast and a blank stare, captioned with the exact minute the focus disappeared.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "x": [
+      {
+        "pillar": "prova",
+        "title": "Two Cups In. Still Foggy.",
+        "angle": "Five words that put the reader inside their own 2pm before any pitch starts.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Energy Drinks Aren't Energy",
+        "angle": "Reframe energy drinks as borrowed alertness, not real energy, and name what 'real' actually requires.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The Framework Behind No Crash",
+        "angle": "Break down the 3 variables that decide whether energy holds past 3pm or collapses, teaching not selling.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "430 Mornings, Same Cup",
+        "angle": "A specific number beats a vague claim — show the exact count of days Leo has run on his own formula.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "$0.73 Vs Your Starbucks Habit",
+        "angle": "Do the math reader already avoids doing, disarming the price objection before they can raise it.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "li": [
+      {
+        "pillar": "pessoal",
+        "title": "I Spent Two Years On This",
+        "angle": "Founder-narrated origin story of the real problem that forced two years of formulation before Power Coffee existed.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Functional Coffee Vs Pills Vs Shots",
+        "angle": "A neutral category breakdown teaching how ritual-fit beats convenience-fit for daily compliance.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "A Review Stopped Me Mid-Scroll",
+        "angle": "Open with the exact comment that made Leo pause, then unpack why it mattered more than a testimonial headline.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Biohacking Isn't Just For Founders",
+        "angle": "Push back on the idea that clean energy stacks are elite-only, reframing it as a workday-survival tool for anyone.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "The Mistake That Cost Us A Batch",
+        "angle": "First episode of 'mistakes I made' — an honest account of a formulation error and what changed after it.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "tg": [
+      {
+        "pillar": "pessoal",
+        "title": "Send Me Your 2pm Right Now",
+        "angle": "Ask the community to reply with their exact crash time this week — no pitch, just a real question.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "What Changed By Day 3",
+        "angle": "Share a real buyer's timeline from skeptical to steady, validating doubt before resolving it.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Your Coffee Doesn't Need Replacing",
+        "angle": "Quick reframe post reminding the group that upgrading the ritual beats quitting it.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Come Say Hi This Saturday",
+        "angle": "Invite the group to the Power Morning event with a real café, a free scoop, and the MORNING15 code.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "One Question To Ask Your Energy",
+        "angle": "Give the group a simple self-check framework to diagnose whether their fatigue is caffeine, blood sugar, or sleep.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "blog": [
+      {
+        "pillar": "autoridade",
+        "title": "Why The 2pm Crash Isn't Caffeine",
+        "angle": "Teach the blood-sugar and adenosine mechanics behind the afternoon slump so readers understand the real cause before any product mention.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Replace Vs Upgrade: The Real Divide",
+        "angle": "Lay out why 'quit coffee' rituals create friction most people quietly abandon within weeks.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "What 90 Days Of Real Feedback Showed",
+        "angle": "Walk through unfiltered customer feedback patterns, including what didn't work, to build trust through transparency.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "The Year We Removed Vanilla",
+        "angle": "Tell the real story of why a flavor got cut in 2026 after taste tests showed it added nothing but complexity.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "A Framework For Choosing A Nootropic Coffee",
+        "angle": "Give readers a neutral checklist to evaluate any functional coffee brand, Power Coffee included, on ritual-fit and clean label.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "em": [
+      {
+        "pillar": "pessoal",
+        "title": "This Saturday: Power Morning Invite",
+        "angle": "Personal note from Leo inviting the list to the in-person event with the café partner and the MORNING15 code.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "The Message That Stopped My Scroll",
+        "angle": "Share one real customer message in full, unedited, and explain why it mattered more than any ad metric.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "You Don't Need To Quit Coffee",
+        "angle": "Short reframe email positioning Power Coffee as the upgrade path, not the replacement path, with zero friction.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Three Signs Your Crash Is Fixable",
+        "angle": "Teach subscribers a quick self-diagnosis framework so they can tell what's actually driving their afternoon fog.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "A Mistake I'm Not Hiding",
+        "angle": "Radical-transparency email about a real misstep in the business and what changed as a result, no spin.",
+        "selected": false,
+        "is_theme": false
+      }
+    ]
+  }
+}
