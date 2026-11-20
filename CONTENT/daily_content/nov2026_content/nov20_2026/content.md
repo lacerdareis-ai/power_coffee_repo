@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [x] APPROVED
+- [ ] APPROVED
 
 ---
 
@@ -13,93 +13,84 @@
 ### Carousel Copy
 
 **Slide 1:**
-ONE SCOOP. THAT'S THE WHOLE CHANGE.
-How Power Coffee fits into the morning you already have.
+STILL CRASHING AFTER LUNCH?
 
 **Slide 2:**
-STEP 1: MAKE YOUR COFFEE.
-The one you already love. Same mug, same machine, same time.
+You already do the right things. Lunch, a short walk, the coffee you had this morning. And by mid-afternoon it's gone anyway.
 
 **Slide 3:**
-STEP 2: ADD ONE SCOOP.
-Stir it in and drink it the way you always do. No new routine to learn.
+The instinct is a second cup around 3pm. Most people who try it say the same thing: it doesn't actually fix the crash, and it costs them sleep later.
 
 **Slide 4:**
-WHAT'S IN THE SCOOP.
-11 ingredients, including matcha, taurine, ginkgo biloba, Ceylon cinnamon and ginger. 0g sugar. Made in the USA.
+So the real fix isn't adding a cup. It's changing what's already in your morning one.
 
 **Slide 5:**
-$1.26 A CUP.
-15 servings in every $18.90 pack.
+One scoop, stirred into the coffee you're already making. No second cup. No new habit to build.
 
 **Slide 6:**
-FIRST ORDER? 15% OFF.
-Use code MORNING15 at checkout. First order only, one use per customer.
+This weekend, 15% off with code MORNING15. One-time purchases, one use per customer.
 
 **Slide 7:**
-THE FIRST WIN OF YOUR DAY.
-@powercoffee.ofc - thepowercoffee.com/pages/betterday
+Keep your morning coffee. Skip the 3pm one.
+thepowercoffee.com/pages/betterday
+@powercoffee.ofc
 
 ### Caption
-Friday question: what would it take to make next week's mornings easier?
+Three o'clock hits and the walk, the water, the willpower — none of it's holding anymore. Sound familiar?
 
-Not a new routine. Not another drink. Just one scoop in the coffee you already make.
+The second cup feels like the fix. For a lot of people it isn't. It just moves the problem to bedtime.
 
-Step 1: brew your coffee. Step 2: add one scoop and stir. That's it.
+So skip it. Keep the one cup you already make, add a scoop, and let the afternoon stay yours.
 
-11 ingredients, 0g sugar, $1.26 a cup.
+This weekend only: 15% off with code MORNING15 at thepowercoffee.com/pages/betterday. One-time purchases, one use per customer.
 
-First order? MORNING15 gets you 15% off (first order only, one use per customer).
+Not intended to diagnose, treat, cure, or prevent any disease.
 
-Not intended to diagnose, treat, cure, or prevent any disease. Individual experiences. Results vary.
-
-thepowercoffee.com/pages/betterday
+Tell us: what time does your afternoon usually fall apart?
 
 ### Hashtags
-#morningroutine #coffeeritual #functionalcoffee #cleanenergy #onescoop #coffeelovers #fridaymotivation #thefirstwin #powercoffee #madeinusa
+#afternoonslump #coffeecrash #functionalcoffee #morningroutine #cleanenergy #powercoffee #thefirstwin #biohacking #nocrash #workfromhome #focusfuel #postlunchslump
 
 ---
 
 ## X.COM
 ### Post
-Your coffee routine doesn't need replacing. Brew the cup you already love, add one scoop, stir, drink. 11 ingredients, 0g sugar, $1.26 a cup. First order? MORNING15 = 15% off. thepowercoffee.com/pages/betterday
+The second 3pm coffee rarely fixes the crash. It just borrows against tonight's sleep. Keep the one cup you already make, add a scoop, skip the second one. 15% off this weekend with MORNING15. thepowercoffee.com/pages/betterday
 
 ### Thread
-Post 1: Most "better morning" advice asks you to quit something. We went the other way: keep your coffee.
+Post 1: You didn't skip lunch. You took the walk. You drank water. And by 3pm you're still fading. That's not a willpower problem.
 
-Post 2: Step 1: make the coffee you already make. Same mug, same machine, same time.
+Post 2: The default move is a second coffee. Most people who lean on it tell the same story: it doesn't touch the crash, it just steals from tonight's sleep.
 
-Post 3: Step 2: add one scoop of Power Coffee and stir. That's the whole change. No new routine to learn.
+Post 3: The fix isn't adding a cup. It's changing what's already in the one you make every morning, so the afternoon doesn't need rescuing in the first place.
 
-Post 4: What's in the scoop: 11 ingredients, including matcha, taurine, ginkgo biloba, Ceylon cinnamon and ginger. 0g sugar. Made in the USA. 15 servings a pack, $1.26 a cup.
+Post 4: That's the whole idea behind Power Coffee. One scoop in your regular morning brew. No second cup, no new ritual to learn.
 
-Post 5: First order? Code MORNING15 gets you 15% off, one use per customer. thepowercoffee.com/pages/betterday
+Post 5: This weekend: 15% off with code MORNING15, one-time purchases, one use per customer. thepowercoffee.com/pages/betterday
 
 ---
 
 ## LINKEDIN
 ### Post
-The hardest habits to build are the ones that ask you to change your whole morning.
+By 3pm most of us are negotiating with ourselves.
 
-So when I built Power Coffee, I set one rule: it can't ask anyone to give up the coffee they already love.
+One more coffee or push through. Neither feels great, and most people who take the second cup admit it doesn't actually fix the crash.
 
-That's why it works in two steps. Make your coffee the way you always do. Add one scoop and stir.
+I built Power Coffee because I was that person. Doing everything "right" and still losing my afternoons.
 
-Inside that scoop: 11 ingredients, including matcha, taurine, ginkgo biloba, Ceylon cinnamon and ginger, with 0g sugar. It comes to $1.26 a cup.
+The answer wasn't another cup. It was changing what went into the one I already made every morning.
 
-The best routine is the one you don't have to think about on a Monday at 6am.
+This weekend we're running 15% off with code MORNING15, one-time purchases, one use per customer, at thepowercoffee.com/pages/betterday.
 
-If you want to try it, MORNING15 takes 15% off a first order, one use per customer.
+Not a cure for fatigue, not a guarantee, just one less thing standing between you and a day that holds together.
 
-What's the one part of your morning you'd never give up?
-
-thepowercoffee.com/pages/betterday
+What's your actual 3pm move? Walk, water, or a second cup?
 
 ---
 
 ## WHATSAPP
 ### Message
-Quick one: you don't have to change your coffee. Make it like you always do, add one scoop of Power Coffee, stir, done. 11 ingredients, 0g sugar, about $1.26 a cup. First order? MORNING15 gets you 15% off (one use per customer): thepowercoffee.com/pages/betterday
+Hey, quick one before the weekend. If your afternoons usually fall apart around 3pm, we're running 15% off with code MORNING15, one-time purchases only, one use per customer. Just add it to the coffee you're already making. Grab it here before it ends: thepowercoffee.com/pages/betterday
 
 ---
 
@@ -110,38 +101,46 @@ FLUX.2 Pro (image)
 ### Aspect Ratio
 1:1 (feed carousel)
 
+### visual_style: lifestyle kitchen
+
 ### Prompt
-A woman in her late 30s in business casual clothing, standing at a kitchen counter in warm early-afternoon light, one hand resting on the counter, the other holding a single ceramic mug, looking toward a window with a calm, steady expression — not tired, not rushed. Soft natural light from the side, warm cream and espresso brown tones with a hint of gold. A laptop bag and a closed planner visible slightly out of focus in the background. Shallow depth of field, lifestyle photography, documentary feel, not staged. Negative space in the upper third of the frame for a headline. No text in image, no product pouch, no multiple mugs.
-visual_style: lifestyle kitchen
+A woman in her late 30s at a sunlit kitchen counter in the early afternoon, one hand resting on her forehead, eyes closed for a brief tired moment, laptop and a single mug visible nearby, warm natural window light with soft golden tones, muted cream and espresso-brown color palette, shallow depth of field, lived-in kitchen background softly blurred, negative space in the upper third of the frame for a headline, no text in image, no logos, candid unposed moment, shot on a 50mm lens look.
 
 ---
 
 ## REELS — Founder Vlog Script
-**Series:** Building Power Coffee — Ep. 21
-**Beat:** P6 direct offer, the "one scoop" how-to, shown in real time
-**Title formula:** My whole morning change takes 10 seconds | Two steps, one scoop
-**Duration:** 30s · **Setting:** Leo at his kitchen counter, morning light, phone propped up, no studio setup
+**Series:** Building Power Coffee — Ep. 20
+**Beat:** Weekend offer push, tied to the real reason behind MORNING15
+**Title formula:** Why I priced the weekend offer the way I did | Saturday mornings with my kids
+**Duration:** 30-45s · **Setting:** Kitchen counter, handheld, natural light, slight morning mess in frame
 
 **HOOK (0-3s, text on screen + spoken):**
-"This is the whole change. Watch."
+"I almost didn't run this discount."
 
 **BODY (speak exactly this):**
-"I make my coffee the same way I have for years. Same mug. Then one scoop of Power Coffee, stir, and that's it. I didn't want to build something that asked people to quit their coffee. I wanted the cup you already love to do a little more. Eleven ingredients, zero sugar, about a dollar twenty-six a cup."
+"Here's the honest version. MORNING15 only works once per customer, one-time purchases, because I don't want to train people to wait for discounts. I want them to try it once and decide for themselves. That's it. This came out of watching my own afternoons fall apart before I built this thing, back when a second coffee was my only move. Now it's one scoop in the cup I already make. If you've been meaning to try it, this weekend's the window. Code's MORNING15."
 
 **CTA (last 5s):**
-"First order? Code MORNING15, fifteen percent off. Link's at thepowercoffee.com/pages/betterday."
+"Link's at thepowercoffee.com/pages/betterday. Tell me your 3pm move in the comments."
 
-**B-ROLL:** coffee brewing into Leo's usual mug, one scoop going in, a spoon stirring, Leo taking the first sip and heading out the door
-**CAPTION:** Two steps. One scoop. Same coffee. First order? MORNING15 gets you 15% off. thepowercoffee.com/pages/betterday #buildinginpublic #founderstory #morningroutine #coffeeritual #powercoffee Ep. 21 — Building Power Coffee
-**ON-SCREEN TEXT:** 0-3s: "The whole change" | 8-15s: "Step 1: your coffee. Step 2: one scoop." | 25-30s: "MORNING15 — first order"
+**B-ROLL:** scooping into the morning mug already in frame, Leo setting phone down and walking off camera toward kids in background, close-up of hand typing the discount code on a laptop
+
+**CAPTION:** The real reason behind this weekend's 15% off — and why I don't love discounts as a rule. Code MORNING15, one-time purchases, one use per customer.
+#powercoffee #thefirstwin #foundertalk #afternoonslump #nocrash
+Ep. 20 — Building Power Coffee
+
+**ON-SCREEN TEXT:**
+0:00 "I almost didn't run this"
+0:12 "One scoop. Not a new habit."
+0:30 "MORNING15 — this weekend only"
 
 ---
 
 ## SCIENCE NOTE — Founder Interview Prep (not for publishing)
 **Ingredient / mechanism:** Taurine as an osmolyte and cytoprotective modulator
-Taurine is a conditionally essential beta-amino sulfonic acid present at high intracellular concentrations in excitable tissue, including skeletal muscle and the central nervous system. Unlike classic amino acids, it is not incorporated into protein; instead it functions as an organic osmolyte, helping cells regulate volume under osmotic or metabolic stress, and as a membrane-stabilizing modulator of intracellular calcium handling in cardiac and skeletal muscle. In the CNS, taurine interacts with GABA-A and glycine receptors at low micromolar affinity, contributing to its reputation as a calming co-factor alongside stimulants. At the 2.1g dose per serving used in Power Coffee, the rationale is to pair caffeine's adenosine-receptor stimulation with taurine's osmoregulatory and membrane-stabilizing role, which has been studied in the context of exercise performance and oxidative stress buffering during exertion.
-**Reference:** Ripps & Shen, "Review: Taurine: A "very essential" amino acid," Mol Vis, 2012
-**Interview angle:** Taurine doesn't stimulate — it's included to support the body's own stress-buffering and hydration-regulation systems alongside caffeine; results vary by individual.
+Taurine is one of the most abundant free amino acids in excitable tissue (skeletal muscle, brain, heart) despite not being incorporated into proteins. Its primary mechanistic roles are as an organic osmolyte, stabilizing cell volume under metabolic stress, and as a modulator of intracellular calcium handling in cardiac and skeletal muscle, influencing contractile function and fatigue resistance during exertion. Taurine also conjugates with bile acids and supports mitochondrial protein synthesis (via taurine modification of mitochondrial tRNA), which has been linked to mitochondrial efficiency under oxidative stress. At the 2.1g dose per serving used in Power Coffee, this sits within ranges studied in sports-nutrition contexts for exercise performance and recovery markers, distinct from its separate (and less caffeine-dependent) role in calming neuronal excitability via weak GABA-A/glycine receptor agonism.
+**Reference:** Schaffer SW, Jong CJ, Ito T, Azuma J. "Role of taurine in the pathologies of the metabolic syndrome." Mol Cell Biochem. 2014. [VERIFY CITATION]
+**Interview angle:** Taurine doesn't "boost energy" directly — it may support how well the body handles metabolic and oxidative stress during exertion, which is why it's paired with caffeine rather than used alone.
 
 ---
 
@@ -167,7 +166,7 @@ const H = 1080;
 const GAP = 60;
 
 // SLIDE DATA - accent/bg/textColor must be quoted strings: "BLACK", "BROWN", "BROWN_L", "CREAM", "WHITE"
-const SLIDES = [{ id: 1, slideType: "hook", overline: "THE WHOLE CHANGE", headline: "ONE SCOOP.\nTHAT'S IT.", subtext: "How Power Coffee fits into the morning you already have.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }, { id: 2, slideType: "teach", overline: "STEP 1", headline: "MAKE YOUR\nCOFFEE", subtext: "The one you already love. Same mug, same machine, same time.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 3, slideType: "teach", overline: "STEP 2", headline: "ADD ONE\nSCOOP", subtext: "Stir it in and drink it the way you always do. No new routine to learn.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 4, slideType: "teach", overline: "WHAT'S IN THE SCOOP", headline: "11 INGREDIENTS\n0G SUGAR", subtext: "Matcha, taurine, ginkgo biloba, Ceylon cinnamon, ginger and more. Made in the USA.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 5, slideType: "teach", overline: "THE MATH", headline: "$1.26\nA CUP", subtext: "15 servings in every $18.90 pack.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 6, slideType: "teach", overline: "FIRST ORDER", headline: "15% OFF\nWITH CODE\nMORNING15", subtext: "First order only. One use per customer.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 7, slideType: "cta", isCTA: true, overline: "TRY IT", headline: "THE FIRST WIN\nOF YOUR DAY", subtext: "@powercoffee.ofc  -  thepowercoffee.com/pages/betterday", accent: "CREAM", bg: "BROWN", textColor: "WHITE" }
+const SLIDES = [{ id: 1, slideType: "hook", overline: "THE AFTERNOON PROBLEM", headline: "STILL CRASHING\nAFTER LUNCH?", subtext: "", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }, { id: 2, slideType: "teach", overline: "YOU'RE DOING IT RIGHT", headline: "YOU ALREADY DO\nTHE RIGHT\nTHINGS", subtext: "Lunch, a short walk, the coffee you had this morning. And by mid-afternoon it's gone anyway.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 3, slideType: "teach", overline: "THE COMMON FIX", headline: "THE SECOND CUP\nISN'T WORKING", subtext: "Most people who try it say the same thing: it doesn't actually fix the crash, and it costs them sleep later.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 4, slideType: "teach", overline: "THE REAL FIX", headline: "CHANGE WHAT'S\nALREADY IN\nYOUR CUP", subtext: "Not adding a cup. Changing what's already in your morning one.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 5, slideType: "teach", overline: "HOW IT WORKS", headline: "ONE SCOOP.\nONE CUP.\nNO NEW HABIT", subtext: "Stirred into the coffee you're already making. No second cup. No new habit to build.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM", pills: ["ONE SCOOP", "NO SECOND CUP", "NO NEW HABIT"] }, { id: 6, slideType: "teach", overline: "THIS WEEKEND ONLY", headline: "15% OFF\nWITH CODE\nMORNING15", subtext: "One-time purchases, one use per customer.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 7, slideType: "cta", isCTA: true, overline: "KEEP YOUR MORNING RITUAL", headline: "KEEP THE COFFEE.\nSKIP THE 3PM\nCRASH.", subtext: "thepowercoffee.com/pages/betterday\n@powercoffee.ofc", accent: "CREAM", bg: "BROWN", textColor: "WHITE" }
 ];
 
 // ── HELPERS ──────────────────────────────────────────────────
@@ -302,5 +301,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `carousel_1.jpg, carousel_2.jpg...` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A woman in her late 30s in business casual clothing, standing at a kitchen counter in warm early-afternoon light, one hand resting on the counter, the other holding a single ceramic mug, looking toward a window with a calm, steady expression \u2014 not tired, not rushed. Soft natural light from the side, warm cream and espresso brown tones with a hint of gold. A laptop bag and a closed planner visible slightly out of focus in the background. Shallow depth of field, lifestyle photography, documentary feel, not staged. Negative space in the upper third of the frame for a headline. No text in image, no product pouch, no multiple mugs.\nvisual_style: lifestyle kitchen\n\n---", "text_overlay": "ONE SCOOP. THAT'S THE WHOLE CHANGE."}, "carousel": [{"prompt": "A woman in her late 30s in business casual clothing, standing at a kitchen counter in warm early-afternoon light, one hand resting on the counter, the other holding a single ceramic mug, looking toward a window with a calm, steady expression \u2014 not tired, not rushed. Soft natural light from the side, warm cream and espresso brown tones with a hint of gold. A laptop bag and a closed planner visible slightly out of focus in the background. Shallow depth of field, lifestyle photography, documentary feel, not staged. Negative space in the upper third of the frame for a headline. No text in image, no product pouch, no multiple mugs.\nvisual_style: lifestyle kitchen\n\n---", "text_overlay": "ONE SCOOP. THAT'S THE WHOLE CHANGE."}]}
+{"story": {"prompt": "A woman in her late 30s at a sunlit kitchen counter in the early afternoon, one hand resting on her forehead, eyes closed for a brief tired moment, laptop and a single mug visible nearby, warm natural window light with soft golden tones, muted cream and espresso-brown color palette, shallow depth of field, lived-in kitchen background softly blurred, negative space in the upper third of the frame for a headline, no text in image, no logos, candid unposed moment, shot on a 50mm lens look.\n\n---", "text_overlay": "STILL CRASHING AFTER LUNCH?"}, "carousel": [{"prompt": "A woman in her late 30s at a sunlit kitchen counter in the early afternoon, one hand resting on her forehead, eyes closed for a brief tired moment, laptop and a single mug visible nearby, warm natural window light with soft golden tones, muted cream and espresso-brown color palette, shallow depth of field, lived-in kitchen background softly blurred, negative space in the upper third of the frame for a headline, no text in image, no logos, candid unposed moment, shot on a 50mm lens look.\n\n---", "text_overlay": "STILL CRASHING AFTER LUNCH?"}]}
 ```
