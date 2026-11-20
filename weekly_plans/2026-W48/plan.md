@@ -1,6 +1,6 @@
 # Weekly Plan — 2026-W48
 
-**Status:** PENDING  |  **Approved:** ⬜
+**Status:** PENDING  |  **Approved:** ✅
 
 **Vlog theme:** Building in public: the real work behind a Saturday morning win
 
