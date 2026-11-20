@@ -1,7 +1,7 @@
 {
   "week": "2026-W48",
   "status": "pending",
-  "approved": false,
+  "approved": true,
   "vlog_arc": {
     "theme": "Building in public: the real work behind a Saturday morning win",
     "beats": {
