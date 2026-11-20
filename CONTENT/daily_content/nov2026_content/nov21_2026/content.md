@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -276,3 +276,27 @@ main();
 ```media-spec
 {"story": {"prompt": "A couple in their early 40s at a wooden dining table in a warm, sunlit kitchen on a slow Saturday morning. One person sits relaxed holding a single ceramic mug with both hands, not drinking, just resting it, looking toward a large window with soft golden light streaming in. The other person sits across, phone face-down on the table, looking out the same window, unhurried posture. A white stand-up pouch with a navy-blue left side panel reading \"THE POWER COFFEE / ENERGY BOOST BLEND\" sits closed on the table, slightly out of focus, not the focal point. Warm cream, espresso brown and soft gold tones throughout, natural window light, no studio flash, shallow depth of field, lived-in authentic kitchen details, negative space in the lower third of the frame, no text rendered in image.\n\n---", "text_overlay": "I almost skipped this Saturday too."}, "carousel": [{"prompt": "A couple in their early 40s at a wooden dining table in a warm, sunlit kitchen on a slow Saturday morning. One person sits relaxed holding a single ceramic mug with both hands, not drinking, just resting it, looking toward a large window with soft golden light streaming in. The other person sits across, phone face-down on the table, looking out the same window, unhurried posture. A white stand-up pouch with a navy-blue left side panel reading \"THE POWER COFFEE / ENERGY BOOST BLEND\" sits closed on the table, slightly out of focus, not the focal point. Warm cream, espresso brown and soft gold tones throughout, natural window light, no studio flash, shallow depth of field, lived-in authentic kitchen details, negative space in the lower third of the frame, no text rendered in image.\n\n---", "text_overlay": "I almost skipped this Saturday too."}]}
 ```
+
+---
+
+## EMAIL
+> **2026-11-20 — this block is NOT sent.** `email_override.json` in this folder replaces it with the designed PT-BR offer email "A primeira vitória do seu dia." (code MORNING15, images email_*.jpg). Leo approved it for the whole newsletter list. The block below only exists so the Saturday run doesn't skip email for "no copy".
+### Subject Line
+A primeira vitória do seu dia.
+
+### Preview Text
+15% de desconto na sua primeira compra com o código MORNING15.
+
+### Body
+Chega de terminar o dia cansado!
+
+É SIMPLES DEMAIS! Só adicionar um scoop do seu café preferido!
+
+O Power Coffee entra nesse ritual com uma dose: matcha, taurina, ginkgo biloba, canela-do-ceilão e gengibre.
+
+CENTENAS DE PESSOAS JÁ TESTARAM E CONFIRMAM OS RESULTADOS
+Feito nos EUA e pensado para ajudar você que trabalha muito todos os dias.
+
+Primeira vez? Ganhe 15% de desconto na sua primeira compra com o código MORNING15 (só na primeira compra, um uso por cliente, compras avulsas).
+
+[Quero 15% off](https://www.thepowercoffee.com/discount/MORNING15)
