@@ -1,0 +1,62 @@
+{
+  "subject": "Black Friday começou: 20% off no Power Coffee",
+  "preview": "Acesso antecipado: use o código BLACKFRIDAY20 até segunda, 30/11.",
+  "eyebrow": "Black Friday · acesso antecipado",
+  "headline": "Sua manhã mais forte, 20% mais barata.",
+  "paragraphs": [
+    "Você acorda cedo, trabalha pesado e ainda quer chegar em casa com energia pra família. A gente sabe como é.",
+    "Por isso a Black Friday do Power Coffee chega antes pra você: <b>20% de desconto no site</b>, a partir de hoje à noite.",
+    "Uma dose no seu ritual da manhã: matcha, taurina, ginkgo biloba, canela-do-ceilão e gengibre. <b>11 ingredientes, 0 g de açúcar, feito nos EUA.</b>",
+    "<b>É a hora de fazer estoque.</b> O desconto vale até segunda-feira, 30 de novembro."
+  ],
+  "code": "BLACKFRIDAY20",
+  "code_terms": "20% off em compras avulsas (não vale para assinatura), um uso por cliente, válido até 30/11.",
+  "cta_label": "Quero 20% off",
+  "cta_url": "https://www.thepowercoffee.com/discount/BLACKFRIDAY20",
+  "math": [
+    [
+      "Pacote com 15 doses",
+      "US$ 18,90"
+    ],
+    [
+      "BLACKFRIDAY20",
+      "-20%"
+    ],
+    [
+      "Seu pacote",
+      "US$ 15,12"
+    ]
+  ],
+  "math_note": "Cerca de US$ 1,01 por dose (antes de frete e impostos)",
+  "images": {
+    "hero": "email_hero_bf.jpg",
+    "photo": "email_morning.jpg",
+    "footer": "email_brand_footer.jpg"
+  },
+  "_note": "DRAFT, PT-BR Black Friday email for Thu Nov 26, 2026 (evening). Needs BLACKFRIDAY20 created in Shopify and the Resend Marketing plan fixed (8,524 contacts).",
+  "order_title": "Peça o seu",
+  "order_buttons": [
+    {
+      "label": "Comprar no site",
+      "url": "https://www.thepowercoffee.com/discount/BLACKFRIDAY20",
+      "style": "cream"
+    },
+    {
+      "label": "Comprar na Amazon",
+      "url": "https://www.amazon.com/dp/B0DYK75WP7",
+      "style": "gold"
+    }
+  ],
+  "order_note": "O código BLACKFRIDAY20 vale só em www.thepowercoffee.com.",
+  "hero_alt": "Black Friday: 20% de desconto no The Power Coffee com o código BLACKFRIDAY20",
+  "photo_alt": "Mãos segurando uma caneca de café pela manhã",
+  "labels": {
+    "code": "CÓDIGO:",
+    "math": "AS CONTAS",
+    "footer_alt": "The Power Coffee, www.thepowercoffee.com e na Amazon",
+    "reason": "Você está recebendo este e-mail porque se cadastrou ou fez um pedido.",
+    "unsubscribe": "Cancelar inscrição",
+    "disclaimer_extra": "*Estas declarações não foram avaliadas pela FDA (Food and Drug Administration). Este produto não se destina a diagnosticar, tratar, curar ou prevenir nenhuma doença. Fale com seu médico antes de usar se estiver grávida, amamentando ou se for sensível à cafeína.<br><br>"
+  },
+  "_code_confirmed": false
+}
