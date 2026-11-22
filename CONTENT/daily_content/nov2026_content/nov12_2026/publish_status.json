@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-12",
+  "platforms": {
+    "x": {
+      "status": "ok",
+      "at": "2026-11-12 14:33"
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-11-12 14:33",
+      "reason": "disabled"
+    },
+    "whatsapp": {
+      "status": "skipped",
+      "at": "2026-11-12 14:33",
+      "reason": "paused"
+    },
+    "instagram": {
+      "status": "skipped",
+      "at": "2026-11-12 14:33",
+      "reason": "not in --platform list"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-11-12 14:33",
+      "reason": "not in --platform list"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-11-12 14:33",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "ok",
+      "at": "2026-11-12 14:33",
+      "post_id": "urn:li:share:7526729014141636608"
+    },
+    "shopify": {
+      "status": "skipped",
+      "at": "2026-11-12 14:33",
+      "reason": "no copy in content.md"
+    },
+    "email": {
+      "status": "skipped",
+      "at": "2026-11-12 14:33",
+      "reason": "not Saturday"
+    }
+  }
+}

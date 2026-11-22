@@ -318,3 +318,12 @@
 - 📄 `earned-media.md` stale (86d) — refresh
 - 📄 `email-copywriting.md` stale (68d) — refresh
 - 📄 `market.md` stale (163d) — refresh
+
+## 2026-11-22 self-review
+- ⚠️ `generate` — 25 errs, last run 11.0h ago
+- ⚠️ `reorder_drip` — 30 errs, last run 4.8h ago
+- ⚠️ `review_drip` — 30 errs, last run 5.0h ago
+- ⚠️ `weekly_plan` — 0 errs, last run 57.0h ago
+- 📄 `bloom-flywheel.md` stale (97d) — refresh
+- 📄 `earned-media.md` stale (100d) — refresh
+- 📄 `email-copywriting.md` stale (82d) — refresh

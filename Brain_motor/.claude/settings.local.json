@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(skill-creator:skill-creator)",
+      "Bash(python3 -m json.tool)",
+      "Bash(mkdir -p /Users/lacerdareis/.claude/plugins/cache/claude-plugins-official/skill-creator/unknown/power-coffee-brain-workspace/iteration-1/eval-ideas/with_skill/outputs)",
+      "Bash(mkdir -p /Users/lacerdareis/.claude/plugins/cache/claude-plugins-official/skill-creator/unknown/power-coffee-brain-workspace/iteration-1/eval-content-monday/with_skill/outputs)",
+      "Bash(mkdir -p /Users/lacerdareis/.claude/plugins/cache/claude-plugins-official/skill-creator/unknown/power-coffee-brain-workspace/iteration-1/eval-growth/with_skill/outputs)",
+      "Skill(schedule)",
+      "Bash(mv /Users/lacerdareis/.claude/plugins/cache/claude-plugins-official/skill-creator/unknown/skills/power-coffee-brain /Users/lacerdareis/.claude/plugins/cache/claude-plugins-official/skill-creator/unknown/skills/brain)",
+      "Bash(mv /Users/lacerdareis/.claude/plugins/cache/claude-plugins-official/skill-creator/unknown/skills/power-coffee-results /Users/lacerdareis/.claude/plugins/cache/claude-plugins-official/skill-creator/unknown/skills/lens)",
+      "Bash(mv /Users/lacerdareis/.claude/plugins/cache/claude-plugins-official/skill-creator/unknown/skills/higgsfield /Users/lacerdareis/.claude/plugins/cache/claude-plugins-official/skill-creator/unknown/skills/studio)",
+      "Bash(mv /Users/lacerdareis/.claude/scheduled-tasks/powercoffee-daily-motor /Users/lacerdareis/.claude/scheduled-tasks/motor)"
+    ]
+  }
+}

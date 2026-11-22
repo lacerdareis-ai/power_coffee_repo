@@ -1,0 +1,61 @@
+{
+  "subject": "A primeira vitória do seu dia.",
+  "preview": "15% de desconto na sua primeira compra com o código MORNING15.",
+  "eyebrow": "Sábado de manhã",
+  "headline": "Chega de terminar o dia cansado!",
+  "paragraphs": [
+    "<b>É SIMPLES DEMAIS!</b> Só adicionar um scoop do seu café preferido!",
+    "O Power Coffee entra nesse ritual com uma dose: matcha, taurina, ginkgo biloba, canela-do-ceilão e gengibre.",
+    "<b>CENTENAS DE PESSOAS JÁ TESTARAM E CONFIRMAM OS RESULTADOS</b><br>Feito nos EUA e pensado para ajudar você que trabalha muito todos os dias.",
+    "Primeira vez? Ganhe <b>15% de desconto na sua primeira compra</b>."
+  ],
+  "code": "MORNING15",
+  "code_terms": "Só na primeira compra, um uso por cliente, compras avulsas (não vale para assinatura).",
+  "cta_label": "Quero 15% off",
+  "cta_url": "https://www.thepowercoffee.com/discount/MORNING15",
+  "math": [
+    [
+      "Pacote com 15 doses",
+      "US$ 18,90"
+    ],
+    [
+      "MORNING15",
+      "-15%"
+    ],
+    [
+      "Seu primeiro pacote",
+      "US$ 16,07"
+    ]
+  ],
+  "math_note": "Cerca de US$ 1,07 por dose (antes de frete e impostos)",
+  "images": {
+    "hero": "email_hero_offer.jpg",
+    "photo": "email_morning.jpg",
+    "footer": "email_brand_footer.jpg"
+  },
+  "_note": "DRAFT, PT-BR version for Sat Nov 21, 2026. English original: email_override.en.json. Not live: only sends if copied into nov2026_content/nov21_2026/ with its images AND email is in the publish run. Needs Leo's OK, MORNING15 active in Shopify, and the right list (Portuguese speakers).",
+  "order_title": "Peça o seu",
+  "order_buttons": [
+    {
+      "label": "Comprar no site",
+      "url": "https://www.thepowercoffee.com/discount/MORNING15",
+      "style": "cream"
+    },
+    {
+      "label": "Comprar na Amazon",
+      "url": "https://www.amazon.com/dp/B0DYK75WP7",
+      "style": "gold"
+    }
+  ],
+  "order_note": "O código MORNING15 vale só em www.thepowercoffee.com.",
+  "hero_alt": "15% de desconto na sua primeira compra de The Power Coffee",
+  "photo_alt": "Mãos segurando uma caneca de café pela manhã",
+  "labels": {
+    "code": "CÓDIGO:",
+    "math": "AS CONTAS",
+    "footer_alt": "The Power Coffee, www.thepowercoffee.com e na Amazon",
+    "reason": "Você está recebendo este e-mail porque se cadastrou ou fez um pedido.",
+    "unsubscribe": "Cancelar inscrição",
+    "disclaimer_extra": "*Estas declarações não foram avaliadas pela FDA (Food and Drug Administration). Este produto não se destina a diagnosticar, tratar, curar ou prevenir nenhuma doença. Fale com seu médico antes de usar se estiver grávida, amamentando ou se for sensível à cafeína.<br><br>"
+  }
+}

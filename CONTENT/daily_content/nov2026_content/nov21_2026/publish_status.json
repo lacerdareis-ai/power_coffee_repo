@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-21",
+  "platforms": {
+    "x": {
+      "status": "failed",
+      "at": "2026-11-21 04:00",
+      "error": "\u001b[31mError: Auth Error: NoAuthMethod (cause: no authentication method available)\u001b[0m"
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-11-22 08:00",
+      "reason": "disabled"
+    },
+    "whatsapp": {
+      "status": "skipped",
+      "at": "2026-11-22 08:00",
+      "reason": "not in --platform list"
+    },
+    "instagram": {
+      "status": "skipped",
+      "at": "2026-11-22 08:00",
+      "reason": "not in --platform list"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-11-22 08:00",
+      "reason": "not in --platform list"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-11-22 08:00",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "ok",
+      "at": "2026-11-21 04:00",
+      "post_id": "urn:li:share:7529830996893044736"
+    },
+    "shopify": {
+      "status": "skipped",
+      "at": "2026-11-22 08:00",
+      "reason": "not in --platform list"
+    },
+    "email": {
+      "status": "failed",
+      "at": "2026-11-22 08:00",
+      "error": "resend broadcast: resend broadcast 403: {\"statusCode\":403,\"message\":\"You have reached your contacts quota. Please upgrade your plan to send more emails.\",\"name\":\"validation_error\"}"
+    }
+  }
+}

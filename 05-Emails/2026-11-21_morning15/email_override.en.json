@@ -1,0 +1,50 @@
+{
+  "subject": "One scoop. That's the whole change.",
+  "preview": "15% off your first order with MORNING15.",
+  "eyebrow": "Saturday morning",
+  "headline": "Keep your coffee. Add one scoop.",
+  "paragraphs": [
+    "No new routine. Brew the coffee you already love, in the same mug, at the same time.",
+    "Then stir in one scoop of Power Coffee: matcha, taurine, ginkgo biloba, Ceylon cinnamon and ginger, 11 ingredients in all, with 0g sugar. Made in the USA and designed to support steady energy and focus.*",
+    "New here? Take <b>15% off your first order</b>."
+  ],
+  "code": "MORNING15",
+  "code_terms": "First order only, one use per customer, one-time purchases.",
+  "cta_label": "Get 15% off",
+  "cta_url": "https://www.thepowercoffee.com/discount/MORNING15",
+  "math": [
+    [
+      "15-serving pack",
+      "$18.90"
+    ],
+    [
+      "MORNING15",
+      "-15%"
+    ],
+    [
+      "Your first pack",
+      "$16.07"
+    ]
+  ],
+  "math_note": "About $1.07 a cup (before shipping and tax)",
+  "images": {
+    "hero": "email_hero_offer.jpg",
+    "photo": "email_morning.jpg",
+    "footer": "email_brand_footer.jpg"
+  },
+  "_note": "DRAFT for Sat Nov 21, 2026. Not live: it only sends if this file is copied into nov2026_content/nov21_2026/ with its 3 images AND email is in the publish run. Needs Leo's OK and MORNING15 active in Shopify.",
+  "order_title": "Order yours",
+  "order_buttons": [
+    {
+      "label": "Order on our website",
+      "url": "https://www.thepowercoffee.com/discount/MORNING15",
+      "style": "cream"
+    },
+    {
+      "label": "Order on Amazon",
+      "url": "https://www.amazon.com/dp/B0DYK75WP7",
+      "style": "gold"
+    }
+  ],
+  "order_note": "Code MORNING15 works on www.thepowercoffee.com only."
+}

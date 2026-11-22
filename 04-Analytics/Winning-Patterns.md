@@ -54,6 +54,7 @@
 | Radical-transparency "we shipped the mistake" framing as recurring LinkedIn throughline | "Fifteen of our product photos had fake words on them. We shipped them anyway." (Oct 5) repeated/escalated across Oct 6, 8, 9 posts | Multi-day confession arc (not just one-off) builds a credibility narrative over a week, consistent with anti-apology pattern already logged, but now proven to work as a *series*, not just a single post | Oct 5–9, 2026 |
 | Present-tense collapse hook with exact time stamp | "You had a plan for today. By 11am it was gone." | Combines proven present-tense problem scene pattern with a specific clock-time collapse point — 21.74% ER, beat prior week's top post. Specificity of time appears to sharpen the "this is my exact day" recognition. | Oct 12, 2026 |
 | Decision-maker reframe for afternoon crash | "You are not the same decision-maker at 10am and 4pm. Same person, same calendar, genuinely different capacity." | Reframes the crash as a capacity/identity shift rather than a willpower or caffeine failure — avoids ingredient talk entirely, lands as insight not pitch. Used twice (LinkedIn Wed + Thu) without fatigue. | Oct 14–15, 2026 |
+| "Still [bad habit] at [time]?" direct-address hook | "STILL CRASHING AT 2PM?" / "STILL ADDING A SECOND CUP AT 3PM?" | Second-person present-tense question puts reader inside a habit they recognize immediately; used twice this week across P1 and P6 pillars, suggesting a repeatable template worth tracking once IG data returns. | Nov 2026 |
 ### Template entries:
 - **Price anchor hook:** "$0.73 vs $5.75" — comparison to daily coffee shop spend
 - **Problem-first hook:** "Your coffee is failing you by 2pm" — names the pain immediately
@@ -141,6 +142,8 @@
 | Week Oct 5–Oct 9, 2026 | — | — | — | — | Photo-integrity confession series (LinkedIn) + cereal-bowl morning-chaos hook (IG) carried the week; pipeline failures suppressed reach data |
 | Week X (Oct 12–Oct 16, 2026) | — | — | — | — | Present-tense collapse hooks ("By 11am it was gone") beat prior week's best ER; Reels gap and LinkedIn outages capped total reach |
 | Week of Oct 26–Oct 30, 2026 | — | — | — | — | Pipeline collapse week: IG broken 4/5 days, Friday total outage, only trackable post scored 0.00% ER — can't judge content, only infrastructure. |
+| Week X (Nov 9–Nov 13, 2026) | — | — | — | — | Pipeline collapse — IG dark all week, zero analytics; LinkedIn only reliable channel. |
+| Week 3 (Nov 16–Nov 20, 2026) | — | — | — | — | Pipeline broke 2 of 5 days; X down 3/3 attempts; zero analytics — unmeasurable week |
 
 ---
 

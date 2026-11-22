@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-20",
+  "platforms": {
+    "x": {
+      "status": "failed",
+      "at": "2026-11-20 04:00",
+      "error": "\u001b[31mError: Auth Error: NoAuthMethod (cause: no authentication method available)\u001b[0m"
+    },
+    "threads": {
+      "status": "skipped",
+      "at": "2026-11-20 12:00",
+      "reason": "disabled"
+    },
+    "whatsapp": {
+      "status": "skipped",
+      "at": "2026-11-20 12:00",
+      "reason": "not in --platform list"
+    },
+    "instagram": {
+      "status": "ok",
+      "at": "2026-11-20 12:00",
+      "post_id": "17945556210380538"
+    },
+    "videostory": {
+      "status": "skipped",
+      "at": "2026-11-20 12:00",
+      "reason": "no story.mp4 in today's folder"
+    },
+    "ctastory": {
+      "status": "skipped",
+      "at": "2026-11-20 12:00",
+      "reason": "dedicated daily job only"
+    },
+    "linkedin": {
+      "status": "ok",
+      "at": "2026-11-20 04:00",
+      "post_id": "urn:li:share:7529468600651239424"
+    },
+    "shopify": {
+      "status": "skipped",
+      "at": "2026-11-20 12:00",
+      "reason": "not in --platform list"
+    },
+    "email": {
+      "status": "skipped",
+      "at": "2026-11-20 12:00",
+      "reason": "not in --platform list"
+    }
+  }
+}
