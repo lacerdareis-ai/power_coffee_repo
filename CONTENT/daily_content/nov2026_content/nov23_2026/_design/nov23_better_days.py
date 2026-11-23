@@ -55,6 +55,13 @@ def day_bar(d, y, frac, dark, label):
     d.text((lx, y - 52), label, font=k.inter(24, "Bold"), fill=GOLD)
 
 
+def amazon_line(d, width, y):
+    """Second CTA under the website bar: always website AND Amazon (Leo, 2026-11-23)."""
+    t = "ALSO ON AMAZON  ·  amazon.com/dp/B0DYK75WP7"
+    f = k.inter(30, "SemiBold")
+    d.text(((width - d.textlength(t, font=f)) / 2, y), t, font=f, fill=GOLD)
+
+
 def clock_slide(n, time, frac, bar_label, head, text, dark):
     img = k.base(dark)
     d = ImageDraw.Draw(img)
@@ -122,14 +129,15 @@ def s7():
     headline(d, y, "BETTER DAYS.", 120, GOLD)
     mascot = Image.open(k.BK / "high_energy_guy_whitecolor.png").convert("RGBA").resize((400, 400), Image.LANCZOS)
     p = k.pack(280, angle=-6)
-    k.shadow(p, img, (630, 600))
-    img.alpha_composite(p, (630, 600))
-    img.alpha_composite(mascot.rotate(8, expand=True, resample=Image.BICUBIC), (120, 620))
-    bx0, by0, bx1, by1 = M, 1080, W - M, 1200
+    k.shadow(p, img, (630, 520))
+    img.alpha_composite(p, (630, 520))
+    img.alpha_composite(mascot.rotate(8, expand=True, resample=Image.BICUBIC), (120, 560))
+    bx0, by0, bx1, by1 = M, 1040, W - M, 1160
     d.rounded_rectangle([bx0, by0, bx1, by1], radius=60, fill=GOLD)
     url = "thepowercoffee.com/pages/betterday"
     fu = k.inter(38, "Bold")
     d.text(((W - d.textlength(url, font=fu)) / 2, by0 + 37), url, font=fu, fill=ESP)
+    amazon_line(d, W, by1 + 26)
     k.chrome(img, 7, True)
     return img
 
@@ -147,11 +155,12 @@ def story():
     body(d, y + 40, "More focus and energy for the work, the people and the faith that matter.", DIM, size=44)
     m = Image.open(k.BK / "high_energy_guy_whitecolor.png").convert("RGBA").resize((420, 420), Image.LANCZOS)
     img.alpha_composite(m.rotate(8, expand=True, resample=Image.BICUBIC), ((SW - 440) // 2, 1150))
-    bx0, by0, bx1, by1 = M, 1640, SW - M, 1760
+    bx0, by0, bx1, by1 = M, 1600, SW - M, 1720
     d.rounded_rectangle([bx0, by0, bx1, by1], radius=60, fill=GOLD)
     url = "thepowercoffee.com/pages/betterday"
     fu = k.inter(38, "Bold")
     d.text(((SW - d.textlength(url, font=fu)) / 2, by0 + 37), url, font=fu, fill=ESP)
+    amazon_line(d, SW, by1 + 30)
     d.text((M, 160), "@POWERCOFFEE.OFC", font=k.inter(28, "SemiBold"), fill=DIM)
     return img
 

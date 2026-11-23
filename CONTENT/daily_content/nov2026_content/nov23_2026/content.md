@@ -31,7 +31,7 @@ THAT'S THE DAY WE BUILT THIS FOR. The Power Coffee has one purpose: to help peop
 NOT A NEW ROUTINE. A BETTER ONE. One scoop in the coffee you already drink. Designed to support focus and steady energy into the afternoon, without stacking another cup.
 
 **Slide 7:**
-MORE FOCUS. MORE ENERGY. BETTER DAYS. thepowercoffee.com/pages/betterday
+MORE FOCUS. MORE ENERGY. BETTER DAYS. thepowercoffee.com/pages/betterday · Also on Amazon: amazon.com/dp/B0DYK75WP7
 
 ### Caption
 
@@ -45,7 +45,8 @@ No new routine. One scoop in the coffee you already drink, designed to support f
 
 Here's to a better Monday. Swipe through and tell us: what time does your day usually start slipping?
 
-thepowercoffee.com/pages/betterday
+Try it: thepowercoffee.com/pages/betterday
+Also on Amazon: amazon.com/dp/B0DYK75WP7
 
 Individual results vary. These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease.
 
@@ -56,14 +57,14 @@ Individual results vary. These statements have not been evaluated by the FDA. Th
 
 ## X.COM
 ### Post
-You don't need more hours. You need better ones. That's why The Power Coffee exists: more focus and energy for the work and the people that matter. thepowercoffee.com/pages/betterday
+You don't need more hours. You need better ones. That's why The Power Coffee exists: more focus and energy for the work and the people that matter. thepowercoffee.com/pages/betterday | Amazon: amazon.com/dp/B0DYK75WP7
 
 ### Thread
 Post 1: Most people don't need more hours in the day. They need better ones.
 Post 2: 9am: a plan and real intentions. 2pm, after lunch: the fog rolls in and the plan quietly falls apart.
 Post 3: 6:30pm: you walk in the door with nothing left for the people you were working for in the first place.
 Post 4: That's the day we built The Power Coffee for. One purpose: help people have better days, with more focus and more energy.
-Post 5: No new routine. One scoop in the coffee you already drink, designed to carry you into the afternoon without a second cup. Results vary. thepowercoffee.com/pages/betterday
+Post 5: No new routine. One scoop in the coffee you already drink, designed to carry you into the afternoon without a second cup. Results vary. thepowercoffee.com/pages/betterday or on Amazon: amazon.com/dp/B0DYK75WP7
 
 ---
 
@@ -84,9 +85,11 @@ You don't need more hours. You need better ones.
 
 What time does your day usually start slipping?
 
+thepowercoffee.com/pages/betterday · also on Amazon: amazon.com/dp/B0DYK75WP7
+
 ---
 
 ## WHATSAPP
 ### Message
 
-Happy Monday! Quick thought for the week: you don't need more hours, you need better ones. That's why we make The Power Coffee: more focus and energy for the work and the people that matter. thepowercoffee.com/pages/betterday
+Happy Monday! Quick thought for the week: you don't need more hours, you need better ones. That's why we make The Power Coffee: more focus and energy for the work and the people that matter. thepowercoffee.com/pages/betterday (or on Amazon: amazon.com/dp/B0DYK75WP7)

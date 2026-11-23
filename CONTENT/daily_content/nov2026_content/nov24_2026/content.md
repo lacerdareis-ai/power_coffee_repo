@@ -1,5 +1,5 @@
 # Power Coffee — Content for November 24, 2026
-**Pillar:** P5 — SOCIAL PROOF | **Day:** Tuesday | **Image set:** D1 or D3
+**Pillar:** P1 PROBLEM HOOK + P5 SOCIAL PROOF | **Day:** Tuesday | **Image set:** D1 or D3
 
 ---
 ## APPROVAL
@@ -12,71 +12,77 @@
 ## INSTAGRAM
 ### Carousel Copy
 
-**Slide 1:** YOU WEREN'T SURE IT WOULD WORK. NEITHER WERE WE.
+**Slide 1:** SOUND FAMILIAR? YOUR ENERGY QUITS BEFORE YOU DO. Four real people who were done with the crash.
 
-**Slide 2:** Welma was skeptical at first scoop. "The natural herbal aroma captivated me right away... Each sip recharged my energy and boosted my focus."
+**Slide 2:** THE PROBLEM. IT'S NOT A WILLPOWER PROBLEM. You start the day strong. Then mid-morning, or right after lunch, the tank empties and the plan falls apart. Another cup rarely fixes it.
 
-**Slide 3:** Renata tested it the honest way — before a morning run. "I didn't feel the usual crash of energy mid-morning."
+**Slide 3:** WHAT CHANGED FOR RENATA. "I didn't feel the usual crash of energy mid-morning." Renata, before a morning run. Individual experience. Results vary.
 
-**Slide 4:** Rita's been at it long enough to call it routine. "I've been drinking it every morning and feeling great, with more energy and disposition. It's already part of my daily routine."
+**Slide 4:** WHAT CHANGED FOR WELMA. "Each sip recharged my energy and boosted my focus." Welma. Individual experience. Results vary.
 
-**Slide 5:** Even family had to be convinced. Leo's brother Lucas: "Helped me keep focused throughout the day."
+**Slide 5:** WHAT CHANGED FOR RITA. "I've been drinking it every morning and feeling great, with more energy and disposition." Rita. Individual experience. Results vary.
 
-**Slide 6:** Individual experiences. Results vary. We're not here to promise a miracle — just one less reason for the afternoon to win.
+**Slide 6:** WHAT CHANGED FOR LUCAS. "Helped me keep focused throughout the day." Lucas, Leo's brother. Individual experience. Results vary.
 
-**Slide 7:** Got a morning worth sharing? Send us your photo. @powercoffee.ofc — thepowercoffee.com/pages/betterday
+**Slide 7:** WIN BACK YOUR AFTERNOON. thepowercoffee.com/pages/betterday · Also on Amazon: amazon.com/dp/B0DYK75WP7
 
 ### Caption
 
-Five people. Five different mornings. Same question: does this actually get me through the afternoon.
+Your energy quits before you do. Sound familiar?
 
-We didn't write these. They did. Welma, Renata, Rita, and yes — founder's brother Lucas, who's required by law (okay, by us) to be labeled that way.
+You start strong. Then mid-morning, or right after lunch, the tank empties, the plan falls apart, and the second cup doesn't really fix it. That's not a willpower problem. It's the day most people we talk to are living.
 
-Individual experiences. Results vary. This is designed to support steady energy through your day — not a promise, a routine worth testing yourself.
+These are four people who were tired of that day: Renata, Welma, Rita, and yes, Leo's brother Lucas (labeled, always). We didn't write their words. They did.
 
-Send us a photo of your morning cup. We might feature you next.
+The Power Coffee exists to help people have better days, with more focus and steady energy into the afternoon. One scoop in the coffee you already drink.
 
-thepowercoffee.com/pages/betterday
+Win back your afternoon:
+Website: thepowercoffee.com/pages/betterday
+Amazon: amazon.com/dp/B0DYK75WP7
+
+Individual experiences. Results vary. These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease.
 
 ### Hashtags
-#functionalcoffee #cleanenergy #morningroutine #afternoonslump #realresults #biohacking #powercoffee #thefirstwin #nocrash #discipline
+#afternoonslump #energycrash #focus #betterdays #morningroutine #functionalcoffee #realresults #powercoffee #thefirstwin #worklife
 
 ---
 
 ## X.COM
 ### Post
-"I didn't feel the usual crash of energy mid-morning." That's Renata, after a morning run — not us. Individual experiences, results vary. Send us yours. thepowercoffee.com/pages/betterday
+Your energy quits before you do? "I didn't feel the usual crash of energy mid-morning." That's Renata, not us. Individual experience, results vary. thepowercoffee.com/pages/betterday | Amazon: amazon.com/dp/B0DYK75WP7
 
 ### Thread
-Post 1: We don't write our own testimonials. We just ask people what happened and share it, name attached.
-Post 2: Welma: "The natural herbal aroma captivated me right away... Each sip recharged my energy and boosted my focus."
-Post 3: Renata tested it before a morning run: "I didn't feel the usual crash of energy mid-morning." Individual experiences vary.
-Post 4: Even Lucas — founder's brother, no special treatment — said it "helped me keep focused throughout the day."
-Post 5: If your afternoon has a story like this, send it. We'll feature real people, not AI faces, not fake reviews. thepowercoffee.com/pages/betterday
+Post 1: Your energy quits before you do. Mid-morning or right after lunch, the tank empties and the plan dies. It's not a willpower problem.
+Post 2: Renata tested it before a morning run: "I didn't feel the usual crash of energy mid-morning."
+Post 3: Rita: "I've been drinking it every morning and feeling great, with more energy and disposition."
+Post 4: Even Lucas, Leo's brother, no special treatment: "Helped me keep focused throughout the day." Individual experiences, results vary.
+Post 5: Better days are the whole point. One scoop in the coffee you already drink. thepowercoffee.com/pages/betterday or on Amazon: amazon.com/dp/B0DYK75WP7
 
 ---
 
 ## LINKEDIN
 ### Post
 
-Someone asked me last week why we don't run polished testimonial ads.
+Most people I talk to don't have an energy problem in the morning. They have one at 10:30, or right after lunch.
 
-Honest answer: most of what we have isn't polished. It's a handful of real people who tried it and told us what happened.
+The day starts strong, then the tank empties and the plan falls apart. A second coffee rarely fixes it. And it isn't a willpower problem, no matter how much we blame ourselves for it.
 
-Welma said the aroma got her first, then the focus kept her. Renata tested it before a run and noticed the mid-morning crash just wasn't there. Rita's been doing it long enough that it's just part of her morning now. Even my brother Lucas gave us a line — "helped me keep focused throughout the day" — which he will remind me he was not paid to say.
+That afternoon is the reason The Power Coffee exists. So when real people tell us what changed, I listen.
 
-Individual experiences. Results vary. We say that every time, because it's true and because the alternative is pretending five people equal a guarantee.
+Renata tested it before a morning run and noticed the mid-morning crash just wasn't there. Rita has been doing it long enough that it's part of her morning. My brother Lucas said it "helped me keep focused throughout the day," which he will remind me he was not paid to say.
 
-I'd rather build slow with real words than fast with fake ones.
+Individual experiences. Results vary. We say it every time, because it's true.
 
-What's the last product review that actually made you trust a brand more?
+What time does your energy usually quit on you?
+
+thepowercoffee.com/pages/betterday · also on Amazon: amazon.com/dp/B0DYK75WP7
 
 ---
 
 ## WHATSAPP
 ### Message
 
-Hey, quick one: we just pulled together a few real reviews from people who tried Power Coffee this fall — no scripts, no actors. If you've got a morning cup story of your own, send a photo and we might feature you next. thepowercoffee.com/pages/betterday
+Quick question: does your energy quit before you do? A few real people told us what changed when they added one scoop to their morning coffee. Win back your afternoon: thepowercoffee.com/pages/betterday (or on Amazon: amazon.com/dp/B0DYK75WP7)
 
 ---
 
@@ -107,7 +113,7 @@ A warm, candid lifestyle photo of a woman in her late 30s at a small cafe table 
 "Every quote we post is from someone real — Welma, Renata, Rita, even my brother Lucas, who I will always label as my brother because that's just fair. We don't write these. People send us a message, we ask if we can share it, that's it. This week I actually went back and reread all of them before posting. Took me longer than writing something myself would've. But it's the only way I'd want to see my own brand talked about. Results vary, always will — I just want the words to be true."
 
 **CTA (last 5s):**
-"Got your own morning story? Send it. I read every one."
+"Got your own morning story? Send it. I read every one. And if you want to try it: thepowercoffee.com or on Amazon."
 
 **B-ROLL:** Leo scrolling phone at counter, hand pouring coffee into a mug (single mug, incidental), Leo looking up and smiling at camera mid-sentence
 **CAPTION:** No ghostwritten reviews here — just Welma, Renata, Rita, and my brother Lucas keeping me honest. Send us your morning. Ep. 21 — Building Power Coffee
