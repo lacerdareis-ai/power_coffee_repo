@@ -12,37 +12,53 @@
 ## INSTAGRAM
 ### Carousel Copy
 
-**Slide 1:** STILL ADDING A SECOND CUP AT 3PM?
+**Slide 1:**
+YOU KNOW THIS DAY.
+Hour by hour. Swipe →
 
-**Slide 2:** You already did the right things. Lunch. A short walk. The coffee you had this morning. And by mid-afternoon, you're reaching for another cup anyway.
+**Slide 2:**
+5:30 AM. THE ALARM WINS.
+Coffee in one hand, keys in the other. Out the door before the sun.
 
-**Slide 3:** That second cup rarely does what you need it to do. It either doesn't touch the crash, or it costs you tonight's sleep.
+**Slide 3:**
+12:30 PM. LUNCH ON THE GO.
+In the truck, at the counter, standing up. Ten minutes, if you're lucky.
 
-**Slide 4:** The goal isn't more caffeine. It's one morning cup that's designed to carry you further into the afternoon, so you're not stacking a second one just to get through it.
+**Slide 4:**
+2:00 PM. THE POST-LUNCH SLUMP.
+Eyes heavy. Half the day still ahead of you.
 
-**Slide 5:** This week only: use code MORNING15 for 15% off on the website. One use per customer, one-time purchases, online only.
+**Slide 5:**
+3:00 PM. CUP NUMBER TWO.
+Most people say it doesn't fix the slump. And it's still with you at bedtime.
 
-**Slide 6:** Keep your morning ritual. Skip the 3pm one.
-Shop: thepowercoffee.com/pages/betterday
-Also on Amazon: amazon.com/dp/B0DYK75WP7
-@powercoffee.ofc
+**Slide 6:**
+6:30 PM. HOME. EMPTY TANK.
+The people waiting for you get whatever is left of you.
+
+**Slide 7:**
+WHAT IF THE CHANGE STARTED WITH YOUR FIRST CUP?
+One scoop of Power Coffee in the coffee you already make. Matcha, taurine, ginkgo biloba, Ceylon cinnamon and ginger, with 0g sugar. Designed to support steady energy and focus through the afternoon.*
+
+**Slide 8:**
+THE FIRST WIN OF YOUR DAY.
+Start the day charged. First order? 15% off with code MORNING15 (first order only, one use per customer, at www.thepowercoffee.com).
 
 ### Caption
-You didn't do anything wrong. Lunch, a short walk, your usual morning coffee — all good moves. The slump still shows up anyway, and the easy fix (cup number two) either doesn't work or keeps you up later than you planned.
+5:30 alarm. Lunch in ten minutes. The post-lunch slump at 2. A second cup at 3 that doesn't really help. Home at 6:30 with nothing left.
 
-The Power Coffee is one scoop in the coffee you already drink, designed to support steady energy and focus through the afternoon so you're not reaching for a second cup out of habit.
+Sound like your day? Which hour hits you hardest: 5:30, 2:00 or 6:30? 👇
 
-This week, code MORNING15 gets you 15% off on the website only.
+Power Coffee is one scoop in the coffee you already make, designed to support steady energy and focus through the afternoon. One cup in the morning, not two in the afternoon.
 
-Not intended to diagnose, treat, cure, or prevent any disease. Individual experiences. Results vary.
+First order? Code MORNING15 takes 15% off at www.thepowercoffee.com (first order only, one use per customer). Also on Amazon.
 
-Shop: thepowercoffee.com/pages/betterday
-Also on Amazon: amazon.com/dp/B0DYK75WP7
+*Not intended to diagnose, treat, cure, or prevent any disease. Individual experiences. Results vary.
 
-Tell us: what time does your slump usually hit? Reply below.
+www.thepowercoffee.com
 
 ### Hashtags
-#afternoonslump #coffeecrash #functionalcoffee #cleanenergy #morningroutine #biohacking #powercoffee #thefirstwin #productivitytips #workfromhome
+#afternoonslump #postlunchslump #workinglife #morningroutine #coffeecrash #hardwork #thefirstwin #functionalcoffee #powercoffee #madeinusa
 
 ---
 
