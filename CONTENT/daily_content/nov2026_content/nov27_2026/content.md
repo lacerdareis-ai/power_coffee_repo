@@ -3,7 +3,7 @@
 
 ---
 ## APPROVAL
-- [ ] APPROVED
+- [x] APPROVED
 
 ---
 
@@ -64,43 +64,50 @@ www.thepowercoffee.com
 
 ## X.COM
 ### Post
-Keep your morning coffee. Skip the 3pm one. This week: MORNING15 for 15% off at thepowercoffee.com/pages/betterday. Also on Amazon: amazon.com/dp/B0DYK75WP7
+5:30 alarm. Lunch in 10 minutes. The 2pm slump. Home at 6:30 on empty. Sound like your day? One scoop of Power Coffee in your morning cup. First order: code MORNING15 = 15% off at www.thepowercoffee.com. Also on Amazon: amazon.com/dp/B0DYK75WP7
 
 ### Thread
-Post 1: You didn't fail at your afternoon. Lunch, a walk, your regular coffee — you did the right things, and the slump still won.
+Post 1: You know this day. Hour by hour 🧵
 
-Post 2: The second cup at 3pm is the default fix. For a lot of people it either doesn't touch the crash or steals sleep tonight.
+Post 2: 5:30 AM. The alarm wins. Coffee in one hand, keys in the other, out the door before the sun.
 
-Post 3: The real fix isn't a second cup. It's one morning cup designed to carry you further, so 3pm doesn't ambush you in the first place.
+Post 3: 12:30 PM. Lunch on the go, ten minutes if you're lucky. 2:00 PM. The post-lunch slump, with half the day still ahead.
 
-Post 4: That's what we built The Power Coffee to do: one scoop in the coffee you already drink, supporting steady energy and focus into the afternoon.
+Post 4: 6:30 PM. Home, empty tank. The people waiting for you get whatever is left of you.
 
-Post 5: This week, code MORNING15 = 15% off on the website only. thepowercoffee.com/pages/betterday — also on Amazon: amazon.com/dp/B0DYK75WP7
+Post 5: What if the change started with your first cup? One scoop of Power Coffee in the coffee you already make: matcha, taurine, ginkgo biloba, Ceylon cinnamon and ginger, 0g sugar. Designed to support steady energy and focus.*
+
+Post 6: First order? Code MORNING15 = 15% off at www.thepowercoffee.com (first order only, one use per customer). Also on Amazon: amazon.com/dp/B0DYK75WP7
+*Not intended to diagnose, treat, cure, or prevent any disease. Individual experiences. Results vary.
 
 ---
 
 ## LINKEDIN
 ### Post
-Most people don't lose the day in the morning. They lose it at 2:30pm, after doing everything "right."
+Most workdays don't fall apart all at once. They drain, hour by hour.
 
-Lunch. A short walk. The same coffee that worked yesterday. None of it holds, and the easiest fix sitting there is a second cup.
+5:30 AM: the alarm wins.
+12:30 PM: lunch on the go, ten minutes if you're lucky.
+2:00 PM: the post-lunch slump, with half the day still ahead.
+6:30 PM: home, with an empty tank.
 
-I hear this from customers constantly, and it was my own pattern before I built this company. The second cup rarely fixes the crash. It just moves the problem to tonight, when you can't fall asleep.
+That last hour matters most. The people waiting for you at home get whatever is left of you.
 
-We built The Power Coffee around a different idea: fix the morning cup, not the afternoon symptom. One scoop, designed to support steady energy and focus further into the day, so the 3pm cup isn't a reflex anymore.
+We built The Power Coffee for people with days like this. One scoop in the coffee you already make, with matcha, taurine, ginkgo biloba, Ceylon cinnamon and ginger, and 0g sugar, designed to support steady energy and focus through the afternoon.* Same mug, same morning, no new routine.
 
-This week we're running MORNING15 for 15% off on the website, partly to get more people to actually test this instead of just hearing about it.
+Which hour hits you hardest: 5:30, 2:00 or 6:30?
 
-What does your afternoon usually look like — crash, second cup, or something else that works for you?
-
-thepowercoffee.com/pages/betterday
+First order? Code MORNING15 takes 15% off at www.thepowercoffee.com (first order only, one use per customer).
 Also on Amazon: amazon.com/dp/B0DYK75WP7
+
+*Not intended to diagnose, treat, cure, or prevent any disease. Individual experiences. Results vary.
 
 ---
 
 ## WHATSAPP
 ### Message
-Hey, quick one for you: if 3pm usually means reaching for a second coffee, this week we've got MORNING15 live for 15% off on the website, one-time use. Keep your morning cup, skip the backup one. Grab it here: thepowercoffee.com/pages/betterday — also on Amazon: amazon.com/dp/B0DYK75WP7
+Hey! Quick question: which hour of your day hits hardest? The 5:30 alarm, the 2pm slump, or getting home at 6:30 with nothing left? ☕ One scoop of Power Coffee in your morning coffee is designed to support steady energy and focus through the afternoon.* First order? Code MORNING15 = 15% off at www.thepowercoffee.com (one use per customer). Also on Amazon: amazon.com/dp/B0DYK75WP7
+*Not intended to diagnose, treat, cure, or prevent any disease. Individual experiences. Results vary.
 
 ---
 
@@ -120,29 +127,32 @@ visual_style: lifestyle kitchen
 
 ## REELS — Founder Vlog Script
 **Series:** Building Power Coffee — Ep. 21
-**Beat:** Running the MORNING15 discount week and what the numbers are actually showing
-**Title formula:** What a 15% code really costs us | Early morning run before the numbers call
+**Beat:** You know this day: the workday, hour by hour (matches today's carousel)
+**Title formula:** You know this day | Hour by hour
 **Duration:** 30-45s · **Setting:** Leo in his car or kitchen, early morning light, casual
 
 **HOOK (0-3s, text on screen + spoken):**
-"We're giving away 15% this week. Here's why."
+"5:30 AM. The alarm wins."
 
 **BODY (speak exactly this):**
-"I ran six miles this morning before I even looked at the sales dashboard. Training clears my head before I have to make money decisions. Today's one is this: we're running MORNING15, 15% off, one-time only. That's real margin we're giving up. But I'd rather get the product into more hands and earn repeat customers than protect margin on people who never try it once. Small brand, small bets, but every one has to make sense."
+"Maybe this is your day too. Up at 5:30, out the door before the sun. Lunch in ten minutes, standing up. Then 2 o'clock hits and there's still half the day left. By 6:30 you're home, and the people waiting for you get whatever is left. That's who we make Power Coffee for. One scoop in the coffee you already make, so the change starts with your first cup."
 
 **CTA (last 5s):**
-"Code's MORNING15 this week. Link in the post — go try it."
+"First order? Code MORNING15 takes 15% off at thepowercoffee.com. Link in bio."
 
-**B-ROLL:** Leo lacing up running shoes at dawn, laptop screen with sales dashboard (numbers blurred), scooping Power Coffee into a mug at the kitchen counter
+**B-ROLL:** Phone alarm showing 5:30, keys and travel mug at the door before sunrise, a quick lunch in the truck or at a counter, a wall clock at 2:00, front door opening at 6:30, scooping Power Coffee into a mug at the kitchen counter
 
-**CAPTION:** Ran before I checked the numbers today. Some decisions need clear legs, not just a clear head. MORNING15 is live this week — 15% off, one-time use, website only.
-#buildingpowercoffee #founderlife #smallbusiness #cleanenergy #powercoffee
+**CAPTION:** 5:30, 12:30, 2:00, 6:30. Which hour hits you hardest? 👇 One scoop of Power Coffee in the coffee you already make. First order: MORNING15 for 15% off at www.thepowercoffee.com. Also on Amazon.
+*Not intended to diagnose, treat, cure, or prevent any disease. Individual experiences. Results vary.
+#buildingpowercoffee #founderlife #workinglife #morningroutine #powercoffee
 Ep. 21 — Building Power Coffee
 
 **ON-SCREEN TEXT:**
-0:00 "We're giving away 15% this week"
-0:15 "Training clears my head first"
-0:35 "MORNING15 — this week only"
+0:00 "5:30 AM. The alarm wins."
+0:10 "2:00 PM. Half the day still ahead"
+0:20 "6:30 PM. Empty tank"
+0:30 "The change starts with your first cup"
+0:38 "First order: MORNING15 · www.thepowercoffee.com"
 
 ---
 
@@ -162,12 +172,12 @@ Caffeine's primary mechanism is competitive antagonism at adenosine A1 and A2A r
 
 // BRAND COLORS - use quoted string keys in SLIDES data
 const COLORS = {
-  BLACK:   { r: 0.07, g: 0.06, b: 0.05 },
-  BROWN:   { r: 0.48, g: 0.24, b: 0.12 },
-  BROWN_L: { r: 0.75, g: 0.48, b: 0.28 },
-  CREAM:   { r: 0.94, g: 0.91, b: 0.84 },
-  WHITE:   { r: 1,    g: 1,    b: 1    },
-  DARK_BG: { r: 0.10, g: 0.09, b: 0.08 },
+  NAVY_DEEP: { r: 0.039, g: 0.133, b: 0.259 },
+  NAVY:      { r: 0.067, g: 0.227, b: 0.431 },
+  CREAM:     { r: 0.933, g: 0.902, b: 0.792 },
+  CREAM_DIM: { r: 0.769, g: 0.737, b: 0.620 },
+  GOLD:      { r: 0.831, g: 0.639, b: 0.227 },
+  WHITE:     { r: 1,     g: 1,     b: 1     },
 };
 function col(name) { return COLORS[name] || name; }
 
@@ -175,9 +185,8 @@ const W = 1080;
 const H = 1080;
 const GAP = 60;
 
-// SLIDE DATA - accent/bg/textColor must be quoted strings: "BLACK", "BROWN", "BROWN_L", "CREAM", "WHITE"
-const SLIDES = [{ id: 1, slideType: "hook", overline: "THE 3PM QUESTION", headline: "STILL ADDING A\nSECOND CUP\nAT 3PM?", subtext: "You already did the right things today.", accent: "BROWN", bg: "BLACK", textColor: "CREAM" }, { id: 2, slideType: "teach", overline: "WHAT YOU ALREADY DID", headline: "LUNCH. A WALK.\nTHIS MORNING'S\nCOFFEE.", subtext: "And by mid-afternoon, you're reaching for another cup anyway.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 3, slideType: "teach", overline: "THE PROBLEM", headline: "CUP TWO\nDOESN'T\nREALLY WORK", subtext: "It either doesn't touch the crash, or it costs you tonight's sleep.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 4, slideType: "teach", overline: "WHAT IT DOES", headline: "ONE CUP BUILT\nTO CARRY YOU\nFURTHER", subtext: "Not more caffeine  -  a morning cup designed to get you through the afternoon without stacking a second one.", pills: ["STEADY ENERGY", "FOCUS", "NO CRASH"], accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 5, slideType: "teach", overline: "LIMITED TIME", headline: "THIS WEEK ONLY:\n15% OFF", subtext: "Use code MORNING15 at checkout. One use per customer, one-time purchases, online only.", accent: "BROWN_L", bg: "BLACK", textColor: "CREAM" }, { id: 6, slideType: "cta", isCTA: true, overline: "KEEP THE RITUAL", headline: "SKIP THE\n3PM CUP", subtext: "Shop: thepowercoffee.com/pages/betterday\nAlso on Amazon: amazon.com/dp/B0DYK75WP7\n@powercoffee.ofc", accent: "CREAM", bg: "BROWN", textColor: "WHITE" }
-];
+// SLIDE DATA - accent/bg/textColor must be quoted strings: "NAVY_DEEP", "NAVY", "CREAM", "CREAM_DIM", "GOLD", "WHITE" (never a black background)
+const SLIDES = [{"id": 1, "slideType": "hook", "overline": "HOUR BY HOUR", "headline": "YOU KNOW\nTHIS DAY.", "subtext": "Swipe →", "accent": "GOLD", "bg": "NAVY_DEEP", "textColor": "CREAM"}, {"id": 2, "slideType": "teach", "overline": "5:30 AM · 90%", "headline": "THE ALARM\nWINS.", "subtext": "Coffee in one hand, keys in the other. Out the door before the sun.", "accent": "GOLD", "bg": "NAVY_DEEP", "textColor": "CREAM"}, {"id": 3, "slideType": "teach", "overline": "12:30 PM · 60%", "headline": "LUNCH\nON THE GO.", "subtext": "In the truck, at the counter, standing up. Ten minutes, if you're lucky.", "accent": "GOLD", "bg": "NAVY_DEEP", "textColor": "CREAM"}, {"id": 4, "slideType": "teach", "overline": "2:00 PM · 30%", "headline": "THE POST-LUNCH\nSLUMP.", "subtext": "Eyes heavy. Half the day still ahead of you.", "accent": "GOLD", "bg": "NAVY_DEEP", "textColor": "CREAM"}, {"id": 5, "slideType": "teach", "overline": "3:00 PM · 20%", "headline": "CUP NUMBER\nTWO.", "subtext": "Most people say it doesn't fix the slump. And it's still with you at bedtime.", "accent": "GOLD", "bg": "NAVY_DEEP", "textColor": "CREAM"}, {"id": 6, "slideType": "teach", "overline": "6:30 PM · 5%", "headline": "HOME.\nEMPTY TANK.", "subtext": "The people waiting for you get whatever is left of you.", "accent": "GOLD", "bg": "NAVY_DEEP", "textColor": "CREAM"}, {"id": 7, "slideType": "teach", "overline": "THE TURN", "headline": "WHAT IF THE\nCHANGE STARTED\nWITH YOUR\nFIRST CUP?", "subtext": "One scoop in the coffee you already make. 0g sugar. Designed to support steady energy and focus.*", "accent": "NAVY", "bg": "CREAM", "textColor": "NAVY_DEEP", "pills": ["MATCHA", "TAURINE", "GINKGO"]}, {"id": 8, "slideType": "cta", "overline": "START THE DAY CHARGED", "headline": "THE FIRST WIN\nOF YOUR DAY.", "subtext": "First order? 15% off · code MORNING15\nwww.thepowercoffee.com · Also on Amazon", "accent": "GOLD", "bg": "NAVY_DEEP", "textColor": "CREAM", "isCTA": true}];
 
 // ── HELPERS ──────────────────────────────────────────────────
 function addRect(parent, x, y, w, h, color, opacity) {
@@ -237,11 +246,11 @@ async function buildSlide(data, offsetX) {
     frame.appendChild(line);
   }
 
-  await addText(frame, "0" + data.id, 64, 60, 120, 13, "Bold", "WHITE");
+  await addText(frame, "0" + data.id + " / 08", 64, 60, 160, 13, "Bold", data.textColor);
   addRect(frame, 64, 85, 20, 2, data.accent);
 
   if (data.overline) {
-    await addText(frame, data.overline, 64, 96, W - 128, 12, "Bold", "BROWN_L", "LEFT", 1.4);
+    await addText(frame, data.overline, 64, 96, W - 128, 12, "Bold", data.accent, "LEFT", 1.4);
   }
 
   if (data.pivotBar) { addRect(frame, 64, 148, 6, 260, data.accent); }
@@ -260,7 +269,7 @@ async function buildSlide(data, offsetX) {
       await figma.loadFontAsync({ family: "Arial", style: "Bold" });
       var pf = figma.createFrame();
       pf.resize(160, 36); pf.x = pillX; pf.y = divY + 20;
-      pf.fills = [{ type: "SOLID", color: col("BROWN"), opacity: 0.25 }];
+      pf.fills = [{ type: "SOLID", color: col("NAVY") }];
       pf.cornerRadius = 0;
       frame.appendChild(pf);
       var pt = figma.createText();
@@ -277,18 +286,19 @@ async function buildSlide(data, offsetX) {
 
   if (data.subtext) {
     var subY; if (data.pills) { subY = divY + 70; } else { subY = divY + 24; }
-    await addText(frame, data.subtext, 64, subY, W - 128, 22, "Regular", { r: 0.85, g: 0.80, b: 0.72 }, "LEFT", 1.6);
+    await addText(frame, data.subtext, 64, subY, W - 128, 22, "Regular", data.textColor, "LEFT", 1.6);
   }
 
-  addRect(frame, 64, H - 96, W - 128, 1, "BROWN_L", 0.3);
-  await addText(frame, "THE POWER COFFEE", 64, H - 78, 400, 11, "Bold", "BROWN_L", "LEFT", 1.4);
-  await addText(frame, "CLEAN ENERGY. REAL FOCUS.", W - 380, H - 78, 316, 10, "Regular", { r: 0.6, g: 0.55, b: 0.48 }, "RIGHT", 1.4);
+  addRect(frame, 64, H - 96, W - 128, 1, data.accent, 0.4);
+  await addText(frame, "@POWERCOFFEE.OFC", 64, H - 78, 400, 11, "Bold", data.textColor, "LEFT", 1.4);
+  await addText(frame, "www.thepowercoffee.com  ·  Also on Amazon", W - 480, H - 78, 416, 11, "Bold", data.textColor, "RIGHT", 1.4);
+  // Place the Amazon logo (logos/amazon_logo_cream.png or _navy.png) beside the footer URL on every slide.
 
   if (data.isCTA) {
-    addRect(frame, 0, H - 180, W, 180, "BROWN");
-    await addText(frame, "POWER COFFEE", 64, H - 138, W - 128, 14, "Black", "WHITE", "LEFT", 1.2);
-    await addText(frame, "thepowercoffee.com", 64, H - 110, W - 128, 13, "Regular", { r: 1, g: 0.95, b: 0.88 }, "LEFT", 1.4);
-    await addText(frame, "@POWERCOFFEE.OFC", 64, H - 76, W - 128, 12, "Bold", "WHITE", "LEFT", 1.4);
+    addRect(frame, 0, H - 180, W, 180, "NAVY");
+    await addText(frame, "FIRST ORDER? 15% OFF · CODE MORNING15", 64, H - 138, W - 128, 16, "Bold", "GOLD", "LEFT", 1.2);
+    await addText(frame, "www.thepowercoffee.com", 64, H - 108, W - 128, 14, "Bold", "CREAM", "LEFT", 1.4);
+    await addText(frame, "Also on Amazon  ·  @POWERCOFFEE.OFC", 64, H - 76, W - 128, 12, "Bold", "CREAM", "LEFT", 1.4);
   }
 
   figma.currentPage.appendChild(frame);
@@ -311,5 +321,5 @@ main();
 > **Instructions:** Paste into Figma → Plugins → Scripter → Run. Export each frame at 1x as PNG → save as `carousel_1.jpg, carousel_2.jpg...` in today's folder.
 
 ```media-spec
-{"story": {"prompt": "A woman in her late 30s at a home office desk in early afternoon light, leaning back slightly in her chair with eyes closed for a brief moment, one hand resting near a warm ceramic mug, the other on a closed laptop. Soft natural window light, warm cream and espresso brown tones, slightly muted. Papers and a phone visible on the desk, lived-in and real, not staged. Shallow depth of field, focus on her expression of quiet fatigue easing into calm. Negative space in the upper third of the frame for text overlay. No text in image.\n\nvisual_style: lifestyle kitchen\n\n---", "text_overlay": "STILL ADDING A SECOND CUP AT 3PM?"}, "carousel": [{"prompt": "A woman in her late 30s at a home office desk in early afternoon light, leaning back slightly in her chair with eyes closed for a brief moment, one hand resting near a warm ceramic mug, the other on a closed laptop. Soft natural window light, warm cream and espresso brown tones, slightly muted. Papers and a phone visible on the desk, lived-in and real, not staged. Shallow depth of field, focus on her expression of quiet fatigue easing into calm. Negative space in the upper third of the frame for text overlay. No text in image.\n\nvisual_style: lifestyle kitchen\n\n---", "text_overlay": "STILL ADDING A SECOND CUP AT 3PM?"}]}
+{"story": {"prompt": "A woman in her late 30s at a home office desk in early afternoon light, leaning back slightly in her chair with eyes closed for a brief moment, one hand resting near a warm ceramic mug, the other on a closed laptop. Soft natural window light, warm cream and espresso brown tones, slightly muted. Papers and a phone visible on the desk, lived-in and real, not staged. Shallow depth of field, focus on her expression of quiet fatigue easing into calm. Negative space in the upper third of the frame for text overlay. No text in image.\n\nvisual_style: lifestyle kitchen\n\n---", "text_overlay": "YOU KNOW THIS DAY."}, "carousel": [{"prompt": "A woman in her late 30s at a home office desk in early afternoon light, leaning back slightly in her chair with eyes closed for a brief moment, one hand resting near a warm ceramic mug, the other on a closed laptop. Soft natural window light, warm cream and espresso brown tones, slightly muted. Papers and a phone visible on the desk, lived-in and real, not staged. Shallow depth of field, focus on her expression of quiet fatigue easing into calm. Negative space in the upper third of the frame for text overlay. No text in image.\n\nvisual_style: lifestyle kitchen\n\n---", "text_overlay": "YOU KNOW THIS DAY."}]}
 ```
