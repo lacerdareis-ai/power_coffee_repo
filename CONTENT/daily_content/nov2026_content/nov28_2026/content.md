@@ -1,5 +1,5 @@
 # Power Coffee — Content for November 28, 2026
-**Pillar:** P4 — RITUAL CONTENT | **Day:** Saturday | **Image set:** A4
+**Pillar:** P4 — RITUAL CONTENT (rewritten 2026-11-27: problem-first + BLACKFRIDAY20, 3-slide carousel) | **Day:** Saturday | **Image set:** A4
 
 ---
 ## APPROVAL
@@ -11,61 +11,61 @@
 
 ## INSTAGRAM
 ### Caption
-Visual: A Saturday morning scene — a couple in their early-to-mid 40s at a dining table near a window, one holding a mug with both hands looking outside, the other scrolling a phone, unhurried. Soft golden light. No on-screen text in the image itself; caption carries the hook.
+Saturday. Still running on fumes? 🔋
 
-### Caption
-Saturday, 8:40am. No alarm, no inbox, and you're still the first one up.
+The week took everything: the 6am alarm, lunch in the car, the 2pm fog, the second cup that didn't help. And now it's the weekend, and the people you love get whatever is left.
 
-Weekdays, the morning gets hijacked before it starts: kids, calendar, inbox, repeat. The one hour you get to yourself is this one. The one with the window light and nowhere to be yet.
+They deserve more than your leftovers. So do you.
 
-That's the hour a ritual either sticks or doesn't. Not the 6am sprint. This slow one.
+Better days start with the first cup. One scoop in the coffee you already make, designed to help support steady energy and focus, so your Saturday isn't just recovery from Friday.
 
-One scoop in the cup you're already holding, same coffee you already make. Designed to help carry steady energy and focus into the day, not just the next 45 minutes.
+Black Friday weekend: 20% off with code BLACKFRIDAY20, through Monday 11/30. The code works on our website only.
 
-If today's your one quiet hour, protect it. Tomorrow it's back to the scramble.
-
-Try it for yourself: https://thepowercoffee.com/pages/betterday
+👉 thepowercoffee.com/pages/betterday
 Also on Amazon: amazon.com/dp/B0DYK75WP7
 
-Not intended to diagnose, treat, cure, or prevent any disease. Individual experiences. Results vary.
+Created with AI. Not intended to diagnose, treat, cure, or prevent any disease. Individual experiences. Results vary.
 
 ### Hashtags
-#morningroutine #cleanenergy #functionalcoffee #slowmornings #realfocus #biohacking #saturdayritual #thefirstwin #capecodmornings #discipline
+#saturdaymorning #weekendenergy #morningroutine #functionalcoffee #cleanenergy #blackfriday #blackfridaydeals #betterdays #dadlife #momlife #capecodmornings
 
 ---
 
 ## X.COM
 ### Post
-Saturday morning, no alarm, and you're still up before everyone else. That hour is the one worth protecting. One scoop, same coffee, steady energy for the day ahead. thepowercoffee.com/pages/betterday
+Saturday, still running on fumes? Your family deserves more than your leftovers. One scoop in your coffee, built for better days. 20% off with BLACKFRIDAY20 (website only, ends Mon). thepowercoffee.com/pages/betterday · Also on Amazon: amazon.com/dp/B0DYK75WP7
 
 ### Thread
-Post 1: The weekday morning gets hijacked before you're even out of bed. Saturday is the one morning that's actually yours.
-Post 2: Most people spend that one quiet hour the same way they spend every other: phone first, coffee second, already behind.
-Post 3: A ritual isn't the 5am alarm. It's what you do with the hour nobody's asking anything of you.
-Post 4: One scoop in the coffee you already make, same cup, same routine. Designed to support steady focus through the hours that matter, not just the first 45 minutes.
-Post 5: Protect your one quiet hour this weekend. thepowercoffee.com/pages/betterday — also on Amazon: amazon.com/dp/B0DYK75WP7
+Post 1: Saturday. Still running on fumes? You're not alone.
+Post 2: The week takes everything: early alarm, lunch on the go, the 2pm fog, the second cup that doesn't fix it.
+Post 3: Then the weekend comes, and the people you love get your leftovers.
+Post 4: Better days start with the first cup. One scoop in the coffee you already make, designed to help support steady energy and focus.
+Post 5: Black Friday weekend: 20% off with code BLACKFRIDAY20, website only, through Monday 11/30. thepowercoffee.com/pages/betterday · Also on Amazon: amazon.com/dp/B0DYK75WP7
 
 ---
 
 ## LINKEDIN
 ### Post
-Saturday, 8am. No meetings, no school drop-off, no inbox yet.
+Saturday, 8am. A lot of us are still running on fumes.
 
-Most weeks I don't get a quiet hour. This is it.
+The week takes everything. Early calls, lunch at the desk, the 2pm fog, the second coffee that doesn't fix it. Then the weekend arrives, and the people we work hardest for get what's left of us.
 
-I used to spend it the same way I spend every other morning: phone first, already reacting to something. It took me a long time to realize the ritual isn't about waking up earlier. It's about protecting the one hour that's actually mine.
+I started Power Coffee because I was living that loop. I didn't want more caffeine. I wanted days where I still had something left at the end, for my family and for the work that matters.
 
-Building Power Coffee taught me the same lesson at work. The best mornings in this business aren't the ones where I react to the first Slack message. They're the ones where I decide what matters before anyone else weighs in.
+That's the whole idea: better days, starting with the first cup. One scoop in the coffee you already make.
 
-Same cup of coffee either way. The difference is whether the hour belongs to me or to everyone else's agenda.
+This weekend we're running our Black Friday offer: 20% off with code BLACKFRIDAY20 on our website, through Monday.
 
-What does your one protected hour look like, if you have one?
+What does your Saturday get from you, your best or your leftovers?
+
+Website: thepowercoffee.com/pages/betterday
+Also on Amazon: amazon.com/dp/B0DYK75WP7
 
 ---
 
 ## WHATSAPP
 ### Message
-Happy Saturday. Quick one: if you've got a quiet hour this morning before the day takes over, that's the one worth protecting. One scoop in your coffee, same ritual, steady energy for whatever the weekend throws at you. thepowercoffee.com/pages/betterday — also on Amazon: amazon.com/dp/B0DYK75WP7
+Happy Saturday! If you're running on fumes after this week, you're not alone, and your weekend deserves better than your leftovers. One scoop in your morning coffee, built for better days. Black Friday: 20% off with code BLACKFRIDAY20 on our website, through Monday 11/30. thepowercoffee.com/pages/betterday · Also on Amazon: amazon.com/dp/B0DYK75WP7
 
 ---
 
