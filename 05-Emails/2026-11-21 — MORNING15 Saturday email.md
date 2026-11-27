@@ -83,3 +83,31 @@ related:: [[2026-11-18 — Kit Café do Trabalhador (Power Coffee + The Bread)]]
   - It saves to Auto mode and runs only if the Claude app is open and the Mac is awake.
   - It stops if the contacts-quota 403 comes back, and logs the result here and in HE-OS Control.
 - **2026-11-22 08:00 — Sunday send result: FAILED.** Dry run OK, real send hit Resend 403 "You have reached your contacts quota" again. No broadcast ID, not retried. Leo needs to upgrade the Resend Marketing plan (≥ 8,524 contacts) before re-running.
+
+## Send result: NOT SENT
+- **Sat Nov 22, 8:00am:** failed. Resend returned 403 "You have reached your contacts quota. Please upgrade your plan to send more emails."
+- **Thu Nov 26:** retried once at Leo's request ("send today email again / try again"), with the eyebrow changed from "Sábado de manhã" to "Bom dia" for a weekday send. The same 403 came back, so nothing went out.
+- **Cause:** the newsletter list has 8,490 addresses (email_list.txt plus Shopify subscribers), which is more than the Resend plan's contact limit allows. Resend blocks every broadcast until the plan is upgraded or the contacts are cut below the limit.
+- **Options:**
+  - upgrade the Resend plan, which only Leo can do
+  - trim the Resend audience to fit the limit
+  - send from Shopify Email instead
+
+## Shopify change 2026-11-26 (Leo approved: "Yes, restrict it")
+- MORNING15 eligibility changed from "Todos os clientes" to the built-in segment **"Customers who haven't purchased"**. Saved and checked on the discount page; everything else is unchanged (15%, one use per customer, one-time purchases, no end date, still Active).
+- **Not verified:** a test checkout as a brand-new customer. Segment discounts only apply once Shopify recognizes the buyer at checkout (from their email or login).
+- **2026-11-26, 3rd attempt:** same 403, nothing sent.
+- **Root cause:** found on the Resend billing page (viewed, nothing changed). The account has two separate plans:
+  - **Transactional Pro:** 50,000 emails a month, $20/mo. This is the "50,000 emails" Leo sees, and it does NOT cover Broadcasts.
+  - **Marketing:** free tier, **1,000 contacts**. Broadcasts (the newsletter) count against this.
+  - The account holds 8,524 contacts. To send, the Marketing plan must go up to a tier with at least about 10,000 contacts, under Resend → Settings → Billing → View plans → Marketing.
+
+## ✅ SENT 2026-11-26 (~3pm ET) through Resend Transactional (Leo's choice)
+- **Why Transactional:** Broadcasts need the Marketing plan (free tier, 1,000 contacts). Leo chose to send through the Transactional Pro plan (50k emails a month) instead.
+- **Script:** `~/power_coffee_bot/sales_motor/send_transactional_blast.py` (batches of 100, resumable). Progress is in `data/blast_morning15_pt_2026-11-26.json`.
+- **Recipients:** 8,487, from email_list.txt minus unsubscribe_list.txt and Resend-unsubscribed contacts. All 85 batches were accepted, with 0 failures.
+- **Version:** the PT-BR copy with the eyebrow "Bom dia" (it said "Sábado de manhã" before).
+- **Replies and unsubscribes** go to **leo@thepowercoffee.com**. A test to info@ bounced, so info@ seems to have no mailbox.
+  - The unsubscribe link and header are a mailto ("Unsubscribe - Power Coffee").
+  - **Add each requester to `unsubscribe_list.txt` by hand**; Resend won't handle these automatically.
+- **Delivery sample** (first 500 checked): 288 delivered, 112 still sending, 91 suppressed (Resend blocks addresses that bounced or complained before), 9 bounced.
