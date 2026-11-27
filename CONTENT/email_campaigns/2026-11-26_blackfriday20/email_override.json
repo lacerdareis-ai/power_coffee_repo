@@ -1,11 +1,11 @@
 {
   "subject": "Black Friday começou: 20% off no Power Coffee",
-  "preview": "Acesso antecipado: use o código BLACKFRIDAY20 até segunda, 30/11.",
-  "eyebrow": "Black Friday · acesso antecipado",
+  "preview": "Use o código BLACKFRIDAY20 até segunda, 30/11.",
+  "eyebrow": "Black Friday · é hoje",
   "headline": "Sua manhã mais forte, 20% mais barata.",
   "paragraphs": [
     "Você acorda cedo, trabalha pesado e ainda quer chegar em casa com energia pra família. A gente sabe como é.",
-    "Por isso a Black Friday do Power Coffee chega antes pra você: <b>20% de desconto no site</b>, a partir de hoje à noite.",
+    "Por isso a Black Friday do Power Coffee chega antes pra você: <b>20% de desconto no site</b>, a partir de agora.",
     "Uma dose no seu ritual da manhã: matcha, taurina, ginkgo biloba, canela-do-ceilão e gengibre. <b>11 ingredientes, 0 g de açúcar, feito nos EUA.</b>",
     "<b>É a hora de fazer estoque.</b> O desconto vale até segunda-feira, 30 de novembro."
   ],
@@ -33,7 +33,7 @@
     "photo": "email_morning.jpg",
     "footer": "email_brand_footer.jpg"
   },
-  "_note": "DRAFT, PT-BR Black Friday email for Thu Nov 26, 2026 (evening). Needs BLACKFRIDAY20 created in Shopify and the Resend Marketing plan fixed (8,524 contacts).",
+  "_note": "PT-BR Black Friday email, sent Fri Nov 27, 2026 via send_transactional_blast.py. BLACKFRIDAY20 created in Shopify 2026-11-27 (20%, one-time purchases, once per customer, ends Nov 30 23:59 ET).",
   "order_title": "Peça o seu",
   "order_buttons": [
     {
@@ -58,5 +58,5 @@
     "unsubscribe": "Cancelar inscrição",
     "disclaimer_extra": "*Estas declarações não foram avaliadas pela FDA (Food and Drug Administration). Este produto não se destina a diagnosticar, tratar, curar ou prevenir nenhuma doença. Fale com seu médico antes de usar se estiver grávida, amamentando ou se for sensível à cafeína.<br><br>"
   },
-  "_code_confirmed": false
+  "_code_confirmed": true
 }
