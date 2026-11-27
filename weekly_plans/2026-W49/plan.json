@@ -1,0 +1,241 @@
+{
+  "week": "2026-W49",
+  "status": "pending",
+  "approved": false,
+  "vlog_arc": {
+    "theme": "Protecting the afternoon — the part of the day nobody plans for",
+    "beats": {
+      "mon": "Leo opens on camera, unscripted, admitting his own 2pm fog hit hard today and he's filming through it, not around it.",
+      "tue": "He walks through his actual morning stack — training, coffee, kids out the door — and names the one hour that always breaks first.",
+      "wed": "A quiet behind-the-curtain moment packing orders, talking about why transparency matters more than a polished pitch.",
+      "thu": "Leo shares a real mistake from building Power Coffee this year and what he changed because of it.",
+      "fri": "He previews Saturday's Power Morning event, inviting people by name to come get a scoop stirred into their regular order.",
+      "sat": "Real, unedited footage from the Power Morning meetup — faces, the café, the line, a genuine thank-you to who showed up.",
+      "sun": "Leo closes the week at home with family, reflecting on why building this in public, crashes and all, is the whole point."
+    }
+  },
+  "channels": {
+    "ig": [
+      {
+        "pillar": "prova",
+        "title": "By 11am It Was Gone Again",
+        "angle": "Open on the exact moment the third coffee stops working, then show the steady-energy alternative without naming ingredients.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Unscripted: My Actual Saturday Morning",
+        "angle": "REAL PHOTO NEEDED: Leo making his own cup before the kids wake up — one honest, unscripted moment, no polish.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Quit Coffee? Or Upgrade It?",
+        "angle": "Name the friction every ritual-replacement competitor creates, then show how upgrading beats quitting.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "Willpower Problem vs Foundation Problem",
+        "angle": "Teach the simple framework that explains why forcing focus at 2pm never works and what actually does.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Behind the Curtain: Packing This Week's Orders",
+        "angle": "Show the real, slightly messy process of packing wholesale boxes to build trust through transparency, not polish.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "x": [
+      {
+        "pillar": "prova",
+        "title": "Three Coffees, Still Losing the Afternoon",
+        "angle": "State the familiar crash scene in one line, then pivot to what steady energy actually looks like.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Energy Drinks Are a Loan, Not Fuel",
+        "angle": "Reframe energy drinks as borrowing energy you'll owe back at 4pm, versus a system that doesn't spike and crash.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "You're Not the Same Decision-Maker at 4pm",
+        "angle": "Explain how decision fatigue compounds through the day and why most routines ignore the afternoon entirely.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "I'm Building This in Public, Mistakes Included",
+        "angle": "Admit a real recent misstep in running Power Coffee and what changed because of it, no spin.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "430+ Mornings, Same Formula, Not for Content",
+        "angle": "Specific daily-use number signals real conviction over marketing performance.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "li": [
+      {
+        "pillar": "autoridade",
+        "title": "The Framework Behind the Afternoon Crash",
+        "angle": "Teach the mechanism — blood sugar, cortisol timing, decision fatigue — in persona terms without leading with ingredients.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "A Review Stopped Me Mid-Scroll This Week",
+        "angle": "Open with a real customer story moment, not a headline, to earn attention before any claim.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Why 'Just Drink Less Coffee' Misses the Point",
+        "angle": "Challenge the common wellness advice and reframe the real issue as what's in the cup, not how many cups.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "What Two Years of Formulating Actually Looked Like",
+        "angle": "Founder-narrated science journey tied to a real personal problem, the mechanism-plus-stakes combo that performs best.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "How High Performers Structure Their Afternoon",
+        "angle": "Give a direct, practical framework readers can apply today to protect their 2–4pm hours.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "tg": [
+      {
+        "pillar": "pessoal",
+        "title": "Reply and Tell Me Your 2pm",
+        "angle": "Ask the community directly what their afternoon crash looks like and respond personally to real answers.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Come Say Hi This Saturday Morning",
+        "angle": "Invite the group to the Power Morning event with the MORNING15 code and a direct reason to show up.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Upgrade Your Cup, Don't Replace It",
+        "angle": "Quick reframe post reminding the community why this fits their existing coffee ritual, zero friction.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The One Afternoon Habit Worth Testing",
+        "angle": "Give one simple, actionable tip the group can try tomorrow and report back on.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Send Me a Photo of Your Morning Cup",
+        "angle": "Low-pressure participation CTA that builds real community texture before the weekend event.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "blog": [
+      {
+        "pillar": "autoridade",
+        "title": "Why the 2pm Crash Isn't About Willpower",
+        "angle": "Long-form breakdown of the foundation-vs-willpower framework with practical steps readers can apply.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "What Changed After We Removed Vanilla",
+        "angle": "Transparent look at a real product decision, taste-test data, and why cleaner won over flavor.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Functional Coffee vs Energy Drinks, Explained",
+        "angle": "Side-by-side comparison of how each actually affects your afternoon, grounded in use-case not hype.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "pessoal",
+        "title": "Founder Mistakes: Episode One",
+        "angle": "Honest account of an early formulation or business misstep and the lesson that reshaped Power Coffee.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "A Simple Framework for Protecting Your Afternoon",
+        "angle": "Teach a repeatable 3-step system high performers use to keep energy steady past lunch.",
+        "selected": false,
+        "is_theme": false
+      }
+    ],
+    "em": [
+      {
+        "pillar": "pessoal",
+        "title": "You're Invited: Saturday Power Morning",
+        "angle": "Personal invite from Leo to the in-person Cape Cod event with the MORNING15 code and venue tag.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "The Review That Stopped Me Scrolling",
+        "angle": "Open with a real customer quote and timeline arc (skeptical to convinced) rather than a benefits list.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "belief_shifting",
+        "title": "Why We Say Upgrade, Not Replace",
+        "angle": "Explain the core differentiation thesis against ritual-replacement competitors in plain, direct language.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "autoridade",
+        "title": "The Framework I Use to Protect 2–4pm",
+        "angle": "Share Leo's personal system for the afternoon slump as a practical, teachable email.",
+        "selected": false,
+        "is_theme": false
+      },
+      {
+        "pillar": "prova",
+        "title": "Behind the Batch: What Shipped This Week",
+        "angle": "Transparent update on production, a small mistake fixed, and what's next — unpolished and real.",
+        "selected": false,
+        "is_theme": false
+      }
+    ]
+  }
+}
