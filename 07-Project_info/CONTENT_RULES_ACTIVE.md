@@ -25,3 +25,9 @@
 
 ## Compliance still applies (BRAND.md, VOC_SLUMP.md)
 - "supports / designed to / helps", never guarantees or "no crash"; FDA disclaimer in the IG caption.
+
+## 4. December goal: 100 packs sold by Dec 26, 2026 (Leo, set 2026-11-26)
+- Window Nov 26 – Dec 26, website + Amazon combined. Counted in bags (a 45-day pack = 3).
+- Weekly targets: Nov 26–Dec 2 (Black Friday/Cyber Monday) 35 · Dec 3–9 20 · Dec 10–16 (last order-by for Christmas) 25 · Dec 17–26 20.
+- Every post through Dec 26 should give a reason to buy now: the live offer, the 45-day pack as the best value
+  ($1.11/morning), and from Dec 1 the gift angle ("give someone better mornings"). Keep rules 1-3: the problem comes first, the offer is the answer.
